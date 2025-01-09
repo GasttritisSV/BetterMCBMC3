@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "b04ed8a08a883dbaa8ef549cf66f8ddf"
+	name: "Gasttritis#b04ed8a0"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

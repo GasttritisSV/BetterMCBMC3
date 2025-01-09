@@ -1,0 +1,152 @@
+{
+  "morevillagers:first_village": {
+    "criteria": {
+      "entered_village": "2025-01-09 14:52:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-01-09 14:52:51 +0000"
+    },
+    "done": true
+  },
+  "adorabuild_structures:overworld_structures": {
+    "criteria": {
+      "always": "2025-01-09 14:52:51 +0000"
+    },
+    "done": true
+  },
+  "charm:core/tools": {
+    "criteria": {
+      "player_joined": "2025-01-09 14:52:51 +0000"
+    },
+    "done": true
+  },
+  "betternether:root": {
+    "criteria": {
+      "welcome": "2025-01-09 14:52:52 +0000"
+    },
+    "done": true
+  },
+  "betterend:root": {
+    "criteria": {
+      "welcome": "2025-01-09 14:52:52 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "lush_desert": "2025-01-09 14:52:52 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2025-01-09 14:52:51 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:all_villages": {
+    "criteria": {
+      "taiga": "2025-01-09 14:52:52 +0000",
+      "plains": "2025-01-09 14:52:52 +0000",
+      "savanna": "2025-01-09 14:52:52 +0000",
+      "desert": "2025-01-09 14:52:52 +0000",
+      "snowy": "2025-01-09 14:52:52 +0000"
+    },
+    "done": true
+  },
+  "charm:core/decoration": {
+    "criteria": {
+      "player_joined": "2025-01-09 14:52:51 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:root": {
+    "criteria": {
+      "always": "2025-01-09 14:52:51 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:structures/enter_all_structures": {
+    "criteria": {
+      "in_goliath_honey_fountain": "2025-01-09 14:52:52 +0000",
+      "in_mite_fortress": "2025-01-09 14:52:52 +0000"
+    },
+    "done": false
+  },
+  "repurposed_structures:root": {
+    "criteria": {
+      "always": "2025-01-09 14:52:51 +0000"
+    },
+    "done": true
+  },
+  "charm:core/mobs": {
+    "criteria": {
+      "player_joined": "2025-01-09 14:52:51 +0000"
+    },
+    "done": true
+  },
+  "uf_core:.init/player_join": {
+    "criteria": {
+      "requirement": "2025-01-09 14:52:51 +0000"
+    },
+    "done": true
+  },
+  "charm:core/world": {
+    "criteria": {
+      "player_joined": "2025-01-09 14:52:51 +0000"
+    },
+    "done": true
+  },
+  "charm:core/enchantments": {
+    "criteria": {
+      "player_joined": "2025-01-09 14:52:51 +0000"
+    },
+    "done": true
+  },
+  "charm:core/smithing": {
+    "criteria": {
+      "player_joined": "2025-01-09 14:52:51 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:root": {
+    "criteria": {
+      "instant_granted": "2025-01-09 14:52:51 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "lush_desert": "2025-01-09 14:52:52 +0000"
+    },
+    "done": false
+  },
+  "charm:core/automation": {
+    "criteria": {
+      "player_joined": "2025-01-09 14:52:51 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:wiki": {
+    "criteria": {
+      "instant_granted": "2025-01-09 14:52:51 +0000"
+    },
+    "done": true
+  },
+  "charm:core/root": {
+    "criteria": {
+      "player_joined": "2025-01-09 14:52:51 +0000"
+    },
+    "done": true
+  },
+  "charm:core/tweaks": {
+    "criteria": {
+      "player_joined": "2025-01-09 14:52:51 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3955
+}

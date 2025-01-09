@@ -1,0 +1,17 @@
+{
+	id: "b04ed8a0-8a88-3dba-a8ef-549cf66f8ddf"
+	type: "player"
+	player_name: "Gasttritis"
+	ranks: {
+		b04ed8a0-8a88-3dba-a8ef-549cf66f8ddf: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Gasttritis"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59ABFF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

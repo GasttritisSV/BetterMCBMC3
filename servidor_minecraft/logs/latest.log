@@ -1824,3 +1824,107 @@ Caused by: java.io.IOException: Invalid tag id: 116
 [19:07:37] [Server thread/INFO]: Channel update: Gasttritis -> default
 [19:07:37] [Server thread/INFO]: Priority overwritten for player Gasttritis. Claiming: GRAVE / Robbing: INVENTORY
 [19:07:37] [Server thread/INFO]: Receiving client config
+[19:14:49] [Server thread/INFO]: Gasttritis lost connection: Disconnected
+[19:14:49] [Server thread/INFO]: Gasttritis left the game
+[19:14:49] [Server thread/INFO]: Updating all forceload tickets for b04ed8a0-8a88-3dba-a8ef-549cf66f8ddf
+[19:16:40] [Server thread/INFO]: gordobe[/100.104.203.61:59595] logged in with entity id 2963 at (-1.5, 117.0, -1.5)
+[19:16:40] [Server thread/INFO]: Sending server config values to client
+[19:16:40] [Server thread/INFO]: gordobe joined the game
+[19:16:40] [Server thread/INFO]: Updating all forceload tickets for ebff9193-2864-3218-bb3f-affcdc04ff97
+[19:16:41] [Server thread/INFO]: gordobe has reached the goal [Town Tourist]
+[19:16:41] [Server thread/INFO]: gordobe has made the advancement [First Village]
+[19:16:43] [Server thread/INFO]: Channel update: gordobe -> default
+[19:16:43] [Server thread/INFO]: Priority overwritten for player gordobe. Claiming: GRAVE / Robbing: INVENTORY
+[19:16:43] [Server thread/INFO]: Receiving client config
+[19:17:19] [Server thread/INFO]: Gasttritis[/100.106.242.117:54616] logged in with entity id 3297 at (61.9248400565217, 118.275125, 74.64741429731762)
+[19:17:19] [Server thread/INFO]: Sending server config values to client
+[19:17:19] [Server thread/INFO]: Gasttritis joined the game
+[19:17:19] [Server thread/INFO]: Updating all forceload tickets for b04ed8a0-8a88-3dba-a8ef-549cf66f8ddf
+[19:17:21] [Server thread/INFO]: Channel update: Gasttritis -> default
+[19:17:21] [Server thread/INFO]: Priority overwritten for player Gasttritis. Claiming: GRAVE / Robbing: INVENTORY
+[19:17:21] [Server thread/INFO]: Receiving client config
+[19:17:27] [Server thread/INFO]: gordobe was slain by Thicket
+[19:17:29] [Server thread/INFO]: Gasttritis was doomed to fall by Spider
+[19:17:52] [Server thread/INFO]: gordobe was slain by Thicket
+[19:17:52] [Server thread/INFO]: No grave backup generated (empty grave)
+[19:18:06] [Server thread/ERROR]: Error executing task on Server
+java.lang.NullPointerException: Cannot invoke "io.wispforest.accessories.api.slot.SlotTypeReference.get(net.minecraft.world.World)" because "ref" is null
+	at knot/io.wispforest.accessories.api.menu.AccessoriesSlotGenerator.lambda$adjustTypes$0(AccessoriesSlotGenerator.java:135) ~[accessories-fabric-1.1.0-beta.20+1.21.1.jar:?]
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197) ~[?:?]
+	at java.base/java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:1024) ~[?:?]
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:575) ~[?:?]
+	at java.base/java.util.stream.AbstractPipeline.evaluateToArrayNode(AbstractPipeline.java:260) ~[?:?]
+	at java.base/java.util.stream.ReferencePipeline.toArray(ReferencePipeline.java:616) ~[?:?]
+	at knot/io.wispforest.accessories.api.menu.AccessoriesSlotGenerator.adjustTypes(AccessoriesSlotGenerator.java:142) ~[accessories-fabric-1.1.0-beta.20+1.21.1.jar:?]
+	at knot/io.wispforest.accessories.api.menu.AccessoriesSlotGenerator.of(AccessoriesSlotGenerator.java:53) ~[accessories-fabric-1.1.0-beta.20+1.21.1.jar:?]
+	at knot/com.aetherteam.aether.inventory.menu.AetherAccessoriesMenu.<init>(AetherAccessoriesMenu.java:67) ~[aether-1.21.1-1.5.1-fabric.jar:?]
+	at knot/com.aetherteam.aether.inventory.menu.AetherAccessoriesMenu.<init>(AetherAccessoriesMenu.java:42) ~[aether-1.21.1-1.5.1-fabric.jar:?]
+	at knot/com.aetherteam.aether.network.packet.serverbound.OpenAccessoriesPacket.lambda$execute$0(OpenAccessoriesPacket.java:36) ~[aether-1.21.1-1.5.1-fabric.jar:?]
+	at knot//MC/net.minecraft.screen.SimpleNamedScreenHandlerFactory.createMenu(SimpleNamedScreenHandlerFactory.java:25) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.server.network.ServerPlayerEntity.openHandledScreen(ServerPlayerEntity.java:1163) ~[server-intermediary.jar:?]
+	at knot/com.aetherteam.aether.network.packet.serverbound.OpenAccessoriesPacket.execute(OpenAccessoriesPacket.java:36) ~[aether-1.21.1-1.5.1-fabric.jar:?]
+	at knot/com.aetherteam.aetherfabric.NetworkRegisterHelper.lambda$playToServer$0(NetworkRegisterHelper.java:26) ~[aether-1.21.1-1.5.1-fabric.jar:?]
+	at knot/net.fabricmc.fabric.impl.networking.server.ServerPlayNetworkAddon.lambda$receive$0(ServerPlayNetworkAddon.java:72) ~[fabric-networking-api-v1-4.3.0+c7469b2119-f3edad77e77c8ef5.jar:?]
+	at knot//MC/net.minecraft.server.ServerTask.run(ServerTask.java:18) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ThreadExecutor.executeTask(ThreadExecutor.java:162) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ReentrantThreadExecutor.executeTask(ReentrantThreadExecutor.java:23) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:864) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:173) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ThreadExecutor.runTask(ThreadExecutor.java:136) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runOneTask(MinecraftServer.java:846) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runTask(MinecraftServer.java:840) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ThreadExecutor.runTasks(ThreadExecutor.java:145) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runTasks(MinecraftServer.java:810) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runTasksTillTickEnd(MinecraftServer.java:815) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:702) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:281) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[19:18:06] [Server thread/ERROR]: Error executing task on Server
+java.lang.NullPointerException: Cannot invoke "io.wispforest.accessories.api.slot.SlotTypeReference.get(net.minecraft.world.World)" because "ref" is null
+	at knot/io.wispforest.accessories.api.menu.AccessoriesSlotGenerator.lambda$adjustTypes$0(AccessoriesSlotGenerator.java:135) ~[accessories-fabric-1.1.0-beta.20+1.21.1.jar:?]
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197) ~[?:?]
+	at java.base/java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:1024) ~[?:?]
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:575) ~[?:?]
+	at java.base/java.util.stream.AbstractPipeline.evaluateToArrayNode(AbstractPipeline.java:260) ~[?:?]
+	at java.base/java.util.stream.ReferencePipeline.toArray(ReferencePipeline.java:616) ~[?:?]
+	at knot/io.wispforest.accessories.api.menu.AccessoriesSlotGenerator.adjustTypes(AccessoriesSlotGenerator.java:142) ~[accessories-fabric-1.1.0-beta.20+1.21.1.jar:?]
+	at knot/io.wispforest.accessories.api.menu.AccessoriesSlotGenerator.of(AccessoriesSlotGenerator.java:53) ~[accessories-fabric-1.1.0-beta.20+1.21.1.jar:?]
+	at knot/com.aetherteam.aether.inventory.menu.AetherAccessoriesMenu.<init>(AetherAccessoriesMenu.java:67) ~[aether-1.21.1-1.5.1-fabric.jar:?]
+	at knot/com.aetherteam.aether.inventory.menu.AetherAccessoriesMenu.<init>(AetherAccessoriesMenu.java:42) ~[aether-1.21.1-1.5.1-fabric.jar:?]
+	at knot/com.aetherteam.aether.network.packet.serverbound.OpenAccessoriesPacket.lambda$execute$0(OpenAccessoriesPacket.java:36) ~[aether-1.21.1-1.5.1-fabric.jar:?]
+	at knot//MC/net.minecraft.screen.SimpleNamedScreenHandlerFactory.createMenu(SimpleNamedScreenHandlerFactory.java:25) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.server.network.ServerPlayerEntity.openHandledScreen(ServerPlayerEntity.java:1163) ~[server-intermediary.jar:?]
+	at knot/com.aetherteam.aether.network.packet.serverbound.OpenAccessoriesPacket.execute(OpenAccessoriesPacket.java:36) ~[aether-1.21.1-1.5.1-fabric.jar:?]
+	at knot/com.aetherteam.aetherfabric.NetworkRegisterHelper.lambda$playToServer$0(NetworkRegisterHelper.java:26) ~[aether-1.21.1-1.5.1-fabric.jar:?]
+	at knot/net.fabricmc.fabric.impl.networking.server.ServerPlayNetworkAddon.lambda$receive$0(ServerPlayNetworkAddon.java:72) ~[fabric-networking-api-v1-4.3.0+c7469b2119-f3edad77e77c8ef5.jar:?]
+	at knot//MC/net.minecraft.server.ServerTask.run(ServerTask.java:18) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ThreadExecutor.executeTask(ThreadExecutor.java:162) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ReentrantThreadExecutor.executeTask(ReentrantThreadExecutor.java:23) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:864) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:173) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ThreadExecutor.runTask(ThreadExecutor.java:136) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runOneTask(MinecraftServer.java:846) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runTask(MinecraftServer.java:840) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ThreadExecutor.runTasks(ThreadExecutor.java:145) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runTasks(MinecraftServer.java:810) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runTasksTillTickEnd(MinecraftServer.java:815) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:702) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:281) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[19:18:14] [Server thread/INFO]: gordobe lost connection: Disconnected
+[19:18:14] [Server thread/INFO]: gordobe left the game
+[19:18:14] [Server thread/INFO]: Updating all forceload tickets for ebff9193-2864-3218-bb3f-affcdc04ff97
+[19:18:19] [Server thread/INFO]: gordobe[/100.104.203.61:59606] logged in with entity id 3632 at (5.632995913803045, 122.0, 10.467117319800217)
+[19:18:19] [Server thread/INFO]: Sending server config values to client
+[19:18:19] [Server thread/INFO]: gordobe joined the game
+[19:18:19] [Server thread/INFO]: Updating all forceload tickets for ebff9193-2864-3218-bb3f-affcdc04ff97
+[19:18:19] [Server thread/INFO]: Gasttritis was blown up by Creeper
+[19:18:19] [Server thread/INFO]: No grave backup generated (empty grave)
+[19:18:20] [Server thread/INFO]: Channel update: gordobe -> default
+[19:18:20] [Server thread/INFO]: Priority overwritten for player gordobe. Claiming: GRAVE / Robbing: INVENTORY
+[19:18:20] [Server thread/INFO]: Receiving client config
+[19:18:31] [Server thread/INFO]: <gordobe> wr

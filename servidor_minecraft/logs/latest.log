@@ -1928,3 +1928,11 @@ java.lang.NullPointerException: Cannot invoke "io.wispforest.accessories.api.slo
 [19:18:20] [Server thread/INFO]: Priority overwritten for player gordobe. Claiming: GRAVE / Robbing: INVENTORY
 [19:18:20] [Server thread/INFO]: Receiving client config
 [19:18:31] [Server thread/INFO]: <gordobe> wr
+[19:19:05] [Server thread/INFO]: gordobe claimed a grave belonging to gordobe at 13, 112, -11, minecraft:overworld
+[19:21:31] [Server thread/INFO]: gordobe lost connection: Disconnected
+[19:21:31] [Server thread/INFO]: gordobe left the game
+[19:21:31] [Server thread/INFO]: Updating all forceload tickets for ebff9193-2864-3218-bb3f-affcdc04ff97
+[19:23:04] [Server thread/INFO]: Gasttritis claimed a grave belonging to Gasttritis at 54, 109, 77, minecraft:overworld
+[19:23:12] [Server thread/INFO]: Gasttritis lost connection: Disconnected
+[19:23:12] [Server thread/INFO]: Gasttritis left the game
+[19:23:12] [Server thread/INFO]: Updating all forceload tickets for b04ed8a0-8a88-3dba-a8ef-549cf66f8ddf

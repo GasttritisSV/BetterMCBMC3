@@ -1833,3 +1833,24 @@ io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connecti
 [19:54:47] [Server thread/INFO]: gordobe lost connection: Disconnected
 [19:54:47] [Server thread/INFO]: gordobe left the game
 [19:54:47] [Server thread/INFO]: Updating all forceload tickets for ebff9193-2864-3218-bb3f-affcdc04ff97
+[19:59:21] [Server thread/INFO]: gordobe[/100.104.203.61:59874] logged in with entity id 1567 at (319.7487771697327, 70.0, 216.30000001192093)
+[19:59:21] [Server thread/INFO]: Sending server config values to client
+[19:59:21] [Server thread/INFO]: gordobe joined the game
+[19:59:21] [Server thread/INFO]: Updating all forceload tickets for ebff9193-2864-3218-bb3f-affcdc04ff97
+[19:59:24] [Server thread/INFO]: Channel update: gordobe -> default
+[19:59:24] [Server thread/INFO]: Priority overwritten for player gordobe. Claiming: GRAVE / Robbing: INVENTORY
+[19:59:24] [Server thread/INFO]: Receiving client config
+[19:59:32] [Server thread/INFO]: gordobe lost connection: You logged in from another location
+[19:59:32] [Server thread/INFO]: gordobe left the game
+[19:59:32] [Server thread/INFO]: Updating all forceload tickets for ebff9193-2864-3218-bb3f-affcdc04ff97
+[19:59:37] [Server thread/INFO]: gordobe[/100.104.203.61:59880] logged in with entity id 1843 at (319.7487771697327, 70.0, 216.30000001192093)
+[19:59:37] [Server thread/INFO]: Sending server config values to client
+[19:59:37] [Server thread/INFO]: gordobe joined the game
+[19:59:37] [Server thread/INFO]: Updating all forceload tickets for ebff9193-2864-3218-bb3f-affcdc04ff97
+[19:59:40] [Server thread/INFO]: Channel update: gordobe -> default
+[19:59:40] [Server thread/INFO]: Priority overwritten for player gordobe. Claiming: GRAVE / Robbing: INVENTORY
+[19:59:40] [Server thread/INFO]: Receiving client config
+[20:00:54] [Server thread/INFO]: gordobe has made the advancement [Sweet Dreams]
+[20:00:57] [Server thread/INFO]: [Server] gay
+[20:02:18] [Server thread/INFO]: gordobe was shot by Skeleton
+[20:02:40] [Server thread/INFO]: gordobe claimed a grave belonging to gordobe at 318, 73, 213, minecraft:overworld

@@ -1849,3 +1849,4 @@ Caused by: java.io.IOException: Invalid tag id: 116
 [20:37:12] [Server thread/INFO]: Dispatching unloading event for config magnumtorch-server.toml
 [20:37:12] [Server thread/INFO]: Dispatching unloading event for config netherchested-server.toml
 [20:37:12] [Server thread/INFO]: Dispatching unloading event for config tradingpost-server.toml
+[20:48:58] [pool-3-thread-1/WARN]: Failed to send keepalive request, response code: 502

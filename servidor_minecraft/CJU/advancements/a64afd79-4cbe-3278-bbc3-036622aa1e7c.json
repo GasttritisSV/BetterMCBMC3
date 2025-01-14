@@ -185,6 +185,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-01-14 23:41:22 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/jungle_side_table": {
     "criteria": {
       "has_jungle_side_table": "2025-01-14 23:24:47 +0000"
@@ -272,6 +278,12 @@
   "farmersdelight:recipes/cooking/apple_cider": {
     "criteria": {
       "has_apple": "2025-01-14 23:23:49 +0000"
+    },
+    "done": true
+  },
+  "charm:vanilla_wood_variants/recipes/trapped_spruce_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-01-14 23:33:47 +0000"
     },
     "done": true
   },
@@ -479,6 +491,18 @@
     },
     "done": true
   },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "shrubland": "2025-01-14 23:34:51 +0000"
+    },
+    "done": true
+  },
+  "charm:azalea_wood/recipes/trapped_azalea_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-01-14 23:33:47 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/goat_trophy": {
     "criteria": {
       "has_goat_trophy": "2025-01-14 23:24:47 +0000"
@@ -488,6 +512,12 @@
   "minecraft:recipes/building_blocks/melon": {
     "criteria": {
       "has_melon": "2025-01-14 23:22:42 +0000"
+    },
+    "done": true
+  },
+  "charm:vanilla_wood_variants/recipes/trapped_jungle_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-01-14 23:33:47 +0000"
     },
     "done": true
   },
@@ -557,6 +587,12 @@
     },
     "done": true
   },
+  "charm:vanilla_wood_variants/recipes/trapped_birch_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-01-14 23:33:47 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/mushroom_fir_taburet": {
     "criteria": {
       "has_stick": "2025-01-14 23:23:50 +0000"
@@ -602,6 +638,12 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-01-14 23:25:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2025-01-14 23:41:22 +0000"
     },
     "done": true
   },
@@ -831,6 +873,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-01-14 23:33:47 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/fir_boat": {
     "criteria": {
       "in_water": "2025-01-14 23:32:23 +0000"
@@ -1053,6 +1101,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/sweet_berry_jelly_potion": {
+    "criteria": {
+      "has_sweet_berries": "2025-01-14 23:41:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2025-01-14 23:23:50 +0000"
@@ -1197,9 +1251,17 @@
     },
     "done": true
   },
+  "charm:vanilla_wood_variants/recipes/trapped_oak_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-01-14 23:33:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "apple": "2025-01-14 23:24:43 +0000"
+      "apple": "2025-01-14 23:24:43 +0000",
+      "cooked_chicken": "2025-01-14 23:36:30 +0000",
+      "sweet_berries": "2025-01-14 23:41:44 +0000"
     },
     "done": false
   },
@@ -1230,6 +1292,12 @@
   "betterend:recipes/decorations/tenanea_ladder": {
     "criteria": {
       "has_stick": "2025-01-14 23:23:50 +0000"
+    },
+    "done": true
+  },
+  "charm:ebony_wood/recipes/trapped_ebony_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-01-14 23:33:47 +0000"
     },
     "done": true
   },
@@ -1510,6 +1578,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/berry_jam_jar": {
+    "criteria": {
+      "has_berry_jam_jar": "2025-01-14 23:41:22 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/umbran_boat": {
     "criteria": {
       "in_water": "2025-01-14 23:32:23 +0000"
@@ -1573,6 +1647,18 @@
   "betterend:recipes/decorations/lucernia_fence": {
     "criteria": {
       "has_stick": "2025-01-14 23:23:50 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/whispering_gourd_lantern": {
+    "criteria": {
+      "has_torch": "2025-01-14 23:34:28 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_boots_repairing": {
+    "criteria": {
+      "has_leather_boots": "2025-01-14 23:33:28 +0000"
     },
     "done": true
   },
@@ -1852,11 +1938,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_tripwire_hook": "2025-01-14 23:33:47 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/shepherds_pie_block": {
     "criteria": {
       "has_cooked_mutton": "2025-01-14 23:30:37 +0000"
     },
     "done": true
+  },
+  "adorabuild_structures:tireless_legs": {
+    "criteria": {
+      "birch_house_medium_2": "2025-01-14 23:32:55 +0000",
+      "oak_house_small_3": "2025-01-14 23:40:57 +0000"
+    },
+    "done": false
   },
   "aether:recipes/combat/stone_sword_repairing": {
     "criteria": {
@@ -2056,9 +2155,21 @@
     },
     "done": true
   },
+  "charm:vanilla_wood_variants/recipes/trapped_mangrove_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-01-14 23:33:47 +0000"
+    },
+    "done": true
+  },
   "charm:vanilla_wood_variants/recipes/mangrove_ladder": {
     "criteria": {
       "has_stick": "2025-01-14 23:23:50 +0000"
+    },
+    "done": true
+  },
+  "charm:vanilla_wood_variants/recipes/trapped_warped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-01-14 23:33:47 +0000"
     },
     "done": true
   },
@@ -2079,6 +2190,15 @@
       "in_water": "2025-01-14 23:32:23 +0000"
     },
     "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "volcanic_plains": "2025-01-14 23:39:13 +0000",
+      "shrubland": "2025-01-14 23:34:51 +0000",
+      "rocky_shrubland": "2025-01-14 23:35:25 +0000",
+      "grassland": "2025-01-14 23:36:00 +0000"
+    },
+    "done": false
   },
   "betternether:recipes/decorations/stalagnate_taburet": {
     "criteria": {
@@ -2116,9 +2236,21 @@
     },
     "done": true
   },
+  "charm:vanilla_wood_variants/recipes/trapped_bamboo_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-01-14 23:33:47 +0000"
+    },
+    "done": true
+  },
   "natures_spirit:recipes/transportation/coconut_boat": {
     "criteria": {
       "in_water": "2025-01-14 23:32:23 +0000"
+    },
+    "done": true
+  },
+  "charm:vanilla_wood_variants/recipes/trapped_dark_oak_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-01-14 23:33:47 +0000"
     },
     "done": true
   },
@@ -2267,6 +2399,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/sweet_berry_jelly": {
+    "criteria": {
+      "has_sweet_berries": "2025-01-14 23:41:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2025-01-14 23:26:26 +0000"
@@ -2276,6 +2414,12 @@
   "mynethersdelight:recipes/building_blocks/crafting/letios_compost_from_rotten_flesh": {
     "criteria": {
       "has_rotten_flesh": "2025-01-14 23:22:04 +0000"
+    },
+    "done": true
+  },
+  "charm:vanilla_wood_variants/recipes/trapped_cherry_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-01-14 23:33:47 +0000"
     },
     "done": true
   },
@@ -2306,6 +2450,12 @@
   "betternether:recipes/decorations/rubeus_fence": {
     "criteria": {
       "has_stick": "2025-01-14 23:23:50 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_chestplate_repairing": {
+    "criteria": {
+      "has_leather_chestplate": "2025-01-14 23:33:28 +0000"
     },
     "done": true
   },
@@ -2399,6 +2549,12 @@
     },
     "done": true
   },
+  "charm:vanilla_wood_variants/recipes/trapped_crimson_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-01-14 23:33:47 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/stalagnate_fence": {
     "criteria": {
       "has_stick": "2025-01-14 23:23:50 +0000"
@@ -2427,8 +2583,10 @@
     "criteria": {
       "minecraft:old_growth_birch_forest": "2025-01-14 23:32:14 +0000",
       "minecraft:forest": "2025-01-14 23:32:17 +0000",
+      "minecraft:jungle": "2025-01-14 23:39:03 +0000",
       "minecraft:sparse_jungle": "2025-01-14 23:17:05 +0000",
-      "minecraft:river": "2025-01-14 23:32:23 +0000"
+      "minecraft:river": "2025-01-14 23:32:23 +0000",
+      "minecraft:birch_forest": "2025-01-14 23:34:09 +0000"
     },
     "done": false
   },
@@ -2519,6 +2677,12 @@
   "betternether:recipes/decorations/spruce_bar_stool": {
     "criteria": {
       "has_stick": "2025-01-14 23:23:50 +0000"
+    },
+    "done": true
+  },
+  "charm:vanilla_wood_variants/recipes/trapped_acacia_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-01-14 23:33:47 +0000"
     },
     "done": true
   },

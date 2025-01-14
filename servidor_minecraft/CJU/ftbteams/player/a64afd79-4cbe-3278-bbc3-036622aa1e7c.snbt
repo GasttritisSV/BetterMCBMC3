@@ -1,0 +1,17 @@
+{
+	id: "a64afd79-4cbe-3278-bbc3-036622aa1e7c"
+	type: "player"
+	player_name: "Cuaci"
+	ranks: {
+		a64afd79-4cbe-3278-bbc3-036622aa1e7c: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Cuaci"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFFF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

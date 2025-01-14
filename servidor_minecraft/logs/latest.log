@@ -1820,3 +1820,25 @@ Caused by: java.io.IOException: Invalid tag id: 116
 [23:15:32] [Server thread/INFO]: Channel update: gordobe -> default
 [23:15:32] [Server thread/INFO]: Priority overwritten for player gordobe. Claiming: GRAVE / Robbing: INVENTORY
 [23:15:32] [Server thread/INFO]: Receiving client config
+[23:17:04] [Server thread/INFO]: Cuaci[/100.102.184.103:59870] logged in with entity id 3206 at (-3.5, 111.0, 8.5)
+[23:17:04] [Server thread/INFO]: Sending server config values to client
+[23:17:04] [Server thread/INFO]: Cuaci joined the game
+[23:17:04] [Server thread/INFO]: Updating all forceload tickets for a64afd79-4cbe-3278-bbc3-036622aa1e7c
+[23:17:05] [Server thread/INFO]: Cuaci has reached the goal [Town Tourist]
+[23:17:05] [Server thread/INFO]: Cuaci has made the advancement [First Village]
+[23:17:05] [Server thread/INFO]: Channel update: Cuaci -> default
+[23:17:06] [Server thread/INFO]: Priority overwritten for player Cuaci. Claiming: GRAVE / Robbing: INVENTORY
+[23:17:06] [Server thread/INFO]: Receiving client config
+[23:18:40] [Server thread/INFO]: Named entity class_1604['Pagination Quattrochi the Pillager'/2945, l='ServerLevel[CJU]', x=315.22, y=89.91, z=352.71] died: Pagination Quattrochi the Pillager tried to swim in lava
+[23:22:03] [Server thread/INFO]: Cuaci has made the advancement [Monster Hunter]
+[23:25:30] [Server thread/INFO]: Cuaci has made the advancement [Stone Age]
+[23:25:45] [Server thread/INFO]: Gasttritis[/100.106.242.117:50272] logged in with entity id 6160 at (39.818138690465, 109.0, 68.5927295810652)
+[23:25:45] [Server thread/INFO]: Sending server config values to client
+[23:25:45] [Server thread/INFO]: Gasttritis joined the game
+[23:25:45] [Server thread/INFO]: Updating all forceload tickets for b04ed8a0-8a88-3dba-a8ef-549cf66f8ddf
+[23:25:47] [Server thread/INFO]: Channel update: Gasttritis -> default
+[23:25:47] [Server thread/INFO]: Priority overwritten for player Gasttritis. Claiming: GRAVE / Robbing: INVENTORY
+[23:25:47] [Server thread/INFO]: Receiving client config
+[23:26:26] [Server thread/INFO]: Cuaci has made the advancement [Getting an Upgrade]
+[23:26:34] [Netty Epoll Server IO #3/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null

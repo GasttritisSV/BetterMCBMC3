@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "a64afd794cbe3278bbc3036622aa1e7c"
+	name: "Cuaci#a64afd79"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

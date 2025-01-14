@@ -2978,6 +2978,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-14 20:27:56 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/hammer": {
+    "criteria": {
+      "has_hammer": "2025-01-14 20:27:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-01-14 20:20:05 +0000"
@@ -3014,15 +3026,33 @@
     },
     "done": true
   },
+  "aether:recipes/combat/iron_chestplate_repairing": {
+    "criteria": {
+      "has_iron_chestplate": "2025-01-14 20:28:15 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/granite_pavers_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-01-14 20:20:05 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/hopper": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-14 20:27:56 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/granite_brick_stairs_from_granite_or_granite_bricks_stonecutting": {
     "criteria": {
       "has_granite_or_granite_bricks": "2025-01-14 20:20:05 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_gloves": {
+    "criteria": {
+      "has_iron": "2025-01-14 20:27:56 +0000"
     },
     "done": true
   },
@@ -3038,9 +3068,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/iron_boots": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-14 20:27:56 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/granite_corner_trim": {
     "criteria": {
       "has_granite_corner_trim": "2025-01-14 20:20:05 +0000"
+    },
+    "done": true
+  },
+  "bclib:recipes/misc/tag_bucket": {
+    "criteria": {
+      "has_tag_c_ingots/iron": "2025-01-14 20:27:56 +0000"
     },
     "done": true
   },
@@ -3050,9 +3092,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/iron_trapdoor": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-14 20:27:56 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/granite_tiles_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-01-14 20:20:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/iron_knife": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-14 20:27:56 +0000"
     },
     "done": true
   },
@@ -3068,9 +3122,57 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-01-14 20:28:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_chestplate": "2025-01-14 20:28:15 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_granite_wall_from_granite_or_mossy_cobbled_granite_stonecutting": {
     "criteria": {
       "has_granite_or_mossy_cobbled_granite": "2025-01-14 20:20:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-14 20:27:56 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/copy_plate_upgrade": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-14 20:27:56 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/iron_chandelier": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-14 20:27:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-14 20:27:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bucket": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-14 20:27:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-01-14 20:27:56 +0000"
     },
     "done": true
   },
@@ -3092,9 +3194,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/iron_sword": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-14 20:27:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_pickaxe": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-14 20:27:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/shield": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-14 20:27:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/iron_bars": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-14 20:27:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-14 20:21:37 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-14 20:27:56 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/skyroot_iron_vanilla_shield": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-14 20:27:56 +0000"
     },
     "done": true
   },
@@ -3110,9 +3248,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-14 20:27:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-14 20:21:37 +0000"
+    },
+    "done": true
+  },
+  "comforts:recipes/decorations/rope_and_nail": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-14 20:27:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_door": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-14 20:27:56 +0000"
     },
     "done": true
   },
@@ -3122,9 +3278,21 @@
     },
     "done": true
   },
+  "aether:recipes/combat/iron_pendant": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-14 20:27:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-14 20:21:37 +0000"
+    },
+    "done": true
+  },
+  "bclib:recipes/tools/tag_compass": {
+    "criteria": {
+      "has_tag_c_ingots/iron": "2025-01-14 20:27:56 +0000"
     },
     "done": true
   },
@@ -3158,9 +3326,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/shears": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-14 20:27:56 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_granite_brick_wall_from_granite_or_mossy_granite_bricks_stonecutting": {
     "criteria": {
       "has_granite_or_mossy_granite_bricks": "2025-01-14 20:20:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-14 20:27:56 +0000"
     },
     "done": true
   },
@@ -3170,9 +3350,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/cooking_pot": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-14 20:27:56 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/granite_brick_wall_from_granite_or_granite_bricks_stonecutting": {
     "criteria": {
       "has_granite_or_granite_bricks": "2025-01-14 20:20:05 +0000"
+    },
+    "done": true
+  },
+  "charm:vanilla_wood_variants/recipes/hopper_with_custom_chest": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-14 20:27:56 +0000"
     },
     "done": true
   },
@@ -3218,6 +3410,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-14 20:27:56 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/granite_bricks_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-01-14 20:20:05 +0000"
@@ -3242,9 +3440,27 @@
     },
     "done": true
   },
+  "bclib:recipes/transportation/tag_minecart": {
+    "criteria": {
+      "has_tag_c_ingots/iron": "2025-01-14 20:27:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-01-14 20:20:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-14 20:27:56 +0000"
+    },
+    "done": true
+  },
+  "comforts:recipes/decorations/shapeless_rope_and_nail": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-14 20:27:56 +0000"
     },
     "done": true
   },
@@ -3254,9 +3470,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-14 20:27:56 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_granite_brick_stairs_from_granite_or_mossy_granite_bricks_stonecutting": {
     "criteria": {
       "has_granite_or_mossy_granite_bricks": "2025-01-14 20:20:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-14 20:27:56 +0000"
     },
     "done": true
   },
@@ -3266,9 +3494,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/iron_leggings": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-14 20:27:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-14 20:21:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/minecart": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-14 20:27:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_hoe": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-14 20:27:56 +0000"
     },
     "done": true
   },
@@ -3287,6 +3533,18 @@
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-14 20:21:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-14 20:27:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-14 20:27:56 +0000"
     },
     "done": true
   },
@@ -3314,6 +3572,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/iron_bulb_lantern": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-14 20:27:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-14 20:21:37 +0000"
@@ -3323,6 +3587,12 @@
   "stoneworks:recipes/building_blocks/granite_paver_stairs_from_granite_or_granite_pavers_stonecutting": {
     "criteria": {
       "has_granite_or_granite_pavers": "2025-01-14 20:20:05 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/bench": {
+    "criteria": {
+      "has_bench": "2025-01-14 20:27:56 +0000"
     },
     "done": true
   },
@@ -3344,9 +3614,27 @@
     },
     "done": true
   },
+  "aether:recipes/combat/iron_ring": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-14 20:27:56 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/granite_pillar_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-01-14 20:20:05 +0000"
+    },
+    "done": true
+  },
+  "bclib:recipes/redstone/tag_hopper": {
+    "criteria": {
+      "has_tag_c_ingots/iron": "2025-01-14 20:27:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_chestplate": "2025-01-14 20:28:15 +0000"
     },
     "done": true
   },
@@ -3374,9 +3662,27 @@
     },
     "done": true
   },
+  "bclib:recipes/brewing/tag_cauldron": {
+    "criteria": {
+      "has_tag_c_ingots/iron": "2025-01-14 20:27:56 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_iron_ingot": {
+    "criteria": {
+      "has_minecraft:iron_ingot": "2025-01-14 20:27:56 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_granite_brick_slab_from_granite_or_mossy_granite_bricks_stonecutting": {
     "criteria": {
       "has_granite_or_mossy_granite_bricks": "2025-01-14 20:20:05 +0000"
+    },
+    "done": true
+  },
+  "bclib:recipes/decorations/tag_stonecutter": {
+    "criteria": {
+      "has_tag_c_ingots/iron": "2025-01-14 20:27:56 +0000"
     },
     "done": true
   },

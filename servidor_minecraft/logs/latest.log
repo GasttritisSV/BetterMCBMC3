@@ -1809,3 +1809,14 @@ Caused by: java.io.IOException: Invalid tag id: 116
 [22:57:51] [Server thread/INFO]: Receiving client config
 [22:58:13] [pool-3-thread-1/WARN]: Failed to send keepalive request, response code: 502
 [23:01:36] [Server thread/INFO]: gordobe has made the advancement [Isn't It Iron Pick]
+[23:13:57] [Server thread/INFO]: gordobe lost connection: Disconnected
+[23:13:57] [Server thread/INFO]: gordobe left the game
+[23:13:57] [Server thread/INFO]: Updating all forceload tickets for ebff9193-2864-3218-bb3f-affcdc04ff97
+[23:14:42] [Server thread/INFO]: com.mojang.authlib.GameProfile@49912a3c[id=ebff9193-2864-3218-bb3f-affcdc04ff97,name=gordobe,properties={}] lost connection: Disconnected
+[23:15:31] [Server thread/INFO]: gordobe[/100.104.203.61:63070] logged in with entity id 2749 at (342.0612370625558, 67.0, 207.2596408752413)
+[23:15:31] [Server thread/INFO]: Sending server config values to client
+[23:15:31] [Server thread/INFO]: gordobe joined the game
+[23:15:31] [Server thread/INFO]: Updating all forceload tickets for ebff9193-2864-3218-bb3f-affcdc04ff97
+[23:15:32] [Server thread/INFO]: Channel update: gordobe -> default
+[23:15:32] [Server thread/INFO]: Priority overwritten for player gordobe. Claiming: GRAVE / Robbing: INVENTORY
+[23:15:32] [Server thread/INFO]: Receiving client config

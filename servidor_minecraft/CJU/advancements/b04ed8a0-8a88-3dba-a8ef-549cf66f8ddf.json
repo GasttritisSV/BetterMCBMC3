@@ -1,150 +1,733 @@
 {
+  "betternether:recipes/misc/copy_bowl_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-01-14 19:02:31 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/echo_boat": {
+    "criteria": {
+      "in_water": "2025-01-14 19:01:29 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2025-01-14 19:01:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-01-14 19:02:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-01-14 19:02:31 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/transportation/skyroot_boat": {
+    "criteria": {
+      "in_water": "2025-01-14 19:01:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-14 19:02:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-14 19:02:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-14 19:02:31 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/bloom_boat": {
+    "criteria": {
+      "in_water": "2025-01-14 19:01:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-14 19:02:31 +0000"
+    },
+    "done": true
+  },
   "morevillagers:first_village": {
     "criteria": {
-      "entered_village": "2025-01-09 14:52:52 +0000"
+      "entered_village": "2025-01-14 18:59:58 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "unlock_right_away": "2025-01-09 14:52:51 +0000"
+      "unlock_right_away": "2025-01-14 18:59:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-01-14 19:01:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-01-14 19:02:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-14 19:02:31 +0000"
     },
     "done": true
   },
   "adorabuild_structures:overworld_structures": {
     "criteria": {
-      "always": "2025-01-09 14:52:51 +0000"
+      "always": "2025-01-14 18:59:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-14 19:02:31 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/dead_boat": {
+    "criteria": {
+      "in_water": "2025-01-14 19:01:29 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_boat": {
+    "criteria": {
+      "in_water": "2025-01-14 19:01:29 +0000"
     },
     "done": true
   },
   "charm:core/tools": {
     "criteria": {
-      "player_joined": "2025-01-09 14:52:51 +0000"
+      "player_joined": "2025-01-14 18:59:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-01-14 19:02:31 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_ring": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-14 19:02:31 +0000"
     },
     "done": true
   },
   "betternether:root": {
     "criteria": {
-      "welcome": "2025-01-09 14:52:52 +0000"
+      "welcome": "2025-01-14 18:59:58 +0000"
     },
     "done": true
   },
   "betterend:root": {
     "criteria": {
-      "welcome": "2025-01-09 14:52:52 +0000"
+      "welcome": "2025-01-14 18:59:58 +0000"
     },
     "done": true
   },
-  "biomesoplenty:biomesoplenty/root": {
+  "minecraft:recipes/combat/golden_sword": {
     "criteria": {
-      "lush_desert": "2025-01-09 14:52:52 +0000"
+      "has_gold_ingot": "2025-01-14 19:02:31 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_diamond_ingot": {
+    "criteria": {
+      "has_minecraft:diamond": "2025-01-14 19:02:31 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/pine_boat": {
+    "criteria": {
+      "in_water": "2025-01-14 19:01:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-14 19:02:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-01-14 19:01:29 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/fir_boat": {
+    "criteria": {
+      "in_water": "2025-01-14 19:01:29 +0000"
     },
     "done": true
   },
   "betterdungeons:root": {
     "criteria": {
-      "always": "2025-01-09 14:52:51 +0000"
+      "always": "2025-01-14 18:59:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-01-14 19:02:31 +0000"
+    },
+    "done": true
+  },
+  "charm:ebony_wood/recipes/ebony_boat": {
+    "criteria": {
+      "in_water": "2025-01-14 19:01:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-01-14 19:01:29 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2025-01-14 19:01:29 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/copy_plate_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-01-14 19:02:31 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/saxaul_boat": {
+    "criteria": {
+      "in_water": "2025-01-14 19:01:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-14 19:02:31 +0000"
     },
     "done": true
   },
   "morevillagers:all_villages": {
     "criteria": {
-      "taiga": "2025-01-09 14:52:52 +0000",
-      "plains": "2025-01-09 14:52:52 +0000",
-      "savanna": "2025-01-09 14:52:52 +0000",
-      "desert": "2025-01-09 14:52:52 +0000",
-      "snowy": "2025-01-09 14:52:52 +0000"
+      "taiga": "2025-01-14 18:59:58 +0000",
+      "plains": "2025-01-14 18:59:58 +0000",
+      "savanna": "2025-01-14 18:59:58 +0000",
+      "desert": "2025-01-14 18:59:58 +0000",
+      "snowy": "2025-01-14 18:59:58 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/fir_boat": {
+    "criteria": {
+      "in_water": "2025-01-14 19:01:29 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/woodworking_table": {
+    "criteria": {
+      "has_leaves": "2025-01-14 19:01:08 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/maple_boat": {
+    "criteria": {
+      "in_water": "2025-01-14 19:01:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-01-14 19:01:29 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/copy_handle_attachment": {
+    "criteria": {
+      "has_diamond": "2025-01-14 19:02:31 +0000"
     },
     "done": true
   },
   "charm:core/decoration": {
     "criteria": {
-      "player_joined": "2025-01-09 14:52:51 +0000"
+      "player_joined": "2025-01-14 18:59:57 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2025-01-14 19:01:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-01-14 19:02:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-01-14 19:01:29 +0000"
+    },
+    "done": true
+  },
+  "magnumtorch:recipes/decorations/diamond_magnum_torch": {
+    "criteria": {
+      "has_diamond": "2025-01-14 19:02:31 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/olive_boat": {
+    "criteria": {
+      "in_water": "2025-01-14 19:01:29 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/hellbark_boat": {
+    "criteria": {
+      "in_water": "2025-01-14 19:01:29 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/jacaranda_boat": {
+    "criteria": {
+      "in_water": "2025-01-14 19:01:29 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/combat/armor/ice_skates": {
+    "criteria": {
+      "has_fur_boots": "2025-01-14 19:01:08 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/palm_boat": {
+    "criteria": {
+      "in_water": "2025-01-14 19:01:29 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/empyreal_boat": {
+    "criteria": {
+      "in_water": "2025-01-14 19:01:29 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/maple_boat": {
+    "criteria": {
+      "in_water": "2025-01-14 19:01:29 +0000"
+    },
+    "done": true
+  },
+  "barteringstation:recipes/decorations/bartering_station": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-14 19:02:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-14 19:02:31 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/copy_flaming_ruby_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-01-14 19:02:31 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_pendant": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-14 19:02:31 +0000"
+    },
+    "done": true
+  },
+  "animal_feeding_trough:recipes/decorations/feeding_trough": {
+    "criteria": {
+      "has_wood_slab": "2025-01-14 19:01:08 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/copy_cincinnasite_diamond_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-01-14 19:02:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-01-14 19:01:29 +0000"
     },
     "done": true
   },
   "morevillagers:root": {
     "criteria": {
-      "always": "2025-01-09 14:52:51 +0000"
+      "always": "2025-01-14 18:59:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-14 19:02:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-14 19:02:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-01-14 19:02:31 +0000"
     },
     "done": true
   },
   "the_bumblezone:structures/enter_all_structures": {
     "criteria": {
-      "in_goliath_honey_fountain": "2025-01-09 14:52:52 +0000",
-      "in_mite_fortress": "2025-01-09 14:52:52 +0000"
+      "in_goliath_honey_fountain": "2025-01-14 18:59:58 +0000",
+      "in_mite_fortress": "2025-01-14 18:59:58 +0000"
     },
     "done": false
   },
+  "natures_spirit:recipes/transportation/mahogany_boat": {
+    "criteria": {
+      "in_water": "2025-01-14 19:01:29 +0000"
+    },
+    "done": true
+  },
   "repurposed_structures:root": {
     "criteria": {
-      "always": "2025-01-09 14:52:51 +0000"
+      "always": "2025-01-14 18:59:57 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/umbran_boat": {
+    "criteria": {
+      "in_water": "2025-01-14 19:01:29 +0000"
     },
     "done": true
   },
   "charm:core/mobs": {
     "criteria": {
-      "player_joined": "2025-01-09 14:52:51 +0000"
+      "player_joined": "2025-01-14 18:59:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2025-01-14 19:01:29 +0000"
     },
     "done": true
   },
   "uf_core:.init/player_join": {
     "criteria": {
-      "requirement": "2025-01-09 14:52:51 +0000"
+      "requirement": "2025-01-14 18:59:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-01-14 19:02:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-14 19:02:31 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/gardening_table": {
+    "criteria": {
+      "has_flower": "2025-01-14 19:01:08 +0000"
     },
     "done": true
   },
   "charm:core/world": {
     "criteria": {
-      "player_joined": "2025-01-09 14:52:51 +0000"
+      "player_joined": "2025-01-14 18:59:57 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/sugi_boat": {
+    "criteria": {
+      "in_water": "2025-01-14 19:01:29 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/joshua_boat": {
+    "criteria": {
+      "in_water": "2025-01-14 19:01:29 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/ghaf_boat": {
+    "criteria": {
+      "in_water": "2025-01-14 19:01:29 +0000"
     },
     "done": true
   },
   "charm:core/enchantments": {
     "criteria": {
-      "player_joined": "2025-01-09 14:52:51 +0000"
+      "player_joined": "2025-01-14 18:59:57 +0000"
     },
     "done": true
   },
   "charm:core/smithing": {
     "criteria": {
-      "player_joined": "2025-01-09 14:52:51 +0000"
+      "player_joined": "2025-01-14 18:59:57 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2025-01-14 19:01:29 +0000"
     },
     "done": true
   },
   "the_bumblezone:root": {
     "criteria": {
-      "instant_granted": "2025-01-09 14:52:51 +0000"
+      "instant_granted": "2025-01-14 18:59:57 +0000"
     },
     "done": true
   },
-  "biomesoplenty:biomesoplenty/all_biomes": {
+  "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
-      "lush_desert": "2025-01-09 14:52:52 +0000"
+      "has_diamond": "2025-01-14 19:02:31 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "betterend:recipes/misc/golden_hammer": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-14 19:02:31 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_gold_ingot": {
+    "criteria": {
+      "has_minecraft:gold_ingot": "2025-01-14 19:02:31 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_gloves": {
+    "criteria": {
+      "has_diamond": "2025-01-14 19:02:31 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/copy_aeternium_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-01-14 19:02:31 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/cypress_boat": {
+    "criteria": {
+      "in_water": "2025-01-14 19:01:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-01-14 19:02:31 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/gold_chandelier": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-14 19:02:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2025-01-14 19:02:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-01-14 19:02:31 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/copy_netherite_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-01-14 19:02:31 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_jukebox": {
+    "criteria": {
+      "has_diamond": "2025-01-14 19:02:31 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/aspen_boat": {
+    "criteria": {
+      "in_water": "2025-01-14 19:01:29 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/coconut_boat": {
+    "criteria": {
+      "in_water": "2025-01-14 19:01:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-01-14 19:01:29 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/palo_verde_boat": {
+    "criteria": {
+      "in_water": "2025-01-14 19:01:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-01-14 19:01:29 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/wisteria_boat": {
+    "criteria": {
+      "in_water": "2025-01-14 19:01:29 +0000"
+    },
+    "done": true
   },
   "charm:core/automation": {
     "criteria": {
-      "player_joined": "2025-01-09 14:52:51 +0000"
+      "player_joined": "2025-01-14 18:59:57 +0000"
+    },
+    "done": true
+  },
+  "sawmill:recipes/sawmill": {
+    "criteria": {
+      "has_fences": "2025-01-14 19:01:08 +0000",
+      "has_slabs": "2025-01-14 19:01:08 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/mahogany_boat": {
+    "criteria": {
+      "in_water": "2025-01-14 19:01:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-01-14 19:01:08 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_gloves": {
+    "criteria": {
+      "has_gold": "2025-01-14 19:02:31 +0000"
     },
     "done": true
   },
   "the_bumblezone:wiki": {
     "criteria": {
-      "instant_granted": "2025-01-09 14:52:51 +0000"
+      "instant_granted": "2025-01-14 18:59:57 +0000"
     },
     "done": true
   },
+  "betterend:recipes/misc/diamond_hammer": {
+    "criteria": {
+      "has_diamond": "2025-01-14 19:02:31 +0000"
+    },
+    "done": true
+  },
+  "xp_storage:recipes/misc/diamond_xp_book_upgrade": {
+    "criteria": {
+      "has_xp_book_upgrade_ingredient": "2025-01-14 19:02:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:sparse_jungle": "2025-01-14 18:59:58 +0000"
+    },
+    "done": false
+  },
   "charm:core/root": {
     "criteria": {
-      "player_joined": "2025-01-09 14:52:51 +0000"
+      "player_joined": "2025-01-14 18:59:57 +0000"
+    },
+    "done": true
+  },
+  "charm:azalea_wood/recipes/azalea_boat": {
+    "criteria": {
+      "in_water": "2025-01-14 19:01:29 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/cedar_boat": {
+    "criteria": {
+      "in_water": "2025-01-14 19:01:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-01-14 19:02:31 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/copy_leather_handle_attachment": {
+    "criteria": {
+      "has_diamond": "2025-01-14 19:02:31 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/larch_boat": {
+    "criteria": {
+      "in_water": "2025-01-14 19:01:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-14 19:02:31 +0000"
     },
     "done": true
   },
   "charm:core/tweaks": {
     "criteria": {
-      "player_joined": "2025-01-09 14:52:51 +0000"
+      "player_joined": "2025-01-14 18:59:57 +0000"
     },
     "done": true
   },

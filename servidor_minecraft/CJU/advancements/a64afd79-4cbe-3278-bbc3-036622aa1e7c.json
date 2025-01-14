@@ -1,4 +1,10 @@
 {
+  "minecraft:recipes/building_blocks/polished_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-14 23:48:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-01-14 23:23:50 +0000"
@@ -56,6 +62,12 @@
   "betterend:recipes/decorations/jellyshroom_chair": {
     "criteria": {
       "has_stick": "2025-01-14 23:23:50 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_barrel": {
+    "criteria": {
+      "has_slabs": "2025-01-14 23:48:40 +0000"
     },
     "done": true
   },
@@ -251,6 +263,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/white_sheet": {
+    "criteria": {
+      "has_white_sheet": "2025-01-14 23:48:40 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/terracotta_medium_pot": {
     "criteria": {
       "has_terracotta_medium_pot": "2025-01-14 23:25:11 +0000"
@@ -302,6 +320,18 @@
   "betterend:recipes/decorations/umbrella_tree_fence": {
     "criteria": {
       "has_stick": "2025-01-14 23:23:50 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/oak_shutter": {
+    "criteria": {
+      "has_slab": "2025-01-14 23:48:40 +0000"
+    },
+    "done": true
+  },
+  "charm:vanilla_wood_variants/recipes/chiseled_oak_bookshelf": {
+    "criteria": {
+      "has_slab": "2025-01-14 23:48:40 +0000"
     },
     "done": true
   },
@@ -362,6 +392,12 @@
   "betternether:recipes/redstone/stalagnate_gate": {
     "criteria": {
       "has_stick": "2025-01-14 23:23:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-14 23:48:40 +0000"
     },
     "done": true
   },
@@ -470,6 +506,12 @@
   "betternether:recipes/decorations/willow_ladder": {
     "criteria": {
       "has_stick": "2025-01-14 23:23:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-14 23:48:56 +0000"
     },
     "done": true
   },
@@ -635,6 +677,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/white_cape": {
+    "criteria": {
+      "has_white_wool": "2025-01-14 23:48:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-01-14 23:25:30 +0000"
@@ -785,6 +833,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/wood_cup": {
+    "criteria": {
+      "has_wood_cup": "2025-01-14 23:48:40 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/leather_wrapped_stick": {
     "criteria": {
       "has_stick": "2025-01-14 23:23:50 +0000"
@@ -854,6 +908,12 @@
   "betternether:recipes/decorations/anchor_tree_chair": {
     "criteria": {
       "has_stick": "2025-01-14 23:23:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-01-14 23:48:40 +0000"
     },
     "done": true
   },
@@ -930,6 +990,18 @@
   "betterend:recipes/redstone/helix_tree_gate": {
     "criteria": {
       "has_stick": "2025-01-14 23:23:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-14 23:48:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-14 23:48:40 +0000"
     },
     "done": true
   },
@@ -1035,6 +1107,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-14 23:48:40 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/willow_bar_stool": {
     "criteria": {
       "has_stick": "2025-01-14 23:23:50 +0000"
@@ -1068,6 +1146,12 @@
   "biomesoplenty:recipes/transportation/hellbark_boat": {
     "criteria": {
       "in_water": "2025-01-14 23:32:23 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/white_sofa": {
+    "criteria": {
+      "has_wool": "2025-01-14 23:48:40 +0000"
     },
     "done": true
   },
@@ -1110,6 +1194,12 @@
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2025-01-14 23:23:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-14 23:48:40 +0000"
     },
     "done": true
   },
@@ -1164,6 +1254,12 @@
   "betternether:recipes/decorations/rubeus_bar_stool": {
     "criteria": {
       "has_stick": "2025-01-14 23:23:50 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/white_tall_stool": {
+    "criteria": {
+      "has_wool": "2025-01-14 23:48:40 +0000"
     },
     "done": true
   },
@@ -1245,6 +1341,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-14 23:48:40 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/mangrove_taburet": {
     "criteria": {
       "has_stick": "2025-01-14 23:23:50 +0000"
@@ -1261,7 +1363,10 @@
     "criteria": {
       "apple": "2025-01-14 23:24:43 +0000",
       "cooked_chicken": "2025-01-14 23:36:30 +0000",
-      "sweet_berries": "2025-01-14 23:41:44 +0000"
+      "cookie": "2025-01-14 23:44:57 +0000",
+      "cooked_mutton": "2025-01-14 23:52:20 +0000",
+      "sweet_berries": "2025-01-14 23:41:44 +0000",
+      "melon_slice": "2025-01-14 23:45:10 +0000"
     },
     "done": false
   },
@@ -1385,9 +1490,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-14 23:48:40 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_bed": {
+    "criteria": {
+      "has_wool": "2025-01-14 23:48:40 +0000"
+    },
+    "done": true
+  },
   "morevillagers:root": {
     "criteria": {
       "always": "2025-01-14 23:17:04 +0000"
+    },
+    "done": true
+  },
+  "charm:kilns/recipes/deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-14 23:48:40 +0000"
     },
     "done": true
   },
@@ -1548,6 +1671,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-14 23:48:40 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/willow_fence": {
     "criteria": {
       "has_stick": "2025-01-14 23:23:50 +0000"
@@ -1656,6 +1785,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/white_stool": {
+    "criteria": {
+      "has_wool": "2025-01-14 23:48:40 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/leather_boots_repairing": {
     "criteria": {
       "has_leather_boots": "2025-01-14 23:33:28 +0000"
@@ -1698,6 +1833,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-14 23:48:40 +0000"
+    },
+    "done": true
+  },
   "morevillagers:recipes/gardening_table": {
     "criteria": {
       "has_flower": "2025-01-14 23:21:05 +0000"
@@ -1707,6 +1848,12 @@
   "betterend:recipes/decorations/jellyshroom_fence": {
     "criteria": {
       "has_stick": "2025-01-14 23:23:50 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/white_curtain": {
+    "criteria": {
+      "has_wool": "2025-01-14 23:48:40 +0000"
     },
     "done": true
   },
@@ -1722,6 +1869,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-14 23:48:40 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/spruce_drawer": {
     "criteria": {
       "has_planks": "2025-01-14 23:23:50 +0000"
@@ -1731,6 +1884,12 @@
   "charm:core/world": {
     "criteria": {
       "player_joined": "2025-01-14 23:17:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-01-14 23:48:56 +0000"
     },
     "done": true
   },
@@ -1770,9 +1929,21 @@
     },
     "done": true
   },
+  "natures_spirit:adventure/collect_all_flowers": {
+    "criteria": {
+      "lilac": "2025-01-14 23:46:38 +0000"
+    },
+    "done": false
+  },
   "handcrafted:recipes/misc/jungle_nightstand": {
     "criteria": {
       "has_jungle_nightstand": "2025-01-14 23:24:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-14 23:48:40 +0000"
     },
     "done": true
   },
@@ -1785,6 +1956,12 @@
   "charm:ebony_wood/recipes/ebony_ladder": {
     "criteria": {
       "has_stick": "2025-01-14 23:23:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-14 23:48:40 +0000"
     },
     "done": true
   },
@@ -1920,9 +2097,21 @@
     },
     "done": true
   },
+  "charm:vanilla_wood_variants/recipes/oak_barrel": {
+    "criteria": {
+      "has_slab": "2025-01-14 23:48:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-01-14 23:22:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-14 23:48:40 +0000"
     },
     "done": true
   },
@@ -1993,6 +2182,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-01-14 23:48:40 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/jungle_cupboard": {
     "criteria": {
       "has_jungle_cupboard": "2025-01-14 23:24:47 +0000"
@@ -2008,6 +2203,12 @@
   "natures_spirit:recipes/transportation/cypress_boat": {
     "criteria": {
       "in_water": "2025-01-14 23:32:23 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/oak_bench": {
+    "criteria": {
+      "has_slab": "2025-01-14 23:48:40 +0000"
     },
     "done": true
   },
@@ -2053,6 +2254,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-01-14 23:48:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-01-14 23:46:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/melon_seeds": {
     "criteria": {
       "has_melon": "2025-01-14 23:22:42 +0000"
@@ -2077,6 +2290,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/oak_flower_box": {
+    "criteria": {
+      "has_slab": "2025-01-14 23:48:40 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/mangrove_chair": {
     "criteria": {
       "has_stick": "2025-01-14 23:23:50 +0000"
@@ -2086,6 +2305,12 @@
   "charm:vanilla_wood_variants/recipes/jungle_barrel": {
     "criteria": {
       "has_planks": "2025-01-14 23:24:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-14 23:48:40 +0000"
     },
     "done": true
   },
@@ -2110,6 +2335,12 @@
   "betternether:recipes/decorations/nether_sakura_chair": {
     "criteria": {
       "has_stick": "2025-01-14 23:23:50 +0000"
+    },
+    "done": true
+  },
+  "comforts:recipes/decorations/hammock_white": {
+    "criteria": {
+      "has_white_wool": "2025-01-14 23:48:40 +0000"
     },
     "done": true
   },
@@ -2140,6 +2371,12 @@
   "farmersdelight:recipes/cooking/noodle_soup": {
     "criteria": {
       "has_any_ingredient": "2025-01-14 23:27:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-01-14 23:48:40 +0000"
     },
     "done": true
   },
@@ -2179,6 +2416,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-14 23:48:40 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/warped_bar_stool": {
     "criteria": {
       "has_stick": "2025-01-14 23:23:50 +0000"
@@ -2188,6 +2431,12 @@
   "natures_spirit:recipes/transportation/aspen_boat": {
     "criteria": {
       "in_water": "2025-01-14 23:32:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-14 23:48:40 +0000"
     },
     "done": true
   },
@@ -2245,6 +2494,12 @@
   "natures_spirit:recipes/transportation/coconut_boat": {
     "criteria": {
       "in_water": "2025-01-14 23:32:23 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_cushion": {
+    "criteria": {
+      "has_white_cushion": "2025-01-14 23:48:40 +0000"
     },
     "done": true
   },
@@ -2314,6 +2569,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-14 23:48:40 +0000"
+    },
+    "done": true
+  },
   "natures_spirit:recipes/transportation/palo_verde_boat": {
     "criteria": {
       "in_water": "2025-01-14 23:32:23 +0000"
@@ -2323,6 +2584,18 @@
   "betterend:recipes/decorations/end_lotus_bar_stool": {
     "criteria": {
       "has_stick": "2025-01-14 23:23:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-14 23:48:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-01-14 23:48:40 +0000"
     },
     "done": true
   },
@@ -2359,6 +2632,12 @@
   "charm:vanilla_wood_variants/recipes/cherry_ladder": {
     "criteria": {
       "has_stick": "2025-01-14 23:23:50 +0000"
+    },
+    "done": true
+  },
+  "comforts:recipes/decorations/sleeping_bag_white": {
+    "criteria": {
+      "has_white_wool": "2025-01-14 23:48:40 +0000"
     },
     "done": true
   },
@@ -2471,6 +2750,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-14 23:48:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-14 23:48:56 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/mahogany_boat": {
     "criteria": {
       "in_water": "2025-01-14 23:32:23 +0000"
@@ -2480,6 +2771,18 @@
   "betternether:recipes/decorations/nether_sakura_taburet": {
     "criteria": {
       "has_stick": "2025-01-14 23:23:50 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/white_lamp": {
+    "criteria": {
+      "has_wool": "2025-01-14 23:48:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-01-14 23:48:40 +0000"
     },
     "done": true
   },
@@ -2626,6 +2929,18 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/wood_bowl": {
+    "criteria": {
+      "has_wood_bowl": "2025-01-14 23:48:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-01-14 23:48:40 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/umbrella_tree_taburet": {
     "criteria": {
       "has_stick": "2025-01-14 23:23:50 +0000"
@@ -2647,6 +2962,12 @@
   "natures_spirit:recipes/transportation/cedar_boat": {
     "criteria": {
       "in_water": "2025-01-14 23:32:23 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_plate": {
+    "criteria": {
+      "has_wood_plate": "2025-01-14 23:48:40 +0000"
     },
     "done": true
   },
@@ -2695,6 +3016,12 @@
   "charm:core/tweaks": {
     "criteria": {
       "player_joined": "2025-01-14 23:17:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-01-14 23:48:56 +0000"
     },
     "done": true
   },

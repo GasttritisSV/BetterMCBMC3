@@ -5037,6 +5037,12 @@
     },
     "done": true
   },
+  "natures_spirit:adventure/collect_all_flowers": {
+    "criteria": {
+      "lilac": "2025-01-14 23:44:59 +0000"
+    },
+    "done": false
+  },
   "farmersdelight:recipes/cooking/dumplings": {
     "criteria": {
       "has_any_ingredient": "2025-01-14 23:32:57 +0000"
@@ -5071,6 +5077,12 @@
   "another_furniture:recipes/oak_bench": {
     "criteria": {
       "has_slab": "2025-01-14 23:40:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-01-14 23:44:59 +0000"
     },
     "done": true
   },

@@ -2098,3 +2098,6 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [23:45:12] [Worker-Main-2/WARN]: Couldn't find template pool reference: minecraft:
 [23:45:12] [Worker-Main-2/WARN]: Couldn't find template pool reference: minecraft:
 [23:45:12] [Worker-Main-2/WARN]: Couldn't find template pool reference: minecraft:
+[23:53:33] [Server thread/INFO]: Gasttritis was blown up by Creeper
+[23:55:40] [Server thread/INFO]: Gasttritis claimed a grave belonging to Gasttritis at 294, 70, -141, minecraft:overworld
+[23:57:08] [Server thread/INFO]: gordobe was blown up by Creeper

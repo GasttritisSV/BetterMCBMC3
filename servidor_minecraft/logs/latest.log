@@ -1842,3 +1842,30 @@ Caused by: java.io.IOException: Invalid tag id: 116
 [23:26:26] [Server thread/INFO]: Cuaci has made the advancement [Getting an Upgrade]
 [23:26:34] [Netty Epoll Server IO #3/ERROR]: Exception occurred in netty pipeline
 io.netty.handler.timeout.ReadTimeoutException: null
+[23:28:13] [pool-3-thread-1/WARN]: Failed to send keepalive request, response code: 502
+[23:28:37] [Server thread/INFO]: Gasttritis has made the advancement [Stone Age]
+[23:28:39] [pool-9-thread-1/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_badlands], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_crimson], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_birch], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_giant_taiga], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_swamp], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_dark_forest]] from pos class_2338{x=-229, y=87, z=123}
+[23:31:24] [Server thread/INFO]: Gasttritis has made the advancement [Monster Hunter]
+[23:31:41] [Server thread/INFO]: <Gasttritis> xaero-waypoint:Shared Location:S:172:81:250:6:false:0:Internal-overworld-waypoints
+[23:32:57] [Server thread/INFO]: gordobe has made the advancement [Crops of the Wild]
+[23:33:37] [Server thread/INFO]: Gasttritis has made the advancement [Crops of the Wild]
+[23:36:37] [Worker-Main-1/WARN]: Couldn't find template pool reference: structory:harvest/well_bottoms
+[23:36:48] [Worker-Main-4/WARN]: Ignoring unknown attribute 'porting_lib:step_height_addition'
+[23:36:48] [Worker-Main-4/WARN]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[23:36:48] [Worker-Main-4/WARN]: Ignoring unknown attribute 'porting_lib:step_height_addition'
+[23:36:48] [Worker-Main-4/WARN]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[23:36:48] [Worker-Main-4/WARN]: Ignoring unknown attribute 'porting_lib:step_height_addition'
+[23:36:48] [Worker-Main-4/WARN]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[23:36:48] [Worker-Main-4/WARN]: Ignoring unknown attribute 'porting_lib:step_height_addition'
+[23:36:48] [Worker-Main-4/WARN]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[23:36:48] [Worker-Main-4/WARN]: Ignoring unknown attribute 'porting_lib:step_height_addition'
+[23:36:48] [Worker-Main-4/WARN]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[23:36:48] [Worker-Main-4/WARN]: Ignoring unknown attribute 'porting_lib:step_height_addition'
+[23:36:48] [Worker-Main-4/WARN]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[23:36:48] [Worker-Main-4/WARN]: Ignoring unknown attribute 'porting_lib:step_height_addition'
+[23:36:48] [Worker-Main-4/WARN]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[23:36:48] [Worker-Main-4/WARN]: Ignoring unknown attribute 'porting_lib:step_height_addition'
+[23:36:48] [Worker-Main-4/WARN]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[23:36:48] [Worker-Main-4/WARN]: Ignoring unknown attribute 'porting_lib:step_height_addition'
+[23:36:48] [Worker-Main-4/WARN]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[23:36:54] [Server thread/INFO]: Gasttritis was blown up by Creeper

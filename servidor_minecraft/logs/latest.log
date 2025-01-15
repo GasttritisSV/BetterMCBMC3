@@ -79,3 +79,32 @@
 [01:48:29] [Server thread/INFO]: Channel update: gordobe -> default
 [01:48:29] [Server thread/INFO]: Priority overwritten for player gordobe. Claiming: GRAVE / Robbing: INVENTORY
 [01:48:29] [Server thread/INFO]: Receiving client config
+[01:49:04] [Server thread/INFO]: Cuaci claimed a grave belonging to Cuaci at -172, 97, 583, minecraft:overworld
+[01:51:07] [Server thread/INFO]: TortillaDeGrasa has made the advancement [Suit Up]
+[01:57:12] [Server thread/INFO]: Gasttritis lost connection: Disconnected
+[01:57:12] [Server thread/INFO]: Gasttritis left the game
+[01:57:12] [Server thread/INFO]: Updating all forceload tickets for b04ed8a0-8a88-3dba-a8ef-549cf66f8ddf
+[01:57:33] [Server thread/INFO]: TortillaDeGrasa lost connection: Kicked by an operator
+[01:57:33] [Server thread/INFO]: TortillaDeGrasa left the game
+[01:57:33] [Server thread/INFO]: Updating all forceload tickets for 931beffe-e8b9-3c3a-985f-b132c45b9c8a
+[01:57:33] [Server thread/INFO]: Kicked TortillaDeGrasa: Kicked by an operator
+[01:57:33] [Server thread/WARN]: handleDisconnection() called twice
+[01:57:49] [Server thread/INFO]: Kicked Cuaci: por gay
+[01:57:49] [Server thread/INFO]: Cuaci lost connection: por gay
+[01:57:49] [Server thread/INFO]: Cuaci left the game
+[01:57:49] [Server thread/INFO]: Updating all forceload tickets for a64afd79-4cbe-3278-bbc3-036622aa1e7c
+[01:57:50] [Server thread/INFO]: TortillaDeGrasa[/100.100.202.88:55183] logged in with entity id 59971 at (-166.0540506989024, 63.5, 388.8702642936309)
+[01:57:50] [Server thread/INFO]: Sending server config values to client
+[01:57:50] [Server thread/INFO]: TortillaDeGrasa joined the game
+[01:57:50] [Server thread/INFO]: Updating all forceload tickets for 931beffe-e8b9-3c3a-985f-b132c45b9c8a
+[01:57:50] [Server thread/INFO]: Channel update: TortillaDeGrasa -> default
+[01:57:50] [Server thread/INFO]: Priority overwritten for player TortillaDeGrasa. Claiming: GRAVE / Robbing: INVENTORY
+[01:57:50] [Server thread/INFO]: Receiving client config
+[01:57:59] [Server thread/INFO]: Cuaci[/100.102.184.103:61206] logged in with entity id 60177 at (-158.80709913137113, 97.0, 591.0580816209872)
+[01:57:59] [Server thread/INFO]: Sending server config values to client
+[01:57:59] [Server thread/INFO]: Cuaci joined the game
+[01:57:59] [Server thread/INFO]: Updating all forceload tickets for a64afd79-4cbe-3278-bbc3-036622aa1e7c
+[01:58:01] [Server thread/INFO]: Channel update: Cuaci -> default
+[01:58:01] [Server thread/INFO]: Priority overwritten for player Cuaci. Claiming: GRAVE / Robbing: INVENTORY
+[01:58:01] [Server thread/INFO]: Receiving client config
+[01:58:13] [pool-3-thread-1/WARN]: Failed to send keepalive request, response code: 502

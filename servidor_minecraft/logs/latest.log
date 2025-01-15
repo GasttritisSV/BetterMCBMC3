@@ -108,3 +108,16 @@
 [01:58:01] [Server thread/INFO]: Priority overwritten for player Cuaci. Claiming: GRAVE / Robbing: INVENTORY
 [01:58:01] [Server thread/INFO]: Receiving client config
 [01:58:13] [pool-3-thread-1/WARN]: Failed to send keepalive request, response code: 502
+[02:02:22] [Worker-Main-1/WARN]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[02:02:22] [Worker-Main-1/WARN]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[02:02:22] [Worker-Main-1/WARN]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[02:02:23] [Worker-Main-2/WARN]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[02:02:23] [Worker-Main-2/WARN]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[02:02:23] [Worker-Main-2/WARN]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[02:02:23] [Worker-Main-2/WARN]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[02:02:23] [Worker-Main-2/WARN]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[02:02:25] [Worker-Main-4/WARN]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[02:02:25] [Worker-Main-4/WARN]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[02:02:25] [Worker-Main-1/WARN]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[02:02:25] [Worker-Main-1/WARN]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[02:02:25] [Worker-Main-1/WARN]: Ignoring unknown attribute 'porting_lib:entity_gravity'

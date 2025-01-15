@@ -145,3 +145,8 @@
 [02:39:14] [Server thread/INFO]: TortillaDeGrasa has made the advancement [Monster Hunter]
 [02:40:26] [Server thread/INFO]: NazZaRamirezZ was shot by Skeleton
 [02:41:12] [Server thread/INFO]: NazZaRamirezZ claimed a grave belonging to NazZaRamirezZ at -556, 103, 688, minecraft:overworld
+[02:49:51] [Server thread/INFO]: gordobe lost connection: Disconnected
+[02:49:51] [Server thread/INFO]: gordobe left the game
+[02:49:51] [Server thread/INFO]: Updating all forceload tickets for ebff9193-2864-3218-bb3f-affcdc04ff97
+[02:52:31] [pool-9-thread-4/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_dark_forest], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_crimson], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_mushroom], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_badlands], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_ocean], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_swamp]] from pos class_2338{x=-597, y=92, z=325}
+[02:58:13] [pool-3-thread-1/WARN]: Failed to send keepalive request, response code: 502

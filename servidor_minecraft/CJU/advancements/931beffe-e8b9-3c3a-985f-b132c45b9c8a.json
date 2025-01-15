@@ -3759,6 +3759,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/iron_chestplate_repairing": {
+    "criteria": {
+      "has_iron_chestplate": "2025-01-15 02:48:09 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_diorite_brick_wall_from_diorite_or_mossy_diorite_bricks_stonecutting": {
     "criteria": {
       "has_diorite_or_mossy_diorite_bricks": "2025-01-15 02:39:53 +0000"

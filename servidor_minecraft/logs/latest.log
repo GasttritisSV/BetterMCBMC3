@@ -25,3 +25,19 @@
 [00:45:13] [Server thread/INFO]: Named entity Marauder['Misaki Simic'/29619, l='ServerLevel[CJU]', x=-162.20, y=96.00, z=582.56] died: Misaki Simic was slain by Gasttritis
 [00:45:33] [Server thread/INFO]: Gasttritis has made the advancement [Voluntary Exile]
 [00:45:33] [Server thread/INFO]: Named entity class_1604['Heaton Easom the Patrol Leader'/29615, l='ServerLevel[CJU]', x=-170.43, y=96.00, z=593.31] died: Heaton Easom the Patrol Leader was slain by Gasttritis
+[00:48:06] [Server thread/INFO]: NazZaRamirezZ has made the advancement [Crops of the Wild]
+[00:48:10] [Server thread/INFO]: NazZaRamirezZ has made the advancement [Let's Get To Work]
+[00:50:28] [Server thread/INFO]: NazZaRamirezZ has made the advancement [Sweet Dreams]
+[00:50:51] [Server thread/INFO]: TortillaDeGrasa[/100.100.202.88:54744] logged in with entity id 33232 at (-3.5, 117.0, -5.5)
+[00:50:51] [Server thread/INFO]: Sending server config values to client
+[00:50:51] [Server thread/INFO]: TortillaDeGrasa joined the game
+[00:50:51] [Server thread/INFO]: Updating all forceload tickets for 931beffe-e8b9-3c3a-985f-b132c45b9c8a
+[00:50:52] [Server thread/INFO]: TortillaDeGrasa has reached the goal [Town Tourist]
+[00:50:52] [Server thread/INFO]: TortillaDeGrasa has made the advancement [First Village]
+[00:51:06] [Server thread/INFO]: Channel update: TortillaDeGrasa -> default
+[00:51:06] [Server thread/INFO]: Priority overwritten for player TortillaDeGrasa. Claiming: GRAVE / Robbing: INVENTORY
+[00:51:06] [Server thread/INFO]: Receiving client config
+[00:51:43] [Server thread/INFO]: NazZaRamirezZ has made the advancement [Stone Age]
+[00:53:34] [Server thread/INFO]: NazZaRamirezZ has made the advancement [Monster Hunter]
+[00:55:54] [pool-9-thread-3/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_mountains], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_bamboo], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_jungle], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_warped], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_badlands], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_swamp]] from pos class_2338{x=-299, y=83, z=341}
+[00:56:02] [Server thread/INFO]: NazZaRamirezZ has made the advancement [Getting an Upgrade]

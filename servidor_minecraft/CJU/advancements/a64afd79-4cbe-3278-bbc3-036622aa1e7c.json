@@ -323,6 +323,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/oak_drawer": {
+    "criteria": {
+      "has_oak_drawer": "2025-01-15 00:49:37 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/terracotta_medium_pot": {
     "criteria": {
       "has_terracotta_medium_pot": "2025-01-14 23:25:11 +0000"
@@ -431,6 +437,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/oak_shelf": {
+    "criteria": {
+      "has_oak_shelf": "2025-01-15 00:49:37 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/birch_taburet": {
     "criteria": {
       "has_stick": "2025-01-14 23:23:50 +0000"
@@ -485,6 +497,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-01-15 00:49:37 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/roasted_mutton_chops": {
     "criteria": {
       "has_mutton": "2025-01-14 23:30:37 +0000"
@@ -518,6 +536,12 @@
   "charm:vanilla_wood_variants/recipes/dark_oak_ladder": {
     "criteria": {
       "has_stick": "2025-01-14 23:23:50 +0000"
+    },
+    "done": true
+  },
+  "charm:vanilla_wood_variants/recipes/oak_chest": {
+    "criteria": {
+      "has_planks": "2025-01-15 00:49:37 +0000"
     },
     "done": true
   },
@@ -614,6 +638,12 @@
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
       "shrubland": "2025-01-14 23:34:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-01-15 00:49:37 +0000"
     },
     "done": true
   },
@@ -875,6 +905,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/oak_counter": {
+    "criteria": {
+      "has_oak_counter": "2025-01-15 00:49:37 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/cooked_bacon": {
     "criteria": {
       "cooked_bacon": "2025-01-15 00:05:58 +0000"
@@ -977,6 +1013,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-15 00:49:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2025-01-14 23:25:30 +0000"
@@ -1034,6 +1076,12 @@
   "natures_spirit:recipes/transportation/saxaul_boat": {
     "criteria": {
       "in_water": "2025-01-14 23:32:23 +0000"
+    },
+    "done": true
+  },
+  "charm:kilns/recipes/glass": {
+    "criteria": {
+      "has_sand": "2025-01-15 00:50:20 +0000"
     },
     "done": true
   },
@@ -1110,6 +1158,12 @@
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-01-15 00:17:53 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_bench": {
+    "criteria": {
+      "has_oak_bench": "2025-01-15 00:49:37 +0000"
     },
     "done": true
   },
@@ -1227,6 +1281,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/oak_couch": {
+    "criteria": {
+      "has_oak_couch": "2025-01-15 00:49:37 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/mangrove_bar_stool": {
     "criteria": {
       "has_stick": "2025-01-14 23:23:50 +0000"
@@ -1242,6 +1302,12 @@
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2025-01-14 23:32:23 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_chair": {
+    "criteria": {
+      "has_oak_chair": "2025-01-15 00:49:37 +0000"
     },
     "done": true
   },
@@ -1326,6 +1392,12 @@
   "betterend:recipes/decorations/end_lotus_fence": {
     "criteria": {
       "has_stick": "2025-01-14 23:23:50 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/oak_shelf": {
+    "criteria": {
+      "has_planks": "2025-01-15 00:49:37 +0000"
     },
     "done": true
   },
@@ -1437,6 +1509,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-15 00:49:37 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/white_tall_stool": {
     "criteria": {
       "has_wool": "2025-01-14 23:48:40 +0000"
@@ -1491,6 +1569,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/oak_cupboard": {
+    "criteria": {
+      "has_oak_cupboard": "2025-01-15 00:49:37 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/mangrove_drawer": {
     "criteria": {
       "has_planks": "2025-01-14 23:23:50 +0000"
@@ -1500,6 +1584,12 @@
   "comforts:recipes/decorations/hammock_gray": {
     "criteria": {
       "has_gray_wool": "2025-01-15 00:19:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-01-15 00:50:20 +0000"
     },
     "done": true
   },
@@ -1701,6 +1791,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/oak_nightstand": {
+    "criteria": {
+      "has_oak_nightstand": "2025-01-15 00:49:37 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/melon_juice": {
     "criteria": {
       "has_melon_slice": "2025-01-14 23:22:42 +0000"
@@ -1815,6 +1911,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-01-15 00:49:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-01-15 00:17:53 +0000"
@@ -1857,6 +1959,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/oak_chair": {
+    "criteria": {
+      "has_planks": "2025-01-15 00:49:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-01-14 23:25:30 +0000"
@@ -1879,6 +1987,12 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-01-15 00:17:53 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_fancy_bed": {
+    "criteria": {
+      "has_oak_fancy_bed": "2025-01-15 00:49:37 +0000"
     },
     "done": true
   },
@@ -1969,6 +2083,18 @@
   "another_furniture:recipes/dark_oak_drawer": {
     "criteria": {
       "has_planks": "2025-01-14 23:23:50 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_table": {
+    "criteria": {
+      "has_oak_table": "2025-01-15 00:49:37 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_corner_trim": {
+    "criteria": {
+      "has_oak_corner_trim": "2025-01-15 00:49:37 +0000"
     },
     "done": true
   },
@@ -2272,6 +2398,12 @@
     },
     "done": true
   },
+  "charm:vanilla_wood_variants/recipes/oak_bookshelf": {
+    "criteria": {
+      "has_planks": "2025-01-15 00:49:37 +0000"
+    },
+    "done": true
+  },
   "charm:ebony_wood/recipes/ebony_ladder": {
     "criteria": {
       "has_stick": "2025-01-14 23:23:50 +0000"
@@ -2287,6 +2419,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2025-01-14 23:23:50 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_dining_bench": {
+    "criteria": {
+      "has_oak_dining_bench": "2025-01-15 00:49:37 +0000"
     },
     "done": true
   },
@@ -2311,6 +2449,18 @@
   "betterend:recipes/decorations/pythadendron_ladder": {
     "criteria": {
       "has_stick": "2025-01-14 23:23:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-15 00:49:37 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_desk": {
+    "criteria": {
+      "has_oak_desk": "2025-01-15 00:49:37 +0000"
     },
     "done": true
   },
@@ -2729,6 +2879,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-01-15 00:50:20 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/nether_sakura_chair": {
     "criteria": {
       "has_stick": "2025-01-14 23:23:50 +0000"
@@ -2858,9 +3014,21 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-15 00:49:37 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/stalagnate_taburet": {
     "criteria": {
       "has_stick": "2025-01-14 23:23:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-01-15 00:49:37 +0000"
     },
     "done": true
   },
@@ -3074,6 +3242,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-01-15 00:49:37 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/redstone/lacugrove_gate": {
     "criteria": {
       "has_stick": "2025-01-14 23:23:50 +0000"
@@ -3114,6 +3288,12 @@
     "criteria": {
       "has_fences": "2025-01-14 23:21:05 +0000",
       "has_slabs": "2025-01-14 23:21:05 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_pillar_trim": {
+    "criteria": {
+      "has_oak_pillar_trim": "2025-01-15 00:49:37 +0000"
     },
     "done": true
   },
@@ -3285,6 +3465,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/oak_table": {
+    "criteria": {
+      "has_planks": "2025-01-15 00:49:37 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/redstone/lucernia_gate": {
     "criteria": {
       "has_stick": "2025-01-14 23:23:50 +0000"
@@ -3312,6 +3498,12 @@
   "handcrafted:recipes/misc/jungle_fancy_bed": {
     "criteria": {
       "has_jungle_fancy_bed": "2025-01-14 23:24:47 +0000"
+    },
+    "done": true
+  },
+  "charm:gunpowder_block/recipes/tnt_from_gunpowder_block": {
+    "criteria": {
+      "has_sand": "2025-01-15 00:50:20 +0000"
     },
     "done": true
   },
@@ -3351,9 +3543,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/oak_side_table": {
+    "criteria": {
+      "has_oak_side_table": "2025-01-15 00:49:37 +0000"
+    },
+    "done": true
+  },
   "bclib:recipes/redstone/tag_hopper": {
     "criteria": {
       "has_tag_c_chests": "2025-01-15 00:20:12 +0000"
+    },
+    "done": true
+  },
+  "charm:redstone_sand/recipes/redstone_sand": {
+    "criteria": {
+      "has_sand": "2025-01-15 00:50:20 +0000"
     },
     "done": true
   },

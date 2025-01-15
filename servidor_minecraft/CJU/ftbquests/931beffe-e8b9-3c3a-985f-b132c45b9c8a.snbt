@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "931beffee8b93c3a985fb132c45b9c8a"
+	name: "TortillaDeGrasa#931beffe"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

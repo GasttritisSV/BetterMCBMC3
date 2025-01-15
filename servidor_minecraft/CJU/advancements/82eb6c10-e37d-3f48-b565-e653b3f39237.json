@@ -1823,6 +1823,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "apple": "2025-01-15 02:59:36 +0000",
       "bread": "2025-01-15 00:48:33 +0000",
       "cooked_mutton": "2025-01-15 02:27:43 +0000",
       "potato": "2025-01-15 00:57:07 +0000",

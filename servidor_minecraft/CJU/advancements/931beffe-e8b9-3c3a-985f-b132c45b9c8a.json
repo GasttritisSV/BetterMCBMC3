@@ -694,7 +694,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-01-15 01:45:09 +0000",
-      "bread": "2025-01-15 00:54:21 +0000"
+      "bread": "2025-01-15 00:54:21 +0000",
+      "cooked_mutton": "2025-01-15 02:58:55 +0000"
     },
     "done": false
   },
@@ -713,7 +714,9 @@
   "natures_spirit:adventure/collect_all_flowers": {
     "criteria": {
       "red_tulip": "2025-01-15 00:55:29 +0000",
+      "poppy": "2025-01-15 03:01:48 +0000",
       "azure_bluet": "2025-01-15 01:39:17 +0000",
+      "cornflower": "2025-01-15 03:02:25 +0000",
       "blue_orchid": "2025-01-15 01:46:48 +0000",
       "sunflower": "2025-01-15 01:27:12 +0000",
       "oxeye_daisy": "2025-01-15 01:46:48 +0000",
@@ -3729,6 +3732,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-01-15 03:01:48 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/diorite_shingle_stairs_from_diorite_or_diorite_shingles_stonecutting": {
     "criteria": {
       "has_diorite_or_diorite_shingles": "2025-01-15 02:39:53 +0000"
@@ -3810,6 +3819,18 @@
   "stoneworks:recipes/building_blocks/andesite_tile_slab_from_andesite_or_andesite_tiles_stonecutting": {
     "criteria": {
       "has_andesite_or_andesite_tiles": "2025-01-15 02:39:16 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_helmet_repairing": {
+    "criteria": {
+      "has_iron_helmet": "2025-01-15 02:58:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-01-15 03:02:25 +0000"
     },
     "done": true
   },
@@ -4050,6 +4071,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2025-01-15 02:39:53 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_boots_repairing": {
+    "criteria": {
+      "has_iron_boots": "2025-01-15 02:58:28 +0000"
     },
     "done": true
   },

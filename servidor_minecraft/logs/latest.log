@@ -157,3 +157,5 @@
 [03:36:11] [Server thread/ERROR]: Failed to apply component patch '{minecraft:potion_contents=>class_1844[potion=Optional[Reference{ResourceKey[minecraft:potion / minecraft:strong_healing]=net.minecraft.class_1842@1df8663b}], customColor=Optional.empty, customEffects=[]]}' to item: 'Item stack with stack size of 3 was larger than maximum: 1'
 [03:36:11] [Server thread/INFO]: NazZaRamirezZ was shot by Verdant
 [03:39:22] [Server thread/INFO]: Named entity class_1640['Bowen Caffey the Witch'/106372, l='ServerLevel[CJU]', x=-132.51, y=87.00, z=324.16] died: Bowen Caffey the Witch was slain by TortillaDeGrasa
+[03:44:16] [Server thread/INFO]: NazZaRamirezZ claimed a grave belonging to NazZaRamirezZ at 133, 214, 10, minecraft:overworld
+[03:44:25] [Server thread/INFO]: NazZaRamirezZ was slain by Wither Skeleton

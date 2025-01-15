@@ -209,6 +209,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/redwood_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-15 03:38:43 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/jungle_bar_stool": {
     "criteria": {
       "has_stick": "2025-01-15 00:53:13 +0000"
@@ -359,6 +365,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/redwood_sign": {
+    "criteria": {
+      "has_planks": "2025-01-15 03:38:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-15 02:38:40 +0000"
@@ -488,6 +500,12 @@
   "betternether:recipes/redstone/mushroom_fir_gate": {
     "criteria": {
       "has_stick": "2025-01-15 00:53:13 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-15 03:38:43 +0000"
     },
     "done": true
   },
@@ -1582,6 +1600,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/redwood_fence": {
+    "criteria": {
+      "has_planks": "2025-01-15 03:38:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cherry_wood": {
     "criteria": {
       "has_log": "2025-01-15 00:53:13 +0000"
@@ -1849,6 +1873,12 @@
   "biomesoplenty:recipes/building_blocks/black_sandstone": {
     "criteria": {
       "has_black_sand": "2025-01-15 03:16:54 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-15 03:38:43 +0000"
     },
     "done": true
   },
@@ -2817,6 +2847,12 @@
   "another_furniture:recipes/white_stool": {
     "criteria": {
       "has_wool": "2025-01-15 01:08:12 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/wooden_pickaxe_repairing": {
+    "criteria": {
+      "has_wooden_pickaxe": "2025-01-15 03:45:35 +0000"
     },
     "done": true
   },
@@ -3809,6 +3845,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/redwood_button": {
+    "criteria": {
+      "has_planks": "2025-01-15 03:38:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-15 02:38:40 +0000"
@@ -4096,6 +4138,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/redwood_door": {
+    "criteria": {
+      "has_planks": "2025-01-15 03:38:43 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/combat/shield": {
     "criteria": {
       "has_tag_minecraft_planks": "2025-01-15 01:15:44 +0000"
@@ -4154,6 +4202,12 @@
   "betterend:recipes/misc/copy_thallasium_upgrade": {
     "criteria": {
       "has_stick": "2025-01-15 00:53:13 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/redwood_slab": {
+    "criteria": {
+      "has_planks": "2025-01-15 03:38:43 +0000"
     },
     "done": true
   },
@@ -4310,6 +4364,12 @@
   "the_bumblezone:wiki": {
     "criteria": {
       "instant_granted": "2025-01-15 00:44:22 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/redwood_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-15 03:38:43 +0000"
     },
     "done": true
   },

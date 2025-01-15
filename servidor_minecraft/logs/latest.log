@@ -159,3 +159,9 @@
 [03:39:22] [Server thread/INFO]: Named entity class_1640['Bowen Caffey the Witch'/106372, l='ServerLevel[CJU]', x=-132.51, y=87.00, z=324.16] died: Bowen Caffey the Witch was slain by TortillaDeGrasa
 [03:44:16] [Server thread/INFO]: NazZaRamirezZ claimed a grave belonging to NazZaRamirezZ at 133, 214, 10, minecraft:overworld
 [03:44:25] [Server thread/INFO]: NazZaRamirezZ was slain by Wither Skeleton
+[03:52:08] [Server thread/INFO]: TortillaDeGrasa has made the advancement [Crops of the Wild]
+[03:58:13] [pool-3-thread-1/WARN]: Failed to send keepalive request, response code: 502
+[03:58:31] [Server thread/INFO]: TortillaDeGrasa lost connection: Disconnected
+[03:58:31] [Server thread/INFO]: TortillaDeGrasa left the game
+[03:58:31] [Server thread/INFO]: Updating all forceload tickets for 931beffe-e8b9-3c3a-985f-b132c45b9c8a
+[04:00:09] [Server thread/INFO]: NazZaRamirezZ fell from a high place

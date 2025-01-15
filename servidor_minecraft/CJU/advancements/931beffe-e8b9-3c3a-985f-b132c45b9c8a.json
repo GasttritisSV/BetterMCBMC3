@@ -695,7 +695,8 @@
     "criteria": {
       "cooked_porkchop": "2025-01-15 01:45:09 +0000",
       "bread": "2025-01-15 00:54:21 +0000",
-      "cooked_mutton": "2025-01-15 02:58:55 +0000"
+      "cooked_mutton": "2025-01-15 02:58:55 +0000",
+      "cooked_cod": "2025-01-15 03:53:43 +0000"
     },
     "done": false
   },
@@ -718,6 +719,7 @@
       "poppy": "2025-01-15 03:01:48 +0000",
       "azure_bluet": "2025-01-15 01:39:17 +0000",
       "cornflower": "2025-01-15 03:02:25 +0000",
+      "allium": "2025-01-15 03:52:05 +0000",
       "blue_orchid": "2025-01-15 01:46:48 +0000",
       "sunflower": "2025-01-15 01:27:12 +0000",
       "oxeye_daisy": "2025-01-15 01:46:48 +0000",
@@ -3830,6 +3832,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-01-15 03:57:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-15 03:12:54 +0000"
@@ -4058,6 +4066,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_onion": "2025-01-15 03:52:08 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_andesite_stairs_from_andesite_or_mossy_cobbled_andesite_stonecutting": {
     "criteria": {
       "has_andesite_or_mossy_cobbled_andesite": "2025-01-15 02:39:16 +0000"
@@ -4109,6 +4123,12 @@
   "handcrafted:recipes/misc/oak_couch": {
     "criteria": {
       "has_oak_couch": "2025-01-15 03:44:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-01-15 03:52:05 +0000"
     },
     "done": true
   },
@@ -4229,6 +4249,12 @@
   "handcrafted:recipes/misc/oak_cupboard": {
     "criteria": {
       "has_oak_cupboard": "2025-01-15 03:44:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-15 03:52:08 +0000"
     },
     "done": true
   },
@@ -4394,6 +4420,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "onion": "2025-01-15 03:52:08 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cracked_granite_bricks_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-01-15 02:41:56 +0000"
@@ -4451,7 +4483,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-01-15 02:39:14 +0000",
-      "minecraft:witch": "2025-01-15 03:39:22 +0000"
+      "minecraft:witch": "2025-01-15 03:39:22 +0000",
+      "minecraft:zombie": "2025-01-15 03:50:50 +0000"
     },
     "done": false
   },
@@ -4557,6 +4590,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-01-15 03:57:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2025-01-15 02:41:56 +0000"
@@ -4590,6 +4629,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-15 03:12:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-15 03:52:08 +0000"
     },
     "done": true
   },
@@ -4728,6 +4773,12 @@
   "minecraft:recipes/misc/workbench/tinkering_table": {
     "criteria": {
       "has_tinkering_table": "2025-01-15 03:45:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-15 03:52:08 +0000"
     },
     "done": true
   },
@@ -5037,6 +5088,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2025-01-15 03:52:08 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_granite_brick_slab_from_granite_or_mossy_granite_bricks_stonecutting": {
     "criteria": {
       "has_granite_or_mossy_granite_bricks": "2025-01-15 02:41:56 +0000"
@@ -5052,6 +5109,12 @@
   "stoneworks:recipes/building_blocks/andesite_paver_wall_from_andesite_or_andesite_pavers_stonecutting": {
     "criteria": {
       "has_andesite_or_andesite_pavers": "2025-01-15 02:39:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-01-15 03:57:22 +0000"
     },
     "done": true
   },

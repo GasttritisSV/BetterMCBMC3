@@ -191,6 +191,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-01-15 02:37:05 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/cherry_taburet": {
     "criteria": {
       "has_stick": "2025-01-15 00:53:13 +0000"
@@ -1230,6 +1236,12 @@
   "betternether:recipes/decorations/willow_sign": {
     "criteria": {
       "has_stick": "2025-01-15 00:53:13 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/food/skyroot_milk_bucket_cake": {
+    "criteria": {
+      "has_egg": "2025-01-15 02:37:05 +0000"
     },
     "done": true
   },
@@ -2749,6 +2761,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-01-15 02:37:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-01-15 02:37:05 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/dark_oak_bar_stool": {
     "criteria": {
       "has_stick": "2025-01-15 00:53:13 +0000"
@@ -3009,7 +3033,9 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
-      "pasture": "2025-01-15 01:08:04 +0000"
+      "jacaranda_glade": "2025-01-15 02:35:34 +0000",
+      "pasture": "2025-01-15 01:08:04 +0000",
+      "prairie": "2025-01-15 02:35:17 +0000"
     },
     "done": false
   },
@@ -3536,9 +3562,11 @@
       "natures_spirit:wooded_drylands": "2025-01-15 00:46:19 +0000",
       "minecraft:forest": "2025-01-15 00:47:00 +0000",
       "minecraft:sparse_jungle": "2025-01-15 00:44:22 +0000",
+      "minecraft:ocean": "2025-01-15 02:36:01 +0000",
       "minecraft:sunflower_plains": "2025-01-15 00:49:19 +0000",
       "minecraft:cherry_grove": "2025-01-15 00:49:41 +0000",
       "minecraft:river": "2025-01-15 00:46:23 +0000",
+      "minecraft:stony_shore": "2025-01-15 02:35:22 +0000",
       "minecraft:plains": "2025-01-15 00:47:10 +0000"
     },
     "done": false
@@ -3702,6 +3730,12 @@
   "charm:core/tweaks": {
     "criteria": {
       "player_joined": "2025-01-15 00:44:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-01-15 02:37:05 +0000"
     },
     "done": true
   },

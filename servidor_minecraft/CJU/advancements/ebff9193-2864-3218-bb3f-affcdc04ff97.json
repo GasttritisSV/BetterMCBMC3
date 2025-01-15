@@ -2031,7 +2031,8 @@
       "jacaranda_glade": "2025-01-15 02:00:16 +0000",
       "redwood_forest": "2025-01-15 00:08:38 +0000",
       "pasture": "2025-01-15 00:15:19 +0000",
-      "grassland": "2025-01-14 23:36:23 +0000"
+      "grassland": "2025-01-14 23:36:23 +0000",
+      "prairie": "2025-01-15 02:35:12 +0000"
     },
     "done": false
   },
@@ -2041,6 +2042,7 @@
       "bread": "2025-01-14 23:41:00 +0000",
       "cooked_chicken": "2025-01-14 19:50:57 +0000",
       "cookie": "2025-01-14 23:33:15 +0000",
+      "rotten_flesh": "2025-01-15 02:30:58 +0000",
       "cooked_mutton": "2025-01-14 19:52:19 +0000",
       "cooked_beef": "2025-01-14 20:14:10 +0000"
     },
@@ -4782,7 +4784,8 @@
   "adorabuild_structures:tireless_legs": {
     "criteria": {
       "birch_house_medium_2": "2025-01-14 23:32:51 +0000",
-      "oak_house_small_3": "2025-01-14 23:40:18 +0000"
+      "oak_house_small_3": "2025-01-14 23:40:18 +0000",
+      "oak_tree_1": "2025-01-15 02:33:18 +0000"
     },
     "done": false
   },
@@ -6143,15 +6146,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-15 02:27:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2025-01-15 02:02:00 +0000"
     },
     "done": true
   },
+  "charm:cooking_pots/recipes/cooking_pot": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-15 02:27:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_trapdoor": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-15 02:27:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
       "has_salmon": "2025-01-15 02:02:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_door": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-15 02:27:53 +0000"
     },
     "done": true
   },
@@ -6167,9 +6194,21 @@
     },
     "done": true
   },
+  "adorabuild_structures:treasure_seeker": {
+    "criteria": {
+      "oak_tree_1": "2025-01-15 02:33:18 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2025-01-15 02:02:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-15 02:27:53 +0000"
     },
     "done": true
   },
@@ -6179,9 +6218,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-15 02:27:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_salmon": "2025-01-15 02:02:00 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:recipes/redstone/copper_button": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-15 02:27:53 +0000"
     },
     "done": true
   },

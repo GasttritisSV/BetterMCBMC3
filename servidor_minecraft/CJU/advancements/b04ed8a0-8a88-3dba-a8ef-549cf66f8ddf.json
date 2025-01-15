@@ -1010,6 +1010,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-01-15 00:45:33 +0000"
+    },
+    "done": true
+  },
   "charm:woodcutters/recipes/woodcutter": {
     "criteria": {
       "has_planks": "2025-01-14 23:33:45 +0000"
@@ -2164,6 +2170,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-01-15 00:41:17 +0000",
       "apple": "2025-01-14 23:30:19 +0000",
       "bread": "2025-01-14 23:51:37 +0000",
       "cookie": "2025-01-14 23:33:12 +0000"
@@ -2568,6 +2575,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-01-15 00:45:33 +0000",
       "minecraft:skeleton": "2025-01-14 23:56:46 +0000",
       "minecraft:spider": "2025-01-15 00:24:33 +0000",
       "minecraft:zombie": "2025-01-14 23:40:40 +0000",
@@ -3324,6 +3332,12 @@
     },
     "done": true
   },
+  "illagerinvasion:recipes/misc/platinum_sheet": {
+    "criteria": {
+      "has_platinum_chunk": "2025-01-15 00:45:33 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/stalagnate_taburet": {
     "criteria": {
       "has_stick": "2025-01-14 23:27:12 +0000"
@@ -3759,6 +3773,12 @@
   "betterend:recipes/decorations/umbrella_tree_taburet": {
     "criteria": {
       "has_stick": "2025-01-14 23:27:12 +0000"
+    },
+    "done": true
+  },
+  "charm:item_restocking/restocked_current_item": {
+    "criteria": {
+      "restocked_current_item": "2025-01-15 00:39:30 +0000"
     },
     "done": true
   },

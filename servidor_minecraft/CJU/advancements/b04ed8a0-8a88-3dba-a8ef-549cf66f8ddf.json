@@ -2233,7 +2233,8 @@
       "cooked_porkchop": "2025-01-15 00:41:17 +0000",
       "apple": "2025-01-14 23:30:19 +0000",
       "bread": "2025-01-14 23:51:37 +0000",
-      "cookie": "2025-01-14 23:33:12 +0000"
+      "cookie": "2025-01-14 23:33:12 +0000",
+      "cooked_salmon": "2025-01-15 01:43:55 +0000"
     },
     "done": false
   },
@@ -3975,6 +3976,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-01-15 01:44:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
       "has_gray_wool": "2025-01-15 01:23:56 +0000"
@@ -4098,6 +4105,12 @@
   "minecraft:recipes/building_blocks/magenta_terracotta": {
     "criteria": {
       "has_terracotta": "2025-01-15 01:23:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-01-15 01:44:50 +0000"
     },
     "done": true
   },
@@ -4275,6 +4288,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/skillet": {
+    "criteria": {
+      "has_brick": "2025-01-15 01:47:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-01-15 01:24:28 +0000"
@@ -4293,6 +4312,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-01-15 01:47:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-15 01:24:28 +0000"
@@ -4302,6 +4327,12 @@
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2025-01-15 01:15:04 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/stone_shovel_repairing": {
+    "criteria": {
+      "has_stone_shovel": "2025-01-15 01:44:03 +0000"
     },
     "done": true
   },
@@ -4587,6 +4618,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/oven": {
+    "criteria": {
+      "has_oven": "2025-01-15 01:47:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_terracotta": {
     "criteria": {
       "has_terracotta": "2025-01-15 01:23:56 +0000"
@@ -4629,9 +4666,21 @@
     },
     "done": true
   },
+  "charm:kilns/recipes/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-01-15 01:44:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2025-01-15 01:25:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-01-15 01:47:45 +0000"
     },
     "done": true
   },
@@ -4794,6 +4843,12 @@
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_chestplate": "2025-01-15 01:17:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-01-15 01:47:45 +0000"
     },
     "done": true
   },

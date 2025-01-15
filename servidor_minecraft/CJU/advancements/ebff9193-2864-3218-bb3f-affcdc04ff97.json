@@ -140,10 +140,12 @@
     "criteria": {
       "minecraft:old_growth_birch_forest": "2025-01-14 19:53:46 +0000",
       "minecraft:forest": "2025-01-14 23:32:16 +0000",
+      "minecraft:jungle": "2025-01-14 23:57:43 +0000",
       "minecraft:sparse_jungle": "2025-01-14 19:16:41 +0000",
       "minecraft:river": "2025-01-14 23:32:23 +0000",
       "minecraft:lush_caves": "2025-01-14 20:04:58 +0000",
-      "minecraft:birch_forest": "2025-01-14 20:03:00 +0000"
+      "minecraft:birch_forest": "2025-01-14 20:03:00 +0000",
+      "minecraft:plains": "2025-01-15 00:02:11 +0000"
     },
     "done": false
   },
@@ -4790,9 +4792,27 @@
     },
     "done": true
   },
+  "mynethersdelight:recipes/cooking/cooking/spicy_noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-14 23:58:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-14 23:35:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-01-15 00:00:58 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/gray_cushion": {
+    "criteria": {
+      "has_gray_cushion": "2025-01-15 00:00:58 +0000"
     },
     "done": true
   },
@@ -4838,6 +4858,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-01-14 23:58:50 +0000"
+    },
+    "done": true
+  },
   "natures_spirit:recipes/transportation/palo_verde_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-14 23:35:21 +0000"
@@ -4847,6 +4873,18 @@
   "aether:recipes/combat/leather_helmet_repairing": {
     "criteria": {
       "has_leather_helmet": "2025-01-14 23:33:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-01-15 00:00:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-01-14 23:58:50 +0000"
     },
     "done": true
   },
@@ -4904,9 +4942,27 @@
     },
     "done": true
   },
+  "another_furniture:recipes/gray_tall_stool": {
+    "criteria": {
+      "has_wool": "2025-01-15 00:00:58 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/iron_shovel_repairing": {
+    "criteria": {
+      "has_iron_shovel": "2025-01-14 23:54:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-14 23:35:21 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/gray_lamp": {
+    "criteria": {
+      "has_wool": "2025-01-15 00:00:58 +0000"
     },
     "done": true
   },
@@ -4931,6 +4987,12 @@
   "natures_spirit:recipes/transportation/joshua_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-14 23:35:21 +0000"
+    },
+    "done": true
+  },
+  "comforts:recipes/decorations/hammock_gray": {
+    "criteria": {
+      "has_gray_wool": "2025-01-15 00:00:58 +0000"
     },
     "done": true
   },
@@ -4964,9 +5026,21 @@
     },
     "done": true
   },
+  "another_furniture:recipes/gray_stool": {
+    "criteria": {
+      "has_wool": "2025-01-15 00:00:58 +0000"
+    },
+    "done": true
+  },
   "natures_spirit:recipes/transportation/willow_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-14 23:35:21 +0000"
+    },
+    "done": true
+  },
+  "comforts:recipes/decorations/sleeping_bag_gray": {
+    "criteria": {
+      "has_gray_wool": "2025-01-15 00:00:58 +0000"
     },
     "done": true
   },
@@ -5009,6 +5083,12 @@
   "natures_spirit:recipes/transportation/cypress_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-14 23:35:21 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/gray_curtain": {
+    "criteria": {
+      "has_wool": "2025-01-15 00:00:58 +0000"
     },
     "done": true
   },
@@ -5086,6 +5166,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-01-15 00:00:58 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/fish_stew": {
     "criteria": {
       "has_any_ingredient": "2025-01-14 23:32:57 +0000"
@@ -5104,6 +5190,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-14 23:58:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-14 23:35:21 +0000"
@@ -5113,6 +5205,18 @@
   "biomesoplenty:recipes/transportation/magic_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-14 23:35:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-01-14 23:58:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-14 23:58:50 +0000"
     },
     "done": true
   },
@@ -5143,6 +5247,24 @@
   "aether:recipes/combat/leather_chestplate_repairing": {
     "criteria": {
       "has_leather_chestplate": "2025-01-14 23:33:19 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/gray_sheet": {
+    "criteria": {
+      "has_gray_sheet": "2025-01-15 00:00:58 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:teleportation/is_near_beehive": {
+    "criteria": {
+      "is_near_beehive": "2025-01-15 00:00:30 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/gray_sofa": {
+    "criteria": {
+      "has_wool": "2025-01-15 00:00:58 +0000"
     },
     "done": true
   },

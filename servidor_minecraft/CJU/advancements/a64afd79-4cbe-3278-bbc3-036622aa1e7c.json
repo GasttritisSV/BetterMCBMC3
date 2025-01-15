@@ -1275,6 +1275,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-01-14 23:58:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-14 23:58:12 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/nether_mushroom_ladder": {
     "criteria": {
       "has_stick": "2025-01-14 23:23:50 +0000"
@@ -1511,6 +1523,12 @@
   "charm:kilns/recipes/deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-14 23:48:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-01-14 23:58:12 +0000"
     },
     "done": true
   },
@@ -2762,6 +2780,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-01-14 23:58:12 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/mahogany_boat": {
     "criteria": {
       "in_water": "2025-01-14 23:32:23 +0000"
@@ -2807,6 +2831,12 @@
   "betternether:recipes/decorations/anchor_tree_fence": {
     "criteria": {
       "has_stick": "2025-01-14 23:23:50 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:teleportation/is_near_beehive": {
+    "criteria": {
+      "is_near_beehive": "2025-01-15 00:00:31 +0000"
     },
     "done": true
   },
@@ -2889,7 +2919,8 @@
       "minecraft:jungle": "2025-01-14 23:39:03 +0000",
       "minecraft:sparse_jungle": "2025-01-14 23:17:05 +0000",
       "minecraft:river": "2025-01-14 23:32:23 +0000",
-      "minecraft:birch_forest": "2025-01-14 23:34:09 +0000"
+      "minecraft:birch_forest": "2025-01-14 23:34:09 +0000",
+      "minecraft:plains": "2025-01-15 00:02:27 +0000"
     },
     "done": false
   },

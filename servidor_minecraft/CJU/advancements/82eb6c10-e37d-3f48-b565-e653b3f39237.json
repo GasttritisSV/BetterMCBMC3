@@ -131,6 +131,18 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/jacaranda_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-15 02:38:40 +0000"
+    },
+    "done": true
+  },
+  "charm:azalea_wood/recipes/azalea_chest_boat_with_vanilla_chest": {
+    "criteria": {
+      "has_boat": "2025-01-15 02:38:40 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/transportation/bloom_boat": {
     "criteria": {
       "in_water": "2025-01-15 00:46:23 +0000"
@@ -170,6 +182,12 @@
   "farmersdelight:recipes/cooking/chicken_soup": {
     "criteria": {
       "has_any_ingredient": "2025-01-15 01:06:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-15 02:38:40 +0000"
     },
     "done": true
   },
@@ -281,6 +299,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-15 02:38:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-01-15 00:53:37 +0000"
@@ -302,6 +326,12 @@
   "adorabuild_structures:overworld_structures": {
     "criteria": {
       "always": "2025-01-15 00:44:22 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/fir_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-15 02:38:40 +0000"
     },
     "done": true
   },
@@ -353,6 +383,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-15 02:38:40 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/apple_cider": {
     "criteria": {
       "has_apple": "2025-01-15 00:47:19 +0000"
@@ -392,6 +428,12 @@
   "stoneworks:recipes/building_blocks/stone_plate_stairs_from_stone_or_stone_plates_stonecutting": {
     "criteria": {
       "has_stone_or_stone_plates": "2025-01-15 01:18:34 +0000"
+    },
+    "done": true
+  },
+  "charm:ebony_wood/recipes/ebony_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-15 02:38:40 +0000"
     },
     "done": true
   },
@@ -455,9 +497,21 @@
     },
     "done": true
   },
+  "natures_spirit:recipes/transportation/larch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-15 02:38:40 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/redstone/stalagnate_gate": {
     "criteria": {
       "has_stick": "2025-01-15 00:53:13 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/bloom_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-15 02:38:40 +0000"
     },
     "done": true
   },
@@ -512,6 +566,12 @@
   "betterend:recipes/redstone/pythadendron_gate": {
     "criteria": {
       "has_stick": "2025-01-15 00:53:13 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/palo_verde_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-15 02:38:40 +0000"
     },
     "done": true
   },
@@ -767,6 +827,12 @@
     },
     "done": true
   },
+  "natures_spirit:recipes/transportation/maple_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-15 02:38:40 +0000"
+    },
+    "done": true
+  },
   "charm:kilns/recipes/stone": {
     "criteria": {
       "has_cobblestone": "2025-01-15 00:51:43 +0000"
@@ -827,6 +893,18 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/umbran_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-15 02:38:40 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-15 02:38:40 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/cherry_bar_stool": {
     "criteria": {
       "has_stick": "2025-01-15 00:53:13 +0000"
@@ -872,6 +950,12 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2025-01-15 01:18:34 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/coconut_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-15 02:38:40 +0000"
     },
     "done": true
   },
@@ -1227,6 +1311,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/redwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-15 02:38:40 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/copy_handle_attachment": {
     "criteria": {
       "has_stick": "2025-01-15 00:53:13 +0000"
@@ -1266,6 +1356,12 @@
   "charm:core/decoration": {
     "criteria": {
       "player_joined": "2025-01-15 00:44:22 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/empyreal_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-15 02:38:40 +0000"
     },
     "done": true
   },
@@ -1344,6 +1440,12 @@
   "aether:recipes/building_blocks/skyroot_bookshelf": {
     "criteria": {
       "has_book": "2025-01-15 00:47:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-15 02:38:40 +0000"
     },
     "done": true
   },
@@ -1509,6 +1611,12 @@
     },
     "done": true
   },
+  "natures_spirit:recipes/transportation/sugi_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-15 02:38:40 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/nether_mushroom_fence": {
     "criteria": {
       "has_stick": "2025-01-15 00:53:13 +0000"
@@ -1518,6 +1626,12 @@
   "biomesoplenty:recipes/transportation/empyreal_boat": {
     "criteria": {
       "in_water": "2025-01-15 00:46:23 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/cedar_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-15 02:38:40 +0000"
     },
     "done": true
   },
@@ -1554,6 +1668,12 @@
   "betterend:recipes/decorations/jellyshroom_bar_stool": {
     "criteria": {
       "has_stick": "2025-01-15 00:53:13 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/olive_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-15 02:38:40 +0000"
     },
     "done": true
   },
@@ -1605,6 +1725,12 @@
     },
     "done": true
   },
+  "natures_spirit:recipes/transportation/joshua_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-15 02:38:40 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/ratatouille": {
     "criteria": {
       "has_any_ingredient": "2025-01-15 00:48:06 +0000"
@@ -1626,6 +1752,12 @@
   "minecraft:recipes/misc/workbench/alchemy_bench": {
     "criteria": {
       "has_alchemy_bench": "2025-01-15 00:47:49 +0000"
+    },
+    "done": true
+  },
+  "charm:ebony_wood/recipes/ebony_chest_boat_with_vanilla_chest": {
+    "criteria": {
+      "has_boat": "2025-01-15 02:38:40 +0000"
     },
     "done": true
   },
@@ -1653,6 +1785,12 @@
     },
     "done": true
   },
+  "natures_spirit:recipes/transportation/fir_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-15 02:38:40 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/mutton_wrap": {
     "criteria": {
       "has_mutton": "2025-01-15 02:22:36 +0000"
@@ -1674,6 +1812,12 @@
   "stoneworks:recipes/building_blocks/stone_shingle_slab_from_stone_or_stone_shingles_stonecutting": {
     "criteria": {
       "has_stone_or_stone_shingles": "2025-01-15 01:18:34 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/redwood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-15 02:38:40 +0000"
     },
     "done": true
   },
@@ -1848,6 +1992,12 @@
     },
     "done": true
   },
+  "natures_spirit:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-15 02:38:40 +0000"
+    },
+    "done": true
+  },
   "adorabuild_structures:treasure_seeker": {
     "criteria": {
       "oak_tree_1": "2025-01-15 01:08:57 +0000"
@@ -1938,6 +2088,12 @@
     },
     "done": true
   },
+  "natures_spirit:recipes/transportation/saxaul_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-15 02:38:40 +0000"
+    },
+    "done": true
+  },
   "charm:vanilla_wood_variants/recipes/dark_oak_bookshelf": {
     "criteria": {
       "has_book": "2025-01-15 00:47:36 +0000"
@@ -2008,6 +2164,12 @@
   "natures_spirit:recipes/transportation/mahogany_boat": {
     "criteria": {
       "in_water": "2025-01-15 00:46:23 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/pine_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-15 02:38:40 +0000"
     },
     "done": true
   },
@@ -2098,6 +2260,12 @@
   "handcrafted:recipes/misc/oak_table": {
     "criteria": {
       "has_oak_table": "2025-01-15 01:40:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-15 02:38:40 +0000"
     },
     "done": true
   },
@@ -2200,6 +2368,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/maple_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-15 02:38:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2025-01-15 01:18:34 +0000"
@@ -2215,6 +2389,12 @@
   "betterend:recipes/decorations/lucernia_fence": {
     "criteria": {
       "has_stick": "2025-01-15 00:53:13 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/palm_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-15 02:38:40 +0000"
     },
     "done": true
   },
@@ -2245,6 +2425,12 @@
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2025-01-15 01:06:12 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/cypress_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-15 02:38:40 +0000"
     },
     "done": true
   },
@@ -2296,6 +2482,12 @@
     },
     "done": true
   },
+  "natures_spirit:recipes/transportation/ghaf_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-15 02:38:40 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/jellyshroom_fence": {
     "criteria": {
       "has_stick": "2025-01-15 00:53:13 +0000"
@@ -2329,6 +2521,25 @@
   "charm:core/world": {
     "criteria": {
       "player_joined": "2025-01-15 00:44:22 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/echo_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-15 02:38:40 +0000"
+    },
+    "done": true
+  },
+  "charm:azalea_wood/recipes/azalea_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-15 02:38:40 +0000",
+      "has_the_recipe": "2025-01-15 02:38:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-01-15 02:38:40 +0000"
     },
     "done": true
   },
@@ -2483,6 +2694,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/hellbark_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-15 02:38:40 +0000"
+    },
+    "done": true
+  },
   "the_bumblezone:root": {
     "criteria": {
       "instant_granted": "2025-01-15 00:44:22 +0000"
@@ -2582,6 +2799,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-01-15 00:53:34 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/wisteria_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-15 02:38:40 +0000"
     },
     "done": true
   },
@@ -3031,6 +3254,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-15 02:38:40 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "jacaranda_glade": "2025-01-15 02:35:34 +0000",
@@ -3042,6 +3271,12 @@
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2025-01-15 01:40:40 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-15 02:38:40 +0000"
     },
     "done": true
   },
@@ -3072,6 +3307,12 @@
   "bclib:recipes/transportation/tag_rail": {
     "criteria": {
       "has_stick": "2025-01-15 00:53:13 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/mahogany_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-15 02:38:40 +0000"
     },
     "done": true
   },
@@ -3159,6 +3400,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-15 02:38:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-15 02:38:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-01-15 00:46:23 +0000"
@@ -3198,6 +3451,12 @@
   "handcrafted:recipes/misc/tropical_fish_trophy": {
     "criteria": {
       "has_tropical_fish_trophy": "2025-01-15 01:15:44 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/dead_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-15 02:38:40 +0000"
     },
     "done": true
   },
@@ -3595,6 +3854,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/mahogany_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-15 02:38:40 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/anchor_tree_ladder": {
     "criteria": {
       "has_stick": "2025-01-15 00:53:13 +0000"
@@ -3646,6 +3911,18 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-01-15 02:26:39 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/transportation/aspen_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-15 02:38:40 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/transportation/skyroot_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-15 02:38:40 +0000"
     },
     "done": true
   },

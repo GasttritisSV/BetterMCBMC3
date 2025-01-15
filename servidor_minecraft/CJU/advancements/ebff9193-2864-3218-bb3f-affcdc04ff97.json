@@ -2023,6 +2023,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "jade_cliffs": "2025-01-15 02:44:19 +0000",
       "volcanic_plains": "2025-01-14 19:40:52 +0000",
       "glowing_grotto": "2025-01-14 20:04:59 +0000",
       "lavender_field": "2025-01-15 02:00:18 +0000",
@@ -2044,7 +2045,9 @@
       "cookie": "2025-01-14 23:33:15 +0000",
       "rotten_flesh": "2025-01-15 02:30:58 +0000",
       "cooked_mutton": "2025-01-14 19:52:19 +0000",
-      "cooked_beef": "2025-01-14 20:14:10 +0000"
+      "cooked_cod": "2025-01-15 02:42:40 +0000",
+      "cooked_beef": "2025-01-14 20:14:10 +0000",
+      "cooked_salmon": "2025-01-15 02:43:41 +0000"
     },
     "done": false
   },
@@ -4785,7 +4788,8 @@
     "criteria": {
       "birch_house_medium_2": "2025-01-14 23:32:51 +0000",
       "oak_house_small_3": "2025-01-14 23:40:18 +0000",
-      "oak_tree_1": "2025-01-15 02:33:18 +0000"
+      "oak_tree_1": "2025-01-15 02:33:18 +0000",
+      "oak_house_small_2": "2025-01-15 02:43:27 +0000"
     },
     "done": false
   },
@@ -6140,6 +6144,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-01-15 02:43:34 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_reed_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-15 02:43:34 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/building_blocks/dragon_tree_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-15 02:43:34 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/iron_sword_repairing": {
     "criteria": {
       "has_iron_sword": "2025-01-15 02:13:44 +0000"
@@ -6152,9 +6174,87 @@
     },
     "done": true
   },
+  "betterend:recipes/building_blocks/end_lotus_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-15 02:43:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2025-01-15 02:02:00 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/mushroom_fir_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-15 02:43:34 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/building_blocks/mossy_glowshroom_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-15 02:43:34 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/building_blocks/lacugrove_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-15 02:43:34 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/crimson_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-15 02:43:34 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/building_blocks/umbrella_tree_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-15 02:43:34 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_lectern": {
+    "criteria": {
+      "has_book": "2025-01-15 02:43:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-15 02:43:34 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/building_blocks/tenanea_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-15 02:43:34 +0000"
+    },
+    "done": true
+  },
+  "charm:vanilla_wood_variants/recipes/birch_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-15 02:43:34 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/building_blocks/helix_tree_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-15 02:43:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-15 02:43:34 +0000"
+    },
+    "done": true
+  },
+  "charm:vanilla_wood_variants/recipes/acacia_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-15 02:43:34 +0000"
     },
     "done": true
   },
@@ -6164,9 +6264,27 @@
     },
     "done": true
   },
+  "charm:vanilla_wood_variants/recipes/lectern_with_custom_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-15 02:43:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/copper_trapdoor": {
     "criteria": {
       "has_copper_ingot": "2025-01-15 02:27:53 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/anchor_tree_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-15 02:43:34 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/skyroot_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-15 02:43:34 +0000"
     },
     "done": true
   },
@@ -6182,6 +6300,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/warped_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-15 02:43:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2025-01-15 02:02:00 +0000"
@@ -6194,11 +6318,23 @@
     },
     "done": true
   },
+  "charm:vanilla_wood_variants/recipes/bamboo_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-15 02:43:34 +0000"
+    },
+    "done": true
+  },
   "adorabuild_structures:treasure_seeker": {
     "criteria": {
       "oak_tree_1": "2025-01-15 02:33:18 +0000"
     },
     "done": false
+  },
+  "charm:vanilla_wood_variants/recipes/dark_oak_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-15 02:43:34 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
@@ -6206,9 +6342,27 @@
     },
     "done": true
   },
+  "charm:atlases/recipes/atlas": {
+    "criteria": {
+      "has_book": "2025-01-15 02:43:34 +0000"
+    },
+    "done": true
+  },
+  "charm:ebony_wood/recipes/ebony_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-15 02:43:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lightning_rod": {
     "criteria": {
       "has_copper_ingot": "2025-01-15 02:27:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-01-15 02:43:34 +0000"
     },
     "done": true
   },
@@ -6224,15 +6378,111 @@
     },
     "done": true
   },
+  "betterend:recipes/building_blocks/pythadendron_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-15 02:43:34 +0000"
+    },
+    "done": true
+  },
+  "charm:vanilla_wood_variants/recipes/mangrove_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-15 02:43:34 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/stalagnate_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-15 02:43:34 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/stackable_book": {
+    "criteria": {
+      "has_stackable_book": "2025-01-15 02:43:34 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/building_blocks/lucernia_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-15 02:43:34 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/book_of_lore": {
+    "criteria": {
+      "has_book": "2025-01-15 02:43:34 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/wart_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-15 02:43:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_salmon": "2025-01-15 02:02:00 +0000"
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/nether_mushroom_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-15 02:43:34 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/willow_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-15 02:43:34 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/rubeus_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-15 02:43:34 +0000"
+    },
+    "done": true
+  },
   "friendsandfoes:recipes/redstone/copper_button": {
     "criteria": {
       "has_copper_ingot": "2025-01-15 02:27:53 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/building_blocks/jellyshroom_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-15 02:43:34 +0000"
+    },
+    "done": true
+  },
+  "charm:vanilla_wood_variants/recipes/warped_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-15 02:43:34 +0000"
+    },
+    "done": true
+  },
+  "charm:vanilla_wood_variants/recipes/cherry_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-15 02:43:34 +0000"
+    },
+    "done": true
+  },
+  "charm:vanilla_wood_variants/recipes/crimson_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-15 02:43:34 +0000"
+    },
+    "done": true
+  },
+  "charm:azalea_wood/recipes/azalea_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-15 02:43:34 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_sakura_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-15 02:43:34 +0000"
     },
     "done": true
   },

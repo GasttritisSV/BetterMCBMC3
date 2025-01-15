@@ -138,10 +138,13 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:flower_forest": "2025-01-15 00:03:03 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-14 23:32:12 +0000",
       "minecraft:forest": "2025-01-14 23:32:15 +0000",
       "minecraft:jungle": "2025-01-14 23:37:29 +0000",
       "minecraft:sparse_jungle": "2025-01-14 18:59:58 +0000",
+      "minecraft:sunflower_plains": "2025-01-15 00:03:13 +0000",
+      "minecraft:cherry_grove": "2025-01-15 00:03:35 +0000",
       "minecraft:river": "2025-01-14 23:32:18 +0000",
       "minecraft:birch_forest": "2025-01-14 23:34:07 +0000",
       "minecraft:plains": "2025-01-15 00:02:23 +0000"
@@ -827,9 +830,21 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/tnt_from_bop_sand": {
+    "criteria": {
+      "has_gunpowder": "2025-01-15 00:05:22 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/end_lotus_ladder": {
     "criteria": {
       "has_stick": "2025-01-14 23:27:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-01-15 00:03:45 +0000"
     },
     "done": true
   },
@@ -923,6 +938,12 @@
     },
     "done": true
   },
+  "aether:recipes/redstone/skyroot_piston": {
+    "criteria": {
+      "has_redstone": "2025-01-15 00:05:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2025-01-14 23:27:40 +0000"
@@ -962,6 +983,12 @@
   "betternether:recipes/decorations/anchor_tree_bar_stool": {
     "criteria": {
       "has_stick": "2025-01-14 23:27:12 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/redwood_planks": {
+    "criteria": {
+      "has_logs": "2025-01-15 00:07:07 +0000"
     },
     "done": true
   },
@@ -1145,6 +1172,12 @@
     },
     "done": true
   },
+  "charm:gunpowder_block/recipes/gunpowder_block": {
+    "criteria": {
+      "has_gunpowder": "2025-01-15 00:05:22 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/oak_chair": {
     "criteria": {
       "has_stick": "2025-01-14 23:27:12 +0000"
@@ -1217,6 +1250,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-01-15 00:03:45 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/mushroom_fir_taburet": {
     "criteria": {
       "has_stick": "2025-01-14 23:27:12 +0000"
@@ -1250,6 +1289,12 @@
   "betternether:recipes/decorations/mushroom_fir_sign": {
     "criteria": {
       "has_stick": "2025-01-14 23:27:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-01-15 00:05:22 +0000"
     },
     "done": true
   },
@@ -1385,6 +1430,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_horse_armor": "2025-01-15 00:05:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-01-14 23:28:37 +0000"
@@ -1469,6 +1520,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-01-15 00:05:20 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/spruce_taburet": {
     "criteria": {
       "has_stick": "2025-01-14 23:27:12 +0000"
@@ -1496,6 +1553,12 @@
   "betternether:recipes/decorations/bar_stool_cincinnasite": {
     "criteria": {
       "has_stick": "2025-01-14 23:27:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-01-15 00:05:18 +0000"
     },
     "done": true
   },
@@ -1577,6 +1640,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-01-15 00:03:45 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/end_lotus_fence": {
     "criteria": {
       "has_stick": "2025-01-14 23:27:12 +0000"
@@ -1592,6 +1661,12 @@
   "betternether:recipes/redstone/wart_gate": {
     "criteria": {
       "has_stick": "2025-01-14 23:27:12 +0000"
+    },
+    "done": true
+  },
+  "charm:copper_pistons/recipes/copper_piston": {
+    "criteria": {
+      "has_redstone": "2025-01-15 00:05:18 +0000"
     },
     "done": true
   },
@@ -1625,6 +1700,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-01-15 00:05:20 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/nether_mushroom_fence": {
     "criteria": {
       "has_stick": "2025-01-14 23:27:12 +0000"
@@ -1649,6 +1730,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-01-15 00:05:18 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/black_stool": {
     "criteria": {
       "has_wool": "2025-01-14 23:33:32 +0000"
@@ -1658,6 +1745,12 @@
   "betterend:recipes/decorations/jellyshroom_bar_stool": {
     "criteria": {
       "has_stick": "2025-01-14 23:27:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/pumpkin_seeds_from_slice": {
+    "criteria": {
+      "has_pumpkin_slice": "2025-01-15 00:04:16 +0000"
     },
     "done": true
   },
@@ -1831,6 +1924,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-01-15 00:05:18 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/transportation/willow_chest_boat": {
     "criteria": {
       "has_tag_c_chests": "2025-01-14 23:33:33 +0000"
@@ -1846,6 +1945,12 @@
   "aether:recipes/decorations/skyroot_bed": {
     "criteria": {
       "has_wool": "2025-01-14 23:33:32 +0000"
+    },
+    "done": true
+  },
+  "bclib:recipes/tools/tag_compass": {
+    "criteria": {
+      "has_redstone": "2025-01-15 00:05:18 +0000"
     },
     "done": true
   },
@@ -1975,6 +2080,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-01-15 00:05:18 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_fancy_bed": {
     "criteria": {
       "has_oak_fancy_bed": "2025-01-14 23:33:45 +0000"
@@ -1990,6 +2101,12 @@
   "minecraft:recipes/decorations/black_carpet": {
     "criteria": {
       "has_black_wool": "2025-01-14 23:33:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_horse_armor": "2025-01-15 00:05:13 +0000"
     },
     "done": true
   },
@@ -2061,6 +2178,12 @@
     },
     "done": true
   },
+  "aether:recipes/redstone/skyroot_note_block": {
+    "criteria": {
+      "has_redstone": "2025-01-15 00:05:18 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/crimson_taburet": {
     "criteria": {
       "has_stick": "2025-01-14 23:27:12 +0000"
@@ -2115,6 +2238,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2025-01-15 00:05:18 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/salmon_trophy": {
     "criteria": {
       "has_salmon_trophy": "2025-01-14 23:33:45 +0000"
@@ -2142,6 +2271,12 @@
   "handcrafted:recipes/misc/silverfish_trophy": {
     "criteria": {
       "has_silverfish_trophy": "2025-01-14 23:33:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-01-15 00:05:18 +0000"
     },
     "done": true
   },
@@ -2343,6 +2478,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-01-15 00:05:18 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/end_lotus_sign": {
     "criteria": {
       "has_stick": "2025-01-14 23:27:12 +0000"
@@ -2500,6 +2641,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-01-15 00:05:18 +0000"
+    },
+    "done": true
+  },
   "charm:vanilla_wood_variants/recipes/oak_ladder": {
     "criteria": {
       "has_stick": "2025-01-14 23:27:12 +0000"
@@ -2565,6 +2712,7 @@
       "volcanic_plains": "2025-01-14 23:37:49 +0000",
       "shrubland": "2025-01-14 23:34:50 +0000",
       "rocky_shrubland": "2025-01-14 23:35:22 +0000",
+      "redwood_forest": "2025-01-15 00:06:41 +0000",
       "grassland": "2025-01-14 23:35:58 +0000"
     },
     "done": false
@@ -2590,6 +2738,12 @@
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2025-01-14 23:33:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-15 00:04:16 +0000"
     },
     "done": true
   },
@@ -2767,6 +2921,12 @@
     },
     "done": true
   },
+  "betternether:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_redstone": "2025-01-15 00:05:18 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/beef_stew": {
     "criteria": {
       "has_any_ingredient": "2025-01-14 23:32:51 +0000"
@@ -2875,6 +3035,12 @@
     },
     "done": true
   },
+  "charm:redstone_sand/recipes/redstone_sand": {
+    "criteria": {
+      "has_redstone": "2025-01-15 00:05:18 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/stone_axe_repairing": {
     "criteria": {
       "has_stone_axe": "2025-01-14 23:33:30 +0000"
@@ -2902,6 +3068,18 @@
   "betterend:recipes/decorations/umbrella_tree_taburet": {
     "criteria": {
       "has_stick": "2025-01-14 23:27:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-01-15 00:05:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/pumpkin_from_slices": {
+    "criteria": {
+      "has_pumpkin_slice": "2025-01-15 00:04:16 +0000"
     },
     "done": true
   },

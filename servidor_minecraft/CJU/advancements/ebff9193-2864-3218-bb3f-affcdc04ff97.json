@@ -138,10 +138,13 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:flower_forest": "2025-01-15 00:03:07 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-14 19:53:46 +0000",
       "minecraft:forest": "2025-01-14 23:32:16 +0000",
       "minecraft:jungle": "2025-01-14 23:57:43 +0000",
       "minecraft:sparse_jungle": "2025-01-14 19:16:41 +0000",
+      "minecraft:sunflower_plains": "2025-01-15 00:03:17 +0000",
+      "minecraft:cherry_grove": "2025-01-15 00:03:47 +0000",
       "minecraft:river": "2025-01-14 23:32:23 +0000",
       "minecraft:lush_caves": "2025-01-14 20:04:58 +0000",
       "minecraft:birch_forest": "2025-01-14 20:03:00 +0000",
@@ -2022,6 +2025,7 @@
       "glowing_grotto": "2025-01-14 20:04:59 +0000",
       "shrubland": "2025-01-14 23:34:48 +0000",
       "rocky_shrubland": "2025-01-14 19:41:10 +0000",
+      "redwood_forest": "2025-01-15 00:08:38 +0000",
       "grassland": "2025-01-14 23:36:23 +0000"
     },
     "done": false
@@ -4774,6 +4778,12 @@
     },
     "done": true
   },
+  "magnumtorch:recipes/decorations/emerald_magnum_torch": {
+    "criteria": {
+      "has_emerald": "2025-01-15 00:06:22 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/jacaranda_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-14 23:35:21 +0000"
@@ -4783,6 +4793,12 @@
   "charm:azalea_wood/recipes/azalea_chest_boat_with_vanilla_chest": {
     "criteria": {
       "has_boat": "2025-01-14 23:35:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-01-15 00:06:42 +0000"
     },
     "done": true
   },
@@ -4810,6 +4826,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/redwood_planks": {
+    "criteria": {
+      "has_logs": "2025-01-15 00:08:45 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/gray_cushion": {
     "criteria": {
       "has_gray_cushion": "2025-01-15 00:00:58 +0000"
@@ -4825,6 +4847,12 @@
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-14 23:35:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-01-15 00:05:13 +0000"
     },
     "done": true
   },
@@ -4851,6 +4879,12 @@
       "has_boat": "2025-01-14 23:35:21 +0000"
     },
     "done": true
+  },
+  "morevillagers:all_professions_traded": {
+    "criteria": {
+      "armorer": "2025-01-15 00:06:19 +0000"
+    },
+    "done": false
   },
   "deeperdarker:recipes/transportation/bloom_chest_boat": {
     "criteria": {
@@ -4918,9 +4952,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-01-15 00:05:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-01-14 23:40:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-01-15 00:06:22 +0000"
     },
     "done": true
   },
@@ -4954,6 +5000,12 @@
     },
     "done": true
   },
+  "tradingpost:recipes/decorations/trading_post": {
+    "criteria": {
+      "has_emerald": "2025-01-15 00:06:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-14 23:35:21 +0000"
@@ -4963,6 +5015,12 @@
   "another_furniture:recipes/gray_lamp": {
     "criteria": {
       "has_wool": "2025-01-15 00:00:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-01-15 00:05:14 +0000"
     },
     "done": true
   },
@@ -5050,6 +5108,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-01-15 00:04:06 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/pine_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-14 23:35:21 +0000"
@@ -5059,6 +5123,12 @@
   "farmersdelight:main/get_fd_seed": {
     "criteria": {
       "onion": "2025-01-14 23:32:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-01-15 00:05:19 +0000"
     },
     "done": true
   },
@@ -5098,6 +5168,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-01-15 00:04:06 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/transportation/echo_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-14 23:35:21 +0000"
@@ -5117,6 +5193,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-01-15 00:04:06 +0000"
+    },
+    "done": true
+  },
   "natures_spirit:adventure/collect_all_flowers": {
     "criteria": {
       "lilac": "2025-01-14 23:44:59 +0000"
@@ -5132,6 +5214,12 @@
   "biomesoplenty:recipes/transportation/hellbark_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-14 23:35:21 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:first_trade": {
+    "criteria": {
+      "villagertrade": "2025-01-15 00:06:19 +0000"
     },
     "done": true
   },
@@ -5190,6 +5278,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-01-15 00:05:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-01-15 00:05:19 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/noodle_soup": {
     "criteria": {
       "has_any_ingredient": "2025-01-14 23:58:50 +0000"
@@ -5223,6 +5323,18 @@
   "natures_spirit:recipes/transportation/mahogany_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-14 23:35:21 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_emerald_ingot": {
+    "criteria": {
+      "has_minecraft:emerald": "2025-01-15 00:06:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-01-15 00:06:19 +0000"
     },
     "done": true
   },

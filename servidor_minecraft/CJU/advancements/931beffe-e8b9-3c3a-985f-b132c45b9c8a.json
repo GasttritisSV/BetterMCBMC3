@@ -461,6 +461,12 @@
     },
     "done": true
   },
+  "charm:kilns/recipes/kiln": {
+    "criteria": {
+      "has_furnace": "2025-01-15 01:37:13 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/nether_reed_ladder": {
     "criteria": {
       "has_stick": "2025-01-15 01:08:32 +0000"
@@ -542,6 +548,12 @@
   "bclib:recipes/misc/tag_bucket": {
     "criteria": {
       "has_tag_c_ingots/iron": "2025-01-15 01:17:27 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/end_stone_smelter": {
+    "criteria": {
+      "has_tag_wover_furnaces": "2025-01-15 01:37:13 +0000"
     },
     "done": true
   },
@@ -911,6 +923,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-01-15 01:37:13 +0000"
+    },
+    "done": true
+  },
   "morevillagers:all_villages": {
     "criteria": {
       "taiga": "2025-01-15 00:50:52 +0000",
@@ -1206,6 +1224,12 @@
   "betternether:recipes/redstone/wart_gate": {
     "criteria": {
       "has_stick": "2025-01-15 01:08:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-01-15 01:29:22 +0000"
     },
     "done": true
   },
@@ -1530,6 +1554,12 @@
   "morevillagers:root": {
     "criteria": {
       "always": "2025-01-15 00:50:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-01-15 01:29:22 +0000"
     },
     "done": true
   },
@@ -2156,6 +2186,12 @@
   "aether:recipes/combat/stone_sword_repairing": {
     "criteria": {
       "has_stone_sword": "2025-01-15 01:08:45 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_fletching_table": {
+    "criteria": {
+      "has_flint": "2025-01-15 01:29:22 +0000"
     },
     "done": true
   },
@@ -2908,6 +2944,12 @@
   "betterend:recipes/decorations/umbrella_tree_taburet": {
     "criteria": {
       "has_stick": "2025-01-15 01:08:32 +0000"
+    },
+    "done": true
+  },
+  "charm:item_restocking/restocked_current_item": {
+    "criteria": {
+      "restocked_current_item": "2025-01-15 01:29:39 +0000"
     },
     "done": true
   },

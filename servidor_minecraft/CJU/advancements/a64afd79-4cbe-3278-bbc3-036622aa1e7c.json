@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-01-15 01:37:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-01-14 23:23:50 +0000"
@@ -185,6 +191,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-01-15 01:37:34 +0000"
+    },
+    "done": true
+  },
   "charm:vanilla_wood_variants/recipes/warped_ladder": {
     "criteria": {
       "has_stick": "2025-01-14 23:23:50 +0000"
@@ -278,6 +290,12 @@
   "mynethersdelight:recipes/cooking/cooking/spicy_noodle_soup": {
     "criteria": {
       "has_any_ingredient": "2025-01-14 23:27:47 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/aether_saddle": {
+    "criteria": {
+      "has_leather": "2025-01-15 01:37:34 +0000"
     },
     "done": true
   },
@@ -386,6 +404,12 @@
   "biomesoplenty:recipes/transportation/magic_boat": {
     "criteria": {
       "in_water": "2025-01-14 23:32:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-01-15 01:37:34 +0000"
     },
     "done": true
   },
@@ -881,6 +905,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-01-15 01:37:34 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/white_cape": {
     "criteria": {
       "has_white_wool": "2025-01-14 23:48:40 +0000"
@@ -950,6 +980,12 @@
   "farmersdelight:recipes/food/pie_crust": {
     "criteria": {
       "has_wheat": "2025-01-15 01:23:35 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_gloves": {
+    "criteria": {
+      "has_leather": "2025-01-15 01:37:34 +0000"
     },
     "done": true
   },
@@ -1178,6 +1214,12 @@
   "betterend:recipes/decorations/tenanea_bar_stool": {
     "criteria": {
       "has_stick": "2025-01-14 23:23:50 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/leather_to_stripes": {
+    "criteria": {
+      "has_leather": "2025-01-15 01:37:34 +0000"
     },
     "done": true
   },
@@ -2844,6 +2886,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-01-15 01:37:34 +0000"
+    },
+    "done": true
+  },
   "the_bumblezone:root": {
     "criteria": {
       "instant_granted": "2025-01-14 23:17:04 +0000"
@@ -3169,6 +3217,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-01-15 01:37:34 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/end_lotus_chair": {
     "criteria": {
       "has_stick": "2025-01-14 23:23:50 +0000"
@@ -3184,6 +3238,12 @@
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2025-01-15 00:27:04 +0000"
+    },
+    "done": true
+  },
+  "inmis:recipes/frayed_backpack": {
+    "criteria": {
+      "has_leather": "2025-01-15 01:37:34 +0000"
     },
     "done": true
   },
@@ -4022,6 +4082,12 @@
     },
     "done": true
   },
+  "inmis:recipes/baby_backpack": {
+    "criteria": {
+      "has_leather": "2025-01-15 01:37:34 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/chicken_sandwich": {
     "criteria": {
       "has_cooked_chicken": "2025-01-14 23:30:36 +0000"
@@ -4127,6 +4193,12 @@
   "charm:vanilla_wood_variants/recipes/chiseled_jungle_bookshelf": {
     "criteria": {
       "has_planks": "2025-01-14 23:24:47 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/copy_leather_handle_attachment": {
+    "criteria": {
+      "has_leather": "2025-01-15 01:37:34 +0000"
     },
     "done": true
   },

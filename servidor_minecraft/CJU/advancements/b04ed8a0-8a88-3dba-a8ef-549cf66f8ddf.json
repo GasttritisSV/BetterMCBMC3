@@ -3921,6 +3921,12 @@
     },
     "done": true
   },
+  "mynethersdelight:recipes/building_blocks/crafting/letios_compost_from_bone_alt": {
+    "criteria": {
+      "has_bone_meal": "2025-01-15 01:36:07 +0000"
+    },
+    "done": true
+  },
   "comforts:recipes/building_blocks/dye_hammock_pink": {
     "criteria": {
       "has_needed_dye": "2025-01-15 01:15:03 +0000"
@@ -4407,6 +4413,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-01-15 01:36:07 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/terracotta_thin_pot": {
     "criteria": {
       "has_terracotta_thin_pot": "2025-01-15 01:23:56 +0000"
@@ -4464,6 +4476,12 @@
   "minecraft:recipes/building_blocks/light_blue_terracotta": {
     "criteria": {
       "has_terracotta": "2025-01-15 01:23:56 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/sulphur_gunpowder": {
+    "criteria": {
+      "has_bone_meal": "2025-01-15 01:36:07 +0000"
     },
     "done": true
   },
@@ -4578,6 +4596,12 @@
   "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
       "has_planks": "2025-01-15 01:23:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-01-15 01:36:07 +0000"
     },
     "done": true
   },

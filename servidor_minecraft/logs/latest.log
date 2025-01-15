@@ -204,3 +204,4 @@
 [04:13:43] [Server thread/INFO]: Dispatching unloading event for config magnumtorch-server.toml
 [04:13:43] [Server thread/INFO]: Dispatching unloading event for config netherchested-server.toml
 [04:13:43] [Server thread/INFO]: Dispatching unloading event for config tradingpost-server.toml
+[04:28:13] [pool-3-thread-1/WARN]: Failed to send keepalive request, response code: 502

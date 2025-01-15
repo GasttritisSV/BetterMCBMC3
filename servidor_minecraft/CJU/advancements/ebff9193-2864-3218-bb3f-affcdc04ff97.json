@@ -2026,6 +2026,7 @@
       "shrubland": "2025-01-14 23:34:48 +0000",
       "rocky_shrubland": "2025-01-14 19:41:10 +0000",
       "redwood_forest": "2025-01-15 00:08:38 +0000",
+      "pasture": "2025-01-15 00:15:19 +0000",
       "grassland": "2025-01-14 23:36:23 +0000"
     },
     "done": false
@@ -4946,6 +4947,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-01-15 00:17:58 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/wood_cup": {
     "criteria": {
       "has_wood_cup": "2025-01-14 23:40:39 +0000"
@@ -5009,6 +5016,18 @@
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-14 23:35:21 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/stone_shovel_repairing": {
+    "criteria": {
+      "has_stone_shovel": "2025-01-15 00:16:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-01-15 00:21:58 +0000"
     },
     "done": true
   },
@@ -5096,9 +5115,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-01-15 00:21:58 +0000"
+    },
+    "done": true
+  },
   "comforts:recipes/decorations/sleeping_bag_gray": {
     "criteria": {
       "has_gray_wool": "2025-01-15 00:00:58 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/charcoal_block": {
+    "criteria": {
+      "has_charcoal": "2025-01-15 00:21:41 +0000"
     },
     "done": true
   },
@@ -5241,6 +5272,12 @@
       "oak_house_small_3": "2025-01-14 23:40:18 +0000"
     },
     "done": false
+  },
+  "aether:recipes/decorations/skyroot_fletching_table": {
+    "criteria": {
+      "has_flint": "2025-01-15 00:21:58 +0000"
+    },
+    "done": true
   },
   "another_furniture:recipes/oak_bench": {
     "criteria": {

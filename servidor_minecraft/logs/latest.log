@@ -168,3 +168,39 @@
 [04:06:20] [Server thread/INFO]: NazZaRamirezZ lost connection: Disconnected
 [04:06:20] [Server thread/INFO]: NazZaRamirezZ left the game
 [04:06:20] [Server thread/INFO]: Updating all forceload tickets for 82eb6c10-e37d-3f48-b565-e653b3f39237
+[04:13:43] [Server thread/INFO]: Stopping the server
+[04:13:43] [Server thread/WARN]: Failed to send keepalive request, response code: 502
+[04:13:43] [Server thread/INFO]: Invalidated damage temperature effect registry cache
+[04:13:43] [Server thread/INFO]: Resetting environment controller...
+[04:13:43] [Server thread/INFO]: Stopping server
+[04:13:43] [Server thread/INFO]: Saving players
+[04:13:43] [Server thread/INFO]: Saving worlds
+[04:13:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[CJU]'/minecraft:overworld
+[04:13:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[CJU]'/minecraft:the_end
+[04:13:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[CJU]'/deeperdarker:otherside
+[04:13:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[CJU]'/aether:the_aether
+[04:13:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[CJU]'/the_bumblezone:the_bumblezone
+[04:13:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[CJU]'/voidz:void
+[04:13:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[CJU]'/minecraft:the_nether
+[04:13:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[CJU]'/paradise_lost:paradise_lost
+[04:13:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (CJU): All chunks are saved
+[04:13:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:13:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[04:13:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[04:13:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[04:13:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (void): All chunks are saved
+[04:13:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:13:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (paradise_lost): All chunks are saved
+[04:13:43] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[04:13:43] [Server thread/INFO]: Unloading server configs...
+[04:13:43] [Server thread/INFO]: Finished unloading server configs
+[04:13:43] [Server thread/INFO]: Stopping IO worker...
+[04:13:43] [Server thread/INFO]: Stopped IO worker!
+[04:13:43] [Server thread/INFO]: Dispatching unloading event for config barteringstation-server.toml
+[04:13:43] [Server thread/INFO]: Dispatching unloading event for config easyanvils-server.toml
+[04:13:43] [Server thread/INFO]: Dispatching unloading event for config easymagic-server.toml
+[04:13:43] [Server thread/INFO]: Dispatching unloading event for config illagerinvasion-server.toml
+[04:13:43] [Server thread/INFO]: Dispatching unloading event for config leavesbegone-server.toml
+[04:13:43] [Server thread/INFO]: Dispatching unloading event for config magnumtorch-server.toml
+[04:13:43] [Server thread/INFO]: Dispatching unloading event for config netherchested-server.toml
+[04:13:43] [Server thread/INFO]: Dispatching unloading event for config tradingpost-server.toml

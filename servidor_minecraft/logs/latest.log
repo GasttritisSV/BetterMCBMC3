@@ -121,3 +121,7 @@
 [02:02:25] [Worker-Main-1/WARN]: Ignoring unknown attribute 'porting_lib:entity_gravity'
 [02:02:25] [Worker-Main-1/WARN]: Ignoring unknown attribute 'porting_lib:entity_gravity'
 [02:02:25] [Worker-Main-1/WARN]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[02:12:19] [Server thread/INFO]: Cuaci lost connection: Disconnected
+[02:12:19] [Server thread/INFO]: Cuaci left the game
+[02:12:19] [Server thread/INFO]: Updating all forceload tickets for a64afd79-4cbe-3278-bbc3-036622aa1e7c
+[02:16:55] [Server thread/INFO]: gordobe has made the advancement [Not Today, Thank You]

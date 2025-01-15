@@ -257,6 +257,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-01-15 01:03:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-01-15 00:57:26 +0000"
@@ -836,6 +842,12 @@
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2025-01-15 00:51:50 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:teleportation/is_near_beehive": {
+    "criteria": {
+      "is_near_beehive": "2025-01-15 01:02:12 +0000"
     },
     "done": true
   },

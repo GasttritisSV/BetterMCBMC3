@@ -1,4 +1,10 @@
 {
+  "betternether:recipes/transportation/mushroom_fir_chest_boat": {
+    "criteria": {
+      "has_tag_c_chests": "2025-01-15 01:01:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-01-15 00:53:13 +0000"
@@ -26,6 +32,12 @@
   "betterend:recipes/decorations/lucernia_chair": {
     "criteria": {
       "has_stick": "2025-01-15 00:53:13 +0000"
+    },
+    "done": true
+  },
+  "bclib:recipes/decorations/tag_shulker_box": {
+    "criteria": {
+      "has_tag_c_chests": "2025-01-15 01:01:11 +0000"
     },
     "done": true
   },
@@ -116,6 +128,12 @@
   "betternether:recipes/decorations/oak_taburet": {
     "criteria": {
       "has_stick": "2025-01-15 00:53:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-15 01:06:26 +0000"
     },
     "done": true
   },
@@ -581,6 +599,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-01-15 01:06:12 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/building_blocks/umbrella_tree_bookshelf": {
     "criteria": {
       "has_book": "2025-01-15 00:47:36 +0000"
@@ -713,6 +737,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2025-01-15 01:06:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-01-15 00:53:37 +0000"
@@ -730,6 +760,12 @@
       "barrel": "2025-01-15 00:48:10 +0000"
     },
     "done": false
+  },
+  "betternether:recipes/transportation/nether_mushroom_chest_boat": {
+    "criteria": {
+      "has_tag_c_chests": "2025-01-15 01:01:11 +0000"
+    },
+    "done": true
   },
   "betterend:recipes/decorations/tenanea_bar_stool": {
     "criteria": {
@@ -927,6 +963,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/skillet": {
+    "criteria": {
+      "has_brick": "2025-01-15 01:01:16 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/redwood_boat": {
     "criteria": {
       "in_water": "2025-01-15 00:46:23 +0000"
@@ -942,6 +984,12 @@
   "betternether:recipes/decorations/mangrove_bar_stool": {
     "criteria": {
       "has_stick": "2025-01-15 00:53:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-01-15 01:01:16 +0000"
     },
     "done": true
   },
@@ -1188,7 +1236,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2025-01-15 00:48:33 +0000",
-      "potato": "2025-01-15 00:57:07 +0000"
+      "potato": "2025-01-15 00:57:07 +0000",
+      "cooked_beef": "2025-01-15 01:00:07 +0000"
     },
     "done": false
   },
@@ -1252,6 +1301,12 @@
     },
     "done": true
   },
+  "betternether:recipes/transportation/rubeus_chest_boat": {
+    "criteria": {
+      "has_tag_c_chests": "2025-01-15 01:01:11 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/mossy_glowshroom_ladder": {
     "criteria": {
       "has_stick": "2025-01-15 00:53:13 +0000"
@@ -1279,6 +1334,12 @@
   "betternether:recipes/decorations/crimson_ladder": {
     "criteria": {
       "has_stick": "2025-01-15 00:53:13 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_tag_c_chests": "2025-01-15 01:01:11 +0000"
     },
     "done": true
   },
@@ -1318,9 +1379,27 @@
     },
     "done": true
   },
+  "betternether:recipes/transportation/stalagnate_chest_boat": {
+    "criteria": {
+      "has_tag_c_chests": "2025-01-15 01:01:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-15 01:06:26 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/oak_drawer": {
     "criteria": {
       "has_planks": "2025-01-15 00:53:13 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/hunting_post": {
+    "criteria": {
+      "has_arrow": "2025-01-15 01:00:23 +0000"
     },
     "done": true
   },
@@ -1345,6 +1424,12 @@
   "charm:vanilla_wood_variants/recipes/dark_oak_bookshelf": {
     "criteria": {
       "has_book": "2025-01-15 00:47:36 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/crimson_chest_boat": {
+    "criteria": {
+      "has_tag_c_chests": "2025-01-15 01:01:11 +0000"
     },
     "done": true
   },
@@ -1451,6 +1536,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-01-15 01:01:06 +0000"
+    },
+    "done": true
+  },
   "charm:ebony_wood/recipes/ebony_bookshelf": {
     "criteria": {
       "has_book": "2025-01-15 00:47:36 +0000"
@@ -1530,6 +1621,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/sulphur_gunpowder": {
+    "criteria": {
+      "has_coal_charcoal": "2025-01-15 00:58:15 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/lucernia_fence": {
     "criteria": {
       "has_stick": "2025-01-15 00:53:13 +0000"
@@ -1539,6 +1636,24 @@
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2025-01-15 00:47:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-01-15 01:06:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-01-15 01:06:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-01-15 01:05:56 +0000"
     },
     "done": true
   },
@@ -1832,7 +1947,8 @@
   },
   "adorabuild_structures:tireless_legs": {
     "criteria": {
-      "oak_hut_1": "2025-01-15 00:47:09 +0000"
+      "oak_hut_1": "2025-01-15 00:47:09 +0000",
+      "oak_house_small_2": "2025-01-15 01:00:57 +0000"
     },
     "done": false
   },
@@ -1881,6 +1997,18 @@
   "betterend:recipes/decorations/tenanea_chair": {
     "criteria": {
       "has_stick": "2025-01-15 00:53:13 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/wart_chest_boat": {
+    "criteria": {
+      "has_tag_c_chests": "2025-01-15 01:01:11 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oven": {
+    "criteria": {
+      "has_oven": "2025-01-15 01:01:16 +0000"
     },
     "done": true
   },
@@ -1968,6 +2096,12 @@
     },
     "done": true
   },
+  "betternether:recipes/transportation/nether_reed_chest_boat": {
+    "criteria": {
+      "has_tag_c_chests": "2025-01-15 01:01:11 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/flint_knife": {
     "criteria": {
       "has_stick": "2025-01-15 00:53:13 +0000"
@@ -2004,6 +2138,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-01-15 01:01:06 +0000"
+    },
+    "done": true
+  },
   "adventuredungeons:adventuredungeons/root": {
     "criteria": {
       "killed_something": "2025-01-15 00:53:34 +0000"
@@ -2016,15 +2156,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-01-15 01:01:16 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/wart_bookshelf": {
     "criteria": {
       "has_book": "2025-01-15 00:47:36 +0000"
     },
     "done": true
   },
+  "betternether:recipes/transportation/nether_sakura_chest_boat": {
+    "criteria": {
+      "has_tag_c_chests": "2025-01-15 01:01:11 +0000"
+    },
+    "done": true
+  },
   "charm:vanilla_wood_variants/recipes/mangrove_ladder": {
     "criteria": {
       "has_stick": "2025-01-15 00:53:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-15 01:06:26 +0000"
     },
     "done": true
   },
@@ -2043,6 +2201,12 @@
   "natures_spirit:recipes/transportation/aspen_boat": {
     "criteria": {
       "in_water": "2025-01-15 00:46:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2025-01-15 01:06:12 +0000"
     },
     "done": true
   },
@@ -2136,6 +2300,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-01-15 00:58:15 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/iron_hammer": {
     "criteria": {
       "has_stick": "2025-01-15 00:53:13 +0000"
@@ -2157,6 +2327,12 @@
   "charm:vanilla_wood_variants/recipes/cherry_ladder": {
     "criteria": {
       "has_stick": "2025-01-15 00:53:13 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/anchor_tree_chest_boat": {
+    "criteria": {
+      "has_tag_c_chests": "2025-01-15 01:01:11 +0000"
     },
     "done": true
   },
@@ -2299,6 +2475,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-01-15 01:06:26 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/redstone/lucernia_gate": {
     "criteria": {
       "has_stick": "2025-01-15 00:53:13 +0000"
@@ -2353,6 +2535,12 @@
     },
     "done": true
   },
+  "bclib:recipes/redstone/tag_hopper": {
+    "criteria": {
+      "has_tag_c_chests": "2025-01-15 01:01:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:flower_forest": "2025-01-15 00:49:07 +0000",
@@ -2384,6 +2572,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-01-15 01:01:16 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/anchor_tree_ladder": {
     "criteria": {
       "has_stick": "2025-01-15 00:53:13 +0000"
@@ -2402,6 +2596,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-01-15 01:05:56 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/cutting_board": {
     "criteria": {
       "has_stick": "2025-01-15 00:53:13 +0000"
@@ -2411,6 +2611,12 @@
   "betterend:recipes/decorations/umbrella_tree_taburet": {
     "criteria": {
       "has_stick": "2025-01-15 00:53:13 +0000"
+    },
+    "done": true
+  },
+  "charm:item_restocking/restocked_current_item": {
+    "criteria": {
+      "restocked_current_item": "2025-01-15 01:07:14 +0000"
     },
     "done": true
   },
@@ -2441,6 +2647,12 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-01-15 00:53:37 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/warped_chest_boat": {
+    "criteria": {
+      "has_tag_c_chests": "2025-01-15 01:01:11 +0000"
     },
     "done": true
   },

@@ -41,3 +41,5 @@
 [00:53:34] [Server thread/INFO]: NazZaRamirezZ has made the advancement [Monster Hunter]
 [00:55:54] [pool-9-thread-3/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_mountains], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_bamboo], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_jungle], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_warped], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_badlands], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_swamp]] from pos class_2338{x=-299, y=83, z=341}
 [00:56:02] [Server thread/INFO]: NazZaRamirezZ has made the advancement [Getting an Upgrade]
+[00:58:13] [pool-3-thread-1/WARN]: Failed to send keepalive request, response code: 502
+[01:07:14] [Server thread/INFO]: NazZaRamirezZ has reached the goal [Free Refill]

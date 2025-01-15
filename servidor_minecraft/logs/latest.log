@@ -150,3 +150,6 @@
 [02:49:51] [Server thread/INFO]: Updating all forceload tickets for ebff9193-2864-3218-bb3f-affcdc04ff97
 [02:52:31] [pool-9-thread-4/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_dark_forest], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_crimson], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_mushroom], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_badlands], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_ocean], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_swamp]] from pos class_2338{x=-597, y=92, z=325}
 [02:58:13] [pool-3-thread-1/WARN]: Failed to send keepalive request, response code: 502
+[03:14:34] [Server thread/INFO]: NazZaRamirezZ has made the advancement [Acquire Hardware]
+[03:18:18] [Server thread/INFO]: [Server] q
+[03:19:27] [Server thread/INFO]: NazZaRamirezZ was shot by Wither Skeleton

@@ -151,6 +151,7 @@
       "minecraft:sunflower_plains": "2025-01-15 00:03:17 +0000",
       "minecraft:cherry_grove": "2025-01-15 00:03:47 +0000",
       "minecraft:birch_forest": "2025-01-14 20:03:00 +0000",
+      "minecraft:savanna": "2025-01-16 00:22:37 +0000",
       "minecraft:plains": "2025-01-15 00:02:11 +0000"
     },
     "done": false
@@ -6593,6 +6594,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/bacon_sandwich": {
+    "criteria": {
+      "has_bacon": "2025-01-16 00:29:06 +0000"
+    },
+    "done": true
+  },
   "charm:gunpowder_block/recipes/gunpowder_block": {
     "criteria": {
       "has_gunpowder": "2025-01-16 00:19:14 +0000"
@@ -6605,9 +6612,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-01-16 00:19:59 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/shadow_berry_jelly": {
     "criteria": {
       "has_tag_wover_water_bottles": "2025-01-16 00:15:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2025-01-16 00:19:59 +0000"
     },
     "done": true
   },
@@ -6635,6 +6654,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-16 00:20:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-01-16 00:28:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stone_bricks": "2025-01-16 00:19:02 +0000"
@@ -6644,6 +6675,18 @@
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-01-16 00:19:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-01-16 00:19:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-01-16 00:19:59 +0000"
     },
     "done": true
   },
@@ -6671,15 +6714,45 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-16 00:20:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2025-01-16 00:19:02 +0000"
     },
     "done": true
   },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2025-01-16 00:19:59 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/sweet_berry_jelly": {
     "criteria": {
       "has_tag_wover_water_bottles": "2025-01-16 00:15:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-01-16 00:20:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-01-16 00:28:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/bacon_and_eggs": {
+    "criteria": {
+      "has_bacon": "2025-01-16 00:29:06 +0000"
     },
     "done": true
   },

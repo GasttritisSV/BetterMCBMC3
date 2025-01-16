@@ -8,3 +8,17 @@
 [00:09:37] [Server thread/INFO]: Gasttritis has made the advancement [Not Today, Thank You]
 [00:12:00] [Server thread/INFO]: gordobe has made the advancement [Hunt and Gather]
 [00:13:23] [Server thread/INFO]: Gasttritis has made the advancement [Hot Stuff]
+[00:15:25] [Server thread/INFO]: gordobe lost connection: You logged in from another location
+[00:15:25] [Server thread/INFO]: gordobe left the game
+[00:15:25] [Server thread/INFO]: Updating all forceload tickets for ebff9193-2864-3218-bb3f-affcdc04ff97
+[00:15:25] [Server thread/WARN]: handleDisconnection() called twice
+[00:15:28] [Server thread/INFO]: gordobe[/100.104.203.61:62779] logged in with entity id 7459 at (-142.5253201382916, 57.231523797587016, 136.69999998807907)
+[00:15:28] [Server thread/INFO]: Sending server config values to client
+[00:15:28] [Server thread/INFO]: gordobe joined the game
+[00:15:28] [Server thread/INFO]: Updating all forceload tickets for ebff9193-2864-3218-bb3f-affcdc04ff97
+[00:15:29] [Server thread/INFO]: Channel update: gordobe -> default
+[00:15:29] [Server thread/INFO]: Priority overwritten for player gordobe. Claiming: GRAVE / Robbing: INVENTORY
+[00:15:29] [Server thread/INFO]: Receiving client config
+[00:15:31] [Server thread/INFO]: TortillaDeGrasa has made the advancement [Isn't It Iron Pick]
+[00:15:47] [Server thread/INFO]: TortillaDeGrasa has made the advancement [Diamonds!]
+[00:16:03] [Server thread/WARN]: Oak Boat (vehicle of gordobe) moved wrongly! 0.7128888775615678

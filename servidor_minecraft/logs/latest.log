@@ -1800,3 +1800,4 @@ Caused by: java.io.IOException: Invalid tag id: 116
 [15:54:32] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
 [15:54:32] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
 [15:54:50] [pool-3-thread-1/WARN]: Failed to send keepalive request, response code: 502
+[16:24:50] [pool-3-thread-1/WARN]: Failed to send keepalive request, response code: 502

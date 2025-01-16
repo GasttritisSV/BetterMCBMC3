@@ -4873,5 +4873,53 @@
     },
     "done": true
   },
+  "charm:vanilla_wood_variants/recipes/chiseled_birch_bookshelf": {
+    "criteria": {
+      "has_slab": "2025-01-16 02:49:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2025-01-16 02:52:50 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/birch_flower_box": {
+    "criteria": {
+      "has_slab": "2025-01-16 02:49:00 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/nethers_stove": {
+    "criteria": {
+      "has_campfire": "2025-01-16 02:52:16 +0000"
+    },
+    "done": true
+  },
+  "charm:vanilla_wood_variants/recipes/birch_barrel": {
+    "criteria": {
+      "has_slab": "2025-01-16 02:49:00 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/birch_shutter": {
+    "criteria": {
+      "has_slab": "2025-01-16 02:49:00 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/birch_bench": {
+    "criteria": {
+      "has_slab": "2025-01-16 02:49:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/stove": {
+    "criteria": {
+      "has_campfire": "2025-01-16 02:52:16 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }

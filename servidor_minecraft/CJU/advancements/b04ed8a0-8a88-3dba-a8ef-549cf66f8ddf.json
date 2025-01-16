@@ -5986,5 +5986,11 @@
     },
     "done": false
   },
+  "charm:vanilla_wood_variants/recipes/trapped_cherry_chest": {
+    "criteria": {
+      "has_chest": "2025-01-16 02:49:17 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }

@@ -1865,3 +1865,4 @@ java.lang.ClassCastException: class svenhjol.charm.feature.woodcutting.common.Wo
 	at knot/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:702) ~[server-intermediary.jar:?]
 	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:281) ~[server-intermediary.jar:?]
 	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[02:52:50] [Server thread/INFO]: Cuaci has made the advancement [Bonfire Lit]

@@ -2259,6 +2259,7 @@
     "criteria": {
       "minecraft:pillager": "2025-01-15 00:45:33 +0000",
       "minecraft:skeleton": "2025-01-14 23:56:46 +0000",
+      "minecraft:phantom": "2025-01-16 22:53:17 +0000",
       "minecraft:enderman": "2025-01-16 21:46:47 +0000",
       "minecraft:spider": "2025-01-15 00:24:33 +0000",
       "minecraft:zombie": "2025-01-14 23:40:40 +0000",
@@ -6254,6 +6255,12 @@
     },
     "done": true
   },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2025-01-16 22:53:17 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
       "has_smooth_stone": "2025-01-16 21:05:37 +0000"
@@ -6341,6 +6348,12 @@
   "handcrafted:recipes/misc/birch_corner_trim": {
     "criteria": {
       "has_birch_corner_trim": "2025-01-16 21:21:41 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/phantom_trophy": {
+    "criteria": {
+      "has_phantom_trophy": "2025-01-16 22:53:56 +0000"
     },
     "done": true
   },

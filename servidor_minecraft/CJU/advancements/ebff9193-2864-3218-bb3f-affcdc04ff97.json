@@ -7918,6 +7918,12 @@
     },
     "done": true
   },
+  "mynethersdelight:recipes/misc/crafting/nethers_stove": {
+    "criteria": {
+      "has_campfire": "2025-01-16 23:08:55 +0000"
+    },
+    "done": true
+  },
   "charm:vanilla_wood_variants/recipes/birch_barrel": {
     "criteria": {
       "has_planks": "2025-01-16 21:21:58 +0000"
@@ -8014,6 +8020,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/stove": {
+    "criteria": {
+      "has_campfire": "2025-01-16 23:08:55 +0000"
+    },
+    "done": true
+  },
   "adventurez:recipes/deer_venison": {
     "criteria": {
       "got_the_venison": "2025-01-16 21:23:21 +0000"
@@ -8041,6 +8053,12 @@
   "farmersdelight:recipes/misc/tomato_seeds": {
     "criteria": {
       "has_tomato": "2025-01-16 22:20:07 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/wooden_shovel_repairing": {
+    "criteria": {
+      "has_wooden_shovel": "2025-01-16 23:06:21 +0000"
     },
     "done": true
   },

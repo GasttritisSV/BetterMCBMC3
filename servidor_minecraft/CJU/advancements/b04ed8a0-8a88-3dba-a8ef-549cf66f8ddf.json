@@ -2236,6 +2236,7 @@
       "apple": "2025-01-14 23:30:19 +0000",
       "bread": "2025-01-14 23:51:37 +0000",
       "cookie": "2025-01-14 23:33:12 +0000",
+      "cooked_mutton": "2025-01-16 03:22:30 +0000",
       "baked_potato": "2025-01-16 00:37:45 +0000",
       "cooked_salmon": "2025-01-15 01:43:55 +0000"
     },
@@ -5985,6 +5986,24 @@
       "in_igloo_grassy": "2025-01-16 02:30:32 +0000"
     },
     "done": false
+  },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-01-16 03:22:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-01-16 03:22:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-01-16 03:22:28 +0000"
+    },
+    "done": true
   },
   "charm:vanilla_wood_variants/recipes/trapped_cherry_chest": {
     "criteria": {

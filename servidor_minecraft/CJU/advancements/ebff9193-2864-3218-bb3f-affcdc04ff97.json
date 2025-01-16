@@ -7589,9 +7589,9 @@
     },
     "done": true
   },
-  "farmersdelight:main/eat_comfort_food": {
+  "charm:vanilla_wood_variants/recipes/trapped_oak_chest": {
     "criteria": {
-      "comfort": "2025-01-16 02:56:27 +0000"
+      "has_chest": "2025-01-16 02:40:40 +0000"
     },
     "done": true
   },
@@ -7601,21 +7601,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-01-16 02:42:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-01-16 02:56:27 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/master_chef": {
     "criteria": {
       "pumpkin_soup": "2025-01-16 02:56:27 +0000"
     },
     "done": false
   },
-  "charm:vanilla_wood_variants/recipes/trapped_oak_chest": {
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
-      "has_chest": "2025-01-16 02:40:40 +0000"
+      "has_iron_nugget": "2025-01-16 03:28:53 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+  "another_furniture:recipes/service_bell": {
     "criteria": {
-      "has_oxeye_daisy": "2025-01-16 02:42:15 +0000"
+      "has_nugget": "2025-01-16 03:28:53 +0000"
+    },
+    "done": true
+  },
+  "charm:item_tidying/tidied_items": {
+    "criteria": {
+      "tidied_items": "2025-01-16 03:29:09 +0000"
     },
     "done": true
   },

@@ -7699,6 +7699,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/jacaranda_wood": {
+    "criteria": {
+      "has_log": "2025-01-16 21:31:25 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/birch_desk": {
     "criteria": {
       "has_birch_desk": "2025-01-16 21:21:58 +0000"
@@ -7716,6 +7722,12 @@
       "smoker": "2025-01-16 21:11:17 +0000"
     },
     "done": false
+  },
+  "biomesoplenty:recipes/building_blocks/jacaranda_planks": {
+    "criteria": {
+      "has_logs": "2025-01-16 21:31:25 +0000"
+    },
+    "done": true
   },
   "handcrafted:recipes/misc/birch_fancy_bed": {
     "criteria": {
@@ -7858,6 +7870,12 @@
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2025-01-16 21:21:58 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/purple_dye_from_lavender": {
+    "criteria": {
+      "has_lavender": "2025-01-16 21:35:25 +0000"
     },
     "done": true
   },

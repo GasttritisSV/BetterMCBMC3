@@ -6091,6 +6091,12 @@
     },
     "done": true
   },
+  "charm:vanilla_wood_variants/recipes/trapped_birch_chest": {
+    "criteria": {
+      "has_chest": "2025-01-16 21:32:52 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/birch_desk": {
     "criteria": {
       "has_birch_desk": "2025-01-16 21:21:41 +0000"

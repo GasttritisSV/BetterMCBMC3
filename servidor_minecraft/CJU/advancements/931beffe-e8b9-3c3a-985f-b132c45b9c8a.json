@@ -6185,6 +6185,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-01-16 02:29:04 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_barrel": {
     "criteria": {
       "has_slabs": "2025-01-16 02:18:48 +0000"
@@ -6209,9 +6215,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-01-16 02:29:04 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/creeper_trophy": {
     "criteria": {
       "has_creeper_trophy": "2025-01-16 02:04:40 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_shelf": {
+    "criteria": {
+      "has_birch_shelf": "2025-01-16 02:29:04 +0000"
     },
     "done": true
   },
@@ -6224,6 +6242,30 @@
   "charm:kilns/recipes/cracked_stone_bricks": {
     "criteria": {
       "has_stone_bricks": "2025-01-16 02:04:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-01-16 02:29:04 +0000"
+    },
+    "done": true
+  },
+  "charm:vanilla_wood_variants/recipes/chiseled_birch_bookshelf": {
+    "criteria": {
+      "has_planks": "2025-01-16 02:29:04 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_nightstand": {
+    "criteria": {
+      "has_birch_nightstand": "2025-01-16 02:29:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-01-16 02:29:04 +0000"
     },
     "done": true
   },
@@ -6242,6 +6284,18 @@
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-16 02:11:39 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_cupboard": {
+    "criteria": {
+      "has_birch_cupboard": "2025-01-16 02:29:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-01-16 02:26:40 +0000"
     },
     "done": true
   },
@@ -6275,6 +6329,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/birch_counter": {
+    "criteria": {
+      "has_birch_counter": "2025-01-16 02:29:04 +0000"
+    },
+    "done": true
+  },
   "natures_spirit:recipes/building_blocks/cobbled_travertine_slab": {
     "criteria": {
       "has_cobbled_travertine": "2025-01-16 02:01:23 +0000"
@@ -6296,6 +6356,12 @@
   "charm:vanilla_wood_variants/recipes/chest_minecart_with_custom_chest": {
     "criteria": {
       "has_chest": "2025-01-16 02:18:29 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_desk": {
+    "criteria": {
+      "has_birch_desk": "2025-01-16 02:29:04 +0000"
     },
     "done": true
   },
@@ -6356,6 +6422,12 @@
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-16 02:11:39 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_fancy_bed": {
+    "criteria": {
+      "has_birch_fancy_bed": "2025-01-16 02:29:04 +0000"
     },
     "done": true
   },
@@ -6425,9 +6497,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-16 02:29:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-16 02:11:39 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_drawer": {
+    "criteria": {
+      "has_birch_drawer": "2025-01-16 02:29:04 +0000"
     },
     "done": true
   },
@@ -6440,6 +6524,12 @@
   "charm:vanilla_wood_variants/recipes/trapped_oak_chest": {
     "criteria": {
       "has_chest": "2025-01-16 02:18:29 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/birch_table": {
+    "criteria": {
+      "has_planks": "2025-01-16 02:29:04 +0000"
     },
     "done": true
   },
@@ -6458,6 +6548,18 @@
   "stoneworks:recipes/building_blocks/stone_pavers_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-01-16 02:04:40 +0000"
+    },
+    "done": true
+  },
+  "variantcraftingtables:recipes/misc/birch_crafting_table": {
+    "criteria": {
+      "has_planks": "2025-01-16 02:29:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-01-16 02:29:04 +0000"
     },
     "done": true
   },
@@ -6491,6 +6593,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-01-16 02:26:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-16 02:29:04 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_table": {
+    "criteria": {
+      "has_birch_table": "2025-01-16 02:29:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2025-01-16 02:04:40 +0000"
@@ -6503,9 +6623,39 @@
     },
     "done": true
   },
+  "another_furniture:recipes/birch_flower_box": {
+    "criteria": {
+      "has_slab": "2025-01-16 02:29:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-16 02:29:04 +0000"
+    },
+    "done": true
+  },
+  "charm:vanilla_wood_variants/recipes/birch_barrel": {
+    "criteria": {
+      "has_planks": "2025-01-16 02:29:04 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_side_table": {
+    "criteria": {
+      "has_birch_side_table": "2025-01-16 02:29:04 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/stone_paver_wall_from_stone_or_stone_pavers_stonecutting": {
     "criteria": {
       "has_stone_or_stone_pavers": "2025-01-16 02:04:40 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/birch_shutter": {
+    "criteria": {
+      "has_slab": "2025-01-16 02:29:26 +0000"
     },
     "done": true
   },
@@ -6545,6 +6695,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/birch_corner_trim": {
+    "criteria": {
+      "has_birch_corner_trim": "2025-01-16 02:29:04 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/stone_plates_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-01-16 02:04:40 +0000"
@@ -6575,6 +6731,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/birch_couch": {
+    "criteria": {
+      "has_birch_couch": "2025-01-16 02:29:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2025-01-16 01:54:30 +0000"
@@ -6584,6 +6746,12 @@
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-16 02:11:39 +0000"
+    },
+    "done": true
+  },
+  "charm:vanilla_wood_variants/recipes/birch_chest": {
+    "criteria": {
+      "has_planks": "2025-01-16 02:29:04 +0000"
     },
     "done": true
   },
@@ -6605,15 +6773,33 @@
     },
     "done": true
   },
+  "another_furniture:recipes/birch_bench": {
+    "criteria": {
+      "has_slab": "2025-01-16 02:29:26 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/stone_shingles_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-01-16 02:04:40 +0000"
     },
     "done": true
   },
+  "handcrafted:recipes/misc/birch_pillar_trim": {
+    "criteria": {
+      "has_birch_pillar_trim": "2025-01-16 02:29:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2025-01-16 02:04:40 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/birch_chair": {
+    "criteria": {
+      "has_planks": "2025-01-16 02:29:04 +0000"
     },
     "done": true
   },
@@ -6635,9 +6821,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/birch_dining_bench": {
+    "criteria": {
+      "has_birch_dining_bench": "2025-01-16 02:29:04 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/tined_glass_from_smaragdant": {
     "criteria": {
       "has_glass": "2025-01-16 02:11:39 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_chair": {
+    "criteria": {
+      "has_birch_chair": "2025-01-16 02:29:04 +0000"
     },
     "done": true
   },
@@ -6665,6 +6863,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/birch_bench": {
+    "criteria": {
+      "has_birch_bench": "2025-01-16 02:29:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
     "criteria": {
       "has_stone": "2025-01-16 02:04:40 +0000"
@@ -6689,9 +6893,21 @@
     },
     "done": true
   },
+  "another_furniture:recipes/birch_shelf": {
+    "criteria": {
+      "has_planks": "2025-01-16 02:29:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2025-01-16 01:54:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-16 02:29:04 +0000"
     },
     "done": true
   },

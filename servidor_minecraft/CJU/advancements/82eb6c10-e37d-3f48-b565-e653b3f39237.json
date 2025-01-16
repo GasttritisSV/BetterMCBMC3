@@ -6037,6 +6037,18 @@
     },
     "done": true
   },
+  "natures_spirit:recipes/decorations/pink_sandstone_wall": {
+    "criteria": {
+      "has_pink_sandstone": "2025-01-16 02:29:54 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/decorations/pink_sandstone_wall_from_pink_sandstone_stonecutting": {
+    "criteria": {
+      "has_pink_sandstone": "2025-01-16 02:29:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_chestplate": "2025-01-16 02:15:38 +0000"
@@ -6049,15 +6061,57 @@
     },
     "done": true
   },
+  "natures_spirit:recipes/building_blocks/cut_pink_sandstone_slab_from_pink_sandstone_stonecutting": {
+    "criteria": {
+      "has_pink_sandstone": "2025-01-16 02:29:54 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/pink_sandstone_slab_from_pink_sandstone_stonecutting": {
+    "criteria": {
+      "has_pink_sandstone": "2025-01-16 02:29:54 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/diamond_helmet_repairing": {
     "criteria": {
       "has_diamond_helmet": "2025-01-16 02:15:49 +0000"
     },
     "done": true
   },
+  "natures_spirit:recipes/building_blocks/cut_pink_sandstone_from_pink_sandstone_stonecutting": {
+    "criteria": {
+      "has_pink_sandstone": "2025-01-16 02:29:54 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/cut_pink_sandstone": {
+    "criteria": {
+      "has_pink_sandstone": "2025-01-16 02:29:54 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/pink_sandstone_slab": {
+    "criteria": {
+      "has_pink_sandstone": "2025-01-16 02:29:54 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/chiseled_pink_sandstone_from_pink_sandstone_stonecutting": {
+    "criteria": {
+      "has_pink_sandstone": "2025-01-16 02:29:54 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/steak_and_potatoes": {
     "criteria": {
       "has_baked_potato": "2025-01-16 02:15:13 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/smooth_pink_sandstone": {
+    "criteria": {
+      "has_pink_sandstone": "2025-01-16 02:29:54 +0000"
     },
     "done": true
   },
@@ -6070,6 +6124,24 @@
   "aether:recipes/combat/diamond_chestplate_repairing": {
     "criteria": {
       "has_diamond_chestplate": "2025-01-16 02:15:38 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/chiseled_pink_sandstone": {
+    "criteria": {
+      "has_pink_sandstone": "2025-01-16 02:29:54 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/pink_sandstone_stairs_from_pink_sandstone_stonecutting": {
+    "criteria": {
+      "has_pink_sandstone": "2025-01-16 02:29:54 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/pink_sandstone_stairs": {
+    "criteria": {
+      "has_pink_sandstone": "2025-01-16 02:29:54 +0000"
     },
     "done": true
   },

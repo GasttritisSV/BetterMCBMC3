@@ -2266,7 +2266,8 @@
   "adorabuild_structures:tireless_legs": {
     "criteria": {
       "birch_house_medium_2": "2025-01-14 23:32:46 +0000",
-      "oak_house_small_3": "2025-01-14 23:39:16 +0000"
+      "oak_house_small_3": "2025-01-14 23:39:16 +0000",
+      "oak_house_small_2": "2025-01-16 02:32:15 +0000"
     },
     "done": false
   },
@@ -5678,6 +5679,12 @@
       "has_leather": "2025-01-16 02:00:51 +0000"
     },
     "done": true
+  },
+  "repurposed_structures:igloos": {
+    "criteria": {
+      "in_igloo_grassy": "2025-01-16 02:30:32 +0000"
+    },
+    "done": false
   },
   "mynethersdelight:recipes/cooking/cooking/spicy_noodle_soup": {
     "criteria": {

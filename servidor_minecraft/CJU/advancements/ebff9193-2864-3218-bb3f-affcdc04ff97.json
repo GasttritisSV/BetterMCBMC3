@@ -5202,7 +5202,10 @@
   },
   "natures_spirit:adventure/collect_all_flowers": {
     "criteria": {
-      "lilac": "2025-01-14 23:44:59 +0000"
+      "lilac": "2025-01-14 23:44:59 +0000",
+      "poppy": "2025-01-16 02:31:05 +0000",
+      "sunflower": "2025-01-16 02:31:08 +0000",
+      "dandelion": "2025-01-16 02:30:36 +0000"
     },
     "done": false
   },
@@ -6958,11 +6961,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-01-16 02:31:05 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/bow_repairing": {
     "criteria": {
       "has_bow": "2025-01-16 01:46:40 +0000"
     },
     "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "wheat": "2025-01-16 02:29:59 +0000"
+    },
+    "done": false
   },
   "stoneworks:recipes/building_blocks/stone_plate_stairs_from_stone_or_stone_plates_stonecutting": {
     "criteria": {
@@ -7024,6 +7039,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/stone_hoe_repairing": {
+    "criteria": {
+      "has_stone_hoe": "2025-01-16 02:28:53 +0000"
+    },
+    "done": true
+  },
   "charm:ebony_wood/recipes/ebony_pressure_plate": {
     "criteria": {
       "has_planks": "2025-01-16 01:38:36 +0000"
@@ -7054,6 +7075,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/wooden_hoe_repairing": {
+    "criteria": {
+      "has_wooden_hoe": "2025-01-16 02:24:38 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/stone_shingle_stairs_from_stone_or_stone_shingles_stonecutting": {
     "criteria": {
       "has_stone_or_stone_shingles": "2025-01-16 02:12:45 +0000"
@@ -7069,6 +7096,12 @@
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-16 01:21:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-01-16 02:30:36 +0000"
     },
     "done": true
   },
@@ -7312,6 +7345,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-01-16 02:31:08 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/brown_sheet": {
     "criteria": {
       "has_brown_sheet": "2025-01-16 01:23:20 +0000"
@@ -7513,6 +7552,12 @@
   "charm:ebony_wood/recipes/ebony_wood": {
     "criteria": {
       "has_log": "2025-01-16 01:38:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-01-16 02:29:59 +0000"
     },
     "done": true
   },

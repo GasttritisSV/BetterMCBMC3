@@ -4308,6 +4308,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/egg_sandwich": {
+    "criteria": {
+      "has_fried_egg": "2025-01-16 02:34:31 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/packed_ice_freezing": {
     "criteria": {
       "has_water_bucket": "2025-01-16 02:22:13 +0000"
@@ -4368,6 +4374,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/bow_repairing": {
+    "criteria": {
+      "has_bow": "2025-01-16 02:29:26 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "wheat": "2025-01-16 01:48:44 +0000",
@@ -4396,6 +4408,12 @@
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-16 02:08:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-01-16 02:30:18 +0000"
     },
     "done": true
   },
@@ -4429,6 +4447,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-01-16 02:29:26 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/iron_helmet_repairing": {
     "criteria": {
       "has_iron_helmet": "2025-01-16 02:17:20 +0000"
@@ -4450,6 +4474,12 @@
   "aether:recipes/tools/stone_hoe_repairing": {
     "criteria": {
       "has_stone_hoe": "2025-01-16 01:44:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-01-16 02:27:50 +0000"
     },
     "done": true
   },
@@ -4561,6 +4591,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-01-16 02:27:50 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/blossom_berry_jelly": {
     "criteria": {
       "has_tag_wover_water_bottles": "2025-01-16 02:22:13 +0000"
@@ -4645,6 +4681,18 @@
     },
     "done": true
   },
+  "mynethersdelight:recipes/cooking/cooking/hotcream": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-16 02:30:18 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/obsidian_from_bucket_freezing": {
+    "criteria": {
+      "has_lava_bucket": "2025-01-16 02:30:18 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/shield_repairing": {
     "criteria": {
       "has_shield": "2025-01-16 01:31:34 +0000"
@@ -4708,6 +4756,12 @@
   "variantcraftingtables:recipes/misc/crafting_table": {
     "criteria": {
       "has_crafting_table": "2025-01-16 01:44:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-01-16 02:27:50 +0000"
     },
     "done": true
   },

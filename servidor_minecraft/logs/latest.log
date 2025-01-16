@@ -1801,3 +1801,39 @@ Caused by: java.io.IOException: Invalid tag id: 116
 [15:54:32] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
 [15:54:50] [pool-3-thread-1/WARN]: Failed to send keepalive request, response code: 502
 [16:24:50] [pool-3-thread-1/WARN]: Failed to send keepalive request, response code: 502
+[16:42:10] [Server thread/INFO]: Stopping the server
+[16:42:10] [Server thread/WARN]: Failed to send keepalive request, response code: 502
+[16:42:10] [Server thread/INFO]: Invalidated damage temperature effect registry cache
+[16:42:10] [Server thread/INFO]: Resetting environment controller...
+[16:42:10] [Server thread/INFO]: Stopping server
+[16:42:10] [Server thread/INFO]: Saving players
+[16:42:10] [Server thread/INFO]: Saving worlds
+[16:42:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[CJU]'/minecraft:overworld
+[16:42:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[CJU]'/the_bumblezone:the_bumblezone
+[16:42:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[CJU]'/deeperdarker:otherside
+[16:42:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[CJU]'/minecraft:the_end
+[16:42:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[CJU]'/paradise_lost:paradise_lost
+[16:42:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[CJU]'/voidz:void
+[16:42:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[CJU]'/minecraft:the_nether
+[16:42:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[CJU]'/aether:the_aether
+[16:42:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (CJU): All chunks are saved
+[16:42:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[16:42:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[16:42:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:42:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (paradise_lost): All chunks are saved
+[16:42:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (void): All chunks are saved
+[16:42:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:42:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[16:42:10] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[16:42:10] [Server thread/INFO]: Unloading server configs...
+[16:42:10] [Server thread/INFO]: Finished unloading server configs
+[16:42:10] [Server thread/INFO]: Stopping IO worker...
+[16:42:10] [Server thread/INFO]: Stopped IO worker!
+[16:42:10] [Server thread/INFO]: Dispatching unloading event for config barteringstation-server.toml
+[16:42:10] [Server thread/INFO]: Dispatching unloading event for config easyanvils-server.toml
+[16:42:10] [Server thread/INFO]: Dispatching unloading event for config easymagic-server.toml
+[16:42:10] [Server thread/INFO]: Dispatching unloading event for config illagerinvasion-server.toml
+[16:42:10] [Server thread/INFO]: Dispatching unloading event for config leavesbegone-server.toml
+[16:42:10] [Server thread/INFO]: Dispatching unloading event for config magnumtorch-server.toml
+[16:42:10] [Server thread/INFO]: Dispatching unloading event for config netherchested-server.toml
+[16:42:10] [Server thread/INFO]: Dispatching unloading event for config tradingpost-server.toml

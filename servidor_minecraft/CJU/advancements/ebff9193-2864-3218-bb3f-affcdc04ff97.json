@@ -2379,6 +2379,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-01-14 19:54:08 +0000",
+      "minecraft:witch": "2025-01-16 01:42:44 +0000",
       "minecraft:spider": "2025-01-15 02:20:28 +0000",
       "minecraft:zombie": "2025-01-14 20:00:47 +0000",
       "minecraft:creeper": "2025-01-16 00:34:01 +0000",
@@ -6914,9 +6915,21 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/blossom_berry_jelly_potion": {
+    "criteria": {
+      "has_sugar": "2025-01-16 01:42:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-16 01:21:08 +0000"
+    },
+    "done": true
+  },
+  "charm:ebony_wood/recipes/ebony_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-16 01:38:36 +0000"
     },
     "done": true
   },
@@ -6938,9 +6951,27 @@
     },
     "done": true
   },
+  "charm:ebony_wood/recipes/ebony_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-16 01:38:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-16 01:21:08 +0000"
+    },
+    "done": true
+  },
+  "charm:ebony_wood/recipes/ebony_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-16 01:38:36 +0000"
+    },
+    "done": true
+  },
+  "charm:ebony_wood/recipes/ebony_planks": {
+    "criteria": {
+      "has_log": "2025-01-16 01:38:25 +0000"
     },
     "done": true
   },
@@ -6968,9 +6999,27 @@
     },
     "done": true
   },
+  "charm:ebony_wood/recipes/ebony_door": {
+    "criteria": {
+      "has_planks": "2025-01-16 01:38:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2025-01-16 01:21:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-01-16 01:42:46 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/sweet_berry_jelly_potion": {
+    "criteria": {
+      "has_sugar": "2025-01-16 01:42:45 +0000"
     },
     "done": true
   },
@@ -6992,6 +7041,18 @@
     },
     "done": true
   },
+  "charm:ebony_wood/recipes/chiseled_ebony_bookshelf": {
+    "criteria": {
+      "has_planks": "2025-01-16 01:38:36 +0000"
+    },
+    "done": true
+  },
+  "charm:ebony_wood/recipes/ebony_slab": {
+    "criteria": {
+      "has_planks": "2025-01-16 01:38:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_banner": {
     "criteria": {
       "has_brown_wool": "2025-01-16 01:23:20 +0000"
@@ -7001,6 +7062,12 @@
   "minecraft:recipes/decorations/brown_bed": {
     "criteria": {
       "has_brown_wool": "2025-01-16 01:23:20 +0000"
+    },
+    "done": true
+  },
+  "charm:ebony_wood/recipes/ebony_sign": {
+    "criteria": {
+      "has_planks": "2025-01-16 01:38:36 +0000"
     },
     "done": true
   },
@@ -7019,6 +7086,18 @@
   "minecraft:recipes/building_blocks/gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-16 01:21:08 +0000"
+    },
+    "done": true
+  },
+  "charm:ebony_wood/recipes/ebony_fence": {
+    "criteria": {
+      "has_planks": "2025-01-16 01:38:36 +0000"
+    },
+    "done": true
+  },
+  "charm:ebony_wood/recipes/ebony_button": {
+    "criteria": {
+      "has_planks": "2025-01-16 01:38:36 +0000"
     },
     "done": true
   },
@@ -7046,6 +7125,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/cave_pumpkin_pie": {
+    "criteria": {
+      "has_sugar": "2025-01-16 01:42:45 +0000"
+    },
+    "done": true
+  },
   "charm:chairs/sat_on_chair": {
     "criteria": {
       "sat_on_chair": "2025-01-16 01:27:26 +0000"
@@ -7055,6 +7140,12 @@
   "another_furniture:recipes/brown_curtain": {
     "criteria": {
       "has_wool": "2025-01-16 01:23:20 +0000"
+    },
+    "done": true
+  },
+  "charm:ebony_wood/recipes/ebony_chest": {
+    "criteria": {
+      "has_planks": "2025-01-16 01:38:36 +0000"
     },
     "done": true
   },
@@ -7070,6 +7161,12 @@
     },
     "done": true
   },
+  "charm:sugar_block/recipes/sugar_block": {
+    "criteria": {
+      "has_sugar": "2025-01-16 01:42:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_the_recipe": "2025-01-16 01:21:08 +0000"
@@ -7079,6 +7176,18 @@
   "another_furniture:recipes/brown_lamp": {
     "criteria": {
       "has_wool": "2025-01-16 01:23:20 +0000"
+    },
+    "done": true
+  },
+  "charm:ebony_wood/obtained_ebony_log": {
+    "criteria": {
+      "obtained_ebony_log": "2025-01-16 01:38:25 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/shadow_berry_jelly_potion": {
+    "criteria": {
+      "has_sugar": "2025-01-16 01:42:45 +0000"
     },
     "done": true
   },
@@ -7115,6 +7224,24 @@
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-16 01:21:08 +0000"
+    },
+    "done": true
+  },
+  "charm:ebony_wood/recipes/ebony_wood": {
+    "criteria": {
+      "has_log": "2025-01-16 01:38:25 +0000"
+    },
+    "done": true
+  },
+  "charm:ebony_wood/recipes/ebony_barrel": {
+    "criteria": {
+      "has_planks": "2025-01-16 01:38:36 +0000"
+    },
+    "done": true
+  },
+  "charm:ebony_wood/recipes/ebony_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-16 01:38:36 +0000"
     },
     "done": true
   },

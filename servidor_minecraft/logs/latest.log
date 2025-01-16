@@ -48,3 +48,27 @@
 [00:45:58] [Server thread/INFO]: <Gasttritis> zzzzzzzzzz
 [00:49:51] [Server thread/INFO]: NazZaRamirezZ claimed a grave belonging to NazZaRamirezZ at 124, 72, -21, minecraft:overworld
 [00:50:56] [Server thread/INFO]: gordobe was shot by Skeleton
+[00:54:31] [Server thread/INFO]: NazZaRamirezZ claimed a grave belonging to NazZaRamirezZ at 124, 220, -18, minecraft:overworld
+[00:54:51] [pool-3-thread-1/WARN]: Failed to send keepalive request, response code: 502
+[00:55:31] [Server thread/INFO]: NazZaRamirezZ was slain by Wither Skeleton
+[00:55:31] [Server thread/WARN]: NazZaRamirezZ moved wrongly!
+[00:55:59] [Server thread/INFO]: gordobe was shot by Skeleton
+[00:56:13] [Server thread/INFO]: gordobe lost connection: Disconnected
+[00:56:13] [Server thread/INFO]: gordobe left the game
+[00:56:13] [Server thread/INFO]: Updating all forceload tickets for ebff9193-2864-3218-bb3f-affcdc04ff97
+[00:56:30] [Server thread/INFO]: NazZaRamirezZ was slain by Wither Skeleton
+[00:56:32] [Server thread/INFO]: Gasttritis burned to death
+[00:56:39] [Server thread/INFO]: Gasttritis claimed a grave belonging to Gasttritis at -162, 97, 590, minecraft:overworld
+[00:58:53] [Server thread/INFO]: NazZaRamirezZ claimed a grave belonging to NazZaRamirezZ at 124, 215, -2, minecraft:overworld
+[00:59:06] [Server thread/INFO]: NazZaRamirezZ was slain by Wither Skeleton
+[01:00:07] [Server thread/INFO]: NazZaRamirezZ claimed a grave belonging to NazZaRamirezZ at 123, 221, -28, minecraft:overworld
+[01:00:49] [Server thread/INFO]: NazZaRamirezZ claimed a grave belonging to NazZaRamirezZ at 125, 220, -30, minecraft:overworld
+[01:01:27] [Server thread/INFO]: NazZaRamirezZ was slain by Wither Skeleton
+[01:03:03] [Server thread/INFO]: NazZaRamirezZ claimed a grave belonging to NazZaRamirezZ at 125, 217, -13, minecraft:overworld
+[01:03:14] [Server thread/INFO]: gordobe[/100.104.203.61:63066] logged in with entity id 29426 at (-192.68378512250612, -6.0, 196.69999998807907)
+[01:03:14] [Server thread/INFO]: Sending server config values to client
+[01:03:14] [Server thread/INFO]: gordobe joined the game
+[01:03:14] [Server thread/INFO]: Updating all forceload tickets for ebff9193-2864-3218-bb3f-affcdc04ff97
+[01:03:16] [Server thread/INFO]: Channel update: gordobe -> default
+[01:03:16] [Server thread/INFO]: Priority overwritten for player gordobe. Claiming: GRAVE / Robbing: INVENTORY
+[01:03:16] [Server thread/INFO]: Receiving client config

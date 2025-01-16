@@ -7755,6 +7755,12 @@
     },
     "done": true
   },
+  "natures_spirit:recipes/building_blocks/ghaf_planks": {
+    "criteria": {
+      "has_logs": "2025-01-16 22:30:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2025-01-16 21:21:58 +0000"
@@ -7866,6 +7872,12 @@
   "morevillagers:first_workstation_get": {
     "criteria": {
       "smoker": "2025-01-16 21:11:17 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/ghaf_wood": {
+    "criteria": {
+      "has_log": "2025-01-16 22:30:16 +0000"
     },
     "done": true
   },

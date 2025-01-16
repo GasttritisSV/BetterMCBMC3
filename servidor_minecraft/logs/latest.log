@@ -1866,3 +1866,69 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [22:00:44] [Server thread/INFO]: Cuaci lost connection: Disconnected
 [22:00:44] [Server thread/INFO]: Cuaci left the game
 [22:00:44] [Server thread/INFO]: Updating all forceload tickets for a64afd79-4cbe-3278-bbc3-036622aa1e7c
+[22:22:17] [Worker-Main-2/WARN]: Empty height range: [30 absolute-20 absolute]
+[22:22:21] [pool-3-thread-1/WARN]: Failed to send keepalive request, response code: 502
+[22:22:40] [Worker-Main-2/WARN]: Couldn't find template pool reference: minecraft:south
+[22:22:40] [Worker-Main-2/WARN]: Couldn't find template pool reference: minecraft:south
+[22:22:40] [Worker-Main-2/WARN]: Couldn't find template pool reference: minecraft:south
+[22:22:40] [Worker-Main-2/WARN]: Couldn't find template pool reference: minecraft:south
+[22:22:40] [Worker-Main-2/WARN]: Couldn't find template pool reference: minecraft:south
+[22:22:40] [Worker-Main-2/WARN]: Couldn't find template pool reference: minecraft:south
+[22:22:40] [Worker-Main-2/WARN]: Couldn't find template pool reference: minecraft:south
+[22:22:40] [Worker-Main-2/WARN]: Couldn't find template pool reference: minecraft:south
+[22:22:40] [Worker-Main-2/WARN]: Couldn't find template pool reference: minecraft:south
+[22:22:40] [Worker-Main-2/WARN]: Couldn't find template pool reference: minecraft:south
+[22:22:40] [Worker-Main-2/WARN]: Couldn't find template pool reference: crazy_chambers:melee_spawner
+[22:22:40] [Worker-Main-2/WARN]: Couldn't find template pool reference: minecraft:south
+[22:22:40] [Worker-Main-2/WARN]: Couldn't find template pool reference: minecraft:south
+[22:22:40] [Worker-Main-2/WARN]: Couldn't find template pool reference: minecraft:south
+[22:22:40] [Worker-Main-2/WARN]: Couldn't find template pool reference: minecraft:south
+[22:22:40] [Worker-Main-2/WARN]: Couldn't find template pool reference: minecraft:south
+[22:22:40] [Worker-Main-2/WARN]: Couldn't find template pool reference: minecraft:south
+[22:22:40] [Worker-Main-2/WARN]: Couldn't find template pool reference: crazy_chambers:spawner/breeze_spawner
+[22:22:40] [Worker-Main-2/WARN]: Couldn't find template pool reference: minecraft:south
+[22:22:40] [Worker-Main-2/WARN]: Couldn't find template pool reference: minecraft:south
+[22:22:40] [Worker-Main-2/WARN]: Couldn't find template pool reference: minecraft:south
+[22:22:40] [Worker-Main-2/WARN]: Couldn't find template pool reference: minecraft:south
+[22:22:40] [Worker-Main-2/WARN]: Couldn't find template pool reference: minecraft:south
+[22:22:40] [Worker-Main-2/WARN]: Couldn't find template pool reference: minecraft:south
+[22:22:40] [Worker-Main-2/WARN]: Couldn't find template pool reference: minecraft:south
+[22:22:40] [Worker-Main-2/WARN]: Couldn't find template pool reference: minecraft:south
+[22:22:40] [Worker-Main-2/WARN]: Couldn't find template pool reference: minecraft:south
+[22:22:40] [Worker-Main-2/WARN]: Couldn't find template pool reference: minecraft:south
+[22:22:40] [Worker-Main-2/WARN]: Couldn't find template pool reference: minecraft:south
+[22:22:40] [Worker-Main-2/WARN]: Couldn't find template pool reference: minecraft:south
+[22:22:40] [Worker-Main-2/WARN]: Couldn't find template pool reference: minecraft:south
+[22:22:40] [Worker-Main-2/WARN]: Couldn't find template pool reference: minecraft:south
+[22:22:40] [Worker-Main-2/WARN]: Couldn't find template pool reference: minecraft:south
+[22:22:40] [Worker-Main-2/WARN]: Couldn't find template pool reference: minecraft:south
+[22:22:40] [Worker-Main-2/WARN]: Couldn't find template pool reference: minecraft:south
+[22:22:40] [Worker-Main-2/WARN]: Couldn't find template pool reference: minecraft:south
+[22:22:40] [Worker-Main-2/WARN]: Couldn't find template pool reference: minecraft:south
+[22:22:40] [Worker-Main-2/WARN]: Couldn't find template pool reference: minecraft:south
+[22:22:40] [Worker-Main-2/WARN]: Couldn't find template pool reference: minecraft:south
+[22:22:40] [Worker-Main-2/WARN]: Couldn't find template pool reference: minecraft:south
+[22:22:40] [Worker-Main-2/WARN]: Couldn't find template pool reference: minecraft:south
+[22:22:40] [Worker-Main-2/WARN]: Couldn't find template pool reference: minecraft:south
+[22:22:40] [Worker-Main-2/WARN]: Couldn't find template pool reference: minecraft:south
+[22:22:40] [Worker-Main-2/WARN]: Couldn't find template pool reference: minecraft:south
+[22:22:40] [Worker-Main-2/WARN]: Couldn't find template pool reference: minecraft:south
+[22:22:40] [Worker-Main-2/WARN]: Couldn't find template pool reference: minecraft:south
+[22:22:40] [Worker-Main-2/WARN]: Couldn't find template pool reference: minecraft:south
+[22:22:40] [Worker-Main-2/WARN]: Couldn't find template pool reference: minecraft:south
+[22:22:40] [Worker-Main-2/WARN]: Couldn't find template pool reference: minecraft:south
+[22:22:40] [Worker-Main-2/WARN]: Couldn't find template pool reference: minecraft:south
+[22:22:40] [Worker-Main-2/WARN]: Couldn't find template pool reference: minecraft:south
+[22:22:40] [Worker-Main-2/WARN]: Couldn't find template pool reference: minecraft:south
+[22:22:40] [Worker-Main-2/WARN]: Couldn't find template pool reference: minecraft:south
+[22:22:40] [Worker-Main-2/WARN]: Couldn't find template pool reference: minecraft:south
+[22:22:40] [Worker-Main-2/WARN]: Couldn't find template pool reference: minecraft:south
+[22:22:40] [Worker-Main-2/WARN]: Couldn't find template pool reference: minecraft:south
+[22:22:40] [Worker-Main-2/WARN]: Couldn't find template pool reference: minecraft:south
+[22:22:40] [Worker-Main-2/WARN]: Couldn't find template pool reference: minecraft:south
+[22:22:40] [Worker-Main-2/WARN]: Couldn't find template pool reference: minecraft:south
+[22:22:40] [Worker-Main-2/WARN]: Couldn't find template pool reference: minecraft:south
+[22:24:02] [Server thread/INFO]: NazZaRamirezZ lost connection: Disconnected
+[22:24:02] [Server thread/INFO]: NazZaRamirezZ left the game
+[22:24:02] [Server thread/INFO]: Updating all forceload tickets for 82eb6c10-e37d-3f48-b565-e653b3f39237
+[22:25:47] [Server thread/INFO]: <Gasttritis> xaero-waypoint:Shared Location:S:69:92:143:6:false:0:Internal-overworld-waypoints

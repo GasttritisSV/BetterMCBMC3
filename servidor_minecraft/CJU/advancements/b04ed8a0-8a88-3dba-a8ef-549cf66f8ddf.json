@@ -5987,9 +5987,27 @@
     },
     "done": false
   },
+  "charm:vanilla_wood_variants/recipes/trapped_cherry_chest": {
+    "criteria": {
+      "has_chest": "2025-01-16 02:49:17 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/roasted_mutton_chops": {
     "criteria": {
       "has_mutton": "2025-01-16 03:22:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-01-16 03:22:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-01-16 03:22:28 +0000"
     },
     "done": true
   },
@@ -6005,27 +6023,27 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/mutton_wrap": {
-    "criteria": {
-      "has_mutton": "2025-01-16 03:22:28 +0000"
-    },
-    "done": true
-  },
   "morevillagers:recipes/mining_bench": {
     "criteria": {
       "has_iron_pickaxe": "2025-01-16 03:35:33 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/shepherds_pie_block": {
+  "minecraft:story/upgrade_tools": {
     "criteria": {
-      "has_cooked_mutton": "2025-01-16 03:22:28 +0000"
+      "stone_pickaxe": "2025-01-16 20:53:53 +0000"
     },
     "done": true
   },
-  "charm:vanilla_wood_variants/recipes/trapped_cherry_chest": {
+  "aether:recipes/tools/stone_pickaxe_repairing": {
     "criteria": {
-      "has_chest": "2025-01-16 02:49:17 +0000"
+      "has_stone_pickaxe": "2025-01-16 20:53:53 +0000"
+    },
+    "done": true
+  },
+  "charm:chairs/sat_on_chair": {
+    "criteria": {
+      "sat_on_chair": "2025-01-16 20:56:03 +0000"
     },
     "done": true
   },

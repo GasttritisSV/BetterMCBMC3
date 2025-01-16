@@ -7589,11 +7589,23 @@
     },
     "done": true
   },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-01-16 02:56:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/flower_banner_pattern": {
     "criteria": {
       "has_oxeye_daisy": "2025-01-16 02:42:15 +0000"
     },
     "done": true
+  },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "pumpkin_soup": "2025-01-16 02:56:27 +0000"
+    },
+    "done": false
   },
   "charm:vanilla_wood_variants/recipes/trapped_oak_chest": {
     "criteria": {

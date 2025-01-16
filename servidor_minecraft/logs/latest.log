@@ -1874,3 +1874,15 @@ java.lang.ClassCastException: class svenhjol.charm.feature.woodcutting.common.Wo
 [03:07:06] [Server thread/INFO]: Cuaci left the game
 [03:07:06] [Server thread/INFO]: Updating all forceload tickets for a64afd79-4cbe-3278-bbc3-036622aa1e7c
 [03:07:12] [Server thread/INFO]: com.mojang.authlib.GameProfile@5d07c949[id=a64afd79-4cbe-3278-bbc3-036622aa1e7c,name=Cuaci,properties={}] lost connection: Disconnected
+[03:09:55] [pool-3-thread-1/WARN]: Failed to send keepalive request, response code: 502
+[03:12:45] [Server thread/INFO]: NazZaRamirezZ[/100.110.204.90:59923] logged in with entity id 12065 at (-493.339184415589, 117.0, 590.8408317168497)
+[03:12:45] [Server thread/INFO]: Sending server config values to client
+[03:12:45] [Server thread/INFO]: NazZaRamirezZ joined the game
+[03:12:46] [Server thread/INFO]: Updating all forceload tickets for 82eb6c10-e37d-3f48-b565-e653b3f39237
+[03:12:47] [Server thread/INFO]: Channel update: NazZaRamirezZ -> default
+[03:12:47] [Server thread/INFO]: Priority overwritten for player NazZaRamirezZ. Claiming: GRAVE / Robbing: INVENTORY
+[03:12:47] [Server thread/INFO]: Receiving client config
+[03:13:41] [Server thread/INFO]: TortillaDeGrasa has made the advancement [A Seedy Place]
+[03:15:29] [Server thread/INFO]: TortillaDeGrasa has made the advancement [Hot Stuff]
+[03:16:48] [Worker-Main-1/WARN]: Empty height range: [30 absolute-20 absolute]
+[03:16:51] [Worker-Main-3/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite

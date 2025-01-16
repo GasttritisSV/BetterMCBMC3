@@ -6145,7 +6145,8 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "sugar_cane": "2025-01-16 00:51:59 +0000"
+      "sugar_cane": "2025-01-16 00:51:59 +0000",
+      "wheat": "2025-01-16 03:13:41 +0000"
     },
     "done": false
   },
@@ -6950,6 +6951,12 @@
   "advancednetherite:recipes/misc/netherite_emerald_ingot": {
     "criteria": {
       "has_minecraft:emerald": "2025-01-16 02:55:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-01-16 03:13:41 +0000"
     },
     "done": true
   },

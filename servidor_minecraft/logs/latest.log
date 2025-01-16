@@ -2105,3 +2105,4 @@ java.lang.ClassCastException: class svenhjol.charm.feature.firing.common.FiringR
 [23:40:01] [Server thread/INFO]: Named entity class_1646['Euadne Yuska'/22142, l='ServerLevel[CJU]', x=5.51, y=68.00, z=636.46] died: Euadne Yuska was impaled by Bromly Ballo
 [23:41:54] [Server thread/INFO]: gordobe was slain by Enderman
 [23:42:28] [Server thread/INFO]: gordobe claimed a grave belonging to gordobe at -14, 63, 686, minecraft:overworld
+[23:52:21] [pool-3-thread-1/WARN]: Failed to send keepalive request, response code: 502

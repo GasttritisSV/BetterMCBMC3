@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "b04ed8a0-8a88-3dba-a8ef-549cf66f8ddf",
+    "name": "Gasttritis",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

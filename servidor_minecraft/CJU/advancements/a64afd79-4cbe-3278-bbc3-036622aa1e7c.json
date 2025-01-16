@@ -147,6 +147,7 @@
       "minecraft:cherry_grove": "2025-01-15 00:03:50 +0000",
       "minecraft:river": "2025-01-14 23:32:23 +0000",
       "minecraft:birch_forest": "2025-01-14 23:34:09 +0000",
+      "minecraft:savanna": "2025-01-16 02:01:33 +0000",
       "minecraft:plains": "2025-01-15 00:02:27 +0000"
     },
     "done": false
@@ -209,7 +210,9 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-01-16 01:35:41 +0000",
-      "minecraft:zombie": "2025-01-14 23:22:03 +0000"
+      "minecraft:spider": "2025-01-16 01:50:17 +0000",
+      "minecraft:zombie": "2025-01-14 23:22:03 +0000",
+      "minecraft:drowned": "2025-01-16 01:54:42 +0000"
     },
     "done": false
   },
@@ -1603,7 +1606,8 @@
       "cooked_mutton": "2025-01-14 23:52:20 +0000",
       "sweet_berries": "2025-01-14 23:41:44 +0000",
       "cooked_beef": "2025-01-16 01:29:39 +0000",
-      "melon_slice": "2025-01-14 23:45:10 +0000"
+      "melon_slice": "2025-01-14 23:45:10 +0000",
+      "carrot": "2025-01-16 01:52:15 +0000"
     },
     "done": false
   },
@@ -4302,9 +4306,21 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/skyroot_loom": {
+    "criteria": {
+      "has_string": "2025-01-16 01:50:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-01-16 01:35:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-16 01:47:23 +0000"
     },
     "done": true
   },
@@ -4314,9 +4330,40 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-01-16 01:50:18 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/baked_cod_stew": {
     "criteria": {
       "has_any_ingredient": "2025-01-16 01:38:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-01-16 01:50:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "wheat": "2025-01-16 01:48:44 +0000",
+      "carrot": "2025-01-16 01:48:42 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-01-16 02:03:11 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-01-16 01:50:18 +0000"
     },
     "done": true
   },
@@ -4326,9 +4373,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-16 01:54:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/workbench/glassblower": {
     "criteria": {
       "has_glassblower": "2025-01-16 01:44:18 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/stone_hoe_repairing": {
+    "criteria": {
+      "has_stone_hoe": "2025-01-16 01:44:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-01-16 01:50:18 +0000"
     },
     "done": true
   },
@@ -4338,9 +4403,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-01-16 01:55:24 +0000"
+    },
+    "done": true
+  },
+  "charm:cooking_pots/recipes/cooking_pot": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-16 01:54:44 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/food/skyroot_milk_bucket_cake": {
     "criteria": {
       "has_egg": "2025-01-16 01:38:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_trapdoor": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-16 01:54:44 +0000"
     },
     "done": true
   },
@@ -4350,15 +4433,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/copper_door": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-16 01:54:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-01-16 01:55:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/workbench/alchemy_bench": {
     "criteria": {
       "has_alchemy_bench": "2025-01-16 01:44:18 +0000"
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-16 01:47:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-16 01:47:23 +0000"
+    },
+    "done": true
+  },
   "morevillagers:recipes/hunting_post": {
     "criteria": {
       "has_arrow": "2025-01-16 01:36:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-16 01:54:44 +0000"
     },
     "done": true
   },
@@ -4379,6 +4492,18 @@
       "has_carpenters_table": "2025-01-16 01:44:18 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-16 01:54:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:chicken": "2025-01-16 02:03:11 +0000"
+    },
+    "done": false
   },
   "farmersdelight:recipes/food/fried_egg_from_smoking": {
     "criteria": {
@@ -4404,6 +4529,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-16 01:47:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-01-16 01:50:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/workbench/mason_table": {
     "criteria": {
       "has_mason_table": "2025-01-16 01:44:18 +0000"
@@ -4413,6 +4550,36 @@
   "farmersdelight:recipes/cooking/fried_rice": {
     "criteria": {
       "has_any_ingredient": "2025-01-16 01:38:47 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:recipes/redstone/copper_button": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-16 01:54:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-01-16 01:47:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-01-16 01:50:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-01-16 01:48:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-01-16 01:50:18 +0000"
     },
     "done": true
   },

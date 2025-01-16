@@ -2383,7 +2383,8 @@
       "minecraft:spider": "2025-01-15 02:20:28 +0000",
       "minecraft:zombie": "2025-01-14 20:00:47 +0000",
       "minecraft:creeper": "2025-01-16 00:34:01 +0000",
-      "minecraft:drowned": "2025-01-15 02:21:03 +0000"
+      "minecraft:drowned": "2025-01-15 02:21:03 +0000",
+      "minecraft:zombie_villager": "2025-01-16 01:58:52 +0000"
     },
     "done": false
   },
@@ -6933,6 +6934,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/bow_repairing": {
+    "criteria": {
+      "has_bow": "2025-01-16 01:46:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-16 01:21:08 +0000"
@@ -6942,6 +6949,12 @@
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-16 01:21:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-01-16 01:46:40 +0000"
     },
     "done": true
   },

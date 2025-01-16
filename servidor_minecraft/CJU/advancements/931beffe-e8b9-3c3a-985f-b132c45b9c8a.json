@@ -724,6 +724,7 @@
       "cornflower": "2025-01-15 03:02:25 +0000",
       "allium": "2025-01-15 03:52:05 +0000",
       "blue_orchid": "2025-01-15 01:46:48 +0000",
+      "pink_tulip": "2025-01-16 01:50:45 +0000",
       "sunflower": "2025-01-15 01:27:12 +0000",
       "oxeye_daisy": "2025-01-15 01:46:48 +0000",
       "dandelion": "2025-01-15 01:51:15 +0000"
@@ -6175,6 +6176,78 @@
   "adventurez:recipes/orc_skin_recipe": {
     "criteria": {
       "got_the_orc_skin": "2025-01-16 01:35:03 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/cobbled_travertine_slab_from_cobbled_travertine_stonecutting": {
+    "criteria": {
+      "has_cobbled_travertine": "2025-01-16 02:01:23 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/cobbled_travertine_slab": {
+    "criteria": {
+      "has_cobbled_travertine": "2025-01-16 02:01:23 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_cartography_table": {
+    "criteria": {
+      "has_paper": "2025-01-16 01:54:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_pink_tulip": "2025-01-16 01:50:45 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/cobbled_travertine_stairs": {
+    "criteria": {
+      "has_cobbled_travertine": "2025-01-16 02:01:23 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/decorations/cobbled_travertine_wall_from_cobbled_travertine_stonecutting": {
+    "criteria": {
+      "has_cobbled_travertine": "2025-01-16 02:01:23 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/decorations/cobbled_travertine_wall": {
+    "criteria": {
+      "has_cobbled_travertine": "2025-01-16 02:01:23 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/travertine": {
+    "criteria": {
+      "has_cobbled_travertine": "2025-01-16 02:01:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-01-16 01:54:30 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/blueprint_table": {
+    "criteria": {
+      "has_paper": "2025-01-16 01:54:30 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/cobbled_travertine_stairs_from_cobbled_travertine_stonecutting": {
+    "criteria": {
+      "has_cobbled_travertine": "2025-01-16 02:01:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-01-16 01:54:30 +0000"
     },
     "done": true
   },

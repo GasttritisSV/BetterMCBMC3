@@ -134,3 +134,37 @@
 [01:42:58] [Server thread/INFO]: Priority overwritten for player TortillaDeGrasa. Claiming: GRAVE / Robbing: INVENTORY
 [01:42:58] [Server thread/INFO]: Receiving client config
 [01:43:01] [Server thread/ERROR]: Failed to apply component patch '{minecraft:potion_contents=>class_1844[potion=Optional[Reference{ResourceKey[minecraft:potion / minecraft:strong_healing]=net.minecraft.class_1842@7b7e2ddc}], customColor=Optional.empty, customEffects=[]]}' to item: 'Item stack with stack size of 3 was larger than maximum: 1'
+[01:45:55] [Server thread/INFO]: NazZaRamirezZ fell from a high place
+[01:48:38] [Server thread/INFO]: NazZaRamirezZ has made the advancement [Isn't It Iron Pick]
+[01:48:44] [Server thread/INFO]: Cuaci has made the advancement [A Seedy Place]
+[01:49:04] [Server thread/INFO]: Gasttritis[/100.106.242.117:56516] logged in with entity id 54048 at (-161.61504850204454, 97.0, 572.0970111004938)
+[01:49:04] [Server thread/INFO]: Sending server config values to client
+[01:49:04] [Server thread/INFO]: Gasttritis joined the game
+[01:49:04] [Server thread/INFO]: Updating all forceload tickets for b04ed8a0-8a88-3dba-a8ef-549cf66f8ddf
+[01:49:06] [Server thread/INFO]: Channel update: Gasttritis -> default
+[01:49:06] [Server thread/INFO]: Priority overwritten for player Gasttritis. Claiming: GRAVE / Robbing: INVENTORY
+[01:49:06] [Server thread/INFO]: Receiving client config
+[01:54:26] [Server thread/INFO]: NazZaRamirezZ fell from a high place
+[01:54:51] [pool-3-thread-1/WARN]: Failed to send keepalive request, response code: 502
+[01:55:28] [Server thread/INFO]: Gasttritis lost connection: Disconnected
+[01:55:28] [Server thread/INFO]: Gasttritis left the game
+[01:55:28] [Server thread/INFO]: Updating all forceload tickets for b04ed8a0-8a88-3dba-a8ef-549cf66f8ddf
+[01:56:49] [Server thread/INFO]: NazZaRamirezZ fell from a high place
+[01:57:29] [Server thread/INFO]: NazZaRamirezZ claimed a grave belonging to NazZaRamirezZ at 123, 71, 15, minecraft:overworld
+[01:57:37] [Server thread/INFO]: NazZaRamirezZ claimed a grave belonging to NazZaRamirezZ at 129, 70, -2, minecraft:overworld
+[01:57:43] [Server thread/INFO]: Gasttritis[/100.106.242.117:56609] logged in with entity id 59885 at (-162.302937432345, 97.0, 577.8216296281446)
+[01:57:43] [Server thread/INFO]: Sending server config values to client
+[01:57:43] [Server thread/INFO]: Gasttritis joined the game
+[01:57:43] [Server thread/INFO]: Updating all forceload tickets for b04ed8a0-8a88-3dba-a8ef-549cf66f8ddf
+[01:57:44] [Server thread/INFO]: Channel update: Gasttritis -> default
+[01:57:44] [Server thread/INFO]: Priority overwritten for player Gasttritis. Claiming: GRAVE / Robbing: INVENTORY
+[01:57:44] [Server thread/INFO]: Receiving client config
+[01:58:26] [Server thread/INFO]: NazZaRamirezZ claimed a grave belonging to NazZaRamirezZ at 130, 71, -14, minecraft:overworld
+[01:59:18] [Server thread/INFO]: NazZaRamirezZ claimed a grave belonging to NazZaRamirezZ at 137, 81, -22, minecraft:overworld
+[01:59:41] [Server thread/INFO]: NazZaRamirezZ fell off some vines
+[01:59:50] [Server thread/INFO]: NazZaRamirezZ claimed a grave belonging to NazZaRamirezZ at 125, 67, -26, minecraft:overworld
+[02:00:13] [Server thread/INFO]: NazZaRamirezZ claimed a grave belonging to NazZaRamirezZ at 121, 91, -29, minecraft:overworld
+[02:00:13] [Server thread/INFO]: Named entity Marauder['Belia Cowart'/61571, l='ServerLevel[CJU]', x=-250.94, y=101.00, z=164.06] died: Belia Cowart suffocated in a wall
+[02:00:49] [Server thread/INFO]: Named entity class_1581['Liberty Toriama the Illusioner'/61903, l='ServerLevel[CJU]', x=209.30, y=-26.00, z=16.52] died: Liberty Toriama the Illusioner was shot by Arrow
+[02:01:23] [Server thread/INFO]: NazZaRamirezZ claimed a grave belonging to NazZaRamirezZ at 134, 106, -27, minecraft:overworld
+[02:03:11] [Server thread/INFO]: Cuaci has made the advancement [The Parrots and the Bats]

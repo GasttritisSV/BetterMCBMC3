@@ -2098,3 +2098,4 @@ java.lang.ClassCastException: class svenhjol.charm.feature.firing.common.FiringR
 [23:19:41] [Server thread/WARN]: Oak Boat (vehicle of gordobe) moved wrongly! 1.211113260752956
 [23:19:41] [Server thread/WARN]: Oak Boat (vehicle of gordobe) moved wrongly! 0.8642627456736212
 [23:22:21] [pool-3-thread-1/WARN]: Failed to send keepalive request, response code: 502
+[23:27:07] [Server thread/INFO]: gordobe has reached the goal [Dinner's Served!]

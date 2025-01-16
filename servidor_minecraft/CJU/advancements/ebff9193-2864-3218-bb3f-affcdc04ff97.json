@@ -7762,9 +7762,22 @@
     },
     "done": true
   },
+  "farmersdelight:main/place_cooking_pot": {
+    "criteria": {
+      "cooking_pot": "2025-01-16 23:27:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_skillet": {
+    "criteria": {
+      "skillet": "2025-01-16 23:28:48 +0000"
+    },
+    "done": true
+  },
   "morevillagers:all_workstations_get": {
     "criteria": {
-      "smoker": "2025-01-16 21:11:17 +0000"
+      "smoker": "2025-01-16 21:11:17 +0000",
+      "blastfurnace": "2025-01-16 23:23:13 +0000"
     },
     "done": false
   },
@@ -7795,6 +7808,18 @@
   "biomesoplenty:recipes/redstone/jacaranda_fence_gate": {
     "criteria": {
       "has_planks": "2025-01-16 22:49:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/skillet": {
+    "criteria": {
+      "has_brick": "2025-01-16 23:24:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-01-16 23:24:32 +0000"
     },
     "done": true
   },
@@ -7954,6 +7979,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/oven": {
+    "criteria": {
+      "has_oven": "2025-01-16 23:24:32 +0000"
+    },
+    "done": true
+  },
   "morevillagers:first_workstation_get": {
     "criteria": {
       "smoker": "2025-01-16 21:11:17 +0000"
@@ -7987,6 +8018,12 @@
   "charm:vanilla_wood_variants/recipes/birch_chest": {
     "criteria": {
       "has_planks": "2025-01-16 21:21:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-01-16 23:24:32 +0000"
     },
     "done": true
   },
@@ -8065,6 +8102,12 @@
   "another_furniture:recipes/birch_shelf": {
     "criteria": {
       "has_planks": "2025-01-16 21:21:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-01-16 23:24:32 +0000"
     },
     "done": true
   },

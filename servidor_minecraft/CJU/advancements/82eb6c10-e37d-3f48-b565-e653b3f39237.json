@@ -924,12 +924,14 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-01-16 02:08:11 +0000",
       "apple": "2025-01-15 02:59:36 +0000",
       "bread": "2025-01-15 00:48:33 +0000",
       "cooked_chicken": "2025-01-16 00:48:42 +0000",
       "cooked_mutton": "2025-01-15 02:27:43 +0000",
       "potato": "2025-01-15 00:57:07 +0000",
       "cooked_beef": "2025-01-15 01:00:07 +0000",
+      "baked_potato": "2025-01-16 02:15:18 +0000",
       "golden_carrot": "2025-01-16 01:41:17 +0000",
       "carrot": "2025-01-15 03:52:11 +0000"
     },
@@ -4943,21 +4945,159 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/spruce_counter": {
+  "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
-      "has_spruce_counter": "2025-01-16 01:35:34 +0000"
+      "has_gray_wool": "2025-01-16 00:44:04 +0000"
     },
     "done": true
   },
-  "betternether:recipes/misc/copy_bowl_upgrade": {
+  "handcrafted:recipes/misc/gray_cushion": {
     "criteria": {
-      "has_diamond": "2025-01-16 01:27:38 +0000"
+      "has_gray_cushion": "2025-01-16 00:44:04 +0000"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/acacia_table": {
+  "minecraft:recipes/decorations/gray_banner": {
     "criteria": {
-      "has_acacia_table": "2025-01-16 01:25:20 +0000"
+      "has_gray_wool": "2025-01-16 00:44:04 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/gray_tall_stool": {
+    "criteria": {
+      "has_wool": "2025-01-16 00:44:04 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/gray_lamp": {
+    "criteria": {
+      "has_wool": "2025-01-16 00:44:04 +0000"
+    },
+    "done": true
+  },
+  "comforts:recipes/decorations/hammock_gray": {
+    "criteria": {
+      "has_gray_wool": "2025-01-16 00:44:04 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/gray_stool": {
+    "criteria": {
+      "has_wool": "2025-01-16 00:44:04 +0000"
+    },
+    "done": true
+  },
+  "comforts:recipes/decorations/sleeping_bag_gray": {
+    "criteria": {
+      "has_gray_wool": "2025-01-16 00:44:04 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/gray_curtain": {
+    "criteria": {
+      "has_wool": "2025-01-16 00:44:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-01-16 00:44:04 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/gray_sheet": {
+    "criteria": {
+      "has_gray_sheet": "2025-01-16 00:44:04 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/gray_sofa": {
+    "criteria": {
+      "has_wool": "2025-01-16 00:44:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_the_recipe": "2025-01-16 00:47:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2025-01-16 00:47:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2025-01-16 00:47:15 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/red_loin_on_a_stick": {
+    "criteria": {
+      "has_hoglin_loin": "2025-01-16 01:02:04 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/food/hoglin_loin_cooking": {
+    "criteria": {
+      "hoglin_loin": "2025-01-16 01:02:04 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/food/hoglin_loin_from_campfire_cooking": {
+    "criteria": {
+      "hoglin_loin": "2025-01-16 01:02:04 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/cooking/spicy_hoglin_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-16 01:02:04 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/food/hoglin_loin_from_smoking": {
+    "criteria": {
+      "hoglin_loin": "2025-01-16 01:02:04 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/cooking/fried_hoglin_chop": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-16 01:02:04 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/blue_tenderloin_steak": {
+    "criteria": {
+      "has_hoglin_loin": "2025-01-16 01:02:04 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_sword_repairing": {
+    "criteria": {
+      "has_golden_sword": "2025-01-16 01:07:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-01-16 01:07:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-01-16 01:07:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-01-16 01:07:35 +0000"
     },
     "done": true
   },
@@ -4967,15 +5107,87 @@
     },
     "done": true
   },
+  "aether:recipes/combat/golden_gloves_repairing": {
+    "criteria": {
+      "has_golden_gloves": "2025-01-16 01:07:39 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/aether_gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_gloves": "2025-01-16 01:07:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2025-01-16 01:07:40 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_barrel": {
     "criteria": {
       "has_slabs": "2025-01-16 01:17:19 +0000"
     },
     "done": true
   },
-  "betterend:recipes/misc/blossom_berry_jelly_potion": {
+  "handcrafted:recipes/misc/wood_cup": {
     "criteria": {
-      "has_potion": "2025-01-16 01:34:11 +0000"
+      "has_wood_cup": "2025-01-16 01:17:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-01-16 01:17:19 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/birch_flower_box": {
+    "criteria": {
+      "has_slab": "2025-01-16 01:17:19 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/birch_shutter": {
+    "criteria": {
+      "has_slab": "2025-01-16 01:17:19 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/birch_bench": {
+    "criteria": {
+      "has_slab": "2025-01-16 01:17:19 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_bowl": {
+    "criteria": {
+      "has_wood_bowl": "2025-01-16 01:17:19 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wood_plate": {
+    "criteria": {
+      "has_wood_plate": "2025-01-16 01:17:19 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/flint_and_steel_repairing": {
+    "criteria": {
+      "has_flint_and_steel": "2025-01-16 01:23:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-01-16 01:24:59 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_table": {
+    "criteria": {
+      "has_acacia_table": "2025-01-16 01:25:20 +0000"
     },
     "done": true
   },
@@ -4985,69 +5197,15 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/kitchen_hood": {
-    "criteria": {
-      "has_kitchen_hood": "2025-01-16 01:51:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/diamond_sword": {
-    "criteria": {
-      "has_diamond": "2025-01-16 01:27:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/jukebox": {
-    "criteria": {
-      "has_diamond": "2025-01-16 01:27:38 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/spruce_table": {
-    "criteria": {
-      "has_spruce_table": "2025-01-16 01:35:34 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/misc/aether_iron_nugget_from_smelting": {
-    "criteria": {
-      "has_iron_gloves": "2025-01-16 01:27:42 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/acacia_cupboard": {
     "criteria": {
       "has_acacia_cupboard": "2025-01-16 01:25:20 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_pickaxe": {
-    "criteria": {
-      "has_diamond": "2025-01-16 01:27:38 +0000"
-    },
-    "done": true
-  },
   "charm:vanilla_wood_variants/recipes/acacia_chest": {
     "criteria": {
       "has_planks": "2025-01-16 01:25:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_carpet": {
-    "criteria": {
-      "has_gray_wool": "2025-01-16 00:44:04 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/blue_obsidian_bricks_stairs_stonecutter": {
-    "criteria": {
-      "has_blue_obsidian": "2025-01-16 01:40:35 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/gray_cushion": {
-    "criteria": {
-      "has_gray_cushion": "2025-01-16 00:44:04 +0000"
     },
     "done": true
   },
@@ -5063,51 +5221,15 @@
     },
     "done": true
   },
-  "mynethersdelight:recipes/misc/crafting/red_loin_on_a_stick": {
-    "criteria": {
-      "has_hoglin_loin": "2025-01-16 01:02:04 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/spruce_dining_bench": {
-    "criteria": {
-      "has_spruce_dining_bench": "2025-01-16 01:35:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/diamond_hoe": {
-    "criteria": {
-      "has_diamond": "2025-01-16 01:27:38 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/acacia_fancy_bed": {
     "criteria": {
       "has_acacia_fancy_bed": "2025-01-16 01:25:20 +0000"
     },
     "done": true
   },
-  "another_furniture:recipes/spruce_shelf": {
-    "criteria": {
-      "has_planks": "2025-01-16 01:35:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/pumpkin_pie": {
-    "criteria": {
-      "has_pumpkin": "2025-01-16 01:40:31 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/acacia_dining_bench": {
     "criteria": {
       "has_acacia_dining_bench": "2025-01-16 01:25:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_button": {
-    "criteria": {
-      "has_planks": "2025-01-16 01:35:34 +0000"
     },
     "done": true
   },
@@ -5123,75 +5245,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_chicken_from_smoking": {
-    "criteria": {
-      "has_the_recipe": "2025-01-16 00:47:14 +0000"
-    },
-    "done": true
-  },
   "variantcraftingtables:recipes/misc/acacia_crafting_table": {
     "criteria": {
       "has_planks": "2025-01-16 01:25:20 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/misc/netherite_diamond_ingot": {
-    "criteria": {
-      "has_minecraft:diamond": "2025-01-16 01:27:38 +0000"
-    },
-    "done": true
-  },
-  "charm:vanilla_wood_variants/recipes/trapped_birch_chest": {
-    "criteria": {
-      "has_chest": "2025-01-16 02:02:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_banner": {
-    "criteria": {
-      "has_gray_wool": "2025-01-16 00:44:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
-    "criteria": {
-      "has_rib_armor_trim_smithing_template": "2025-01-16 01:40:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/grindstone": {
-    "criteria": {
-      "has_stone_slab": "2025-01-16 01:57:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diamond_block": {
-    "criteria": {
-      "has_diamond": "2025-01-16 01:27:38 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/blue_obsidian_tile_stonecutter": {
-    "criteria": {
-      "has_blue_obsidian": "2025-01-16 01:40:35 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/obsidian_bricks_stairs_stonecutter": {
-    "criteria": {
-      "has_obsidian": "2025-01-16 01:34:11 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/spruce_corner_trim": {
-    "criteria": {
-      "has_spruce_corner_trim": "2025-01-16 01:35:34 +0000"
-    },
-    "done": true
-  },
-  "charm:vanilla_wood_variants/recipes/spruce_barrel": {
-    "criteria": {
-      "has_planks": "2025-01-16 01:35:34 +0000"
     },
     "done": true
   },
@@ -5201,57 +5257,9 @@
     },
     "done": true
   },
-  "aether:recipes/tools/iron_pickaxe_repairing": {
-    "criteria": {
-      "has_iron_pickaxe": "2025-01-16 01:48:38 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/spruce_desk": {
-    "criteria": {
-      "has_spruce_desk": "2025-01-16 01:35:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/powered_rail": {
-    "criteria": {
-      "has_rail": "2025-01-16 01:07:35 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/infusion_pedestal": {
-    "criteria": {
-      "has_obsidian": "2025-01-16 01:34:11 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/horse_feed": {
-    "criteria": {
-      "has_golden_carrot": "2025-01-16 01:07:40 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/wood_cup": {
-    "criteria": {
-      "has_wood_cup": "2025-01-16 01:17:19 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/acacia_pressure_plate": {
     "criteria": {
       "has_planks": "2025-01-16 01:25:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/iron_tools": {
-    "criteria": {
-      "iron_pickaxe": "2025-01-16 01:48:38 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/blue_obsidian_bricks_slab_stonecutter": {
-    "criteria": {
-      "has_blue_obsidian": "2025-01-16 01:40:35 +0000"
     },
     "done": true
   },
@@ -5261,75 +5269,147 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/spruce_sign": {
+  "minecraft:recipes/decorations/acacia_fence": {
     "criteria": {
-      "has_planks": "2025-01-16 01:35:34 +0000"
+      "has_planks": "2025-01-16 01:25:20 +0000"
     },
     "done": true
   },
-  "aether:recipes/combat/golden_gloves_repairing": {
+  "minecraft:recipes/redstone/acacia_button": {
     "criteria": {
-      "has_golden_gloves": "2025-01-16 01:07:39 +0000"
+      "has_planks": "2025-01-16 01:25:20 +0000"
     },
     "done": true
   },
-  "charm:kilns/recipes/glass": {
+  "handcrafted:recipes/misc/acacia_shelf": {
     "criteria": {
-      "has_sand": "2025-01-16 01:40:32 +0000"
+      "has_acacia_shelf": "2025-01-16 01:25:20 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/composter": {
+  "another_furniture:recipes/acacia_table": {
     "criteria": {
-      "has_wood_slab": "2025-01-16 01:17:19 +0000"
+      "has_planks": "2025-01-16 01:25:20 +0000"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/golden_thin_pot": {
+  "handcrafted:recipes/misc/acacia_chair": {
     "criteria": {
-      "has_golden_thin_pot": "2025-01-16 01:48:40 +0000"
+      "has_acacia_chair": "2025-01-16 01:25:20 +0000"
     },
     "done": true
   },
-  "betternether:recipes/building_blocks/obsidian_tile_stairs_stonecutter": {
+  "minecraft:recipes/redstone/acacia_door": {
     "criteria": {
-      "has_obsidian": "2025-01-16 01:34:11 +0000"
+      "has_planks": "2025-01-16 01:25:20 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
+  "charm:vanilla_wood_variants/recipes/acacia_barrel": {
     "criteria": {
-      "has_smithing_trim_template": "2025-01-16 01:40:34 +0000"
+      "has_planks": "2025-01-16 01:25:20 +0000"
     },
     "done": true
   },
-  "betternether:recipes/building_blocks/blue_obsidian_tile_small_stonecutter": {
+  "handcrafted:recipes/misc/acacia_corner_trim": {
     "criteria": {
-      "has_blue_obsidian": "2025-01-16 01:40:35 +0000"
+      "has_acacia_corner_trim": "2025-01-16 01:25:20 +0000"
     },
     "done": true
   },
-  "betternether:recipes/building_blocks/blue_obsidian_bricks_stonecutter": {
+  "handcrafted:recipes/misc/acacia_couch": {
     "criteria": {
-      "has_blue_obsidian": "2025-01-16 01:40:35 +0000"
+      "has_acacia_couch": "2025-01-16 01:25:20 +0000"
     },
     "done": true
   },
-  "betternether:recipes/building_blocks/obsidian_rod_tiles_stonecutting": {
+  "handcrafted:recipes/misc/acacia_bench": {
     "criteria": {
-      "has_obsidian": "2025-01-16 01:34:11 +0000"
+      "has_acacia_bench": "2025-01-16 01:25:20 +0000"
     },
     "done": true
   },
-  "mynethersdelight:recipes/food/hoglin_loin_cooking": {
+  "handcrafted:recipes/misc/acacia_drawer": {
     "criteria": {
-      "hoglin_loin": "2025-01-16 01:02:04 +0000"
+      "has_acacia_drawer": "2025-01-16 01:25:20 +0000"
     },
     "done": true
   },
-  "another_furniture:recipes/gray_tall_stool": {
+  "minecraft:recipes/redstone/acacia_trapdoor": {
     "criteria": {
-      "has_wool": "2025-01-16 00:44:04 +0000"
+      "has_planks": "2025-01-16 01:25:20 +0000"
+    },
+    "done": true
+  },
+  "charm:vanilla_wood_variants/recipes/chiseled_acacia_bookshelf": {
+    "criteria": {
+      "has_planks": "2025-01-16 01:25:20 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_side_table": {
+    "criteria": {
+      "has_acacia_side_table": "2025-01-16 01:25:20 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_nightstand": {
+    "criteria": {
+      "has_acacia_nightstand": "2025-01-16 01:25:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-16 01:25:20 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/acacia_counter": {
+    "criteria": {
+      "has_acacia_counter": "2025-01-16 01:25:20 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/copy_bowl_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-01-16 01:27:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-01-16 01:27:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-01-16 01:27:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-01-16 01:27:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-01-16 01:27:38 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_diamond_ingot": {
+    "criteria": {
+      "has_minecraft:diamond": "2025-01-16 01:27:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-01-16 01:27:38 +0000"
     },
     "done": true
   },
@@ -5339,33 +5419,147 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/detector_rail": {
-    "criteria": {
-      "has_rail": "2025-01-16 01:07:35 +0000"
-    },
-    "done": true
-  },
-  "mynethersdelight:recipes/food/hoglin_loin_from_campfire_cooking": {
-    "criteria": {
-      "hoglin_loin": "2025-01-16 01:02:04 +0000"
-    },
-    "done": true
-  },
   "magnumtorch:recipes/decorations/diamond_magnum_torch": {
     "criteria": {
       "has_diamond": "2025-01-16 01:27:38 +0000"
     },
     "done": true
   },
-  "mynethersdelight:recipes/cooking/cooking/spicy_hoglin_stew": {
+  "betternether:recipes/misc/copy_flaming_ruby_upgrade": {
     "criteria": {
-      "has_any_ingredient": "2025-01-16 01:02:04 +0000"
+      "has_diamond": "2025-01-16 01:27:38 +0000"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/kitchen_hood_pipe": {
+  "betternether:recipes/misc/copy_cincinnasite_diamond_upgrade": {
     "criteria": {
-      "has_kitchen_hood_pipe": "2025-01-16 01:51:47 +0000"
+      "has_diamond": "2025-01-16 01:27:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-01-16 01:27:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-01-16 01:27:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-01-16 01:27:38 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_gloves": {
+    "criteria": {
+      "has_diamond": "2025-01-16 01:27:38 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/copy_aeternium_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-01-16 01:27:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-01-16 01:27:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2025-01-16 01:27:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-01-16 01:27:38 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/copy_netherite_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-01-16 01:27:38 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_jukebox": {
+    "criteria": {
+      "has_diamond": "2025-01-16 01:27:38 +0000"
+    },
+    "done": true
+  },
+  "xp_storage:recipes/misc/diamond_xp_book_upgrade": {
+    "criteria": {
+      "has_xp_book_upgrade_ingredient": "2025-01-16 01:27:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-01-16 01:27:38 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/copy_leather_handle_attachment": {
+    "criteria": {
+      "has_diamond": "2025-01-16 01:27:38 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/aether_iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_gloves": "2025-01-16 01:27:42 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/aether_iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_gloves": "2025-01-16 01:27:42 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_gloves_repairing": {
+    "criteria": {
+      "has_iron_gloves": "2025-01-16 01:27:42 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/blossom_berry_jelly_potion": {
+    "criteria": {
+      "has_potion": "2025-01-16 01:34:11 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_bricks_stairs_stonecutter": {
+    "criteria": {
+      "has_obsidian": "2025-01-16 01:34:11 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/infusion_pedestal": {
+    "criteria": {
+      "has_obsidian": "2025-01-16 01:34:11 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_tile_stairs_stonecutter": {
+    "criteria": {
+      "has_obsidian": "2025-01-16 01:34:11 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_rod_tiles_stonecutting": {
+    "criteria": {
+      "has_obsidian": "2025-01-16 01:34:11 +0000"
     },
     "done": true
   },
@@ -5381,9 +5575,117 @@
     },
     "done": true
   },
-  "another_furniture:recipes/gray_lamp": {
+  "betternether:recipes/building_blocks/obsidian_tile_small_stonecutter": {
     "criteria": {
-      "has_wool": "2025-01-16 00:44:04 +0000"
+      "has_obsidian": "2025-01-16 01:34:11 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_tile_slab_stonecutter": {
+    "criteria": {
+      "has_obsidian": "2025-01-16 01:34:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-01-16 01:34:11 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_tile_stonecutter": {
+    "criteria": {
+      "has_obsidian": "2025-01-16 01:34:11 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_glass_smelting": {
+    "criteria": {
+      "has_obsidian": "2025-01-16 01:34:11 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_bricks_slab_stonecutter": {
+    "criteria": {
+      "has_obsidian": "2025-01-16 01:34:11 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/shadow_berry_jelly_potion": {
+    "criteria": {
+      "has_potion": "2025-01-16 01:34:11 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_bricks_stonecutter": {
+    "criteria": {
+      "has_obsidian": "2025-01-16 01:34:11 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/obsidian_tile": {
+    "criteria": {
+      "has_obsidian": "2025-01-16 01:34:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-01-16 01:34:11 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_counter": {
+    "criteria": {
+      "has_spruce_counter": "2025-01-16 01:35:34 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_table": {
+    "criteria": {
+      "has_spruce_table": "2025-01-16 01:35:34 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_dining_bench": {
+    "criteria": {
+      "has_spruce_dining_bench": "2025-01-16 01:35:34 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/spruce_shelf": {
+    "criteria": {
+      "has_planks": "2025-01-16 01:35:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-01-16 01:35:34 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_corner_trim": {
+    "criteria": {
+      "has_spruce_corner_trim": "2025-01-16 01:35:34 +0000"
+    },
+    "done": true
+  },
+  "charm:vanilla_wood_variants/recipes/spruce_barrel": {
+    "criteria": {
+      "has_planks": "2025-01-16 01:35:34 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spruce_desk": {
+    "criteria": {
+      "has_spruce_desk": "2025-01-16 01:35:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-01-16 01:35:34 +0000"
     },
     "done": true
   },
@@ -5405,39 +5707,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/acacia_fence": {
-    "criteria": {
-      "has_planks": "2025-01-16 01:25:20 +0000"
-    },
-    "done": true
-  },
-  "comforts:recipes/decorations/hammock_gray": {
-    "criteria": {
-      "has_gray_wool": "2025-01-16 00:44:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone": {
-    "criteria": {
-      "has_sand": "2025-01-16 01:40:32 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/spruce_fancy_bed": {
     "criteria": {
       "has_spruce_fancy_bed": "2025-01-16 01:35:34 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/flint_and_steel_repairing": {
-    "criteria": {
-      "has_flint_and_steel": "2025-01-16 01:23:25 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/obsidian_tile_small_stonecutter": {
-    "criteria": {
-      "has_obsidian": "2025-01-16 01:34:11 +0000"
     },
     "done": true
   },
@@ -5447,51 +5719,9 @@
     },
     "done": true
   },
-  "charm:vanilla_wood_variants/recipes/trapped_oak_chest": {
-    "criteria": {
-      "has_chest": "2025-01-16 01:57:59 +0000"
-    },
-    "done": true
-  },
   "charm:vanilla_wood_variants/recipes/spruce_chest": {
     "criteria": {
       "has_planks": "2025-01-16 01:35:34 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/blue_obsidian_tile_slab_stonecutter": {
-    "criteria": {
-      "has_blue_obsidian": "2025-01-16 01:40:35 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/misc/copy_flaming_ruby_upgrade": {
-    "criteria": {
-      "has_diamond": "2025-01-16 01:27:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/acacia_planks": {
-    "criteria": {
-      "has_log": "2025-01-16 01:24:59 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/misc/copy_cincinnasite_diamond_upgrade": {
-    "criteria": {
-      "has_diamond": "2025-01-16 01:27:38 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/blue_obsidian_glass_smelting": {
-    "criteria": {
-      "has_blue_obsidian": "2025-01-16 01:40:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/acacia_button": {
-    "criteria": {
-      "has_planks": "2025-01-16 01:25:20 +0000"
     },
     "done": true
   },
@@ -5501,69 +5731,9 @@
     },
     "done": true
   },
-  "another_furniture:recipes/gray_stool": {
-    "criteria": {
-      "has_wool": "2025-01-16 00:44:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
-    "criteria": {
-      "has_gold_block": "2025-01-16 01:48:40 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
-    "criteria": {
-      "has_pumpkin": "2025-01-16 01:40:31 +0000"
-    },
-    "done": true
-  },
-  "comforts:recipes/decorations/sleeping_bag_gray": {
-    "criteria": {
-      "has_gray_wool": "2025-01-16 00:44:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/diamond_chestplate": {
-    "criteria": {
-      "has_diamond": "2025-01-16 01:27:38 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/acacia_shelf": {
-    "criteria": {
-      "has_acacia_shelf": "2025-01-16 01:25:20 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/roast_chicken_block": {
-    "criteria": {
-      "has_cooked_chicken": "2025-01-16 00:47:15 +0000"
-    },
-    "done": true
-  },
-  "morevillagers:recipes/mining_bench": {
-    "criteria": {
-      "has_iron_pickaxe": "2025-01-16 01:48:38 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/acacia_table": {
-    "criteria": {
-      "has_planks": "2025-01-16 01:25:20 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/spruce_shelf": {
     "criteria": {
       "has_spruce_shelf": "2025-01-16 01:35:34 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/acacia_chair": {
-    "criteria": {
-      "has_acacia_chair": "2025-01-16 01:25:20 +0000"
     },
     "done": true
   },
@@ -5573,63 +5743,9 @@
     },
     "done": true
   },
-  "betternether:recipes/building_blocks/obsidian_tile_slab_stonecutter": {
-    "criteria": {
-      "has_obsidian": "2025-01-16 01:34:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/acacia_door": {
-    "criteria": {
-      "has_planks": "2025-01-16 01:25:20 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2025-01-16 01:35:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/activator_rail": {
-    "criteria": {
-      "has_rail": "2025-01-16 01:07:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/diamond_shovel": {
-    "criteria": {
-      "has_diamond": "2025-01-16 01:27:38 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/gray_curtain": {
-    "criteria": {
-      "has_wool": "2025-01-16 00:44:04 +0000"
-    },
-    "done": true
-  },
-  "charm:vanilla_wood_variants/recipes/acacia_barrel": {
-    "criteria": {
-      "has_planks": "2025-01-16 01:25:20 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/birch_flower_box": {
-    "criteria": {
-      "has_slab": "2025-01-16 01:17:19 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/acacia_corner_trim": {
-    "criteria": {
-      "has_acacia_corner_trim": "2025-01-16 01:25:20 +0000"
-    },
-    "done": true
-  },
-  "mynethersdelight:recipes/food/hoglin_loin_from_smoking": {
-    "criteria": {
-      "hoglin_loin": "2025-01-16 01:02:04 +0000"
     },
     "done": true
   },
@@ -5639,201 +5755,9 @@
     },
     "done": true
   },
-  "mynethersdelight:recipes/cooking/cooking/fried_hoglin_chop": {
-    "criteria": {
-      "has_any_ingredient": "2025-01-16 01:02:04 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/spruce_pillar_trim": {
     "criteria": {
       "has_spruce_pillar_trim": "2025-01-16 01:35:34 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/golden_medium_pot": {
-    "criteria": {
-      "has_golden_medium_pot": "2025-01-16 01:48:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/diamond_helmet": {
-    "criteria": {
-      "has_diamond": "2025-01-16 01:27:38 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/birch_shutter": {
-    "criteria": {
-      "has_slab": "2025-01-16 01:17:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2025-01-16 01:34:11 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/blue_obsidian_tile_stairs_stonecutter": {
-    "criteria": {
-      "has_blue_obsidian": "2025-01-16 01:40:35 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/obsidian_tile_stonecutter": {
-    "criteria": {
-      "has_obsidian": "2025-01-16 01:34:11 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/diamond_gloves": {
-    "criteria": {
-      "has_diamond": "2025-01-16 01:27:38 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/acacia_couch": {
-    "criteria": {
-      "has_acacia_couch": "2025-01-16 01:25:20 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/blue_obsidian_tile": {
-    "criteria": {
-      "has_blue_obsidian": "2025-01-16 01:40:35 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/copy_aeternium_upgrade": {
-    "criteria": {
-      "has_diamond": "2025-01-16 01:27:38 +0000"
-    },
-    "done": true
-  },
-  "mynethersdelight:recipes/misc/crafting/blue_tenderloin_steak": {
-    "criteria": {
-      "has_hoglin_loin": "2025-01-16 01:02:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/mine_diamond": {
-    "criteria": {
-      "diamond": "2025-01-16 01:27:38 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/acacia_bench": {
-    "criteria": {
-      "has_acacia_bench": "2025-01-16 01:25:20 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/combat/diamond_knife": {
-    "criteria": {
-      "has_diamond": "2025-01-16 01:27:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_bed": {
-    "criteria": {
-      "has_gray_wool": "2025-01-16 00:44:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/diamond_leggings": {
-    "criteria": {
-      "has_diamond": "2025-01-16 01:27:38 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/obsidian_glass_smelting": {
-    "criteria": {
-      "has_obsidian": "2025-01-16 01:34:11 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/copy_netherite_upgrade": {
-    "criteria": {
-      "has_diamond": "2025-01-16 01:27:38 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/golden_thick_pot": {
-    "criteria": {
-      "has_golden_thick_pot": "2025-01-16 01:48:40 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/decorations/skyroot_jukebox": {
-    "criteria": {
-      "has_diamond": "2025-01-16 01:27:38 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/acacia_drawer": {
-    "criteria": {
-      "has_acacia_drawer": "2025-01-16 01:25:20 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/birch_bench": {
-    "criteria": {
-      "has_slab": "2025-01-16 01:17:19 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/obsidian_bricks_slab_stonecutter": {
-    "criteria": {
-      "has_obsidian": "2025-01-16 01:34:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/acacia_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-01-16 01:25:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pumpkin_seeds": {
-    "criteria": {
-      "has_pumpkin": "2025-01-16 01:40:31 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/golden_sword_repairing": {
-    "criteria": {
-      "has_golden_sword": "2025-01-16 01:07:30 +0000"
-    },
-    "done": true
-  },
-  "charm:vanilla_wood_variants/recipes/chiseled_acacia_bookshelf": {
-    "criteria": {
-      "has_planks": "2025-01-16 01:25:20 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/acacia_side_table": {
-    "criteria": {
-      "has_acacia_side_table": "2025-01-16 01:25:20 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/pumpkin_soup": {
-    "criteria": {
-      "has_any_ingredient": "2025-01-16 01:40:31 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/shadow_berry_jelly_potion": {
-    "criteria": {
-      "has_potion": "2025-01-16 01:34:11 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/blue_obsidian_rod_tiles_stonecutter": {
-    "criteria": {
-      "has_blue_obsidian": "2025-01-16 01:40:35 +0000"
     },
     "done": true
   },
@@ -5843,51 +5767,9 @@
     },
     "done": true
   },
-  "aether:recipes/misc/aether_iron_nugget_from_blasting": {
-    "criteria": {
-      "has_iron_gloves": "2025-01-16 01:27:42 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/acacia_nightstand": {
-    "criteria": {
-      "has_acacia_nightstand": "2025-01-16 01:25:20 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/diamond_gloves_repairing": {
-    "criteria": {
-      "has_diamond_gloves": "2025-01-16 01:43:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/acacia_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-01-16 01:25:20 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2025-01-16 01:35:34 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/obsidian_bricks_stonecutter": {
-    "criteria": {
-      "has_obsidian": "2025-01-16 01:34:11 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/acacia_counter": {
-    "criteria": {
-      "has_acacia_counter": "2025-01-16 01:25:20 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/iron_gloves_repairing": {
-    "criteria": {
-      "has_iron_gloves": "2025-01-16 01:27:42 +0000"
     },
     "done": true
   },
@@ -5897,21 +5779,9 @@
     },
     "done": true
   },
-  "betternether:recipes/building_blocks/obsidian_tile": {
-    "criteria": {
-      "has_obsidian": "2025-01-16 01:34:11 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/spruce_bench": {
     "criteria": {
       "has_spruce_bench": "2025-01-16 01:35:34 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/gray_sheet": {
-    "criteria": {
-      "has_gray_sheet": "2025-01-16 00:44:04 +0000"
     },
     "done": true
   },
@@ -5927,63 +5797,9 @@
     },
     "done": true
   },
-  "another_furniture:recipes/gray_sofa": {
-    "criteria": {
-      "has_wool": "2025-01-16 00:44:04 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/golden_wide_pot": {
-    "criteria": {
-      "has_golden_wide_pot": "2025-01-16 01:48:40 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/misc/aether_gold_nugget_from_blasting": {
-    "criteria": {
-      "has_golden_gloves": "2025-01-16 01:07:39 +0000"
-    },
-    "done": true
-  },
-  "charm:redstone_sand/recipes/redstone_sand": {
-    "criteria": {
-      "has_sand": "2025-01-16 01:40:32 +0000"
-    },
-    "done": true
-  },
-  "xp_storage:recipes/misc/diamond_xp_book_upgrade": {
-    "criteria": {
-      "has_xp_book_upgrade_ingredient": "2025-01-16 01:27:38 +0000"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/spruce_chair": {
     "criteria": {
       "has_spruce_chair": "2025-01-16 01:35:34 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/chicken_sandwich": {
-    "criteria": {
-      "has_cooked_chicken": "2025-01-16 00:47:15 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/food/moa_egg_pumpkin_pie": {
-    "criteria": {
-      "has_pumpkin": "2025-01-16 01:40:31 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/wood_bowl": {
-    "criteria": {
-      "has_wood_bowl": "2025-01-16 01:17:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/enchanting_table": {
-    "criteria": {
-      "has_obsidian": "2025-01-16 01:34:11 +0000"
     },
     "done": true
   },
@@ -5999,15 +5815,201 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_axe": {
+  "handcrafted:recipes/misc/spruce_side_table": {
     "criteria": {
-      "has_diamond": "2025-01-16 01:27:38 +0000"
+      "has_spruce_side_table": "2025-01-16 01:35:34 +0000"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/wood_plate": {
+  "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
-      "has_wood_plate": "2025-01-16 01:17:19 +0000"
+      "has_pumpkin": "2025-01-16 01:40:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
+    "criteria": {
+      "has_pumpkin": "2025-01-16 01:40:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-01-16 01:40:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-16 01:40:31 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/food/moa_egg_pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-01-16 01:40:31 +0000"
+    },
+    "done": true
+  },
+  "charm:kilns/recipes/glass": {
+    "criteria": {
+      "has_sand": "2025-01-16 01:40:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-01-16 01:40:32 +0000"
+    },
+    "done": true
+  },
+  "charm:redstone_sand/recipes/redstone_sand": {
+    "criteria": {
+      "has_sand": "2025-01-16 01:40:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
+    "criteria": {
+      "has_rib_armor_trim_smithing_template": "2025-01-16 01:40:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-01-16 01:40:34 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_bricks_stairs_stonecutter": {
+    "criteria": {
+      "has_blue_obsidian": "2025-01-16 01:40:35 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_tile_stonecutter": {
+    "criteria": {
+      "has_blue_obsidian": "2025-01-16 01:40:35 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_bricks_slab_stonecutter": {
+    "criteria": {
+      "has_blue_obsidian": "2025-01-16 01:40:35 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_tile_small_stonecutter": {
+    "criteria": {
+      "has_blue_obsidian": "2025-01-16 01:40:35 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_bricks_stonecutter": {
+    "criteria": {
+      "has_blue_obsidian": "2025-01-16 01:40:35 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_tile_slab_stonecutter": {
+    "criteria": {
+      "has_blue_obsidian": "2025-01-16 01:40:35 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_glass_smelting": {
+    "criteria": {
+      "has_blue_obsidian": "2025-01-16 01:40:35 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_tile_stairs_stonecutter": {
+    "criteria": {
+      "has_blue_obsidian": "2025-01-16 01:40:35 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_tile": {
+    "criteria": {
+      "has_blue_obsidian": "2025-01-16 01:40:35 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_rod_tiles_stonecutter": {
+    "criteria": {
+      "has_blue_obsidian": "2025-01-16 01:40:35 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_gloves_repairing": {
+    "criteria": {
+      "has_diamond_gloves": "2025-01-16 01:43:14 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/iron_pickaxe_repairing": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-01-16 01:48:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-01-16 01:48:38 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/mining_bench": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-01-16 01:48:38 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_thin_pot": {
+    "criteria": {
+      "has_golden_thin_pot": "2025-01-16 01:48:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-01-16 01:48:40 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_medium_pot": {
+    "criteria": {
+      "has_golden_medium_pot": "2025-01-16 01:48:40 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_thick_pot": {
+    "criteria": {
+      "has_golden_thick_pot": "2025-01-16 01:48:40 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_wide_pot": {
+    "criteria": {
+      "has_golden_wide_pot": "2025-01-16 01:48:40 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/kitchen_hood": {
+    "criteria": {
+      "has_kitchen_hood": "2025-01-16 01:51:47 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/kitchen_hood_pipe": {
+    "criteria": {
+      "has_kitchen_hood_pipe": "2025-01-16 01:51:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-01-16 01:57:42 +0000"
     },
     "done": true
   },
@@ -6017,15 +6019,69 @@
     },
     "done": true
   },
-  "betterend:recipes/misc/copy_leather_handle_attachment": {
+  "charm:vanilla_wood_variants/recipes/trapped_oak_chest": {
     "criteria": {
-      "has_diamond": "2025-01-16 01:27:38 +0000"
+      "has_chest": "2025-01-16 01:57:59 +0000"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/spruce_side_table": {
+  "charm:vanilla_wood_variants/recipes/trapped_birch_chest": {
     "criteria": {
-      "has_spruce_side_table": "2025-01-16 01:35:34 +0000"
+      "has_chest": "2025-01-16 02:02:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_the_recipe": "2025-01-16 02:08:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-01-16 02:15:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-01-16 02:20:20 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_helmet_repairing": {
+    "criteria": {
+      "has_diamond_helmet": "2025-01-16 02:15:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-01-16 02:15:13 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/iron_axe_repairing": {
+    "criteria": {
+      "has_iron_axe": "2025-01-16 02:17:26 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_chestplate_repairing": {
+    "criteria": {
+      "has_diamond_chestplate": "2025-01-16 02:15:38 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_leggings_repairing": {
+    "criteria": {
+      "has_diamond_leggings": "2025-01-16 02:15:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-01-16 02:15:13 +0000"
     },
     "done": true
   },

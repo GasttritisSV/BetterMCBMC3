@@ -5733,6 +5733,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-01-16 02:10:20 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/leather_to_stripes": {
     "criteria": {
       "has_leather": "2025-01-16 02:00:51 +0000"
@@ -5778,6 +5784,12 @@
   "handcrafted:recipes/misc/brown_cushion": {
     "criteria": {
       "has_brown_cushion": "2025-01-16 02:00:39 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/service_bell": {
+    "criteria": {
+      "has_nugget": "2025-01-16 02:10:20 +0000"
     },
     "done": true
   },
@@ -5913,6 +5925,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_the_recipe": "2025-01-16 02:09:58 +0000"
+    },
+    "done": true
+  },
   "comforts:recipes/decorations/hammock_brown": {
     "criteria": {
       "has_brown_wool": "2025-01-16 02:00:39 +0000"
@@ -5946,6 +5964,12 @@
   "inmis:recipes/baby_backpack": {
     "criteria": {
       "has_leather": "2025-01-16 02:00:51 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_shovel_repairing": {
+    "criteria": {
+      "has_diamond_shovel": "2025-01-16 02:21:21 +0000"
     },
     "done": true
   },

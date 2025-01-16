@@ -6922,9 +6922,27 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/stone_paver_slab_from_stone_or_stone_pavers_stonecutting": {
+    "criteria": {
+      "has_stone_or_stone_pavers": "2025-01-16 02:12:45 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_paver_stairs_from_stone_or_stone_pavers_stonecutting": {
+    "criteria": {
+      "has_stone_or_stone_pavers": "2025-01-16 02:12:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-16 01:21:08 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/creeper_trophy": {
+    "criteria": {
+      "has_creeper_trophy": "2025-01-16 02:12:45 +0000"
     },
     "done": true
   },
@@ -6934,9 +6952,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-16 02:12:45 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/bow_repairing": {
     "criteria": {
       "has_bow": "2025-01-16 01:46:40 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_plate_stairs_from_stone_or_stone_plates_stonecutting": {
+    "criteria": {
+      "has_stone_or_stone_plates": "2025-01-16 02:12:45 +0000"
     },
     "done": true
   },
@@ -6952,15 +6982,45 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/stone_tile_wall_from_stone_or_stone_tiles_stonecutting": {
+    "criteria": {
+      "has_stone_or_stone_tiles": "2025-01-16 02:12:45 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/vindicator_trophy": {
+    "criteria": {
+      "has_vindicator_trophy": "2025-01-16 02:12:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-01-16 01:46:40 +0000"
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/stone_shingle_wall_from_stone_or_stone_shingles_stonecutting": {
+    "criteria": {
+      "has_stone_or_stone_shingles": "2025-01-16 02:12:45 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/skeleton_trophy": {
+    "criteria": {
+      "has_skeleton_trophy": "2025-01-16 02:12:45 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/diamond_pickaxe_repairing": {
     "criteria": {
       "has_diamond_pickaxe": "2025-01-16 01:21:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-01-16 02:12:45 +0000"
     },
     "done": true
   },
@@ -6994,9 +7054,33 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/stone_shingle_stairs_from_stone_or_stone_shingles_stonecutting": {
+    "criteria": {
+      "has_stone_or_stone_shingles": "2025-01-16 02:12:45 +0000"
+    },
+    "done": true
+  },
+  "charm:kilns/recipes/glass": {
+    "criteria": {
+      "has_sand": "2025-01-16 02:21:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-16 01:21:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-01-16 02:12:45 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_pillar_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-16 02:12:45 +0000"
     },
     "done": true
   },
@@ -7006,15 +7090,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-01-16 02:18:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-16 01:21:08 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-16 02:12:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-16 02:12:45 +0000"
+    },
+    "done": true
+  },
   "charm:ebony_wood/recipes/ebony_door": {
     "criteria": {
       "has_planks": "2025-01-16 01:38:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-16 02:12:45 +0000"
     },
     "done": true
   },
@@ -7030,9 +7138,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-16 02:12:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-01-16 02:18:35 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/sweet_berry_jelly_potion": {
     "criteria": {
       "has_sugar": "2025-01-16 01:42:45 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_plate_wall_from_stone_or_stone_plates_stonecutting": {
+    "criteria": {
+      "has_stone_or_stone_plates": "2025-01-16 02:12:45 +0000"
     },
     "done": true
   },
@@ -7042,9 +7168,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-01-16 02:21:00 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/brown_stool": {
     "criteria": {
       "has_wool": "2025-01-16 01:23:20 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_shingle_slab_from_stone_or_stone_shingles_stonecutting": {
+    "criteria": {
+      "has_stone_or_stone_shingles": "2025-01-16 02:12:45 +0000"
     },
     "done": true
   },
@@ -7066,6 +7204,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-01-16 02:12:45 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_pavers_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-16 02:12:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_banner": {
     "criteria": {
       "has_brown_wool": "2025-01-16 01:23:20 +0000"
@@ -7081,6 +7231,18 @@
   "charm:ebony_wood/recipes/ebony_sign": {
     "criteria": {
       "has_planks": "2025-01-16 01:38:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-16 02:12:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-01-16 02:12:45 +0000"
     },
     "done": true
   },
@@ -7102,6 +7264,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-01-16 02:12:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-01-16 02:12:45 +0000"
+    },
+    "done": true
+  },
   "charm:ebony_wood/recipes/ebony_fence": {
     "criteria": {
       "has_planks": "2025-01-16 01:38:36 +0000"
@@ -7120,9 +7294,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/stone_paver_wall_from_stone_or_stone_pavers_stonecutting": {
+    "criteria": {
+      "has_stone_or_stone_pavers": "2025-01-16 02:12:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-16 01:21:08 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/evoker_trophy": {
+    "criteria": {
+      "has_evoker_trophy": "2025-01-16 02:12:45 +0000"
     },
     "done": true
   },
@@ -7144,9 +7330,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/stone_tile_stairs_from_stone_or_stone_tiles_stonecutting": {
+    "criteria": {
+      "has_stone_or_stone_tiles": "2025-01-16 02:12:45 +0000"
+    },
+    "done": true
+  },
   "charm:chairs/sat_on_chair": {
     "criteria": {
       "sat_on_chair": "2025-01-16 01:27:26 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/pillager_trophy": {
+    "criteria": {
+      "has_pillager_trophy": "2025-01-16 02:12:45 +0000"
     },
     "done": true
   },
@@ -7159,6 +7357,24 @@
   "charm:ebony_wood/recipes/ebony_chest": {
     "criteria": {
       "has_planks": "2025-01-16 01:38:36 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_plates_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-16 02:12:45 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/stone_corner_trim": {
+    "criteria": {
+      "has_stone_corner_trim": "2025-01-16 02:12:45 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_plate_slab_from_stone_or_stone_plates_stonecutting": {
+    "criteria": {
+      "has_stone_or_stone_plates": "2025-01-16 02:12:45 +0000"
     },
     "done": true
   },
@@ -7186,15 +7402,33 @@
     },
     "done": true
   },
+  "charm:kilns/recipes/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-01-16 02:12:45 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/brown_lamp": {
     "criteria": {
       "has_wool": "2025-01-16 01:23:20 +0000"
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/stone_shingles_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-16 02:12:45 +0000"
+    },
+    "done": true
+  },
   "charm:ebony_wood/obtained_ebony_log": {
     "criteria": {
       "obtained_ebony_log": "2025-01-16 01:38:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-01-16 02:12:45 +0000"
     },
     "done": true
   },
@@ -7228,9 +7462,45 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/witch_trophy": {
+    "criteria": {
+      "has_witch_trophy": "2025-01-16 02:12:45 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_stone_tiles_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-16 02:12:45 +0000"
+    },
+    "done": true
+  },
   "comforts:recipes/decorations/sleeping_bag_brown": {
     "criteria": {
       "has_brown_wool": "2025-01-16 01:23:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-16 02:12:45 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_tiles_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-16 02:12:45 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/stone_pillar_trim": {
+    "criteria": {
+      "has_stone_pillar_trim": "2025-01-16 02:12:45 +0000"
+    },
+    "done": true
+  },
+  "charm:gunpowder_block/recipes/tnt_from_gunpowder_block": {
+    "criteria": {
+      "has_sand": "2025-01-16 02:21:00 +0000"
     },
     "done": true
   },
@@ -7255,6 +7525,12 @@
   "charm:ebony_wood/recipes/ebony_fence_gate": {
     "criteria": {
       "has_planks": "2025-01-16 01:38:36 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/stone_tile_slab_from_stone_or_stone_tiles_stonecutting": {
+    "criteria": {
+      "has_stone_or_stone_tiles": "2025-01-16 02:12:45 +0000"
     },
     "done": true
   },

@@ -150,6 +150,7 @@
       "minecraft:ocean": "2025-01-15 02:00:28 +0000",
       "minecraft:sunflower_plains": "2025-01-15 00:03:17 +0000",
       "minecraft:cherry_grove": "2025-01-15 00:03:47 +0000",
+      "minecraft:meadow": "2025-01-16 21:19:07 +0000",
       "minecraft:birch_forest": "2025-01-14 20:03:00 +0000",
       "minecraft:savanna": "2025-01-16 00:22:37 +0000",
       "minecraft:plains": "2025-01-15 00:02:11 +0000"
@@ -2044,16 +2045,17 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-01-16 00:10:03 +0000",
-      "apple": "2025-01-15 02:49:41 +0000",
       "chicken": "2025-01-14 19:40:58 +0000",
       "bread": "2025-01-14 23:41:00 +0000",
-      "cooked_chicken": "2025-01-14 19:50:57 +0000",
       "cookie": "2025-01-14 23:33:15 +0000",
       "rotten_flesh": "2025-01-15 02:30:58 +0000",
       "cooked_mutton": "2025-01-14 19:52:19 +0000",
-      "cooked_cod": "2025-01-15 02:42:40 +0000",
       "cooked_beef": "2025-01-14 20:14:10 +0000",
       "baked_potato": "2025-01-16 01:24:13 +0000",
+      "apple": "2025-01-15 02:49:41 +0000",
+      "cooked_chicken": "2025-01-14 19:50:57 +0000",
+      "potato": "2025-01-16 21:19:44 +0000",
+      "cooked_cod": "2025-01-15 02:42:40 +0000",
       "cooked_salmon": "2025-01-15 02:43:41 +0000"
     },
     "done": false
@@ -7637,6 +7639,72 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-01-16 21:21:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-01-16 21:21:58 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_shelf": {
+    "criteria": {
+      "has_birch_shelf": "2025-01-16 21:21:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-01-16 21:21:58 +0000"
+    },
+    "done": true
+  },
+  "charm:vanilla_wood_variants/recipes/chiseled_birch_bookshelf": {
+    "criteria": {
+      "has_planks": "2025-01-16 21:21:58 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_nightstand": {
+    "criteria": {
+      "has_birch_nightstand": "2025-01-16 21:21:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-01-16 21:21:58 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_cupboard": {
+    "criteria": {
+      "has_birch_cupboard": "2025-01-16 21:21:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-01-16 21:18:39 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_counter": {
+    "criteria": {
+      "has_birch_counter": "2025-01-16 21:21:58 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_desk": {
+    "criteria": {
+      "has_birch_desk": "2025-01-16 21:21:58 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/iron_hoe_repairing": {
     "criteria": {
       "has_iron_hoe": "2025-01-16 21:00:32 +0000"
@@ -7649,9 +7717,147 @@
     },
     "done": false
   },
+  "handcrafted:recipes/misc/birch_fancy_bed": {
+    "criteria": {
+      "has_birch_fancy_bed": "2025-01-16 21:21:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-16 21:21:58 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_drawer": {
+    "criteria": {
+      "has_birch_drawer": "2025-01-16 21:21:58 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/birch_table": {
+    "criteria": {
+      "has_planks": "2025-01-16 21:21:58 +0000"
+    },
+    "done": true
+  },
+  "variantcraftingtables:recipes/misc/birch_crafting_table": {
+    "criteria": {
+      "has_planks": "2025-01-16 21:21:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-01-16 21:21:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-01-16 21:18:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-16 21:21:58 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_table": {
+    "criteria": {
+      "has_birch_table": "2025-01-16 21:21:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-16 21:21:58 +0000"
+    },
+    "done": true
+  },
+  "charm:vanilla_wood_variants/recipes/birch_barrel": {
+    "criteria": {
+      "has_planks": "2025-01-16 21:21:58 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_side_table": {
+    "criteria": {
+      "has_birch_side_table": "2025-01-16 21:21:58 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_corner_trim": {
+    "criteria": {
+      "has_birch_corner_trim": "2025-01-16 21:21:58 +0000"
+    },
+    "done": true
+  },
   "morevillagers:first_workstation_get": {
     "criteria": {
       "smoker": "2025-01-16 21:11:17 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_couch": {
+    "criteria": {
+      "has_birch_couch": "2025-01-16 21:21:58 +0000"
+    },
+    "done": true
+  },
+  "charm:vanilla_wood_variants/recipes/birch_chest": {
+    "criteria": {
+      "has_planks": "2025-01-16 21:21:58 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_pillar_trim": {
+    "criteria": {
+      "has_birch_pillar_trim": "2025-01-16 21:21:58 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/birch_chair": {
+    "criteria": {
+      "has_planks": "2025-01-16 21:21:58 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_dining_bench": {
+    "criteria": {
+      "has_birch_dining_bench": "2025-01-16 21:21:58 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_chair": {
+    "criteria": {
+      "has_birch_chair": "2025-01-16 21:21:58 +0000"
+    },
+    "done": true
+  },
+  "adventurez:recipes/deer_venison": {
+    "criteria": {
+      "got_the_venison": "2025-01-16 21:23:21 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_bench": {
+    "criteria": {
+      "has_birch_bench": "2025-01-16 21:21:58 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/birch_shelf": {
+    "criteria": {
+      "has_planks": "2025-01-16 21:21:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-16 21:21:58 +0000"
     },
     "done": true
   },

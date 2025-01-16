@@ -1843,3 +1843,4 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [21:06:40] [Server thread/WARN]: Horse (vehicle of NazZaRamirezZ) moved wrongly! 1.0034024677941034
 [21:06:40] [Server thread/WARN]: Horse (vehicle of NazZaRamirezZ) moved wrongly! 1.5468305583772235
 [21:11:17] [Server thread/INFO]: gordobe has made the advancement [Let's Get To Work]
+[21:22:21] [pool-3-thread-1/WARN]: Failed to send keepalive request, response code: 502

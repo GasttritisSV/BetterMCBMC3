@@ -4474,6 +4474,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "sugar_cane": "2025-01-16 21:56:02 +0000",
       "wheat": "2025-01-16 01:48:44 +0000",
       "carrot": "2025-01-16 01:48:42 +0000"
     },
@@ -4875,6 +4876,66 @@
     },
     "done": true
   },
+  "charm:vanilla_wood_variants/recipes/chiseled_birch_bookshelf": {
+    "criteria": {
+      "has_slab": "2025-01-16 02:49:00 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/birch_flower_box": {
+    "criteria": {
+      "has_slab": "2025-01-16 02:49:00 +0000"
+    },
+    "done": true
+  },
+  "charm:vanilla_wood_variants/recipes/birch_barrel": {
+    "criteria": {
+      "has_slab": "2025-01-16 02:49:00 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/birch_shutter": {
+    "criteria": {
+      "has_slab": "2025-01-16 02:49:00 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/birch_bench": {
+    "criteria": {
+      "has_slab": "2025-01-16 02:49:00 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/nethers_stove": {
+    "criteria": {
+      "has_campfire": "2025-01-16 02:52:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/stove": {
+    "criteria": {
+      "has_campfire": "2025-01-16 02:52:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2025-01-16 02:52:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-01-16 02:55:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-01-16 02:55:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-01-16 03:02:11 +0000"
@@ -4884,12 +4945,6 @@
   "handcrafted:recipes/misc/hammer": {
     "criteria": {
       "has_hammer": "2025-01-16 03:02:11 +0000"
-    },
-    "done": true
-  },
-  "charm:vanilla_wood_variants/recipes/chiseled_birch_bookshelf": {
-    "criteria": {
-      "has_slab": "2025-01-16 02:49:00 +0000"
     },
     "done": true
   },
@@ -4965,12 +5020,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/paper": {
-    "criteria": {
-      "has_reeds": "2025-01-16 02:55:53 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2025-01-16 03:02:11 +0000"
@@ -5007,12 +5056,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/sugar_from_sugar_cane": {
-    "criteria": {
-      "has_sugar_cane": "2025-01-16 02:55:53 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-01-16 03:02:11 +0000"
@@ -5037,12 +5080,6 @@
     },
     "done": true
   },
-  "farmersdelight:main/place_campfire": {
-    "criteria": {
-      "campfire": "2025-01-16 02:52:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2025-01-16 03:02:11 +0000"
@@ -5061,27 +5098,9 @@
     },
     "done": true
   },
-  "another_furniture:recipes/birch_flower_box": {
-    "criteria": {
-      "has_slab": "2025-01-16 02:49:00 +0000"
-    },
-    "done": true
-  },
-  "mynethersdelight:recipes/misc/crafting/nethers_stove": {
-    "criteria": {
-      "has_campfire": "2025-01-16 02:52:16 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2025-01-16 03:02:11 +0000"
-    },
-    "done": true
-  },
-  "charm:vanilla_wood_variants/recipes/birch_barrel": {
-    "criteria": {
-      "has_slab": "2025-01-16 02:49:00 +0000"
     },
     "done": true
   },
@@ -5097,21 +5116,9 @@
     },
     "done": true
   },
-  "another_furniture:recipes/birch_shutter": {
-    "criteria": {
-      "has_slab": "2025-01-16 02:49:00 +0000"
-    },
-    "done": true
-  },
   "comforts:recipes/decorations/shapeless_rope_and_nail": {
     "criteria": {
       "has_iron_ingot": "2025-01-16 03:02:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pink_dye_from_peony": {
-    "criteria": {
-      "has_peony": "2025-01-16 03:03:18 +0000"
     },
     "done": true
   },
@@ -5139,12 +5146,6 @@
     },
     "done": true
   },
-  "another_furniture:recipes/birch_bench": {
-    "criteria": {
-      "has_slab": "2025-01-16 02:49:00 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2025-01-16 03:02:11 +0000"
@@ -5160,12 +5161,6 @@
   "betterend:recipes/misc/iron_bulb_lantern": {
     "criteria": {
       "has_iron_ingot": "2025-01-16 03:02:11 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/stove": {
-    "criteria": {
-      "has_campfire": "2025-01-16 02:52:16 +0000"
     },
     "done": true
   },
@@ -5196,6 +5191,12 @@
   "bclib:recipes/decorations/tag_stonecutter": {
     "criteria": {
       "has_tag_c_ingots/iron": "2025-01-16 03:02:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-01-16 03:03:18 +0000"
     },
     "done": true
   },

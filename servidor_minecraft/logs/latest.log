@@ -1853,3 +1853,16 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [21:42:56] [Server thread/INFO]: Named entity class_1604['Arsenio Baumann the Pillager'/19645, l='ServerLevel[CJU]', x=-1963.30, y=-10.00, z=708.03] died: Arsenio Baumann the Pillager was slain by NazZaRamirezZ
 [21:46:34] [Server thread/INFO]: Gasttritis was slain by Enderman
 [21:46:43] [Server thread/INFO]: Gasttritis claimed a grave belonging to Gasttritis at -156, 97, 547, minecraft:overworld
+[21:52:21] [pool-3-thread-1/WARN]: Failed to send keepalive request, response code: 502
+[21:53:00] [Server thread/INFO]: Cuaci[/100.102.184.103:55432] logged in with entity id 25201 at (-164.0112080525927, 85.0, 322.63834418975074)
+[21:53:00] [Server thread/INFO]: Sending server config values to client
+[21:53:00] [Server thread/INFO]: Cuaci joined the game
+[21:53:00] [Server thread/INFO]: Updating all forceload tickets for a64afd79-4cbe-3278-bbc3-036622aa1e7c
+[21:53:02] [Server thread/INFO]: Channel update: Cuaci -> default
+[21:53:02] [Server thread/INFO]: Priority overwritten for player Cuaci. Claiming: GRAVE / Robbing: INVENTORY
+[21:53:02] [Server thread/INFO]: Receiving client config
+[21:55:15] [Server thread/INFO]: Gasttritis has made the advancement [Fishy Business]
+[21:59:39] [Server thread/INFO]: Named entity class_3989['Jeanne Giovinazzo the Wandering Trader'/25189, l='ServerLevel[CJU]', x=-161.26, y=97.00, z=577.36] died: Jeanne Giovinazzo the Wandering Trader was slain by gordobe
+[22:00:44] [Server thread/INFO]: Cuaci lost connection: Disconnected
+[22:00:44] [Server thread/INFO]: Cuaci left the game
+[22:00:44] [Server thread/INFO]: Updating all forceload tickets for a64afd79-4cbe-3278-bbc3-036622aa1e7c

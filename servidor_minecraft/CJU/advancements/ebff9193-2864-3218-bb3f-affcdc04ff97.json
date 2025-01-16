@@ -7557,7 +7557,8 @@
     "criteria": {
       "sugar_cane": "2025-01-16 02:53:48 +0000",
       "potato": "2025-01-16 02:48:14 +0000",
-      "wheat": "2025-01-16 02:29:59 +0000"
+      "wheat": "2025-01-16 02:29:59 +0000",
+      "carrot": "2025-01-16 22:06:50 +0000"
     },
     "done": false
   },
@@ -7696,6 +7697,12 @@
   "handcrafted:recipes/misc/birch_counter": {
     "criteria": {
       "has_birch_counter": "2025-01-16 21:21:58 +0000"
+    },
+    "done": true
+  },
+  "charm:vanilla_wood_variants/recipes/trapped_birch_chest": {
+    "criteria": {
+      "has_chest": "2025-01-16 22:00:22 +0000"
     },
     "done": true
   },

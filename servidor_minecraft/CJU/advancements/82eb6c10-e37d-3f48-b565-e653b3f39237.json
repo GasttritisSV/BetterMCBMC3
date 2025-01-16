@@ -127,6 +127,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:flower_forest": "2025-01-15 00:49:07 +0000",
+      "minecraft:dark_forest": "2025-01-16 21:40:31 +0000",
       "minecraft:forest": "2025-01-15 00:47:00 +0000",
       "minecraft:taiga": "2025-01-16 21:12:11 +0000",
       "minecraft:sparse_jungle": "2025-01-15 00:44:22 +0000",
@@ -893,6 +894,7 @@
     "criteria": {
       "barrel": "2025-01-15 00:48:10 +0000",
       "smoker": "2025-01-15 03:15:58 +0000",
+      "blastfurnace": "2025-01-16 21:41:53 +0000",
       "lectern": "2025-01-16 03:59:59 +0000"
     },
     "done": false
@@ -2410,6 +2412,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-01-16 21:42:56 +0000",
       "minecraft:skeleton": "2025-01-15 00:56:41 +0000",
       "minecraft:spider": "2025-01-15 00:53:34 +0000",
       "minecraft:wither_skeleton": "2025-01-16 01:00:39 +0000",
@@ -7050,6 +7053,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-01-16 21:44:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-01-16 21:27:06 +0000"
@@ -7092,6 +7101,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/iron_chestplate_repairing": {
+    "criteria": {
+      "has_iron_chestplate": "2025-01-16 21:41:28 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/tuff_plate_slab_from_tuff_or_tuff_plates_stonecutting": {
     "criteria": {
       "has_tuff_or_tuff_plates": "2025-01-16 21:27:57 +0000"
@@ -7107,6 +7122,12 @@
   "stoneworks:recipes/building_blocks/granite_brick_stairs_from_granite_or_granite_bricks_stonecutting": {
     "criteria": {
       "has_granite_or_granite_bricks": "2025-01-16 21:27:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-01-16 21:37:42 +0000"
     },
     "done": true
   },
@@ -7200,6 +7221,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-01-16 21:37:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_tuff_stairs_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-01-16 21:27:57 +0000"
@@ -7248,6 +7275,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/chainmail_boots_repairing": {
+    "criteria": {
+      "has_chainmail_boots": "2025-01-16 21:41:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2025-01-16 21:14:22 +0000"
@@ -7275,6 +7308,12 @@
   "biomesoplenty:recipes/decorations/fir_sign": {
     "criteria": {
       "has_planks": "2025-01-16 21:21:54 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/chainmail_chestplate_repairing": {
+    "criteria": {
+      "has_chainmail_chestplate": "2025-01-16 21:41:44 +0000"
     },
     "done": true
   },
@@ -7323,6 +7362,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-16 21:25:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-01-16 21:44:41 +0000"
     },
     "done": true
   },
@@ -7470,6 +7515,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-01-16 21:44:41 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/tuff_shingle_stairs_from_tuff_or_tuff_shingles_stonecutting": {
     "criteria": {
       "has_tuff_or_tuff_shingles": "2025-01-16 21:27:57 +0000"
@@ -7539,6 +7590,12 @@
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-16 21:25:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-01-16 21:37:42 +0000"
     },
     "done": true
   },
@@ -7656,9 +7713,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-01-16 21:44:41 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/fir_planks": {
     "criteria": {
       "has_logs": "2025-01-16 21:20:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-01-16 21:44:41 +0000"
     },
     "done": true
   },
@@ -7854,9 +7923,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-01-16 21:44:41 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_granite_brick_slab_from_granite_or_mossy_granite_bricks_stonecutting": {
     "criteria": {
       "has_granite_or_mossy_granite_bricks": "2025-01-16 21:27:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-01-16 21:37:42 +0000"
     },
     "done": true
   },

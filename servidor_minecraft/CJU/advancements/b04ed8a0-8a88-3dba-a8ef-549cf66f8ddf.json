@@ -2259,6 +2259,7 @@
     "criteria": {
       "minecraft:pillager": "2025-01-15 00:45:33 +0000",
       "minecraft:skeleton": "2025-01-14 23:56:46 +0000",
+      "minecraft:enderman": "2025-01-16 21:46:47 +0000",
       "minecraft:spider": "2025-01-15 00:24:33 +0000",
       "minecraft:zombie": "2025-01-14 23:40:40 +0000",
       "minecraft:creeper": "2025-01-14 23:31:24 +0000"
@@ -6049,6 +6050,12 @@
     },
     "done": true
   },
+  "charm:ender_pearl_block/recipes/ender_pearl_block": {
+    "criteria": {
+      "has_ender_pearl": "2025-01-16 21:46:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_planks": "2025-01-16 21:21:41 +0000"
@@ -6073,6 +6080,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/ender_perl_to_block": {
+    "criteria": {
+      "has_ender_pearl": "2025-01-16 21:46:50 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/birch_cupboard": {
     "criteria": {
       "has_birch_cupboard": "2025-01-16 21:21:41 +0000"
@@ -6091,6 +6104,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/ender_eye_amber": {
+    "criteria": {
+      "has_ender_pearl": "2025-01-16 21:46:50 +0000"
+    },
+    "done": true
+  },
   "charm:vanilla_wood_variants/recipes/trapped_birch_chest": {
     "criteria": {
       "has_chest": "2025-01-16 21:32:52 +0000"
@@ -6100,6 +6119,18 @@
   "handcrafted:recipes/misc/birch_desk": {
     "criteria": {
       "has_birch_desk": "2025-01-16 21:21:41 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/infusion_pedestal": {
+    "criteria": {
+      "has_ender_pearl": "2025-01-16 21:46:50 +0000"
+    },
+    "done": true
+  },
+  "adventurez:recipes/ender_flute_recipe": {
+    "criteria": {
+      "got_the_ender_pearl": "2025-01-16 21:46:50 +0000"
     },
     "done": true
   },
@@ -6142,6 +6173,18 @@
   "aether:recipes/tools/flint_and_steel_repairing": {
     "criteria": {
       "has_flint_and_steel": "2025-01-16 21:16:05 +0000"
+    },
+    "done": true
+  },
+  "charm:vanilla_wood_variants/recipes/trapped_oak_chest": {
+    "criteria": {
+      "has_chest": "2025-01-16 21:37:51 +0000"
+    },
+    "done": true
+  },
+  "fwaystones:recipe/abyss_watcher": {
+    "criteria": {
+      "has_ender_pearl": "2025-01-16 21:46:50 +0000"
     },
     "done": true
   },

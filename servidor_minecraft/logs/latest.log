@@ -1850,3 +1850,6 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [21:31:58] [Worker-Main-3/WARN]: Ignoring unknown attribute 'porting_lib:entity_gravity'
 [21:31:59] [Worker-Main-2/WARN]: Ignoring unknown attribute 'porting_lib:entity_gravity'
 [21:31:59] [Worker-Main-2/WARN]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[21:42:56] [Server thread/INFO]: Named entity class_1604['Arsenio Baumann the Pillager'/19645, l='ServerLevel[CJU]', x=-1963.30, y=-10.00, z=708.03] died: Arsenio Baumann the Pillager was slain by NazZaRamirezZ
+[21:46:34] [Server thread/INFO]: Gasttritis was slain by Enderman
+[21:46:43] [Server thread/INFO]: Gasttritis claimed a grave belonging to Gasttritis at -156, 97, 547, minecraft:overworld

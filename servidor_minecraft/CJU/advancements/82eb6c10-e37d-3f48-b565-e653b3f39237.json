@@ -6037,6 +6037,54 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-01-16 02:15:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-01-16 02:15:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-01-16 02:15:38 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_chestplate_repairing": {
+    "criteria": {
+      "has_diamond_chestplate": "2025-01-16 02:15:38 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_leggings_repairing": {
+    "criteria": {
+      "has_diamond_leggings": "2025-01-16 02:15:42 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_helmet_repairing": {
+    "criteria": {
+      "has_diamond_helmet": "2025-01-16 02:15:49 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/iron_axe_repairing": {
+    "criteria": {
+      "has_iron_axe": "2025-01-16 02:17:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-01-16 02:20:20 +0000"
+    },
+    "done": true
+  },
   "natures_spirit:recipes/decorations/pink_sandstone_wall": {
     "criteria": {
       "has_pink_sandstone": "2025-01-16 02:29:54 +0000"
@@ -6049,18 +6097,6 @@
     },
     "done": true
   },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_chestplate": "2025-01-16 02:15:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2025-01-16 02:20:20 +0000"
-    },
-    "done": true
-  },
   "natures_spirit:recipes/building_blocks/cut_pink_sandstone_slab_from_pink_sandstone_stonecutting": {
     "criteria": {
       "has_pink_sandstone": "2025-01-16 02:29:54 +0000"
@@ -6070,12 +6106,6 @@
   "natures_spirit:recipes/building_blocks/pink_sandstone_slab_from_pink_sandstone_stonecutting": {
     "criteria": {
       "has_pink_sandstone": "2025-01-16 02:29:54 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/diamond_helmet_repairing": {
-    "criteria": {
-      "has_diamond_helmet": "2025-01-16 02:15:49 +0000"
     },
     "done": true
   },
@@ -6103,27 +6133,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/steak_and_potatoes": {
-    "criteria": {
-      "has_baked_potato": "2025-01-16 02:15:13 +0000"
-    },
-    "done": true
-  },
   "natures_spirit:recipes/building_blocks/smooth_pink_sandstone": {
     "criteria": {
       "has_pink_sandstone": "2025-01-16 02:29:54 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/iron_axe_repairing": {
-    "criteria": {
-      "has_iron_axe": "2025-01-16 02:17:26 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/diamond_chestplate_repairing": {
-    "criteria": {
-      "has_diamond_chestplate": "2025-01-16 02:15:38 +0000"
     },
     "done": true
   },
@@ -6145,15 +6157,15 @@
     },
     "done": true
   },
-  "aether:recipes/combat/diamond_leggings_repairing": {
+  "charm:animal_damage_immunity/negated_animal_damage": {
     "criteria": {
-      "has_diamond_leggings": "2025-01-16 02:15:42 +0000"
+      "negated_animal_damage": "2025-01-16 02:40:01 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/stuffed_potato": {
+  "charm:item_tidying/tidied_items": {
     "criteria": {
-      "has_baked_potato": "2025-01-16 02:15:13 +0000"
+      "tidied_items": "2025-01-16 02:42:29 +0000"
     },
     "done": true
   },

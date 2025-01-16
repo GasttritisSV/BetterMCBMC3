@@ -7558,6 +7558,7 @@
       "sugar_cane": "2025-01-16 02:53:48 +0000",
       "potato": "2025-01-16 02:48:14 +0000",
       "wheat": "2025-01-16 02:29:59 +0000",
+      "tomato": "2025-01-16 22:16:59 +0000",
       "carrot": "2025-01-16 22:06:50 +0000"
     },
     "done": false
@@ -7640,6 +7641,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/egg_sandwich": {
+    "criteria": {
+      "has_fried_egg": "2025-01-16 22:08:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2025-01-16 21:21:58 +0000"
@@ -7679,6 +7686,12 @@
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2025-01-16 21:21:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-16 22:11:22 +0000"
     },
     "done": true
   },
@@ -7754,6 +7767,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/tomato_sauce": {
+    "criteria": {
+      "has_tomato": "2025-01-16 22:20:07 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/birch_table": {
     "criteria": {
       "has_planks": "2025-01-16 21:21:58 +0000"
@@ -7763,6 +7782,12 @@
   "variantcraftingtables:recipes/misc/birch_crafting_table": {
     "criteria": {
       "has_planks": "2025-01-16 21:21:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-01-16 22:11:22 +0000"
     },
     "done": true
   },
@@ -7790,9 +7815,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-01-16 22:11:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-16 22:20:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2025-01-16 21:21:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/tomato_crate": {
+    "criteria": {
+      "has_tomato": "2025-01-16 22:20:07 +0000"
     },
     "done": true
   },
@@ -7805,6 +7848,12 @@
   "handcrafted:recipes/misc/birch_side_table": {
     "criteria": {
       "has_birch_side_table": "2025-01-16 21:21:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/rice_roll_medley_block": {
+    "criteria": {
+      "has_rice_roll": "2025-01-16 22:08:08 +0000"
     },
     "done": true
   },
@@ -7865,6 +7914,12 @@
   "handcrafted:recipes/misc/birch_bench": {
     "criteria": {
       "has_birch_bench": "2025-01-16 21:21:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/tomato_seeds": {
+    "criteria": {
+      "has_tomato": "2025-01-16 22:20:07 +0000"
     },
     "done": true
   },

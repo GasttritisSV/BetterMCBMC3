@@ -2380,6 +2380,7 @@
       "minecraft:skeleton": "2025-01-14 19:54:08 +0000",
       "minecraft:spider": "2025-01-15 02:20:28 +0000",
       "minecraft:zombie": "2025-01-14 20:00:47 +0000",
+      "minecraft:creeper": "2025-01-16 00:34:01 +0000",
       "minecraft:drowned": "2025-01-15 02:21:03 +0000"
     },
     "done": false
@@ -6582,51 +6583,9 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/redstone/tnt_from_bop_sand": {
-    "criteria": {
-      "has_gunpowder": "2025-01-16 00:19:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2025-01-16 00:19:02 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/bacon_sandwich": {
-    "criteria": {
-      "has_bacon": "2025-01-16 00:29:06 +0000"
-    },
-    "done": true
-  },
-  "charm:gunpowder_block/recipes/gunpowder_block": {
-    "criteria": {
-      "has_gunpowder": "2025-01-16 00:19:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/firework_rocket_simple": {
-    "criteria": {
-      "has_gunpowder": "2025-01-16 00:19:14 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/pie_crust": {
-    "criteria": {
-      "has_wheat": "2025-01-16 00:19:59 +0000"
-    },
-    "done": true
-  },
   "betterend:recipes/misc/shadow_berry_jelly": {
     "criteria": {
       "has_tag_wover_water_bottles": "2025-01-16 00:15:59 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
-    "criteria": {
-      "has_wheat": "2025-01-16 00:19:59 +0000"
     },
     "done": true
   },
@@ -6642,27 +6601,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2025-01-16 00:19:02 +0000"
-    },
-    "done": true
-  },
   "betterend:recipes/misc/blossom_berry_jelly": {
     "criteria": {
       "has_tag_wover_water_bottles": "2025-01-16 00:15:59 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/rabbit_stew": {
+  "minecraft:recipes/brewing/cauldron": {
     "criteria": {
-      "has_any_ingredient": "2025-01-16 00:20:11 +0000"
+      "has_water_bucket": "2025-01-16 00:15:59 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/steak_and_potatoes": {
+  "betterend:recipes/misc/sweet_berry_jelly": {
     "criteria": {
-      "has_baked_potato": "2025-01-16 00:28:43 +0000"
+      "has_tag_wover_water_bottles": "2025-01-16 00:15:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-01-16 00:19:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-01-16 00:19:02 +0000"
     },
     "done": true
   },
@@ -6678,27 +6643,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/bread": {
-    "criteria": {
-      "has_wheat": "2025-01-16 00:19:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/hay_block": {
-    "criteria": {
-      "has_wheat": "2025-01-16 00:19:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_stone_bricks": "2025-01-16 00:19:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/cauldron": {
-    "criteria": {
-      "has_water_bucket": "2025-01-16 00:15:59 +0000"
     },
     "done": true
   },
@@ -6714,45 +6661,33 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/vegetable_noodles": {
-    "criteria": {
-      "has_any_ingredient": "2025-01-16 00:20:11 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2025-01-16 00:19:02 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/wheat_dough_from_water": {
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
     "criteria": {
-      "has_wheat": "2025-01-16 00:19:59 +0000"
+      "has_mossy_stone_bricks": "2025-01-16 00:19:02 +0000"
     },
     "done": true
   },
-  "betterend:recipes/misc/sweet_berry_jelly": {
+  "biomesoplenty:recipes/redstone/tnt_from_bop_sand": {
     "criteria": {
-      "has_tag_wover_water_bottles": "2025-01-16 00:15:59 +0000"
+      "has_gunpowder": "2025-01-16 00:19:14 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
+  "charm:gunpowder_block/recipes/gunpowder_block": {
     "criteria": {
-      "has_carrot": "2025-01-16 00:20:11 +0000"
+      "has_gunpowder": "2025-01-16 00:19:14 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/stuffed_potato": {
+  "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
-      "has_baked_potato": "2025-01-16 00:28:43 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/bacon_and_eggs": {
-    "criteria": {
-      "has_bacon": "2025-01-16 00:29:06 +0000"
+      "has_gunpowder": "2025-01-16 00:19:14 +0000"
     },
     "done": true
   },
@@ -6762,9 +6697,213 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+  "farmersdelight:recipes/food/pie_crust": {
     "criteria": {
-      "has_mossy_stone_bricks": "2025-01-16 00:19:02 +0000"
+      "has_wheat": "2025-01-16 00:19:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2025-01-16 00:19:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-01-16 00:19:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-01-16 00:19:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2025-01-16 00:19:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-16 00:20:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-16 00:20:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-01-16 00:20:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-01-16 00:28:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-01-16 00:28:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/bacon_sandwich": {
+    "criteria": {
+      "has_bacon": "2025-01-16 00:29:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/bacon_and_eggs": {
+    "criteria": {
+      "has_bacon": "2025-01-16 00:29:06 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/copy_bowl_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-01-16 00:38:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-01-16 00:38:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-01-16 00:38:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-01-16 00:38:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-01-16 00:38:36 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_diamond_ingot": {
+    "criteria": {
+      "has_minecraft:diamond": "2025-01-16 00:38:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-01-16 00:38:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-01-16 00:38:36 +0000"
+    },
+    "done": true
+  },
+  "magnumtorch:recipes/decorations/diamond_magnum_torch": {
+    "criteria": {
+      "has_diamond": "2025-01-16 00:38:36 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/copy_flaming_ruby_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-01-16 00:38:36 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/copy_cincinnasite_diamond_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-01-16 00:38:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-01-16 00:38:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-01-16 00:38:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-01-16 00:38:36 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_gloves": {
+    "criteria": {
+      "has_diamond": "2025-01-16 00:38:36 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/copy_aeternium_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-01-16 00:38:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-01-16 00:38:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2025-01-16 00:38:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-01-16 00:38:36 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/copy_netherite_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-01-16 00:38:36 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_jukebox": {
+    "criteria": {
+      "has_diamond": "2025-01-16 00:38:36 +0000"
+    },
+    "done": true
+  },
+  "xp_storage:recipes/misc/diamond_xp_book_upgrade": {
+    "criteria": {
+      "has_xp_book_upgrade_ingredient": "2025-01-16 00:38:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-01-16 00:38:36 +0000"
     },
     "done": true
   },

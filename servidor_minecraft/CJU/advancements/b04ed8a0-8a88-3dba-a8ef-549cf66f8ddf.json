@@ -2236,6 +2236,7 @@
       "apple": "2025-01-14 23:30:19 +0000",
       "bread": "2025-01-14 23:51:37 +0000",
       "cookie": "2025-01-14 23:33:12 +0000",
+      "baked_potato": "2025-01-16 00:37:45 +0000",
       "cooked_salmon": "2025-01-15 01:43:55 +0000"
     },
     "done": false
@@ -5024,6 +5025,12 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/skyroot_loom": {
+    "criteria": {
+      "has_string": "2025-01-16 00:35:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-01-16 00:09:37 +0000"
@@ -5078,9 +5085,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-01-16 00:35:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-01-16 00:35:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2025-01-16 00:13:23 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-01-16 00:35:07 +0000"
     },
     "done": true
   },
@@ -5135,6 +5160,12 @@
   "handcrafted:recipes/misc/cherry_counter": {
     "criteria": {
       "has_cherry_counter": "2025-01-16 00:12:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-01-16 00:35:07 +0000"
     },
     "done": true
   },
@@ -5240,6 +5271,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-01-16 00:36:25 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/andesite_shingle_wall_from_andesite_or_andesite_shingles_stonecutting": {
     "criteria": {
       "has_andesite_or_andesite_shingles": "2025-01-16 00:09:54 +0000"
@@ -5315,6 +5352,12 @@
   "stoneworks:recipes/building_blocks/andesite_plate_slab_from_andesite_or_andesite_plates_stonecutting": {
     "criteria": {
       "has_andesite_or_andesite_plates": "2025-01-16 00:09:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-01-16 00:37:43 +0000"
     },
     "done": true
   },
@@ -5486,6 +5529,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-01-16 00:35:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-01-16 00:09:54 +0000"
@@ -5558,6 +5607,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-01-16 00:35:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-01-16 00:37:43 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/cherry_shelf": {
     "criteria": {
       "has_cherry_shelf": "2025-01-16 00:12:23 +0000"
@@ -5579,6 +5640,12 @@
   "handcrafted:recipes/misc/cherry_pillar_trim": {
     "criteria": {
       "has_cherry_pillar_trim": "2025-01-16 00:12:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-01-16 00:35:07 +0000"
     },
     "done": true
   },

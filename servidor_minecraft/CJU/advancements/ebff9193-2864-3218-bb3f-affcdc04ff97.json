@@ -7643,5 +7643,17 @@
     },
     "done": true
   },
+  "morevillagers:all_workstations_get": {
+    "criteria": {
+      "smoker": "2025-01-16 21:11:17 +0000"
+    },
+    "done": false
+  },
+  "morevillagers:first_workstation_get": {
+    "criteria": {
+      "smoker": "2025-01-16 21:11:17 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }

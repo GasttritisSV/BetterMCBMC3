@@ -5265,6 +5265,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/cherry_cabinet": {
+    "criteria": {
+      "has_cherry_trapdoor": "2025-01-16 01:00:00 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_andesite_bricks_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-01-16 00:09:54 +0000"
@@ -5346,6 +5352,12 @@
   "stoneworks:recipes/building_blocks/mossy_cobbled_andesite_slab_from_andesite_or_mossy_cobbled_andesite_stonecutting": {
     "criteria": {
       "has_andesite_or_mossy_cobbled_andesite": "2025-01-16 00:09:54 +0000"
+    },
+    "done": true
+  },
+  "charm:item_tidying/tidied_items": {
+    "criteria": {
+      "tidied_items": "2025-01-16 01:10:19 +0000"
     },
     "done": true
   },

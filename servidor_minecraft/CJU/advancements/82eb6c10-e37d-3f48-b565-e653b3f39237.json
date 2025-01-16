@@ -2402,8 +2402,11 @@
     "criteria": {
       "minecraft:skeleton": "2025-01-15 00:56:41 +0000",
       "minecraft:spider": "2025-01-15 00:53:34 +0000",
+      "minecraft:wither_skeleton": "2025-01-16 01:00:39 +0000",
       "minecraft:zombie": "2025-01-15 01:09:17 +0000",
-      "minecraft:creeper": "2025-01-15 02:26:37 +0000"
+      "minecraft:creeper": "2025-01-15 02:26:37 +0000",
+      "minecraft:husk": "2025-01-16 01:10:48 +0000",
+      "minecraft:hoglin": "2025-01-16 01:00:45 +0000"
     },
     "done": false
   },
@@ -4939,6 +4942,12 @@
     },
     "done": true
   },
+  "aether:recipes/misc/aether_gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_gloves": "2025-01-16 01:07:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
       "has_gray_wool": "2025-01-16 00:44:04 +0000"
@@ -4948,6 +4957,12 @@
   "handcrafted:recipes/misc/gray_cushion": {
     "criteria": {
       "has_gray_cushion": "2025-01-16 00:44:04 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/red_loin_on_a_stick": {
+    "criteria": {
+      "has_hoglin_loin": "2025-01-16 01:02:04 +0000"
     },
     "done": true
   },
@@ -4963,9 +4978,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-01-16 01:07:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2025-01-16 01:07:40 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_gloves_repairing": {
+    "criteria": {
+      "has_golden_gloves": "2025-01-16 01:07:39 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/food/hoglin_loin_cooking": {
+    "criteria": {
+      "hoglin_loin": "2025-01-16 01:02:04 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/gray_tall_stool": {
     "criteria": {
       "has_wool": "2025-01-16 00:44:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-01-16 01:07:35 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/food/hoglin_loin_from_campfire_cooking": {
+    "criteria": {
+      "hoglin_loin": "2025-01-16 01:02:04 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/cooking/spicy_hoglin_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-16 01:02:04 +0000"
     },
     "done": true
   },
@@ -4999,15 +5056,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-01-16 01:07:35 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/gray_curtain": {
     "criteria": {
       "has_wool": "2025-01-16 00:44:04 +0000"
     },
     "done": true
   },
+  "mynethersdelight:recipes/food/hoglin_loin_from_smoking": {
+    "criteria": {
+      "hoglin_loin": "2025-01-16 01:02:04 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/cooking/fried_hoglin_chop": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-16 01:02:04 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/blue_tenderloin_steak": {
+    "criteria": {
+      "has_hoglin_loin": "2025-01-16 01:02:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed": {
     "criteria": {
       "has_gray_wool": "2025-01-16 00:44:04 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_sword_repairing": {
+    "criteria": {
+      "has_golden_sword": "2025-01-16 01:07:30 +0000"
     },
     "done": true
   },
@@ -5020,6 +5107,12 @@
   "another_furniture:recipes/gray_sofa": {
     "criteria": {
       "has_wool": "2025-01-16 00:44:04 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/aether_gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_gloves": "2025-01-16 01:07:39 +0000"
     },
     "done": true
   },

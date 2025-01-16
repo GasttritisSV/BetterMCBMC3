@@ -7931,6 +7931,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2025-01-16 23:40:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2025-01-16 21:21:58 +0000"
@@ -7982,6 +7988,12 @@
   "handcrafted:recipes/misc/oven": {
     "criteria": {
       "has_oven": "2025-01-16 23:24:32 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/phantom_trophy": {
+    "criteria": {
+      "has_phantom_trophy": "2025-01-16 23:40:21 +0000"
     },
     "done": true
   },

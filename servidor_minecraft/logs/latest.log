@@ -1832,3 +1832,13 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [20:55:22] [Server thread/INFO]: Priority overwritten for player gordobe. Claiming: GRAVE / Robbing: INVENTORY
 [20:55:22] [Server thread/INFO]: Receiving client config
 [20:56:03] [Server thread/INFO]: Gasttritis has reached the goal [Sitting Comfortably]
+[21:04:55] [Server thread/INFO]: NazZaRamirezZ[/100.110.204.90:63726] logged in with entity id 2480 at (-1767.5, 118.0, 785.5)
+[21:04:55] [Server thread/INFO]: Sending server config values to client
+[21:04:55] [Server thread/INFO]: NazZaRamirezZ joined the game
+[21:04:55] [Server thread/INFO]: Updating all forceload tickets for 82eb6c10-e37d-3f48-b565-e653b3f39237
+[21:04:57] [Server thread/INFO]: Channel update: NazZaRamirezZ -> default
+[21:04:57] [Server thread/INFO]: Priority overwritten for player NazZaRamirezZ. Claiming: GRAVE / Robbing: INVENTORY
+[21:04:57] [Server thread/INFO]: Receiving client config
+[21:06:40] [Server thread/WARN]: Horse (vehicle of NazZaRamirezZ) moved wrongly! 0.46060600311489
+[21:06:40] [Server thread/WARN]: Horse (vehicle of NazZaRamirezZ) moved wrongly! 1.0034024677941034
+[21:06:40] [Server thread/WARN]: Horse (vehicle of NazZaRamirezZ) moved wrongly! 1.5468305583772235

@@ -7637,5 +7637,11 @@
     },
     "done": true
   },
+  "aether:recipes/tools/iron_hoe_repairing": {
+    "criteria": {
+      "has_iron_hoe": "2025-01-16 21:00:32 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }

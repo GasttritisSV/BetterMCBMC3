@@ -3852,6 +3852,7 @@
   },
   "morevillagers:all_workstations_get": {
     "criteria": {
+      "blastfurnace": "2025-01-16 21:06:04 +0000",
       "stonecutter": "2025-01-15 00:29:00 +0000"
     },
     "done": false
@@ -6029,9 +6030,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-01-16 21:05:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-01-16 20:53:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-01-16 21:05:37 +0000"
     },
     "done": true
   },
@@ -6044,6 +6057,12 @@
   "charm:chairs/sat_on_chair": {
     "criteria": {
       "sat_on_chair": "2025-01-16 20:56:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-01-16 21:05:37 +0000"
     },
     "done": true
   },

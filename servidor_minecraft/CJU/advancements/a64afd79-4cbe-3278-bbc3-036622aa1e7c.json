@@ -1601,6 +1601,7 @@
       "cookie": "2025-01-14 23:44:57 +0000",
       "cooked_mutton": "2025-01-14 23:52:20 +0000",
       "sweet_berries": "2025-01-14 23:41:44 +0000",
+      "cooked_beef": "2025-01-16 01:29:39 +0000",
       "melon_slice": "2025-01-14 23:45:10 +0000"
     },
     "done": false
@@ -4296,6 +4297,18 @@
   "charm:kilns/recipes/brick": {
     "criteria": {
       "has_clay_ball": "2025-01-15 01:51:41 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_sword_repairing": {
+    "criteria": {
+      "has_iron_sword": "2025-01-16 01:30:19 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/shield_repairing": {
+    "criteria": {
+      "has_shield": "2025-01-16 01:31:34 +0000"
     },
     "done": true
   },

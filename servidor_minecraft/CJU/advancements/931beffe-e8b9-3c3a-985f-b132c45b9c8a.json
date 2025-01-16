@@ -694,9 +694,11 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-01-15 01:45:09 +0000",
+      "apple": "2025-01-16 01:27:37 +0000",
       "bread": "2025-01-15 00:54:21 +0000",
       "cooked_mutton": "2025-01-15 02:58:55 +0000",
       "cooked_cod": "2025-01-15 03:53:43 +0000",
+      "salmon": "2025-01-16 01:27:07 +0000",
       "cooked_salmon": "2025-01-16 01:10:43 +0000"
     },
     "done": false
@@ -5792,6 +5794,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/iron_axe_repairing": {
+    "criteria": {
+      "has_iron_axe": "2025-01-16 01:33:44 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/tuff_plate_stairs_from_tuff_or_tuff_plates_stonecutting": {
     "criteria": {
       "has_tuff_or_tuff_plates": "2025-01-16 00:21:17 +0000"
@@ -5879,6 +5887,12 @@
   "betterend:recipes/misc/copy_aeternium_upgrade": {
     "criteria": {
       "has_diamond": "2025-01-16 00:15:47 +0000"
+    },
+    "done": true
+  },
+  "charm:chairs/sat_on_chair": {
+    "criteria": {
+      "sat_on_chair": "2025-01-16 01:27:10 +0000"
     },
     "done": true
   },

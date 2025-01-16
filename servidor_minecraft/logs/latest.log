@@ -81,3 +81,31 @@
 [01:09:41] [Server thread/INFO]: NazZaRamirezZ claimed a grave belonging to NazZaRamirezZ at 120, 209, -25, minecraft:overworld
 [01:10:12] [Server thread/INFO]: gordobe claimed a grave belonging to gordobe at -382, -13, 122, minecraft:overworld
 [01:10:19] [Server thread/INFO]: Gasttritis has reached the goal [Neat And Tidy]
+[01:16:00] [Server thread/INFO]: Gasttritis lost connection: Disconnected
+[01:16:00] [Server thread/INFO]: Gasttritis left the game
+[01:16:00] [Server thread/INFO]: Updating all forceload tickets for b04ed8a0-8a88-3dba-a8ef-549cf66f8ddf
+[01:17:49] [Server thread/INFO]: NazZaRamirezZ was slain by Husk
+[01:18:26] [Server thread/INFO]: NazZaRamirezZ was doomed to fall
+[01:18:26] [Server thread/INFO]: No grave backup generated (empty grave)
+[01:19:16] [Server thread/INFO]: [Server] q pt ese tal nazz se vive muriendo, contador de kills: ¡16!
+[01:20:39] [Server thread/INFO]: NazZaRamirezZ was doomed to fall
+[01:21:37] [Server thread/INFO]: NazZaRamirezZ claimed a grave belonging to NazZaRamirezZ at 138, 210, 4, minecraft:overworld
+[01:24:44] [Server thread/INFO]: NazZaRamirezZ was slain by Husk
+[01:24:51] [pool-3-thread-1/WARN]: Failed to send keepalive request, response code: 502
+[01:25:48] [Server thread/INFO]: NazZaRamirezZ was slain by Husk
+[01:26:16] [Server thread/INFO]: NazZaRamirezZ claimed a grave belonging to NazZaRamirezZ at 128, 214, 2, minecraft:overworld
+[01:27:10] [Server thread/INFO]: TortillaDeGrasa has reached the goal [Sitting Comfortably]
+[01:27:26] [Server thread/INFO]: gordobe has reached the goal [Sitting Comfortably]
+[01:27:38] [Server thread/INFO]: NazZaRamirezZ has made the advancement [Diamonds!]
+[01:29:11] [Server thread/INFO]: Cuaci[/100.102.184.103:62480] logged in with entity id 43219 at (-155.77941681814517, 97.0, 586.6999999880791)
+[01:29:11] [Server thread/INFO]: Sending server config values to client
+[01:29:11] [Server thread/INFO]: Cuaci joined the game
+[01:29:11] [Server thread/INFO]: Updating all forceload tickets for a64afd79-4cbe-3278-bbc3-036622aa1e7c
+[01:29:12] [Server thread/INFO]: Channel update: Cuaci -> default
+[01:29:13] [Server thread/INFO]: Priority overwritten for player Cuaci. Claiming: GRAVE / Robbing: INVENTORY
+[01:29:13] [Server thread/INFO]: Receiving client config
+[01:32:25] [Server thread/INFO]: NazZaRamirezZ was shot by Verdant
+[01:34:05] [Server thread/INFO]: NazZaRamirezZ claimed a grave belonging to NazZaRamirezZ at 131, 214, 5, minecraft:overworld
+[01:34:11] [Server thread/ERROR]: Failed to apply component patch '{minecraft:potion_contents=>class_1844[potion=Optional[Reference{ResourceKey[minecraft:potion / minecraft:strong_healing]=net.minecraft.class_1842@7b7e2ddc}], customColor=Optional.empty, customEffects=[]]}' to item: 'Item stack with stack size of 3 was larger than maximum: 1'
+[01:34:11] [Server thread/INFO]: NazZaRamirezZ has made the advancement [Ice Bucket Challenge]
+[01:34:29] [Server thread/INFO]: <Cuaci> NazZaRamirezZ tpa gordobe

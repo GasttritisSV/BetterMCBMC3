@@ -139,6 +139,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:flower_forest": "2025-01-15 00:03:07 +0000",
+      "minecraft:dark_forest": "2025-01-16 22:34:20 +0000",
       "minecraft:forest": "2025-01-14 23:32:16 +0000",
       "minecraft:sparse_jungle": "2025-01-14 19:16:41 +0000",
       "minecraft:river": "2025-01-14 23:32:23 +0000",
@@ -7911,6 +7912,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-01-16 22:34:37 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/birch_chair": {
     "criteria": {
       "has_birch_chair": "2025-01-16 21:21:58 +0000"
@@ -7920,6 +7927,12 @@
   "adventurez:recipes/deer_venison": {
     "criteria": {
       "got_the_venison": "2025-01-16 21:23:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-01-16 22:34:37 +0000"
     },
     "done": true
   },

@@ -6952,6 +6952,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/place_cooking_pot": {
+    "criteria": {
+      "cooking_pot": "2025-01-16 03:38:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_item_frame": "2025-01-16 03:31:43 +0000"

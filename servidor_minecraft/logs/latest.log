@@ -2106,3 +2106,160 @@ java.lang.ClassCastException: class svenhjol.charm.feature.woodcutting.common.Wo
 [03:35:33] [Server thread/INFO]: Gasttritis has made the advancement [Isn't It Iron Pick]
 [03:36:59] [Server thread/INFO]: NazZaRamirezZ has made the advancement [Hunt and Gather]
 [03:38:07] [Server thread/INFO]: TortillaDeGrasa has reached the goal [Dinner's Served!]
+[03:39:55] [pool-3-thread-1/WARN]: Failed to send keepalive request, response code: 502
+[03:46:58] [Worker-Main-2/WARN]: Couldn't find template pool reference: minecraft:
+[03:46:58] [Worker-Main-2/WARN]: Couldn't find template pool reference: minecraft:
+[03:46:58] [Worker-Main-2/WARN]: Couldn't find template pool reference: minecraft:
+[03:46:58] [Worker-Main-2/WARN]: Couldn't find template pool reference: minecraft:
+[03:46:58] [Worker-Main-2/WARN]: Couldn't find template pool reference: minecraft:
+[03:46:58] [Worker-Main-2/WARN]: Couldn't find template pool reference: minecraft:
+[03:46:58] [Worker-Main-2/WARN]: Couldn't find template pool reference: minecraft:
+[03:46:58] [Worker-Main-2/WARN]: Couldn't find template pool reference: minecraft:
+[03:46:58] [Worker-Main-2/WARN]: Couldn't find template pool reference: minecraft:
+[03:46:58] [Worker-Main-2/WARN]: Couldn't find template pool reference: minecraft:
+[03:46:58] [Worker-Main-2/WARN]: Couldn't find template pool reference: minecraft:
+[03:46:58] [Worker-Main-2/WARN]: Couldn't find template pool reference: minecraft:
+[03:48:26] [Server thread/WARN]: Horse (vehicle of NazZaRamirezZ) moved wrongly! 0.46987478953769823
+[03:48:26] [Server thread/WARN]: Horse (vehicle of NazZaRamirezZ) moved wrongly! 1.060636252312463
+[03:48:26] [Server thread/WARN]: Horse (vehicle of NazZaRamirezZ) moved wrongly! 1.636698333143329
+[03:48:26] [Server thread/WARN]: Horse (vehicle of NazZaRamirezZ) moved wrongly! 2.1049132789107716
+[03:48:28] [Server thread/WARN]: Horse (vehicle of NazZaRamirezZ) moved wrongly! 0.3808604116479728
+[03:48:28] [Server thread/WARN]: Horse (vehicle of NazZaRamirezZ) moved wrongly! 0.8106767076669712
+[03:48:34] [pool-9-thread-3/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_mountains], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_jungle], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_badlands], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_bamboo], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_swamp], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_mushroom]] from pos class_2338{x=-1829, y=86, z=411}
+[03:50:03] [Worker-Main-1/ERROR]: 
+-------------------------------------------------------------------
+Repurposed Structures: Failed to create valid structure with all required pieces starting from this pool file: repurposed_structures:cities/overworld/start_pool. Required pieces failed to generate the required amount are: [repurposed_structures:cities/overworld/fat_tower_top=2]
+  This can happen if a structure has a required piece but the structure size is set too low.
+  However, this is most likely caused by a structure unable to spawn properly due to hitting the world's min y or max y build thresholds or a broken RS datapack.
+  Try teleporting to: class_2338{x=-1784, y=97, z=776} and see if the structure generated fine with the required structure piece or if it is indeed missing it.
+  Please report the issue to Repurposed Structures's dev with latest.log file if the structure is not cut off by world min/max y build thresholds.
+
+
+[03:50:32] [Worker-Main-3/WARN]: Couldn't find template pool reference: minecraft:south
+[03:50:32] [Worker-Main-3/WARN]: Couldn't find template pool reference: minecraft:south
+[03:50:32] [Worker-Main-3/WARN]: Couldn't find template pool reference: crazy_chambers:spawner/breeze_spawner
+[03:50:32] [Worker-Main-3/WARN]: Couldn't find template pool reference: minecraft:south
+[03:50:32] [Worker-Main-3/WARN]: Couldn't find template pool reference: minecraft:south
+[03:50:32] [Worker-Main-3/WARN]: Couldn't find template pool reference: minecraft:south
+[03:50:32] [Worker-Main-3/WARN]: Couldn't find template pool reference: minecraft:south
+[03:50:32] [Worker-Main-3/WARN]: Couldn't find template pool reference: crazy_chambers:spawner/breeze_spawner
+[03:50:32] [Worker-Main-3/WARN]: Couldn't find template pool reference: minecraft:south
+[03:50:32] [Worker-Main-3/WARN]: Couldn't find template pool reference: minecraft:south
+[03:50:32] [Worker-Main-3/WARN]: Couldn't find template pool reference: minecraft:south
+[03:50:32] [Worker-Main-3/WARN]: Couldn't find template pool reference: crazy_chambers:melee_spawner
+[03:50:32] [Worker-Main-3/WARN]: Couldn't find template pool reference: minecraft:south
+[03:50:32] [Worker-Main-3/WARN]: Couldn't find template pool reference: minecraft:south
+[03:50:32] [Worker-Main-3/WARN]: Couldn't find template pool reference: minecraft:south
+[03:50:32] [Worker-Main-3/WARN]: Couldn't find template pool reference: minecraft:south
+[03:50:32] [Worker-Main-3/WARN]: Couldn't find template pool reference: crazy_chambers:spawner/breeze_spawner
+[03:50:32] [Worker-Main-3/WARN]: Couldn't find template pool reference: minecraft:south
+[03:50:32] [Worker-Main-3/WARN]: Couldn't find template pool reference: minecraft:south
+[03:50:32] [Worker-Main-3/WARN]: Couldn't find template pool reference: minecraft:south
+[03:50:32] [Worker-Main-3/WARN]: Couldn't find template pool reference: minecraft:south
+[03:50:32] [Worker-Main-3/WARN]: Couldn't find template pool reference: minecraft:south
+[03:50:32] [Worker-Main-3/WARN]: Couldn't find template pool reference: crazy_chambers:melee_spawner
+[03:50:32] [Worker-Main-3/WARN]: Couldn't find template pool reference: minecraft:south
+[03:50:32] [Worker-Main-3/WARN]: Couldn't find template pool reference: minecraft:south
+[03:50:32] [Worker-Main-3/WARN]: Couldn't find template pool reference: minecraft:south
+[03:50:32] [Worker-Main-3/WARN]: Couldn't find template pool reference: minecraft:south
+[03:50:32] [Worker-Main-3/WARN]: Couldn't find template pool reference: minecraft:south
+[03:50:32] [Worker-Main-3/WARN]: Couldn't find template pool reference: minecraft:south
+[03:50:32] [Worker-Main-3/WARN]: Couldn't find template pool reference: minecraft:south
+[03:50:32] [Worker-Main-3/WARN]: Couldn't find template pool reference: minecraft:south
+[03:50:32] [Worker-Main-3/WARN]: Couldn't find template pool reference: minecraft:south
+[03:50:32] [Worker-Main-3/WARN]: Couldn't find template pool reference: minecraft:south
+[03:50:32] [Worker-Main-3/WARN]: Couldn't find template pool reference: minecraft:south
+[03:50:32] [Worker-Main-3/WARN]: Couldn't find template pool reference: minecraft:south
+[03:50:32] [Worker-Main-3/WARN]: Couldn't find template pool reference: minecraft:south
+[03:50:32] [Worker-Main-3/WARN]: Couldn't find template pool reference: minecraft:south
+[03:50:32] [Worker-Main-3/WARN]: Couldn't find template pool reference: minecraft:south
+[03:50:32] [Worker-Main-3/WARN]: Couldn't find template pool reference: minecraft:south
+[03:50:32] [Worker-Main-3/WARN]: Couldn't find template pool reference: minecraft:south
+[03:50:32] [Worker-Main-3/WARN]: Couldn't find template pool reference: minecraft:south
+[03:50:32] [Worker-Main-3/WARN]: Couldn't find template pool reference: minecraft:south
+[03:50:32] [Worker-Main-3/WARN]: Couldn't find template pool reference: minecraft:south
+[03:50:32] [Worker-Main-3/WARN]: Couldn't find template pool reference: minecraft:south
+[03:50:32] [Worker-Main-3/WARN]: Couldn't find template pool reference: minecraft:south
+[03:50:32] [Worker-Main-3/WARN]: Couldn't find template pool reference: minecraft:south
+[03:50:32] [Worker-Main-3/WARN]: Couldn't find template pool reference: minecraft:south
+[03:50:32] [Worker-Main-3/WARN]: Couldn't find template pool reference: minecraft:south
+[03:50:32] [Worker-Main-3/WARN]: Couldn't find template pool reference: minecraft:south
+[03:50:32] [Worker-Main-3/WARN]: Couldn't find template pool reference: minecraft:south
+[03:50:32] [Worker-Main-3/WARN]: Couldn't find template pool reference: minecraft:south
+[03:50:32] [Worker-Main-3/WARN]: Couldn't find template pool reference: minecraft:south
+[03:50:32] [Worker-Main-3/WARN]: Couldn't find template pool reference: minecraft:south
+[03:50:32] [Worker-Main-3/WARN]: Couldn't find template pool reference: minecraft:south
+[03:50:32] [Worker-Main-3/WARN]: Couldn't find template pool reference: minecraft:south
+[03:50:32] [Worker-Main-3/WARN]: Couldn't find template pool reference: minecraft:south
+[03:50:32] [Worker-Main-3/WARN]: Couldn't find template pool reference: minecraft:south
+[03:50:32] [Worker-Main-3/WARN]: Couldn't find template pool reference: minecraft:south
+[03:50:32] [Worker-Main-3/WARN]: Couldn't find template pool reference: minecraft:south
+[03:50:32] [Worker-Main-3/WARN]: Couldn't find template pool reference: minecraft:south
+[03:50:32] [Worker-Main-3/WARN]: Couldn't find template pool reference: minecraft:south
+[03:50:32] [Worker-Main-3/WARN]: Couldn't find template pool reference: minecraft:south
+[03:50:32] [Worker-Main-3/WARN]: Couldn't find template pool reference: minecraft:south
+[03:50:32] [Worker-Main-3/WARN]: Couldn't find template pool reference: minecraft:south
+[03:50:32] [Worker-Main-3/WARN]: Couldn't find template pool reference: minecraft:south
+[03:50:32] [Worker-Main-3/WARN]: Couldn't find template pool reference: minecraft:south
+[03:50:32] [Worker-Main-3/WARN]: Couldn't find template pool reference: minecraft:south
+[03:50:32] [Worker-Main-3/WARN]: Couldn't find template pool reference: minecraft:south
+[03:50:32] [Worker-Main-3/WARN]: Couldn't find template pool reference: minecraft:south
+[03:50:32] [Worker-Main-3/WARN]: Couldn't find template pool reference: minecraft:south
+[03:50:32] [Worker-Main-3/WARN]: Couldn't find template pool reference: minecraft:south
+[03:50:32] [Worker-Main-3/WARN]: Couldn't find template pool reference: minecraft:south
+[03:50:32] [Worker-Main-3/WARN]: Couldn't find template pool reference: minecraft:south
+[03:50:32] [Worker-Main-3/WARN]: Couldn't find template pool reference: minecraft:south
+[03:50:32] [Worker-Main-3/WARN]: Couldn't find template pool reference: minecraft:south
+[03:50:32] [Worker-Main-3/WARN]: Couldn't find template pool reference: minecraft:south
+[03:50:32] [Worker-Main-3/WARN]: Couldn't find template pool reference: minecraft:south
+[03:50:32] [Worker-Main-3/WARN]: Couldn't find template pool reference: minecraft:south
+[03:50:41] [pool-9-thread-4/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_badlands], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_warped], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_giant_taiga], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_oak], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_crimson], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_ocean]] from pos class_2338{x=-1797, y=106, z=741}
+[03:51:14] [Worker-Main-3/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[03:51:14] [Worker-Main-3/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[03:51:14] [Worker-Main-3/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[03:51:14] [Worker-Main-3/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[03:51:14] [Worker-Main-3/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[03:51:14] [Worker-Main-3/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[03:51:14] [Worker-Main-3/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[03:51:14] [Worker-Main-3/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[03:51:14] [Worker-Main-3/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[03:51:14] [Worker-Main-3/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[03:51:14] [Worker-Main-3/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[03:51:14] [Worker-Main-3/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[03:51:14] [Worker-Main-3/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[03:51:14] [Worker-Main-3/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[03:51:14] [Worker-Main-3/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[03:51:14] [Worker-Main-3/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[03:51:14] [Worker-Main-3/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[03:51:14] [Worker-Main-3/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[03:51:14] [Worker-Main-3/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[03:51:14] [Worker-Main-3/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[03:51:14] [Worker-Main-3/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[03:51:14] [Worker-Main-3/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[03:51:14] [Worker-Main-3/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[03:51:14] [Worker-Main-3/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[03:51:14] [Worker-Main-3/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[03:51:14] [Worker-Main-3/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[03:51:15] [Worker-Main-3/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[03:51:15] [Worker-Main-3/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[03:51:15] [Worker-Main-3/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[03:51:15] [Worker-Main-3/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[03:51:15] [Worker-Main-3/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[03:51:15] [Worker-Main-3/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[03:51:15] [Worker-Main-3/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[03:51:15] [Worker-Main-3/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[03:51:15] [Worker-Main-3/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[03:51:15] [Worker-Main-3/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[03:51:15] [Worker-Main-3/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[03:51:15] [Worker-Main-3/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[03:51:15] [Worker-Main-3/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[03:51:16] [Worker-Main-3/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[03:51:16] [Worker-Main-3/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[03:51:16] [Worker-Main-3/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[03:51:16] [Worker-Main-3/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[03:51:17] [Worker-Main-3/WARN]: Template pool fallback chain found: minecraft:ancient_city/walls/no_corners -> minecraft:ancient_city/walls_lock -> minecraft:ancient_city/walls_lock
+[03:51:46] [Server thread/INFO]: NazZaRamirezZ has made the advancement [Skyward Cities]
+[03:54:55] [Server thread/INFO]: NazZaRamirezZ has made the advancement [Suit Up]
+[03:58:46] [Server thread/INFO]: gordobe lost connection: Disconnected
+[03:58:46] [Server thread/INFO]: gordobe left the game
+[03:58:46] [Server thread/INFO]: Updating all forceload tickets for ebff9193-2864-3218-bb3f-affcdc04ff97

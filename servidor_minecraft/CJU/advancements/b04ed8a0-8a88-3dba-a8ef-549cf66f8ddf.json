@@ -5993,9 +5993,27 @@
     },
     "done": true
   },
+  "aether:recipes/tools/iron_pickaxe_repairing": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-01-16 03:35:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-01-16 03:35:33 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/mutton_wrap": {
     "criteria": {
       "has_mutton": "2025-01-16 03:22:28 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/mining_bench": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-01-16 03:35:33 +0000"
     },
     "done": true
   },

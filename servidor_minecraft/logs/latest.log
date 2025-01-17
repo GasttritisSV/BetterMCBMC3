@@ -83,3 +83,18 @@ java.lang.NullPointerException: Cannot invoke "io.wispforest.accessories.api.slo
 [00:45:03] [Server thread/INFO]: Priority overwritten for player TortillaDeGrasa. Claiming: GRAVE / Robbing: INVENTORY
 [00:45:03] [Server thread/INFO]: Receiving client config
 [00:52:21] [pool-3-thread-1/WARN]: Failed to send keepalive request, response code: 502
+[01:00:43] [Server thread/INFO]: [Server] Ban
+[01:01:30] [Server thread/INFO]: [Server] hola
+[01:01:39] [Server thread/INFO]: <gordobe> CALA BOCA
+[01:02:03] [Server thread/INFO]: gordobe has made the advancement [Gilded Expansions]
+[01:02:16] [Server thread/INFO]: TortillaDeGrasa lost connection: Timed out
+[01:02:16] [Server thread/INFO]: TortillaDeGrasa left the game
+[01:02:16] [Server thread/INFO]: Updating all forceload tickets for 931beffe-e8b9-3c3a-985f-b132c45b9c8a
+[01:02:16] [Server thread/WARN]: handleDisconnection() called twice
+[01:03:00] [Server thread/INFO]: TortillaDeGrasa[/100.100.202.88:54276] logged in with entity id 82945 at (-136.09291863481786, 87.0, 329.37438113390584)
+[01:03:00] [Server thread/INFO]: Sending server config values to client
+[01:03:00] [Server thread/INFO]: TortillaDeGrasa joined the game
+[01:03:00] [Server thread/INFO]: Updating all forceload tickets for 931beffe-e8b9-3c3a-985f-b132c45b9c8a
+[01:03:01] [Server thread/INFO]: Channel update: TortillaDeGrasa -> default
+[01:03:01] [Server thread/INFO]: Priority overwritten for player TortillaDeGrasa. Claiming: GRAVE / Robbing: INVENTORY
+[01:03:01] [Server thread/INFO]: Receiving client config

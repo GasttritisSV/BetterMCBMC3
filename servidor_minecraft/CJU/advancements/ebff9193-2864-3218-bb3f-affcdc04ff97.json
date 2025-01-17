@@ -7811,6 +7811,12 @@
     },
     "done": true
   },
+  "inmis:frayed_backpack": {
+    "criteria": {
+      "backpack": "2025-01-17 00:08:15 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/jacaranda_planks": {
     "criteria": {
       "has_logs": "2025-01-16 21:31:25 +0000"
@@ -7820,6 +7826,12 @@
   "handcrafted:recipes/misc/birch_fancy_bed": {
     "criteria": {
       "has_birch_fancy_bed": "2025-01-16 21:21:58 +0000"
+    },
+    "done": true
+  },
+  "inmis:plated_backpack": {
+    "criteria": {
+      "backpack": "2025-01-17 00:09:36 +0000"
     },
     "done": true
   },
@@ -7991,6 +8003,12 @@
     },
     "done": true
   },
+  "inmis:recipes/gilded_backpack": {
+    "criteria": {
+      "has_plated_backpack": "2025-01-17 00:09:36 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/jacaranda_door": {
     "criteria": {
       "has_planks": "2025-01-16 22:49:14 +0000"
@@ -8063,6 +8081,12 @@
     },
     "done": true
   },
+  "inmis:recipes/plated_backpack": {
+    "criteria": {
+      "has_frayed_backpack": "2025-01-17 00:08:15 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/birch_pillar_trim": {
     "criteria": {
       "has_birch_pillar_trim": "2025-01-16 21:21:58 +0000"
@@ -8114,6 +8138,12 @@
   "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
       "has_log": "2025-01-16 22:34:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2025-01-17 00:02:09 +0000"
     },
     "done": true
   },

@@ -4,9 +4,19 @@
 	name: "gordobe#ebff9193"
 	lock: false
 	rewards_blocked: false
-	task_progress: { }
-	started: { }
-	completed: { }
+	task_progress: {
+		40A5404491616B14: 1
+	}
+	started: {
+		4E33D80DA11F2414: 1737072496288L
+		3EBB93F5103DC38F: 1737072496288L
+		40A5404491616B14: 1737072496288L
+		0000000000000001: 1737072496288L
+	}
+	completed: {
+		3EBB93F5103DC38F: 1737072496288L
+		40A5404491616B14: 1737072496288L
+	}
 	claimed_rewards: { }
 	player_data: { }
 }

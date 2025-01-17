@@ -70,3 +70,7 @@ java.lang.NullPointerException: Cannot invoke "io.wispforest.accessories.api.slo
 	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:281) ~[server-intermediary.jar:?]
 	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
 [00:10:21] [Server thread/INFO]: <gordobe> ty
+[00:14:15] [Server thread/INFO]: Gasttritis lost connection: Disconnected
+[00:14:15] [Server thread/INFO]: Gasttritis left the game
+[00:14:15] [Server thread/INFO]: Updating all forceload tickets for b04ed8a0-8a88-3dba-a8ef-549cf66f8ddf
+[00:22:21] [pool-3-thread-1/WARN]: Failed to send keepalive request, response code: 502

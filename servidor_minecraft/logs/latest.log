@@ -107,3 +107,10 @@ java.lang.NullPointerException: Cannot invoke "io.wispforest.accessories.api.slo
 [01:22:21] [pool-3-thread-1/WARN]: Failed to send keepalive request, response code: 502
 [01:45:03] [Server thread/INFO]: TortillaDeGrasa has made the advancement [Ice Bucket Challenge]
 [01:52:21] [pool-3-thread-1/WARN]: Failed to send keepalive request, response code: 502
+[01:57:03] [Server thread/INFO]: Cuaci[/100.102.184.103:50061] logged in with entity id 91309 at (-139.5296854220969, 87.0, 324.7347084526175)
+[01:57:03] [Server thread/INFO]: Sending server config values to client
+[01:57:03] [Server thread/INFO]: Cuaci joined the game
+[01:57:03] [Server thread/INFO]: Updating all forceload tickets for a64afd79-4cbe-3278-bbc3-036622aa1e7c
+[01:57:04] [Server thread/INFO]: Channel update: Cuaci -> default
+[01:57:05] [Server thread/INFO]: Priority overwritten for player Cuaci. Claiming: GRAVE / Robbing: INVENTORY
+[01:57:05] [Server thread/INFO]: Receiving client config

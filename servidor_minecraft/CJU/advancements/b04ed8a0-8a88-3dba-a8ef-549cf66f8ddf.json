@@ -6183,6 +6183,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_tomato": "2025-01-17 00:01:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone_slab": {
     "criteria": {
       "has_smooth_stone": "2025-01-16 21:05:37 +0000"
@@ -6216,6 +6222,18 @@
   "handcrafted:recipes/misc/birch_drawer": {
     "criteria": {
       "has_birch_drawer": "2025-01-16 21:21:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/tomato_sauce": {
+    "criteria": {
+      "has_tomato": "2025-01-17 00:01:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-17 00:01:29 +0000"
     },
     "done": true
   },
@@ -6315,6 +6333,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-17 00:01:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/conduit": {
     "criteria": {
       "has_nautilus_shell": "2025-01-16 21:56:22 +0000"
@@ -6324,6 +6348,12 @@
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2025-01-16 21:21:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/tomato_crate": {
+    "criteria": {
+      "has_tomato": "2025-01-17 00:01:29 +0000"
     },
     "done": true
   },
@@ -6420,6 +6450,12 @@
   "handcrafted:recipes/misc/birch_bench": {
     "criteria": {
       "has_birch_bench": "2025-01-16 21:21:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/tomato_seeds": {
+    "criteria": {
+      "has_tomato": "2025-01-17 00:01:29 +0000"
     },
     "done": true
   },

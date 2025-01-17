@@ -75,3 +75,11 @@ java.lang.NullPointerException: Cannot invoke "io.wispforest.accessories.api.slo
 [00:14:15] [Server thread/INFO]: Updating all forceload tickets for b04ed8a0-8a88-3dba-a8ef-549cf66f8ddf
 [00:22:21] [pool-3-thread-1/WARN]: Failed to send keepalive request, response code: 502
 [00:32:05] [Server thread/INFO]: com.mojang.authlib.GameProfile@47834723[id=b04ed8a0-8a88-3dba-a8ef-549cf66f8ddf,name=Gasttritis,properties={}] lost connection: Disconnected
+[00:45:01] [Server thread/INFO]: TortillaDeGrasa[/100.100.202.88:53813] logged in with entity id 78315 at (-172.54743919671597, 81.0, 321.4636722385329)
+[00:45:01] [Server thread/INFO]: Sending server config values to client
+[00:45:01] [Server thread/INFO]: TortillaDeGrasa joined the game
+[00:45:01] [Server thread/INFO]: Updating all forceload tickets for 931beffe-e8b9-3c3a-985f-b132c45b9c8a
+[00:45:03] [Server thread/INFO]: Channel update: TortillaDeGrasa -> default
+[00:45:03] [Server thread/INFO]: Priority overwritten for player TortillaDeGrasa. Claiming: GRAVE / Robbing: INVENTORY
+[00:45:03] [Server thread/INFO]: Receiving client config
+[00:52:21] [pool-3-thread-1/WARN]: Failed to send keepalive request, response code: 502

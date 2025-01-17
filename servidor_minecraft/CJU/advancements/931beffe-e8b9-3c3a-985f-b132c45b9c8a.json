@@ -7259,6 +7259,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-17 01:32:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cherry_sign": {
     "criteria": {
       "has_planks": "2025-01-17 01:25:37 +0000"
@@ -7295,6 +7301,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-01-17 01:32:07 +0000"
+    },
+    "done": true
+  },
   "charm:ebony_wood/recipes/ebony_trapdoor": {
     "criteria": {
       "has_planks": "2025-01-17 01:20:27 +0000"
@@ -7325,9 +7337,21 @@
     },
     "done": true
   },
+  "charm:cooking_pots/recipes/cooking_pot": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-17 01:32:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone_slab": {
     "criteria": {
       "has_smooth_stone": "2025-01-17 01:28:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_trapdoor": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-17 01:32:58 +0000"
     },
     "done": true
   },
@@ -7346,6 +7370,18 @@
   "handcrafted:recipes/misc/cherry_dining_bench": {
     "criteria": {
       "has_cherry_dining_bench": "2025-01-17 01:25:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/copper_door": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-17 01:32:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-01-17 01:32:07 +0000"
     },
     "done": true
   },
@@ -7409,6 +7445,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-17 01:32:58 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/leather_boots_repairing": {
     "criteria": {
       "has_leather_boots": "2025-01-17 01:30:21 +0000"
@@ -7424,6 +7466,12 @@
   "charm:ebony_wood/recipes/ebony_button": {
     "criteria": {
       "has_planks": "2025-01-17 01:20:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-17 01:32:58 +0000"
     },
     "done": true
   },
@@ -7493,6 +7541,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-01-17 01:32:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cherry_stairs": {
     "criteria": {
       "has_planks": "2025-01-17 01:25:37 +0000"
@@ -7538,6 +7592,12 @@
   "handcrafted:recipes/misc/cherry_chair": {
     "criteria": {
       "has_cherry_chair": "2025-01-17 01:25:37 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:recipes/redstone/copper_button": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-17 01:32:58 +0000"
     },
     "done": true
   },

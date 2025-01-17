@@ -105,3 +105,5 @@ java.lang.NullPointerException: Cannot invoke "io.wispforest.accessories.api.slo
 [01:19:04] [Server thread/INFO]: TortillaDeGrasa has made the advancement [The Parrots and the Bats]
 [01:20:23] [Server thread/INFO]: TortillaDeGrasa has made the advancement [Dark Mode]
 [01:22:21] [pool-3-thread-1/WARN]: Failed to send keepalive request, response code: 502
+[01:45:03] [Server thread/INFO]: TortillaDeGrasa has made the advancement [Ice Bucket Challenge]
+[01:52:21] [pool-3-thread-1/WARN]: Failed to send keepalive request, response code: 502

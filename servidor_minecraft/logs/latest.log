@@ -74,3 +74,4 @@ java.lang.NullPointerException: Cannot invoke "io.wispforest.accessories.api.slo
 [00:14:15] [Server thread/INFO]: Gasttritis left the game
 [00:14:15] [Server thread/INFO]: Updating all forceload tickets for b04ed8a0-8a88-3dba-a8ef-549cf66f8ddf
 [00:22:21] [pool-3-thread-1/WARN]: Failed to send keepalive request, response code: 502
+[00:32:05] [Server thread/INFO]: com.mojang.authlib.GameProfile@47834723[id=b04ed8a0-8a88-3dba-a8ef-549cf66f8ddf,name=Gasttritis,properties={}] lost connection: Disconnected

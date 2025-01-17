@@ -7079,6 +7079,42 @@
     },
     "done": true
   },
+  "charm:ender_pearl_block/recipes/ender_pearl_block": {
+    "criteria": {
+      "has_ender_pearl": "2025-01-17 00:46:37 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/ender_perl_to_block": {
+    "criteria": {
+      "has_ender_pearl": "2025-01-17 00:46:37 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/ender_eye_amber": {
+    "criteria": {
+      "has_ender_pearl": "2025-01-17 00:46:37 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/infusion_pedestal": {
+    "criteria": {
+      "has_ender_pearl": "2025-01-17 00:46:37 +0000"
+    },
+    "done": true
+  },
+  "adventurez:recipes/ender_flute_recipe": {
+    "criteria": {
+      "got_the_ender_pearl": "2025-01-17 00:46:37 +0000"
+    },
+    "done": true
+  },
+  "fwaystones:recipe/abyss_watcher": {
+    "criteria": {
+      "has_ender_pearl": "2025-01-17 00:46:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2025-01-17 00:51:21 +0000"
@@ -7103,12 +7139,6 @@
     },
     "done": true
   },
-  "charm:ender_pearl_block/recipes/ender_pearl_block": {
-    "criteria": {
-      "has_ender_pearl": "2025-01-17 00:46:37 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-01-17 00:51:21 +0000"
@@ -7121,21 +7151,9 @@
     },
     "done": true
   },
-  "betterend:recipes/misc/ender_perl_to_block": {
-    "criteria": {
-      "has_ender_pearl": "2025-01-17 00:46:37 +0000"
-    },
-    "done": true
-  },
   "aether:recipes/combat/golden_ring": {
     "criteria": {
       "has_gold_ingot": "2025-01-17 00:51:21 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/ender_eye_amber": {
-    "criteria": {
-      "has_ender_pearl": "2025-01-17 00:46:37 +0000"
     },
     "done": true
   },
@@ -7148,18 +7166,6 @@
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2025-01-17 00:51:21 +0000"
-    },
-    "done": true
-  },
-  "betterend:recipes/misc/infusion_pedestal": {
-    "criteria": {
-      "has_ender_pearl": "2025-01-17 00:46:37 +0000"
-    },
-    "done": true
-  },
-  "adventurez:recipes/ender_flute_recipe": {
-    "criteria": {
-      "got_the_ender_pearl": "2025-01-17 00:46:37 +0000"
     },
     "done": true
   },
@@ -7178,12 +7184,6 @@
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-01-17 00:51:21 +0000"
-    },
-    "done": true
-  },
-  "fwaystones:recipe/abyss_watcher": {
-    "criteria": {
-      "has_ender_pearl": "2025-01-17 00:46:37 +0000"
     },
     "done": true
   },

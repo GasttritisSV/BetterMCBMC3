@@ -7981,6 +7981,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/birch_flower_box": {
+    "criteria": {
+      "has_slab": "2025-01-17 01:04:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2025-01-16 21:21:58 +0000"
@@ -8014,6 +8020,12 @@
   "farmersdelight:recipes/food/rice_roll_medley_block": {
     "criteria": {
       "has_rice_roll": "2025-01-16 22:08:08 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/birch_shutter": {
+    "criteria": {
+      "has_slab": "2025-01-17 01:04:37 +0000"
     },
     "done": true
   },
@@ -8053,6 +8065,12 @@
     },
     "done": true
   },
+  "inmis:gilded_backpack": {
+    "criteria": {
+      "backpack": "2025-01-17 01:02:03 +0000"
+    },
+    "done": true
+  },
   "natures_spirit:recipes/building_blocks/ghaf_wood": {
     "criteria": {
       "has_log": "2025-01-16 22:30:16 +0000"
@@ -8062,6 +8080,12 @@
   "handcrafted:recipes/misc/birch_couch": {
     "criteria": {
       "has_birch_couch": "2025-01-16 21:21:58 +0000"
+    },
+    "done": true
+  },
+  "inmis:recipes/bejeweled_backpack": {
+    "criteria": {
+      "has_gilded_backpack": "2025-01-17 01:02:03 +0000"
     },
     "done": true
   },
@@ -8086,6 +8110,12 @@
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_the_recipe": "2025-01-16 23:45:54 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/birch_bench": {
+    "criteria": {
+      "has_slab": "2025-01-17 01:04:37 +0000"
     },
     "done": true
   },

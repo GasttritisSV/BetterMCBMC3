@@ -98,3 +98,7 @@ java.lang.NullPointerException: Cannot invoke "io.wispforest.accessories.api.slo
 [01:03:01] [Server thread/INFO]: Channel update: TortillaDeGrasa -> default
 [01:03:01] [Server thread/INFO]: Priority overwritten for player TortillaDeGrasa. Claiming: GRAVE / Robbing: INVENTORY
 [01:03:01] [Server thread/INFO]: Receiving client config
+[01:04:19] [Server thread/INFO]: [Server] vuelvo en un rato
+[01:08:33] [Server thread/INFO]: gordobe lost connection: Disconnected
+[01:08:33] [Server thread/INFO]: gordobe left the game
+[01:08:33] [Server thread/INFO]: Updating all forceload tickets for ebff9193-2864-3218-bb3f-affcdc04ff97

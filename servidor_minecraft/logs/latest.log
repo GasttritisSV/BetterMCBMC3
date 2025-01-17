@@ -102,3 +102,6 @@ java.lang.NullPointerException: Cannot invoke "io.wispforest.accessories.api.slo
 [01:08:33] [Server thread/INFO]: gordobe lost connection: Disconnected
 [01:08:33] [Server thread/INFO]: gordobe left the game
 [01:08:33] [Server thread/INFO]: Updating all forceload tickets for ebff9193-2864-3218-bb3f-affcdc04ff97
+[01:19:04] [Server thread/INFO]: TortillaDeGrasa has made the advancement [The Parrots and the Bats]
+[01:20:23] [Server thread/INFO]: TortillaDeGrasa has made the advancement [Dark Mode]
+[01:22:21] [pool-3-thread-1/WARN]: Failed to send keepalive request, response code: 502

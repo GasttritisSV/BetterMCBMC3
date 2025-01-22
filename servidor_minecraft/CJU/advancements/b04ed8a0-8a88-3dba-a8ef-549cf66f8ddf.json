@@ -3911,6 +3911,7 @@
   "natures_spirit:adventure/collect_all_flowers": {
     "criteria": {
       "red_tulip": "2025-01-15 01:25:05 +0000",
+      "poppy": "2025-01-22 06:43:44 +0000",
       "sunflower": "2025-01-15 01:12:49 +0000"
     },
     "done": false
@@ -6714,6 +6715,12 @@
   "inmis:recipes/plated_backpack": {
     "criteria": {
       "has_frayed_backpack": "2025-01-17 00:08:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-01-22 06:43:44 +0000"
     },
     "done": true
   },

@@ -1942,3 +1942,28 @@ java.lang.NullPointerException: Cannot invoke "io.wispforest.accessories.api.slo
 [07:05:42] [Server thread/INFO]: Gasttritis has made the advancement [Best Friends Forever]
 [07:05:55] [Server thread/INFO]: Gasttritis has reached the goal [Save the Animals]
 [07:06:26] [Server thread/INFO]: [Gasttritis: Teleported Gasttritis to -156.500000, 94.500000, 601.500000]
+[07:33:02] [Server thread/INFO]: [Gasttritis: Teleported Gasttritis to 90.500000, 67.500000, 789.500000]
+[07:33:22] [Server thread/INFO]: [Gasttritis: Teleported Gasttritis to 72.500000, 93.500000, 501.500000]
+[07:35:45] [Server thread/INFO]: [Gasttritis: Teleported Gasttritis to 348.500000, 99.500000, 350.500000]
+[07:36:23] [Worker-Main-1/WARN]: Empty height range: [30 absolute-20 absolute]
+[07:36:27] [Server thread/INFO]: [Gasttritis: Teleported Gasttritis to 245.500000, 119.500000, 902.500000]
+[07:36:45] [Worker-Main-2/WARN]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[07:36:45] [Worker-Main-2/WARN]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[07:36:45] [Worker-Main-2/WARN]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[07:36:45] [Worker-Main-3/WARN]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[07:36:47] [Worker-Main-1/WARN]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[07:36:47] [Worker-Main-1/WARN]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[07:36:47] [Worker-Main-1/WARN]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[07:36:47] [Worker-Main-1/WARN]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[07:37:18] [Server thread/INFO]: [Gasttritis: Teleported Gasttritis to 271.500000, 117.500000, 853.500000]
+[07:38:00] [Server thread/INFO]: [Gasttritis: Teleported Gasttritis to 200.500000, 72.500000, 1006.500000]
+[07:38:04] [Worker-Main-3/WARN]: Couldn't find template pool reference: minecraft:
+[07:38:04] [Worker-Main-3/WARN]: Couldn't find template pool reference: minecraft:
+[07:38:04] [Worker-Main-3/WARN]: Couldn't find template pool reference: minecraft:
+[07:38:04] [Worker-Main-3/WARN]: Couldn't find template pool reference: minecraft:
+[07:38:04] [Worker-Main-3/WARN]: Couldn't find template pool reference: minecraft:
+[07:38:04] [Worker-Main-3/WARN]: Couldn't find template pool reference: minecraft:
+[07:38:04] [Worker-Main-3/WARN]: Couldn't find template pool reference: minecraft:
+[07:38:04] [Worker-Main-3/WARN]: Couldn't find template pool reference: minecraft:
+[07:38:04] [Worker-Main-3/WARN]: Couldn't find template pool reference: minecraft:
+[07:38:04] [Worker-Main-3/WARN]: Couldn't find template pool reference: minecraft:

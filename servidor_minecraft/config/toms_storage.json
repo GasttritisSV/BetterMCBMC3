@@ -10,5 +10,9 @@
   "invLinkBeaconLvl": 0,
   "invLinkBeaconRange": 4096,
   "invLinkBeaconLvlSameDim": 1,
-  "invLinkBeaconLvlCrossDim": 2
+  "invLinkBeaconLvlCrossDim": 2,
+  "blockedBlocks": [
+    "create:belt"
+  ],
+  "blockedMods": []
 }

@@ -34,18 +34,17 @@
     "frostWandCooldown": 120,
     "frostWandRootTime": 100,
     "frostologerHeatDrainPerTick": 30,
+    "frostologerCoolingFromFrostWandHit": 1050,
     "packedSnowballFreezeAmount": 500,
     "packedSnowballDamage": 2.0,
     "packedSnowballVulnerableTypesDamage": 5.0,
-    "frostologerPassiveFreezingPerTick": 2,
-    "frostologerMaxPassiveFreezing": 0.5,
     "biterFrostBiteMaxAmplifier": 2,
     "chillagerFireDamageMultiplier": 1.5,
-    "frostologerIntolerableHeat": 9,
-    "furUpgradeTemplateGenerateChance": 0.5,
-    "skateUpgradeTemplateGenerateChance": 0.33,
+    "frostologerFireDamageMultiplier": 2.0,
+    "skateUpgradeTemplateIglooGenerateChance": 0.75,
     "veryProtectiveFrostResistanceMultiplier": 1.0,
-    "protectiveFrostResistanceMultiplier": 0.5
+    "protectiveFrostResistanceMultiplier": 0.5,
+    "iceBreakFallbackDamage": 3.0
   },
   "freezingConfig": {
     "doPassiveFreezing": true,

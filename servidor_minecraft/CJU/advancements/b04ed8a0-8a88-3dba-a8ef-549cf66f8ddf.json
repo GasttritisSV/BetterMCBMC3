@@ -132,19 +132,24 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "natures_spirit:woody_highlands": "2025-01-22 07:41:31 +0000",
+      "minecraft:cold_ocean": "2025-01-22 07:44:23 +0000",
       "minecraft:flower_forest": "2025-01-15 00:03:03 +0000",
       "minecraft:forest": "2025-01-14 23:32:15 +0000",
       "minecraft:sparse_jungle": "2025-01-14 18:59:58 +0000",
       "minecraft:river": "2025-01-14 23:32:18 +0000",
+      "minecraft:snowy_plains": "2025-01-22 07:43:12 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-14 23:32:12 +0000",
       "natures_spirit:wooded_drylands": "2025-01-16 00:10:57 +0000",
+      "minecraft:frozen_ocean": "2025-01-22 07:45:34 +0000",
       "minecraft:jungle": "2025-01-14 23:37:29 +0000",
       "minecraft:sunflower_plains": "2025-01-15 00:03:13 +0000",
       "minecraft:cherry_grove": "2025-01-15 00:03:35 +0000",
       "minecraft:meadow": "2025-01-16 21:22:59 +0000",
       "minecraft:birch_forest": "2025-01-14 23:34:07 +0000",
       "minecraft:savanna": "2025-01-16 00:08:44 +0000",
-      "minecraft:plains": "2025-01-15 00:02:23 +0000"
+      "minecraft:plains": "2025-01-15 00:02:23 +0000",
+      "natures_spirit:sugi_forest": "2025-01-22 07:47:49 +0000"
     },
     "done": false
   },
@@ -2842,8 +2847,13 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "volcanic_plains": "2025-01-14 23:37:49 +0000",
+      "orchard": "2025-01-22 07:36:27 +0000",
+      "overgrown_greens": "2025-01-22 07:35:56 +0000",
+      "seasonal_forest": "2025-01-22 07:43:41 +0000",
       "shrubland": "2025-01-14 23:34:50 +0000",
+      "maple_woods": "2025-01-22 07:38:00 +0000",
       "rocky_shrubland": "2025-01-14 23:35:22 +0000",
+      "coniferous_forest": "2025-01-22 07:44:11 +0000",
       "redwood_forest": "2025-01-15 00:06:41 +0000",
       "scrubland": "2025-01-16 00:21:26 +0000",
       "pasture": "2025-01-16 00:06:39 +0000",
@@ -6739,9 +6749,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/light_gray_cushion": {
+    "criteria": {
+      "has_light_gray_cushion": "2025-01-22 07:36:16 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/diorite_paver_wall_from_diorite_or_diorite_pavers_stonecutting": {
     "criteria": {
       "has_diorite_or_diorite_pavers": "2025-01-22 07:26:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-01-22 07:34:50 +0000"
     },
     "done": true
   },
@@ -6901,6 +6923,12 @@
     },
     "done": true
   },
+  "frostiful:adventure/warm_by_light": {
+    "criteria": {
+      "place_torch_while_cold": "2025-01-22 07:41:30 +0000"
+    },
+    "done": true
+  },
   "charm:ebony_wood/recipes/ebony_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-22 07:22:31 +0000"
@@ -6985,6 +7013,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-01-22 07:36:16 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/tuff_tile_wall_from_tuff_or_tuff_tiles_stonecutting": {
     "criteria": {
       "has_tuff_or_tuff_tiles": "2025-01-22 07:23:31 +0000"
@@ -6994,6 +7028,18 @@
   "natures_spirit:recipes/transportation/palo_verde_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-22 07:22:31 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/light_gray_stool": {
+    "criteria": {
+      "has_wool": "2025-01-22 07:36:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-01-22 07:34:50 +0000"
     },
     "done": true
   },
@@ -7009,9 +7055,27 @@
     },
     "done": true
   },
+  "repurposed_structures:outposts": {
+    "criteria": {
+      "in_outpost_oak": "2025-01-22 07:37:21 +0000"
+    },
+    "done": false
+  },
   "stoneworks:recipes/building_blocks/granite_tiles_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-01-22 07:23:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-01-22 07:36:16 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_cartography_table": {
+    "criteria": {
+      "has_paper": "2025-01-22 07:44:43 +0000"
     },
     "done": true
   },
@@ -7105,6 +7169,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/light_gray_sofa": {
+    "criteria": {
+      "has_wool": "2025-01-22 07:36:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2025-01-22 07:26:40 +0000"
@@ -7114,6 +7184,12 @@
   "minecraft:recipes/building_blocks/polished_tuff_slab_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-01-22 07:23:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/safety_net": {
+    "criteria": {
+      "has_rope": "2025-01-22 07:44:38 +0000"
     },
     "done": true
   },
@@ -7135,9 +7211,21 @@
     },
     "done": true
   },
+  "comforts:recipes/decorations/hammock_light_gray": {
+    "criteria": {
+      "has_light_gray_wool": "2025-01-22 07:36:16 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/diorite_shingle_slab_from_diorite_or_diorite_shingles_stonecutting": {
     "criteria": {
       "has_diorite_or_diorite_shingles": "2025-01-22 07:26:40 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/light_gray_sheet": {
+    "criteria": {
+      "has_light_gray_sheet": "2025-01-22 07:36:16 +0000"
     },
     "done": true
   },
@@ -7267,6 +7355,12 @@
     },
     "done": true
   },
+  "frostiful:adventure/root": {
+    "criteria": {
+      "player_is_cold": "2025-01-22 07:38:32 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/mossy_glowshroom_hanging_sign": {
     "criteria": {
       "has_chain": "2025-01-22 07:32:02 +0000"
@@ -7306,6 +7400,12 @@
   "minecraft:recipes/building_blocks/tuff_brick_slab_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-01-22 07:23:31 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/light_gray_tall_stool": {
+    "criteria": {
+      "has_wool": "2025-01-22 07:36:16 +0000"
     },
     "done": true
   },
@@ -7399,6 +7499,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-01-22 07:36:16 +0000"
+    },
+    "done": true
+  },
   "natures_spirit:recipes/transportation/fir_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-22 07:22:31 +0000"
@@ -7411,9 +7517,21 @@
     },
     "done": true
   },
+  "another_furniture:recipes/light_gray_curtain": {
+    "criteria": {
+      "has_wool": "2025-01-22 07:36:16 +0000"
+    },
+    "done": true
+  },
   "natures_spirit:recipes/transportation/redwood_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-22 07:22:31 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_gloves_repairing": {
+    "criteria": {
+      "has_leather_gloves": "2025-01-22 07:44:44 +0000"
     },
     "done": true
   },
@@ -7784,6 +7902,12 @@
     },
     "done": true
   },
+  "comforts:recipes/decorations/sleeping_bag_light_gray": {
+    "criteria": {
+      "has_light_gray_wool": "2025-01-22 07:36:16 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_tuff_slab_from_tuff_or_mossy_cobbled_tuff_stonecutting": {
     "criteria": {
       "has_tuff_or_mossy_cobbled_tuff": "2025-01-22 07:23:31 +0000"
@@ -7868,9 +7992,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-01-22 07:44:43 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_leggings_repairing": {
+    "criteria": {
+      "has_leather_leggings": "2025-01-22 07:44:37 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_tuff_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-01-22 07:23:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-01-22 07:34:50 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-01-22 07:36:16 +0000"
     },
     "done": true
   },
@@ -8006,6 +8154,18 @@
     },
     "done": true
   },
+  "morevillagers:recipes/blueprint_table": {
+    "criteria": {
+      "has_paper": "2025-01-22 07:44:43 +0000"
+    },
+    "done": true
+  },
+  "adventurez:recipes/deer_venison": {
+    "criteria": {
+      "got_the_venison": "2025-01-22 07:35:37 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/tuff_shingles_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-01-22 07:23:31 +0000"
@@ -8084,6 +8244,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-01-22 07:44:43 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/granite_plate_stairs_from_granite_or_granite_plates_stonecutting": {
     "criteria": {
       "has_granite_or_granite_plates": "2025-01-22 07:23:31 +0000"
@@ -8159,6 +8325,12 @@
   "stoneworks:recipes/building_blocks/mossy_cobbled_tuff_stairs_from_tuff_or_mossy_cobbled_tuff_stonecutting": {
     "criteria": {
       "has_tuff_or_mossy_cobbled_tuff": "2025-01-22 07:23:31 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/light_gray_lamp": {
+    "criteria": {
+      "has_wool": "2025-01-22 07:36:16 +0000"
     },
     "done": true
   },

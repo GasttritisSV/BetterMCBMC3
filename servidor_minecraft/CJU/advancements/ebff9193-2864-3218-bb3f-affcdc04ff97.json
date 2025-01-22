@@ -8245,9 +8245,27 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-22 07:00:37 +0000"
+    },
+    "done": true
+  },
   "uf_core:._init_/player_join": {
     "criteria": {
       "requirement": "2025-01-22 06:39:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cooked_rice": {
+    "criteria": {
+      "has_rice": "2025-01-22 07:00:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/rice_bag": {
+    "criteria": {
+      "has_rice": "2025-01-22 07:00:37 +0000"
     },
     "done": true
   },

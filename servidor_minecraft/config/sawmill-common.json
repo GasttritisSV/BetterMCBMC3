@@ -17,7 +17,6 @@
       "boat": 4.0,
       "stairs": 1.0
     },
-    "max_discount": 0.35,
-    "repurposed_structures_compat": true
+    "max_discount": 0.35
   }
 }

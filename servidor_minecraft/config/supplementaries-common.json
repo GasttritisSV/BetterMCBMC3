@@ -402,6 +402,7 @@
       "tinted_blocks_on_maps": true
     },
     "placeable_books": {
+      "written_books": true,
       "book_power": 1.0,
       "enchanted_book_power": 1.334,
       "mixed_books": false

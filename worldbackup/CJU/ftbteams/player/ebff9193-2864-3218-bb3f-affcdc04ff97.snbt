@@ -1,0 +1,17 @@
+{
+	id: "ebff9193-2864-3218-bb3f-affcdc04ff97"
+	type: "player"
+	player_name: "gordobe"
+	ranks: {
+		ebff9193-2864-3218-bb3f-affcdc04ff97: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "gordobe"
+		"ftbteams:description": ""
+		"ftbteams:color": "#E0FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,0 +1,17 @@
+{
+	id: "82eb6c10-e37d-3f48-b565-e653b3f39237"
+	type: "player"
+	player_name: "NazZaRamirezZ"
+	ranks: {
+		82eb6c10-e37d-3f48-b565-e653b3f39237: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "NazZaRamirezZ"
+		"ftbteams:description": ""
+		"ftbteams:color": "#7159FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

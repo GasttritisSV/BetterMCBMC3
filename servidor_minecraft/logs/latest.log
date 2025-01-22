@@ -114,3 +114,6 @@ java.lang.NullPointerException: Cannot invoke "io.wispforest.accessories.api.slo
 [01:57:04] [Server thread/INFO]: Channel update: Cuaci -> default
 [01:57:05] [Server thread/INFO]: Priority overwritten for player Cuaci. Claiming: GRAVE / Robbing: INVENTORY
 [01:57:05] [Server thread/INFO]: Receiving client config
+[02:07:06] [Server thread/INFO]: Cuaci lost connection: Disconnected
+[02:07:06] [Server thread/INFO]: Cuaci left the game
+[02:07:06] [Server thread/INFO]: Updating all forceload tickets for a64afd79-4cbe-3278-bbc3-036622aa1e7c

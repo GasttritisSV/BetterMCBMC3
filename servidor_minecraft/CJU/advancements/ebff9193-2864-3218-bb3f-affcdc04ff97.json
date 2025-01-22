@@ -8254,6 +8254,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/cooked_cod_slice_from_smoking": {
+    "criteria": {
+      "cooked_cod_slice": "2025-01-22 08:01:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/beef_patty_from_campfire_cooking": {
+    "criteria": {
+      "beef_patty": "2025-01-22 08:01:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-01-22 07:04:35 +0000"
@@ -8281,6 +8293,12 @@
   "betternether:recipes/decorations/stalagnate_hanging_sign": {
     "criteria": {
       "has_chain": "2025-01-22 07:19:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops_from_campfire_cooking": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-01-22 08:02:40 +0000"
     },
     "done": true
   },
@@ -8314,9 +8332,33 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/cooked_salmon_slice_from_smoking": {
+    "criteria": {
+      "cooked_salmon_slice": "2025-01-22 07:59:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/salmon_roll": {
+    "criteria": {
+      "has_salmon_slice": "2025-01-22 07:59:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops_from_smoking": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-01-22 08:02:40 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/rubeus_hanging_sign": {
     "criteria": {
       "has_chain": "2025-01-22 07:19:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cod_roll": {
+    "criteria": {
+      "has_cod_slice": "2025-01-22 08:01:02 +0000"
     },
     "done": true
   },
@@ -8338,9 +8380,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/cooked_cod_slice": {
+    "criteria": {
+      "cooked_cod_slice": "2025-01-22 08:01:02 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/end_lotus_hanging_sign": {
     "criteria": {
       "has_chain": "2025-01-22 07:19:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_salmon_slice_from_campfire_cooking": {
+    "criteria": {
+      "cooked_salmon_slice": "2025-01-22 07:59:38 +0000"
     },
     "done": true
   },
@@ -8368,15 +8422,45 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/cooked_chicken_cuts_from_campfire_cooking": {
+    "criteria": {
+      "cooked_chicken_cuts": "2025-01-22 07:59:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_salmon_slice": {
+    "criteria": {
+      "cooked_salmon_slice": "2025-01-22 07:59:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/beef_patty": {
+    "criteria": {
+      "beef_patty": "2025-01-22 08:01:38 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/wart_hanging_sign": {
     "criteria": {
       "has_chain": "2025-01-22 07:19:59 +0000"
     },
     "done": true
   },
+  "farmersdelight:recipes/food/cooked_chicken_cuts": {
+    "criteria": {
+      "cooked_chicken_cuts": "2025-01-22 07:59:15 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/nether_sakura_hanging_sign": {
     "criteria": {
       "has_chain": "2025-01-22 07:19:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_chicken_cuts_from_smoking": {
+    "criteria": {
+      "cooked_chicken_cuts": "2025-01-22 07:59:15 +0000"
     },
     "done": true
   },
@@ -8389,6 +8473,12 @@
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2025-01-22 07:11:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-01-22 08:02:40 +0000"
     },
     "done": true
   },
@@ -8416,6 +8506,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/beef_patty_from_smoking": {
+    "criteria": {
+      "beef_patty": "2025-01-22 08:01:38 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/anchor_tree_hanging_sign": {
     "criteria": {
       "has_chain": "2025-01-22 07:19:59 +0000"
@@ -8431,6 +8527,12 @@
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2025-01-22 07:11:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_cod_slice_from_campfire_cooking": {
+    "criteria": {
+      "cooked_cod_slice": "2025-01-22 08:01:02 +0000"
     },
     "done": true
   },

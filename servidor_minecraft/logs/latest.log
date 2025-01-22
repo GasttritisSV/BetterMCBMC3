@@ -2282,3 +2282,9 @@ java.lang.NullPointerException: Cannot invoke "io.wispforest.accessories.api.slo
 [07:57:09] [pool-10-thread-1/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_ocean], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_crimson], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_oak], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_mushroom], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_jungle], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_giant_taiga]] from pos class_2338{x=37, y=70, z=-581}
 [07:57:16] [Server thread/INFO]: [Gasttritis: Teleported Gasttritis to 231.500000, 72.500000, -350.500000]
 [07:57:36] [Server thread/INFO]: [Gasttritis: Teleported Gasttritis to 159.500000, 77.500000, -67.500000]
+[07:59:14] [Server thread/INFO]: [Gasttritis: Teleported Gasttritis to -164.500000, 95.500000, 596.500000]
+[08:03:03] [Server thread/INFO]: [Server] hola
+[08:04:58] [Server thread/INFO]: <gordobe> 6HHJD
+[08:06:43] [Server thread/INFO]: [Gasttritis: Teleported Gasttritis to 7.500000, 75.500000, 645.500000]
+[08:06:55] [Server thread/INFO]: [Gasttritis: Teleported Gasttritis to -138.500000, 93.500000, 332.500000]
+[08:08:39] [Server thread/INFO]: [Gasttritis: Teleported Gasttritis to -164.500000, 95.500000, 596.500000]

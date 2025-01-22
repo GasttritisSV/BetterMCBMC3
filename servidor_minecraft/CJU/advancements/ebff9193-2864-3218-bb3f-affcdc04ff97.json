@@ -4794,6 +4794,7 @@
   },
   "adorabuild_structures:tireless_legs": {
     "criteria": {
+      "oak_hut_1": "2025-01-22 07:18:09 +0000",
       "birch_house_medium_2": "2025-01-14 23:32:51 +0000",
       "oak_house_small_3": "2025-01-14 23:40:18 +0000",
       "oak_tree_1": "2025-01-15 02:33:18 +0000",
@@ -7647,7 +7648,9 @@
   "morevillagers:all_workstations_get": {
     "criteria": {
       "smoker": "2025-01-16 21:11:17 +0000",
-      "blastfurnace": "2025-01-16 23:23:13 +0000"
+      "blastfurnace": "2025-01-16 23:23:13 +0000",
+      "cauldron": "2025-01-22 07:18:41 +0000",
+      "grindstone": "2025-01-22 07:20:03 +0000"
     },
     "done": false
   },
@@ -8257,9 +8260,87 @@
     },
     "done": true
   },
+  "betterend:recipes/decorations/lucernia_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-01-22 07:19:59 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_reed_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-01-22 07:19:59 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/willow_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-01-22 07:19:59 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/stalagnate_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-01-22 07:19:59 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_cartography_table": {
     "criteria": {
       "has_paper": "2025-01-22 07:11:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cake_from_milk_bottle": {
+    "criteria": {
+      "has_milk_bottle": "2025-01-22 07:21:14 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/lacugrove_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-01-22 07:19:59 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/umbrella_tree_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-01-22 07:19:59 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/lucernia_jellyshroom_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-01-22 07:19:59 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/rubeus_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-01-22 07:19:59 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/helix_tree_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-01-22 07:19:59 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/dragon_tree_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-01-22 07:19:59 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/mossy_glowshroom_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-01-22 07:19:59 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/end_lotus_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-01-22 07:19:59 +0000"
     },
     "done": true
   },
@@ -8269,9 +8350,51 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/nether_mushroom_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-01-22 07:19:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-22 07:21:14 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/wart_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-01-22 07:19:59 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_sakura_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-01-22 07:19:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/milk_bucket_from_bottles": {
+    "criteria": {
+      "has_milk_bottle": "2025-01-22 07:21:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2025-01-22 07:11:04 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/tenanea_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-01-22 07:19:59 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/jellyshroom_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-01-22 07:19:59 +0000"
     },
     "done": true
   },
@@ -8287,6 +8410,12 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/anchor_tree_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-01-22 07:19:59 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/building_blocks/rice_bag": {
     "criteria": {
       "has_rice": "2025-01-22 07:00:37 +0000"
@@ -8296,6 +8425,18 @@
   "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
       "has_paper": "2025-01-22 07:11:04 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/decorations/pythadendron_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-01-22 07:19:59 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/mushroom_fir_hanging_sign": {
+    "criteria": {
+      "has_chain": "2025-01-22 07:19:59 +0000"
     },
     "done": true
   },

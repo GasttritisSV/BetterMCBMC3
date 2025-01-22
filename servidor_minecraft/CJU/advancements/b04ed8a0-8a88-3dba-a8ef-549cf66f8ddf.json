@@ -135,6 +135,7 @@
       "natures_spirit:woody_highlands": "2025-01-22 07:41:31 +0000",
       "minecraft:cold_ocean": "2025-01-22 07:44:23 +0000",
       "minecraft:flower_forest": "2025-01-15 00:03:03 +0000",
+      "minecraft:dark_forest": "2025-01-22 07:57:17 +0000",
       "minecraft:forest": "2025-01-14 23:32:15 +0000",
       "minecraft:sparse_jungle": "2025-01-14 18:59:58 +0000",
       "minecraft:river": "2025-01-14 23:32:18 +0000",
@@ -142,6 +143,7 @@
       "minecraft:old_growth_birch_forest": "2025-01-14 23:32:12 +0000",
       "natures_spirit:wooded_drylands": "2025-01-16 00:10:57 +0000",
       "minecraft:frozen_ocean": "2025-01-22 07:45:34 +0000",
+      "natures_spirit:blooming_sugi_forest": "2025-01-22 07:56:26 +0000",
       "minecraft:jungle": "2025-01-14 23:37:29 +0000",
       "minecraft:sunflower_plains": "2025-01-15 00:03:13 +0000",
       "minecraft:cherry_grove": "2025-01-15 00:03:35 +0000",
@@ -6493,7 +6495,8 @@
   },
   "farmersdelight:main/master_chef": {
     "criteria": {
-      "beef_stew": "2025-01-17 00:02:29 +0000"
+      "beef_stew": "2025-01-17 00:02:29 +0000",
+      "pumpkin_soup": "2025-01-22 07:48:33 +0000"
     },
     "done": false
   },
@@ -6977,6 +6980,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/cooked_bacon_from_smoking": {
+    "criteria": {
+      "cooked_bacon": "2025-01-22 07:56:07 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/transportation/bloom_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-22 07:22:31 +0000"
@@ -7115,6 +7124,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/cake_from_milk_bottle": {
+    "criteria": {
+      "has_milk_bottle": "2025-01-22 07:56:06 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/willow_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-22 07:22:31 +0000"
@@ -7130,6 +7145,12 @@
   "betterend:recipes/decorations/umbrella_tree_hanging_sign": {
     "criteria": {
       "has_chain": "2025-01-22 07:32:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_bacon": {
+    "criteria": {
+      "cooked_bacon": "2025-01-22 07:56:07 +0000"
     },
     "done": true
   },
@@ -7226,6 +7247,12 @@
   "handcrafted:recipes/misc/light_gray_sheet": {
     "criteria": {
       "has_light_gray_sheet": "2025-01-22 07:36:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cabbage_rolls": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-22 07:56:20 +0000"
     },
     "done": true
   },
@@ -7529,6 +7556,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/cabbage_crate": {
+    "criteria": {
+      "has_cabbage": "2025-01-22 07:56:20 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/leather_gloves_repairing": {
     "criteria": {
       "has_leather_gloves": "2025-01-22 07:44:44 +0000"
@@ -7757,6 +7790,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-22 07:56:06 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/tuff_tile_slab_from_tuff_or_tuff_tiles_stonecutting": {
     "criteria": {
       "has_tuff_or_tuff_tiles": "2025-01-22 07:23:31 +0000"
@@ -7790,6 +7829,12 @@
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2025-01-22 07:29:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_bacon_from_campfire_cooking": {
+    "criteria": {
+      "cooked_bacon": "2025-01-22 07:56:07 +0000"
     },
     "done": true
   },
@@ -7857,6 +7902,12 @@
   "betternether:recipes/decorations/wart_hanging_sign": {
     "criteria": {
       "has_chain": "2025-01-22 07:32:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-22 07:56:20 +0000"
     },
     "done": true
   },
@@ -7977,6 +8028,12 @@
   "natures_spirit:recipes/building_blocks/ghaf_wood": {
     "criteria": {
       "has_log": "2025-01-22 07:13:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/milk_bucket_from_bottles": {
+    "criteria": {
+      "has_milk_bottle": "2025-01-22 07:56:06 +0000"
     },
     "done": true
   },

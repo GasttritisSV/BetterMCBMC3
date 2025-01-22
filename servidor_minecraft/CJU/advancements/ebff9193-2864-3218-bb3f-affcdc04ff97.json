@@ -8251,9 +8251,27 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-01-22 07:04:35 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_cartography_table": {
+    "criteria": {
+      "has_paper": "2025-01-22 07:11:04 +0000"
+    },
+    "done": true
+  },
   "uf_core:._init_/player_join": {
     "criteria": {
       "requirement": "2025-01-22 06:39:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-01-22 07:11:04 +0000"
     },
     "done": true
   },
@@ -8263,9 +8281,21 @@
     },
     "done": true
   },
+  "morevillagers:recipes/blueprint_table": {
+    "criteria": {
+      "has_paper": "2025-01-22 07:11:04 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/building_blocks/rice_bag": {
     "criteria": {
       "has_rice": "2025-01-22 07:00:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-01-22 07:11:04 +0000"
     },
     "done": true
   },

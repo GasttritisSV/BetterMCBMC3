@@ -6718,15 +6718,57 @@
     },
     "done": true
   },
+  "minecraft:husbandry/whole_pack": {
+    "criteria": {
+      "minecraft:woods": "2025-01-22 07:05:42 +0000"
+    },
+    "done": false
+  },
+  "charm:animal_damage_immunity/negated_animal_damage": {
+    "criteria": {
+      "negated_animal_damage": "2025-01-22 07:05:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-01-22 06:43:44 +0000"
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-01-22 07:05:42 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/jacaranda_wood": {
+    "criteria": {
+      "has_log": "2025-01-22 07:13:01 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/jacaranda_planks": {
+    "criteria": {
+      "has_logs": "2025-01-22 07:13:01 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/ghaf_planks": {
+    "criteria": {
+      "has_logs": "2025-01-22 07:13:01 +0000"
+    },
+    "done": true
+  },
   "uf_core:._init_/player_join": {
     "criteria": {
       "requirement": "2025-01-22 06:39:05 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/ghaf_wood": {
+    "criteria": {
+      "has_log": "2025-01-22 07:13:01 +0000"
     },
     "done": true
   },

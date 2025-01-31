@@ -1782,3 +1782,6 @@ com.google.gson.JsonParseException: Not a JSON object: "deeperdarker:bloom_plank
 [23:18:12] [Server thread/INFO]: Receiving client config
 [23:18:36] [Server thread/INFO]: <gordobe> Cuaci DORMIII
 [23:18:45] [Server thread/INFO]: <gordobe> Cuaci DAAALEEE
+[23:35:00] [Server thread/INFO]: gordobe lost connection: Disconnected
+[23:35:00] [Server thread/INFO]: gordobe left the game
+[23:35:00] [Server thread/INFO]: Updating all forceload tickets for ebff9193-2864-3218-bb3f-affcdc04ff97

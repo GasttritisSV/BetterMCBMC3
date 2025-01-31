@@ -1785,3 +1785,142 @@ com.google.gson.JsonParseException: Not a JSON object: "deeperdarker:bloom_plank
 [23:35:00] [Server thread/INFO]: gordobe lost connection: Disconnected
 [23:35:00] [Server thread/INFO]: gordobe left the game
 [23:35:00] [Server thread/INFO]: Updating all forceload tickets for ebff9193-2864-3218-bb3f-affcdc04ff97
+[23:39:47] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[23:39:47] [Server thread/INFO]: players<--[HERE]
+[23:39:50] [Server thread/INFO]: /advancement (grant|revoke)
+[23:39:50] [Server thread/INFO]: /attribute <target> <attribute> (get|base|modifier)
+[23:39:50] [Server thread/INFO]: /execute (run|if|unless|as|at|store|positioned|rotated|facing|align|anchored|in|summon|on)
+[23:39:50] [Server thread/INFO]: /bossbar (add|remove|list|set|get)
+[23:39:50] [Server thread/INFO]: /clear [<targets>]
+[23:39:50] [Server thread/INFO]: /clone (<begin>|from)
+[23:39:50] [Server thread/INFO]: /damage <target> <amount> [<damageType>]
+[23:39:50] [Server thread/INFO]: /data (merge|get|remove|modify)
+[23:39:50] [Server thread/INFO]: /datapack (enable|disable|list)
+[23:39:50] [Server thread/INFO]: /debug (start|stop|function)
+[23:39:50] [Server thread/INFO]: /defaultgamemode <gamemode>
+[23:39:50] [Server thread/INFO]: /difficulty [peaceful|easy|normal|hard]
+[23:39:50] [Server thread/INFO]: /effect (clear|give)
+[23:39:50] [Server thread/INFO]: /me <action>
+[23:39:50] [Server thread/INFO]: /enchant <targets> <enchantment> [<level>]
+[23:39:50] [Server thread/INFO]: /experience (add|set|query)
+[23:39:50] [Server thread/INFO]: /xp -> experience
+[23:39:50] [Server thread/INFO]: /fill <from> <to> <block> [replace|keep|outline|hollow|destroy]
+[23:39:50] [Server thread/INFO]: /fillbiome <from> <to> <biome> [replace]
+[23:39:50] [Server thread/INFO]: /forceload (add|remove|query)
+[23:39:50] [Server thread/INFO]: /function <name> [<arguments>|with]
+[23:39:50] [Server thread/INFO]: /gamemode <gamemode> [<target>]
+[23:39:50] [Server thread/INFO]: /gamerule (accessories.keepAccessoryInventory|announceAdvancements|blockExplosionDropDecay|commandBlockOutput|commandModificationBlockLimit|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doVinesSpread|doWardenSpawning|doWeatherCycle|drowningDamage|enderPearlsVanishOnDeath|fallDamage|fireDamage|forgiveDeadPlayers|freezeDamage|frostiful.doPassiveFreezing|globalSoundEvents|keepInventory|lavaSourceConversion|logAdminCommands|maxCommandChainLength|maxCommandForkCount|maxEntityCramming|mobExplosionDropDecay|mobGriefing|naturalRegeneration|playersNetherPortalCreativeDelay|playersNetherPortalDefaultDelay|playersSleepingPercentage|projectilesCanBreakBlocks|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|snowAccumulationHeight|snowrealmagic:blizzardFrequency|snowrealmagic:blizzardStrength|spawnChunkRadius|spawnRadius|spectatorsGenerateChunks|tntExplosionDropDecay|universalAnger|waterSourceConversion)
+[23:39:50] [Server thread/INFO]: /give <targets> <item> [<count>]
+[23:39:50] [Server thread/INFO]: /help [<command>]
+[23:39:50] [Server thread/INFO]: /item (replace|modify)
+[23:39:50] [Server thread/INFO]: /kick <targets> [<reason>]
+[23:39:50] [Server thread/INFO]: /kill [<targets>]
+[23:39:50] [Server thread/INFO]: /list [uuids]
+[23:39:50] [Server thread/INFO]: /locate (structure|biome|poi)
+[23:39:50] [Server thread/INFO]: /loot (replace|insert|give|spawn)
+[23:39:50] [Server thread/INFO]: /msg <targets> <message>
+[23:39:50] [Server thread/INFO]: /tell -> msg
+[23:39:50] [Server thread/INFO]: /w -> msg
+[23:39:50] [Server thread/INFO]: /particle <name> [<pos>]
+[23:39:50] [Server thread/INFO]: /place (feature|jigsaw|structure|template)
+[23:39:50] [Server thread/INFO]: /playsound <sound> [master|music|record|weather|block|hostile|neutral|player|ambient|voice]
+[23:39:50] [Server thread/INFO]: /random (value|roll|reset)
+[23:39:50] [Server thread/INFO]: /reload
+[23:39:50] [Server thread/INFO]: /recipe (give|take)
+[23:39:50] [Server thread/INFO]: /return (<value>|fail|run)
+[23:39:50] [Server thread/INFO]: /ride <target> (mount|dismount)
+[23:39:50] [Server thread/INFO]: /say <message>
+[23:39:50] [Server thread/INFO]: /schedule (function|clear)
+[23:39:50] [Server thread/INFO]: /scoreboard (objectives|players)
+[23:39:50] [Server thread/INFO]: /seed
+[23:39:50] [Server thread/INFO]: /setblock <pos> <block> [destroy|keep|replace]
+[23:39:50] [Server thread/INFO]: /spawnpoint [<targets>]
+[23:39:50] [Server thread/INFO]: /setworldspawn [<pos>]
+[23:39:50] [Server thread/INFO]: /spectate [<target>]
+[23:39:50] [Server thread/INFO]: /spreadplayers <center> <spreadDistance> <maxRange> (<respectTeams>|under)
+[23:39:50] [Server thread/INFO]: /stopsound <targets> [*|master|music|record|weather|block|hostile|neutral|player|ambient|voice]
+[23:39:50] [Server thread/INFO]: /summon <entity> [<pos>]
+[23:39:50] [Server thread/INFO]: /tag <targets> (add|remove|list)
+[23:39:50] [Server thread/INFO]: /team (list|add|remove|empty|join|leave|modify)
+[23:39:50] [Server thread/INFO]: /teammsg <message>
+[23:39:50] [Server thread/INFO]: /tm -> teammsg
+[23:39:50] [Server thread/INFO]: /teleport (<location>|<destination>|<targets>)
+[23:39:50] [Server thread/INFO]: /tp -> teleport
+[23:39:50] [Server thread/INFO]: /tellraw <targets> <message>
+[23:39:50] [Server thread/INFO]: /tick (query|rate|step|sprint|unfreeze|freeze)
+[23:39:50] [Server thread/INFO]: /time (set|add|query)
+[23:39:50] [Server thread/INFO]: /title <targets> (clear|reset|title|subtitle|actionbar|times)
+[23:39:50] [Server thread/INFO]: /trigger <objective> [add|set]
+[23:39:50] [Server thread/INFO]: /weather (clear|rain|thunder)
+[23:39:50] [Server thread/INFO]: /worldborder (add|set|center|damage|get|warning)
+[23:39:50] [Server thread/INFO]: /jfr (start|stop)
+[23:39:50] [Server thread/INFO]: /ban-ip <target> [<reason>]
+[23:39:50] [Server thread/INFO]: /banlist [ips|players]
+[23:39:50] [Server thread/INFO]: /ban <targets> [<reason>]
+[23:39:50] [Server thread/INFO]: /deop <targets>
+[23:39:50] [Server thread/INFO]: /op <targets>
+[23:39:50] [Server thread/INFO]: /pardon <targets>
+[23:39:50] [Server thread/INFO]: /pardon-ip <target>
+[23:39:50] [Server thread/INFO]: /perf (start|stop)
+[23:39:50] [Server thread/INFO]: /save-all [flush]
+[23:39:50] [Server thread/INFO]: /save-off
+[23:39:50] [Server thread/INFO]: /save-on
+[23:39:50] [Server thread/INFO]: /setidletimeout <minutes>
+[23:39:50] [Server thread/INFO]: /stop
+[23:39:50] [Server thread/INFO]: /transfer <hostname> [<port>]
+[23:39:50] [Server thread/INFO]: /whitelist (on|off|list|add|remove|reload)
+[23:39:50] [Server thread/INFO]: /alternatecurrent [on|off|updateOrder]
+[23:39:50] [Server thread/INFO]: /accessories (edit|nest|slot|stack-sizing|attribute|log)
+[23:39:50] [Server thread/INFO]: /aether (time|eternal_day|player|sun_altar_whitelist)
+[23:39:50] [Server thread/INFO]: /ftbfiltersystem (parse|get_filter|set_filter|try_match|dump_components|cache)
+[23:39:50] [Server thread/INFO]: /ftblibrary (gamemode|rain|day|night|nbtedit)
+[23:39:50] [Server thread/INFO]: /ftbquests (editing_mode|locked|delete_empty_reward_tables|change_progress|export_reward_table_to_chest|import_reward_table_from_chest|generate_chapter_with_all_items_in_game|reload|block_rewards|open_book|clear_item_display_cache)
+[23:39:50] [Server thread/INFO]: /ftbteams (party|server|msg|info|list|force-disband)
+[23:39:50] [Server thread/INFO]: /bclib (place|print|dump_maps|request_garbage_collection|debug_ore|sliceZ|sliceX)
+[23:39:50] [Server thread/INFO]: /be (locate_portal|locate_portal_frame|tpnext)
+[23:39:50] [Server thread/INFO]: /end_island reset [<forceNewPortalPos>]
+[23:39:50] [Server thread/INFO]: /bn (place|test_place|find_surface|tpnext|place_all|place_matching)
+[23:39:50] [Server thread/INFO]: /carryon (debug|clear|place)
+[23:39:50] [Server thread/INFO]: /connectivity (packetsSummary|packetsAllPlayers|packetsPlayer|packetsClient|printpacket)
+[23:39:50] [Server thread/INFO]: /coro config common (reload|save|get|set)
+[23:39:50] [Server thread/INFO]: /fallingtree toggle
+[23:39:50] [Server thread/INFO]: /fwaystones (delete|forget_all)
+[23:39:50] [Server thread/INFO]: /immersivemessages (popup|toast|send|sendcustom)
+[23:39:50] [Server thread/INFO]: /jade (show|hide)
+[23:39:50] [Server thread/INFO]: /luna (stop|restart)
+[23:39:50] [Server thread/INFO]: /moaegg <target> <race> [asBaby]
+[23:39:50] [Server thread/INFO]: /moastat <target> (query|assign)
+[23:39:50] [Server thread/INFO]: /gravitate <pos> [force]
+[23:39:50] [Server thread/INFO]: /pingwheel:server [help|default_channel|player_tracking|regen_time|rate_limit]
+[23:39:50] [Server thread/INFO]: /polymorph conflicts
+[23:39:50] [Server thread/INFO]: /porting_lib (config|quickexport)
+[23:39:50] [Server thread/INFO]: /season (set|query|skip)
+[23:39:50] [Server thread/INFO]: /dumpstructuresets
+[23:39:50] [Server thread/INFO]: /structureessentials (getBiomeTags|getBiomesForTag|getStructuresNearby|getSimilarForBiome)
+[23:39:50] [Server thread/INFO]: /supplementaries (globe|registry|reload|configs|roll|cage|record|dimension|map)
+[23:39:50] [Server thread/INFO]: /supp -> supplementaries
+[23:39:50] [Server thread/INFO]: /bumblezone_read_self_data (<data_to_check>|queens_desired_killed_entity_counter)
+[23:39:50] [Server thread/INFO]: /bumblezone_modify_data <data_to_modify> <targets> <new_value>
+[23:39:50] [Server thread/INFO]: /bumblezone_read_data (<data_to_modify>|queens_desired_killed_entity_counter)
+[23:39:50] [Server thread/INFO]: /bumblezone_teleport <targets>
+[23:39:50] [Server thread/INFO]: /bumblezone_tag_log_output <registry> <tag>
+[23:39:50] [Server thread/INFO]: /thermoo (temperature|environment|soaking)
+[23:39:50] [Server thread/INFO]: /villagername (toggle|add|remove|set|info)
+[23:39:50] [Server thread/INFO]: /yigd [latest|grave|moderate|restore|rob|whitelist]
+[23:39:50] [Server thread/INFO]: /kiwi (dev_env_rules|reload|eval)
+[23:39:50] [Server thread/INFO]: /midnightconfig (the_bumblezone|repurposed_structures)
+[23:39:50] [Server thread/INFO]: /modpack (version|show)
+[23:39:50] [Server thread/INFO]: /openpac-parties about [<profile>]
+[23:39:50] [Server thread/INFO]: /openpac-claims (claim|unclaim|forceload|unforceload|non-ally-mode|about|server-claim-mode|sub-claim|server|admin-mode)
+[23:39:50] [Server thread/INFO]: /openpac (player-config|server-claims-config|expired-claims-config|wilderness-config)
+[23:39:50] [Server thread/INFO]: /statistics (edit|clear|query)
+[23:39:50] [Server thread/INFO]: /stats (edit|clear|query)
+[23:39:50] [Server thread/INFO]: /almanac reload [<config>]
+[23:39:50] [Server thread/INFO]: /letmedespawn (add|remove)
+[23:39:50] [Server thread/INFO]: /bookshelf (hand|font|rename|enchant|translate)
+[23:39:50] [Server thread/INFO]: /neruina (resume|kill|report|cancel_login|id|info|clear_tracked|show_suspended)
+[23:39:50] [Server thread/INFO]: /spark [<args>]
+[23:40:13] [Server thread/INFO]: There are 1 of a max of 20 players online: Cuaci
+[23:42:20] [Server thread/INFO]: Cuaci lost connection: Disconnected
+[23:42:20] [Server thread/INFO]: Cuaci left the game
+[23:42:20] [Server thread/INFO]: Updating all forceload tickets for a64afd79-4cbe-3278-bbc3-036622aa1e7c

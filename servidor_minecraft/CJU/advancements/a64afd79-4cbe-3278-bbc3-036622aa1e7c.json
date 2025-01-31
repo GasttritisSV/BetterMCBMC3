@@ -1602,6 +1602,7 @@
       "sweet_berries": "2025-01-14 23:41:44 +0000",
       "cooked_beef": "2025-01-16 01:29:39 +0000",
       "melon_slice": "2025-01-14 23:45:10 +0000",
+      "cooked_salmon": "2025-01-31 23:40:59 +0000",
       "carrot": "2025-01-16 01:52:15 +0000"
     },
     "done": false
@@ -5778,6 +5779,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-01-31 23:37:45 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/tuff_plate_wall_from_tuff_or_tuff_plates_stonecutting": {
     "criteria": {
       "has_tuff_or_tuff_plates": "2025-01-31 23:27:04 +0000"
@@ -5835,6 +5842,12 @@
   "stoneworks:recipes/building_blocks/mossy_tuff_brick_wall_from_tuff_or_mossy_tuff_bricks_stonecutting": {
     "criteria": {
       "has_tuff_or_mossy_tuff_bricks": "2025-01-31 23:27:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-01-31 23:37:45 +0000"
     },
     "done": true
   },
@@ -5955,6 +5968,12 @@
   "minecraft:recipes/building_blocks/tuff_slab_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-01-31 23:27:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-01-31 23:37:45 +0000"
     },
     "done": true
   },

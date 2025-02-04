@@ -1870,3 +1870,6 @@ com.google.gson.JsonParseException: Not a JSON object: "deeperdarker:bloom_plank
 [21:19:24] [pool-9-thread-1/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_jungle], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_warped], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_crimson], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_cherry], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_mushroom], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_badlands], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_dark_forest], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna]] from pos class_2338{x=437, y=67, z=3013}
 [21:34:03] [Server thread/INFO]: Gasttritis was blown up by Creeper
 [21:36:34] [Server thread/INFO]: Gasttritis froze to death
+[21:39:37] [Server thread/INFO]: Gasttritis claimed a grave belonging to Gasttritis at -147, 80, 690, minecraft:overworld
+[21:46:00] [Server thread/INFO]: [Gasttritis: Teleported Gasttritis to -465.500000, 102.500000, 561.500000]
+[21:46:31] [Server thread/INFO]: [Gasttritis: Teleported Gasttritis to -110.500000, 92.500000, 611.500000]

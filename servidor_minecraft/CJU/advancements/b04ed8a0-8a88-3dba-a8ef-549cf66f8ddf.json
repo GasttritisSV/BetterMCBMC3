@@ -155,6 +155,7 @@
       "minecraft:sparse_jungle": "2025-01-14 18:59:58 +0000",
       "minecraft:river": "2025-01-14 23:32:18 +0000",
       "minecraft:snowy_plains": "2025-01-22 07:43:12 +0000",
+      "minecraft:snowy_taiga": "2025-02-04 21:10:46 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-14 23:32:12 +0000",
       "natures_spirit:boreal_taiga": "2025-01-31 23:05:37 +0000",
       "minecraft:meadow": "2025-01-16 21:22:59 +0000",
@@ -2287,6 +2288,7 @@
       "birch_house_medium_2": "2025-01-14 23:32:46 +0000",
       "oak_house_small_3": "2025-01-14 23:39:16 +0000",
       "oak_house_medium_1": "2025-01-22 08:18:02 +0000",
+      "frozen_hut_2": "2025-02-04 21:11:13 +0000",
       "oak_house_small_2": "2025-01-16 02:32:15 +0000"
     },
     "done": false
@@ -9870,6 +9872,90 @@
   "handcrafted:recipes/misc/spruce_side_table": {
     "criteria": {
       "has_spruce_side_table": "2025-02-04 20:58:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
+    "criteria": {
+      "has_sentry_armor_trim_smithing_template": "2025-02-04 21:13:12 +0000"
+    },
+    "done": true
+  },
+  "charm:vanilla_wood_variants/recipes/trapped_spruce_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-02-04 21:13:19 +0000"
+    },
+    "done": true
+  },
+  "charm:azalea_wood/recipes/trapped_azalea_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-02-04 21:13:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-02-04 21:13:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-02-04 21:13:12 +0000"
+    },
+    "done": true
+  },
+  "charm:ebony_wood/recipes/trapped_ebony_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-02-04 21:13:19 +0000"
+    },
+    "done": true
+  },
+  "charm:vanilla_wood_variants/recipes/trapped_mangrove_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-02-04 21:13:19 +0000"
+    },
+    "done": true
+  },
+  "charm:vanilla_wood_variants/recipes/trapped_warped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-02-04 21:13:19 +0000"
+    },
+    "done": true
+  },
+  "charm:vanilla_wood_variants/recipes/trapped_bamboo_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-02-04 21:13:19 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_chestplate_repairing": {
+    "criteria": {
+      "has_leather_chestplate": "2025-02-04 21:11:36 +0000"
+    },
+    "done": true
+  },
+  "charm:vanilla_wood_variants/recipes/trapped_crimson_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-02-04 21:13:19 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/crossbow_repairing": {
+    "criteria": {
+      "has_crossbow": "2025-02-04 21:14:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2025-02-04 21:11:28 +0000"
+    },
+    "done": true
+  },
+  "charm:vanilla_wood_variants/recipes/trapped_acacia_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-02-04 21:13:19 +0000"
     },
     "done": true
   },

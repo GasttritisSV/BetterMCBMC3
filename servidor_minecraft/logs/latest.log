@@ -1852,3 +1852,18 @@ com.google.gson.JsonParseException: Not a JSON object: "deeperdarker:bloom_plank
 [21:05:28] [Server thread/INFO]: [Gasttritis: Teleported Gasttritis to 40.500000, 97.500000, 2603.500000]
 [21:05:28] [Server thread/INFO]: Gasttritis claimed a grave belonging to Gasttritis at 40, 98, 2603, minecraft:overworld
 [21:05:30] [Server thread/INFO]: [Gasttritis: Teleported Gasttritis to -164.500000, 95.500000, 596.500000]
+[21:10:41] [Server thread/INFO]: [Gasttritis: Teleported Gasttritis to -8.500000, 77.500000, 2724.500000]
+[21:10:45] [Server thread/INFO]: [Gasttritis: Teleported Gasttritis to 181.500000, 63.500000, 2951.500000]
+[21:10:53] [Worker-Main-1/WARN]: Ignoring unknown attribute 'porting_lib:step_height_addition'
+[21:10:53] [Worker-Main-1/WARN]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[21:10:57] [Server thread/INFO]: [Gasttritis: Teleported Gasttritis to 119.500000, 63.500000, 3051.500000]
+[21:11:12] [Server thread/INFO]: [Gasttritis: Teleported Gasttritis to 86.500000, 68.500000, 3094.500000]
+[21:11:57] [Server thread/WARN]: @Redirect conflict. Skipping mixins.redirected_fabric_1.21.1.json:net.minecraft.world.level.block.piston.PistonStructureResolverMixin from mod redirected->@Redirect::redirectDirections()[Lnet/minecraft/class_2350; with priority 10, already redirected by lithium.mixins.json:alloc.enum_values.piston_handler.PistonStructureResolverMixin from mod lithium->@Redirect::removeAllocation()[Lnet/minecraft/class_2350; with priority 1000
+[21:13:30] [Server thread/INFO]: Named entity class_1604['Kelch Geese the Pillager'/12794, l='ServerLevel[CJU]', x=144.95, y=71.00, z=3055.30] died: Kelch Geese the Pillager was slain by Gasttritis
+[21:13:40] [Server thread/INFO]: Gasttritis was shot by Reign Facer the Pillager
+[21:13:47] [Server thread/INFO]: [Gasttritis: Teleported Gasttritis to 144.500000, 69.500000, 3056.500000]
+[21:13:55] [Server thread/INFO]: Gasttritis claimed a grave belonging to Gasttritis at 144, 72, 3056, minecraft:overworld
+[21:14:02] [Server thread/INFO]: Named entity class_1604['Edmaund Verbrugge the Pillager'/13113, l='ServerLevel[CJU]', x=143.76, y=68.00, z=3054.93] died: Edmaund Verbrugge the Pillager was slain by Gasttritis
+[21:15:46] [Server thread/INFO]: <Gasttritis> zzzzzzzzzzzzzzz
+[21:16:30] [Server thread/INFO]: <Gasttritis> t
+[21:16:58] [Server thread/INFO]: <Gasttritis> w

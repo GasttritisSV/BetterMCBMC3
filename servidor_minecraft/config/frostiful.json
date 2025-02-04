@@ -25,6 +25,7 @@
     "warmthPerLightLevel": 2,
     "minLightForWarmth": 5,
     "ultrawarmWarmRate": 15,
+    "maxSnowAccumulationTicks": 100,
     "enableSeasonsIntegration": true
   },
   "combatConfig": {

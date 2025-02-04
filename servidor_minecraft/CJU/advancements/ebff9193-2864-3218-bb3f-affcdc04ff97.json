@@ -8579,12 +8579,6 @@
     },
     "done": true
   },
-  "aether:recipes/combat/chainmail_boots_repairing": {
-    "criteria": {
-      "has_chainmail_boots": "2025-01-31 23:31:18 +0000"
-    },
-    "done": true
-  },
   "aether:recipes/combat/chainmail_chestplate_repairing": {
     "criteria": {
       "has_chainmail_chestplate": "2025-01-31 23:31:17 +0000"
@@ -8600,6 +8594,24 @@
   "aether:recipes/combat/chainmail_leggings_repairing": {
     "criteria": {
       "has_chainmail_leggings": "2025-01-31 23:31:17 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/chainmail_boots_repairing": {
+    "criteria": {
+      "has_chainmail_boots": "2025-01-31 23:31:18 +0000"
+    },
+    "done": true
+  },
+  "frostiful:adventure/warm_by_light": {
+    "criteria": {
+      "place_torch_while_cold": "2025-02-04 21:03:57 +0000"
+    },
+    "done": true
+  },
+  "frostiful:adventure/root": {
+    "criteria": {
+      "player_is_cold": "2025-02-04 21:03:44 +0000"
     },
     "done": true
   },

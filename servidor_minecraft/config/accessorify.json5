@@ -7,6 +7,8 @@
 	"hideDebugInfoInSurvival": false,
 	"overlay": {
 		"showYCoordinate": true,
+		"obfuscateCompassIfNotOverworld": false,
+		"obfuscateClockIfNotOverworld": true,
 		"position": "TOP_LEFT",
 		"offsetX": 0,
 		"offsetY": 0,

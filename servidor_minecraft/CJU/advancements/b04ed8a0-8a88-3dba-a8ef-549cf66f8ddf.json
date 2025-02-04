@@ -137,6 +137,7 @@
       "minecraft:forest": "2025-01-14 23:32:15 +0000",
       "minecraft:taiga": "2025-02-04 20:51:56 +0000",
       "natures_spirit:wooded_drylands": "2025-01-16 00:10:57 +0000",
+      "natures_spirit:snowy_fir_forest": "2025-02-04 21:24:49 +0000",
       "minecraft:frozen_ocean": "2025-01-22 07:45:34 +0000",
       "minecraft:frozen_river": "2025-01-31 23:03:08 +0000",
       "natures_spirit:blooming_sugi_forest": "2025-01-22 07:56:26 +0000",
@@ -2246,6 +2247,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-01-15 00:41:17 +0000",
+      "beetroot_soup": "2025-02-04 21:14:54 +0000",
       "apple": "2025-01-14 23:30:19 +0000",
       "bread": "2025-01-14 23:51:37 +0000",
       "cookie": "2025-01-14 23:33:12 +0000",

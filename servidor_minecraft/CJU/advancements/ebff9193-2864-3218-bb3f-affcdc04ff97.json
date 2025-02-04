@@ -8615,5 +8615,17 @@
     },
     "done": true
   },
+  "chipped:recipes/workbench/mason_table": {
+    "criteria": {
+      "has_item": "2025-02-04 21:20:11 +0000"
+    },
+    "done": true
+  },
+  "chipped:recipes/misc/chisel": {
+    "criteria": {
+      "has_chisel": "2025-02-04 21:20:11 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }

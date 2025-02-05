@@ -7654,6 +7654,7 @@
       "smoker": "2025-01-16 21:11:17 +0000",
       "blastfurnace": "2025-01-16 23:23:13 +0000",
       "cauldron": "2025-01-22 07:18:41 +0000",
+      "brewingstand": "2025-02-05 21:57:54 +0000",
       "grindstone": "2025-01-22 07:20:03 +0000"
     },
     "done": false
@@ -8636,6 +8637,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/kitchen_hood": {
+    "criteria": {
+      "has_kitchen_hood": "2025-02-05 21:51:58 +0000"
+    },
+    "done": true
+  },
   "natures_spirit:recipes/decorations/pink_sandstone_wall_from_pink_sandstone_stonecutting": {
     "criteria": {
       "has_pink_sandstone": "2025-02-05 21:38:46 +0000"
@@ -8687,6 +8694,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-02-05 21:40:37 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/kitchen_hood_pipe": {
+    "criteria": {
+      "has_kitchen_hood_pipe": "2025-02-05 21:51:58 +0000"
     },
     "done": true
   },

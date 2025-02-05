@@ -2376,6 +2376,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-02-05 21:40:52 +0000",
       "minecraft:skeleton": "2025-01-14 19:54:08 +0000",
       "minecraft:witch": "2025-01-16 01:42:44 +0000",
       "minecraft:spider": "2025-01-15 02:20:28 +0000",
@@ -8624,6 +8625,120 @@
   "chipped:recipes/misc/chisel": {
     "criteria": {
       "has_chisel": "2025-02-04 21:20:11 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/decorations/pink_sandstone_wall": {
+    "criteria": {
+      "has_pink_sandstone": "2025-02-05 21:38:46 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/decorations/pink_sandstone_wall_from_pink_sandstone_stonecutting": {
+    "criteria": {
+      "has_pink_sandstone": "2025-02-05 21:38:46 +0000"
+    },
+    "done": true
+  },
+  "charm:kilns/recipes/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-05 21:40:37 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/cut_pink_sandstone_slab_from_pink_sandstone_stonecutting": {
+    "criteria": {
+      "has_pink_sandstone": "2025-02-05 21:38:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-05 21:40:37 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/pink_sandstone_slab_from_pink_sandstone_stonecutting": {
+    "criteria": {
+      "has_pink_sandstone": "2025-02-05 21:38:46 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/cut_pink_sandstone_from_pink_sandstone_stonecutting": {
+    "criteria": {
+      "has_pink_sandstone": "2025-02-05 21:38:46 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/cut_pink_sandstone": {
+    "criteria": {
+      "has_pink_sandstone": "2025-02-05 21:38:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-05 21:40:37 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/pink_sandstone_slab": {
+    "criteria": {
+      "has_pink_sandstone": "2025-02-05 21:38:46 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/chiseled_pink_sandstone_from_pink_sandstone_stonecutting": {
+    "criteria": {
+      "has_pink_sandstone": "2025-02-05 21:38:46 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/smooth_pink_sandstone": {
+    "criteria": {
+      "has_pink_sandstone": "2025-02-05 21:38:46 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/chiseled_pink_sandstone": {
+    "criteria": {
+      "has_pink_sandstone": "2025-02-05 21:38:46 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/pink_sandstone_stairs_from_pink_sandstone_stonecutting": {
+    "criteria": {
+      "has_pink_sandstone": "2025-02-05 21:38:46 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/building_blocks/pink_sandstone_stairs": {
+    "criteria": {
+      "has_pink_sandstone": "2025-02-05 21:38:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-05 21:40:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-05 21:40:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-05 21:40:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-02-05 21:40:37 +0000"
     },
     "done": true
   },

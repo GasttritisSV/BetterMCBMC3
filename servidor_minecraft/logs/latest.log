@@ -1829,3 +1829,24 @@ com.google.gson.JsonParseException: Not a JSON object: "deeperdarker:bloom_plank
 [22:05:25] [Server thread/INFO]: gordobe was shot by Yigit Sackrider the Pillager
 [22:15:15] [Server thread/INFO]: Gasttritis has made the advancement [Leveling Up]
 [22:15:39] [Server thread/INFO]: Gasttritis has made the advancement [Gilded Expansions]
+[22:23:11] [Server thread/INFO]: Gasttritis was thrown off the heavens above by Vance Pawl the Vindicator
+[22:28:29] [Server thread/INFO]: gordobe has made the advancement [Voluntary Exile]
+[22:28:29] [Server thread/INFO]: Named entity class_1604['Anora McDonald the Pillager'/14115, l='ServerLevel[CJU]', x=-276.81, y=9.00, z=66.16] died: Anora McDonald the Pillager was slain by gordobe
+[22:29:32] [Server thread/INFO]: Gasttritis claimed a grave belonging to Gasttritis at -283, 5, 32, minecraft:overworld
+[22:29:47] [Server thread/INFO]: Named entity class_1604['Hayley Del Guidice the Pillager'/14088, l='ServerLevel[CJU]', x=-282.30, y=9.00, z=33.84] died: Hayley Del Guidice the Pillager was slain by Gasttritis
+[22:29:51] [Server thread/INFO]: Gasttritis was shot by Cristiano Petrauskas the Pillager
+[22:29:57] [Server thread/INFO]: Gasttritis lost connection: Disconnected
+[22:29:57] [Server thread/INFO]: Gasttritis left the game
+[22:29:57] [Server thread/INFO]: Updating all forceload tickets for b04ed8a0-8a88-3dba-a8ef-549cf66f8ddf
+[22:29:58] [Server thread/INFO]: Named entity class_1604['Cristiano Petrauskas the Pillager'/14090, l='ServerLevel[CJU]', x=-283.04, y=10.27, z=55.70] died: Cristiano Petrauskas the Pillager was slain by gordobe
+[22:31:01] [Server thread/INFO]: gordobe claimed a grave belonging to gordobe at -283, 9, 36, minecraft:overworld
+[22:31:12] [Server thread/INFO]: Gasttritis[/100.106.242.117:63208] logged in with entity id 16546 at (-165.178682894046, 97.0, 580.6578064282893)
+[22:31:12] [Server thread/INFO]: Sending server config values to client
+[22:31:12] [Server thread/INFO]: Gasttritis joined the game
+[22:31:13] [Server thread/INFO]: Updating all forceload tickets for b04ed8a0-8a88-3dba-a8ef-549cf66f8ddf
+[22:31:15] [Server thread/INFO]: Channel update: Gasttritis -> default
+[22:31:15] [Server thread/INFO]: Priority overwritten for player Gasttritis. Claiming: GRAVE / Robbing: INVENTORY
+[22:31:15] [Server thread/INFO]: Receiving client config
+[22:31:43] [Server thread/INFO]: [Gasttritis: Teleported Gasttritis to -284.500000, 9.500000, 36.500000]
+[22:31:46] [Server thread/INFO]: Gasttritis claimed a grave belonging to Gasttritis at -285, 9, 36, minecraft:overworld
+[22:32:35] [Server thread/INFO]: Named entity class_1632['Daria Fabbro the Vindicator'/14087, l='ServerLevel[CJU]', x=-271.51, y=15.94, z=38.96] died: Daria Fabbro the Vindicator was slain by gordobe

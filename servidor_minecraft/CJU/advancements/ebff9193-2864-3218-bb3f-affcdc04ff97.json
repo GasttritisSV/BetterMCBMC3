@@ -8655,6 +8655,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-02-05 22:28:29 +0000"
+    },
+    "done": true
+  },
   "natures_spirit:recipes/building_blocks/cut_pink_sandstone_slab_from_pink_sandstone_stonecutting": {
     "criteria": {
       "has_pink_sandstone": "2025-02-05 21:38:46 +0000"

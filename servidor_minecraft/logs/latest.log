@@ -4050,3 +4050,6 @@ java.lang.ClassCastException: class svenhjol.charm.feature.woodcutting.common.Wo
 [23:19:37] [Server thread/INFO]: Channel update: gordobe -> default
 [23:19:37] [Server thread/INFO]: Priority overwritten for player gordobe. Claiming: GRAVE / Robbing: INVENTORY
 [23:19:37] [Server thread/INFO]: Receiving client config
+[23:43:56] [Server thread/INFO]: gordobe lost connection: Disconnected
+[23:43:56] [Server thread/INFO]: gordobe left the game
+[23:43:56] [Server thread/INFO]: Updating all forceload tickets for ebff9193-2864-3218-bb3f-affcdc04ff97

@@ -4039,3 +4039,14 @@ java.lang.ClassCastException: class svenhjol.charm.feature.woodcutting.common.Wo
 [23:04:29] [Server thread/INFO]: Gasttritis lost connection: Disconnected
 [23:04:29] [Server thread/INFO]: Gasttritis left the game
 [23:04:29] [Server thread/INFO]: Updating all forceload tickets for b04ed8a0-8a88-3dba-a8ef-549cf66f8ddf
+[23:19:28] [Server thread/INFO]: gordobe lost connection: Timed out
+[23:19:28] [Server thread/INFO]: gordobe left the game
+[23:19:28] [Server thread/INFO]: Updating all forceload tickets for ebff9193-2864-3218-bb3f-affcdc04ff97
+[23:19:28] [Server thread/WARN]: handleDisconnection() called twice
+[23:19:36] [Server thread/INFO]: gordobe[/100.104.203.61:55197] logged in with entity id 34057 at (-164.5, 97.0, 574.5)
+[23:19:36] [Server thread/INFO]: Sending server config values to client
+[23:19:36] [Server thread/INFO]: gordobe joined the game
+[23:19:36] [Server thread/INFO]: Updating all forceload tickets for ebff9193-2864-3218-bb3f-affcdc04ff97
+[23:19:37] [Server thread/INFO]: Channel update: gordobe -> default
+[23:19:37] [Server thread/INFO]: Priority overwritten for player gordobe. Claiming: GRAVE / Robbing: INVENTORY
+[23:19:37] [Server thread/INFO]: Receiving client config

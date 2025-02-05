@@ -2380,12 +2380,14 @@
       "minecraft:pillager": "2025-02-05 21:40:52 +0000",
       "minecraft:cave_spider": "2025-02-05 21:42:31 +0000",
       "minecraft:skeleton": "2025-01-14 19:54:08 +0000",
+      "minecraft:vindicator": "2025-02-05 22:32:35 +0000",
       "minecraft:witch": "2025-01-16 01:42:44 +0000",
       "minecraft:spider": "2025-01-15 02:20:28 +0000",
       "minecraft:zombie": "2025-01-14 20:00:47 +0000",
       "minecraft:creeper": "2025-01-16 00:34:01 +0000",
       "minecraft:drowned": "2025-01-15 02:21:03 +0000",
-      "minecraft:zombie_villager": "2025-01-16 01:58:52 +0000"
+      "minecraft:zombie_villager": "2025-01-16 01:58:52 +0000",
+      "minecraft:husk": "2025-02-05 22:34:14 +0000"
     },
     "done": false
   },
@@ -8658,6 +8660,12 @@
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2025-02-05 22:28:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wolf_armor": {
+    "criteria": {
+      "has_armadillo_scute": "2025-02-05 22:36:22 +0000"
     },
     "done": true
   },

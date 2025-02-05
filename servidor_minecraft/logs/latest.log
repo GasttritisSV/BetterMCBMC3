@@ -1812,3 +1812,13 @@ com.google.gson.JsonParseException: Not a JSON object: "deeperdarker:bloom_plank
 [21:45:04] [Server thread/INFO]: Named entity class_1604['Jamarri Abrahamson the Pillager'/3753, l='ServerLevel[CJU]', x=-257.73, y=-3.00, z=54.30] died: Jamarri Abrahamson the Pillager was slain by gordobe
 [21:45:40] [Server thread/INFO]: Gasttritis was shot by Luiz Borghi the Illusioner
 [21:45:54] [Server thread/INFO]: [Gasttritis: Teleported Gasttritis to -283.500000, 10.500000, 49.500000]
+[21:45:58] [Server thread/INFO]: Gasttritis claimed a grave belonging to Gasttritis at -284, 10, 49, minecraft:overworld
+[21:45:59] [Server thread/INFO]: Gasttritis claimed a grave belonging to Gasttritis at -284, 10, 51, minecraft:overworld
+[21:46:03] [Server thread/INFO]: Gasttritis went off with a bang
+[21:46:11] [Server thread/INFO]: [Gasttritis: Teleported Gasttritis to -283.500000, 9.500000, 39.500000]
+[21:46:14] [Server thread/INFO]: Gasttritis claimed a grave belonging to Gasttritis at -284, 9, 40, minecraft:overworld
+[21:46:58] [Server thread/INFO]: Named entity class_1604['Kaldor Bowles the Pillager'/3414, l='ServerLevel[CJU]', x=-225.30, y=-3.00, z=54.41] died: Kaldor Bowles the Pillager was slain by gordobe
+[21:46:58] [Server thread/INFO]: gordobe has made the advancement [World of illusion]
+[21:46:58] [Server thread/INFO]: Named entity class_1581['Garlyn Ulshafer the Illusioner'/4342, l='ServerLevel[CJU]', x=-225.98, y=-3.00, z=54.60] died: Garlyn Ulshafer the Illusioner was slain by gordobe
+[21:51:55] [Server thread/INFO]: Named entity class_1604['Ieasha Allport the Pillager'/6376, l='ServerLevel[CJU]', x=-260.88, y=-3.00, z=54.25] died: Ieasha Allport the Pillager was slain by gordobe
+[21:52:47] [Server thread/INFO]: Named entity class_1581['Clarimond Croll the Illusioner'/6160, l='ServerLevel[CJU]', x=-263.30, y=-2.00, z=45.30] died: Clarimond Croll the Illusioner was slain by Gasttritis

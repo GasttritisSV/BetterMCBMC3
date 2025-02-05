@@ -157,6 +157,7 @@
       "minecraft:river": "2025-01-14 23:32:18 +0000",
       "minecraft:snowy_plains": "2025-01-22 07:43:12 +0000",
       "minecraft:snowy_taiga": "2025-02-04 21:10:46 +0000",
+      "minecraft:dripstone_caves": "2025-02-05 21:42:22 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-14 23:32:12 +0000",
       "natures_spirit:boreal_taiga": "2025-01-31 23:05:37 +0000",
       "minecraft:meadow": "2025-01-16 21:22:59 +0000",
@@ -10063,6 +10064,12 @@
     },
     "done": true
   },
+  "friendsandfoes:adventure/the_magicians": {
+    "criteria": {
+      "killed_illusioner": "2025-02-05 21:42:26 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/cracked_stone_bricks": {
     "criteria": {
       "has_stone_bricks": "2025-02-05 21:40:44 +0000"
@@ -10090,6 +10097,12 @@
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-02-05 21:40:44 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/kill_illusioner": {
+    "criteria": {
+      "killed_illusioner": "2025-02-05 21:42:26 +0000"
     },
     "done": true
   },

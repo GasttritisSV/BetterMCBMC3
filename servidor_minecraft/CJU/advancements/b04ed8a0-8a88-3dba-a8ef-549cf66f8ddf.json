@@ -9877,9 +9877,27 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2025-02-04 21:11:28 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_chestplate_repairing": {
+    "criteria": {
+      "has_leather_chestplate": "2025-02-04 21:11:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
     "criteria": {
       "has_sentry_armor_trim_smithing_template": "2025-02-04 21:13:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-02-04 21:13:12 +0000"
     },
     "done": true
   },
@@ -9901,45 +9919,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/sugar_from_honey_bottle": {
-    "criteria": {
-      "has_honey_bottle": "2025-02-04 21:29:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/honey_block": {
-    "criteria": {
-      "has_honey_bottle": "2025-02-04 21:29:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-02-04 21:13:12 +0000"
-    },
-    "done": true
-  },
   "charm:ebony_wood/recipes/trapped_ebony_chest": {
     "criteria": {
       "has_tripwire_hook": "2025-02-04 21:13:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/acacia_planks": {
-    "criteria": {
-      "has_log": "2025-02-04 21:29:16 +0000"
-    },
-    "done": true
-  },
-  "another_furniture:recipes/spruce_flower_box": {
-    "criteria": {
-      "has_slab": "2025-02-04 21:29:22 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/honey_cookie": {
-    "criteria": {
-      "has_honey_bottle": "2025-02-04 21:29:37 +0000"
     },
     "done": true
   },
@@ -9955,31 +9937,19 @@
     },
     "done": true
   },
-  "another_furniture:recipes/spruce_bench": {
-    "criteria": {
-      "has_slab": "2025-02-04 21:29:22 +0000"
-    },
-    "done": true
-  },
   "charm:vanilla_wood_variants/recipes/trapped_bamboo_chest": {
     "criteria": {
       "has_tripwire_hook": "2025-02-04 21:13:19 +0000"
     },
     "done": true
   },
-  "another_furniture:recipes/spruce_shutter": {
-    "criteria": {
-      "has_slab": "2025-02-04 21:29:22 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/leather_chestplate_repairing": {
-    "criteria": {
-      "has_leather_chestplate": "2025-02-04 21:11:36 +0000"
-    },
-    "done": true
-  },
   "charm:vanilla_wood_variants/recipes/trapped_crimson_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-02-04 21:13:19 +0000"
+    },
+    "done": true
+  },
+  "charm:vanilla_wood_variants/recipes/trapped_acacia_chest": {
     "criteria": {
       "has_tripwire_hook": "2025-02-04 21:13:19 +0000"
     },
@@ -9991,15 +9961,45 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/building_blocks/onion_crate": {
+  "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
-      "has_onion": "2025-02-04 21:11:28 +0000"
+      "has_log": "2025-02-04 21:29:16 +0000"
     },
     "done": true
   },
-  "charm:vanilla_wood_variants/recipes/trapped_acacia_chest": {
+  "another_furniture:recipes/spruce_flower_box": {
     "criteria": {
-      "has_tripwire_hook": "2025-02-04 21:13:19 +0000"
+      "has_slab": "2025-02-04 21:29:22 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/spruce_bench": {
+    "criteria": {
+      "has_slab": "2025-02-04 21:29:22 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/spruce_shutter": {
+    "criteria": {
+      "has_slab": "2025-02-04 21:29:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-02-04 21:29:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2025-02-04 21:29:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/honey_cookie": {
+    "criteria": {
+      "has_honey_bottle": "2025-02-04 21:29:37 +0000"
     },
     "done": true
   },

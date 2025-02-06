@@ -1811,3 +1811,4 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [23:31:36] [Server thread/INFO]: Receiving client config
 [23:33:21] [Server thread/INFO]: gordobe was slain by Enderman
 [23:35:29] [Server thread/INFO]: gordobe claimed a grave belonging to gordobe at -196, 71, 250, minecraft:overworld
+[23:36:43] [Server thread/INFO]: gordobe claimed a grave belonging to gordobe at -181, 37, 232, minecraft:overworld

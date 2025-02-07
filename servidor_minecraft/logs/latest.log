@@ -8,3 +8,5 @@
 [00:22:16] [Server thread/INFO]: [Gasttritis: Teleported gordobe to Gasttritis]
 [00:26:02] [Server thread/INFO]: Gasttritis has made the advancement [Sneak 100]
 [00:26:17] [Server thread/INFO]: gordobe has made the advancement [Sneak 100]
+[00:44:24] [Server thread/INFO]: Named entity class_1632['Saburo Quance the Vindicator'/18305, l='ServerLevel[CJU]', x=-347.75, y=-44.00, z=512.81] died: Saburo Quance the Vindicator was shot by Gasttritis
+[00:46:01] [Server thread/WARN]: @Redirect conflict. Skipping mixins.redirected_fabric_1.21.1.json:net.minecraft.world.level.block.piston.PistonStructureResolverMixin from mod redirected->@Redirect::redirectDirections()[Lnet/minecraft/class_2350; with priority 10, already redirected by lithium.mixins.json:alloc.enum_values.piston_handler.PistonStructureResolverMixin from mod lithium->@Redirect::removeAllocation()[Lnet/minecraft/class_2350; with priority 1000

@@ -8875,9 +8875,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-07 00:55:27 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/polished_calcite_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-02-07 00:15:22 +0000"
+    },
+    "done": true
+  },
+  "charm:vanilla_wood_variants/recipes/trapped_spruce_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-02-07 00:46:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-07 00:55:27 +0000"
     },
     "done": true
   },
@@ -8917,6 +8935,12 @@
     },
     "done": true
   },
+  "charm:azalea_wood/recipes/trapped_azalea_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-02-07 00:46:30 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/calcite_shingle_wall_from_calcite_or_calcite_shingles_stonecutting": {
     "criteria": {
       "has_calcite_or_calcite_shingles": "2025-02-07 00:15:22 +0000"
@@ -8947,9 +8971,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-02-07 00:57:46 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/infusion_pedestal": {
     "criteria": {
       "has_obsidian": "2025-02-07 00:09:40 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/lodestone": {
+    "criteria": {
+      "has_chiseled_stone_bricks": "2025-02-07 00:53:27 +0000"
     },
     "done": true
   },
@@ -8977,6 +9013,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-02-07 00:46:30 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_calcite_wall_from_calcite_or_mossy_cobbled_calcite_stonecutting": {
     "criteria": {
       "has_calcite_or_mossy_cobbled_calcite": "2025-02-07 00:15:22 +0000"
@@ -9001,6 +9043,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-02-07 00:57:46 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_calcite_stairs_from_calcite_or_mossy_cobbled_calcite_stonecutting": {
     "criteria": {
       "has_calcite_or_mossy_cobbled_calcite": "2025-02-07 00:15:22 +0000"
@@ -9016,6 +9064,12 @@
   "stoneworks:recipes/building_blocks/calcite_pillar_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-02-07 00:15:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-07 00:55:27 +0000"
     },
     "done": true
   },
@@ -9049,9 +9103,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-07 00:55:27 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_calcite_brick_slab_from_calcite_or_mossy_calcite_bricks_stonecutting": {
     "criteria": {
       "has_calcite_or_mossy_calcite_bricks": "2025-02-07 00:15:22 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_gloves_repairing": {
+    "criteria": {
+      "has_leather_gloves": "2025-02-07 00:48:05 +0000"
+    },
+    "done": true
+  },
+  "charm:ebony_wood/recipes/trapped_ebony_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-02-07 00:46:30 +0000"
     },
     "done": true
   },
@@ -9115,6 +9187,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-02-07 00:57:46 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/calcite_shingle_slab_from_calcite_or_calcite_shingles_stonecutting": {
     "criteria": {
       "has_calcite_or_calcite_shingles": "2025-02-07 00:15:22 +0000"
@@ -9124,6 +9202,12 @@
   "betternether:recipes/building_blocks/basalt_brick_stairs_from_smooth_stonecutting": {
     "criteria": {
       "has_smooth_basalt": "2025-02-07 00:15:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-07 00:55:27 +0000"
     },
     "done": true
   },
@@ -9157,6 +9241,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-07 00:55:27 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/calcite_brick_wall_from_calcite_or_calcite_bricks_stonecutting": {
     "criteria": {
       "has_calcite_or_calcite_bricks": "2025-02-07 00:15:22 +0000"
@@ -9172,6 +9262,12 @@
   "charm:player_pressure_plates/recipes/player_pressure_plate": {
     "criteria": {
       "has_smooth_basalt": "2025-02-07 00:15:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_jungle_wood": {
+    "criteria": {
+      "has_log": "2025-02-07 01:05:00 +0000"
     },
     "done": true
   },
@@ -9205,6 +9301,18 @@
     },
     "done": true
   },
+  "charm:vanilla_wood_variants/recipes/trapped_mangrove_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-02-07 00:46:30 +0000"
+    },
+    "done": true
+  },
+  "charm:vanilla_wood_variants/recipes/trapped_warped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-02-07 00:46:30 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_calcite_from_calcite_stonecutting": {
     "criteria": {
       "has_calcite": "2025-02-07 00:15:22 +0000"
@@ -9214,6 +9322,18 @@
   "stoneworks:recipes/building_blocks/calcite_paver_wall_from_calcite_or_calcite_pavers_stonecutting": {
     "criteria": {
       "has_calcite_or_calcite_pavers": "2025-02-07 00:15:22 +0000"
+    },
+    "done": true
+  },
+  "charm:vanilla_wood_variants/recipes/trapped_bamboo_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-02-07 00:46:30 +0000"
+    },
+    "done": true
+  },
+  "charm:vanilla_wood_variants/recipes/trapped_dark_oak_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-02-07 00:46:30 +0000"
     },
     "done": true
   },
@@ -9247,6 +9367,12 @@
     },
     "done": true
   },
+  "charm:vanilla_wood_variants/recipes/trapped_cherry_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-02-07 00:46:30 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/obsidian_tile": {
     "criteria": {
       "has_obsidian": "2025-02-07 00:09:40 +0000"
@@ -9271,9 +9397,27 @@
     },
     "done": true
   },
+  "charm:vanilla_wood_variants/recipes/trapped_crimson_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-02-07 00:46:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-02-07 00:09:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-02-07 01:05:00 +0000"
+    },
+    "done": true
+  },
+  "charm:vanilla_wood_variants/recipes/trapped_acacia_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-02-07 00:46:30 +0000"
     },
     "done": true
   },

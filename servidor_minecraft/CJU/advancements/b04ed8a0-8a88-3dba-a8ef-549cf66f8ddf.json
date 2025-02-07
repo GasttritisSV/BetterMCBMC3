@@ -2281,11 +2281,13 @@
       "minecraft:skeleton": "2025-01-14 23:56:46 +0000",
       "minecraft:guardian": "2025-01-31 22:58:22 +0000",
       "minecraft:phantom": "2025-01-16 22:53:17 +0000",
+      "minecraft:vindicator": "2025-02-07 00:44:24 +0000",
       "minecraft:enderman": "2025-01-16 21:46:47 +0000",
       "minecraft:witch": "2025-02-06 23:58:00 +0000",
       "minecraft:spider": "2025-01-15 00:24:33 +0000",
       "minecraft:zombie": "2025-01-14 23:40:40 +0000",
-      "minecraft:creeper": "2025-01-14 23:31:24 +0000"
+      "minecraft:creeper": "2025-01-14 23:31:24 +0000",
+      "minecraft:zombie_villager": "2025-02-07 00:58:36 +0000"
     },
     "done": false
   },
@@ -10329,6 +10331,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-02-07 00:46:12 +0000"
+    },
+    "done": true
+  },
   "bosses_of_mass_destruction:recipes/void_lily": {
     "criteria": {
       "has_amethyst_shard": "2025-02-07 00:04:28 +0000"
@@ -10353,9 +10361,21 @@
     },
     "done": true
   },
+  "advancednetherite:recipes/misc/lodestone": {
+    "criteria": {
+      "has_chiseled_stone_bricks": "2025-02-07 00:52:09 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/misc/aether_tune_enchanting": {
     "criteria": {
       "has_disc": "2025-02-07 00:09:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-02-07 01:07:07 +0000"
     },
     "done": true
   },
@@ -10380,6 +10400,18 @@
   "handcrafted:recipes/misc/kitchen_hood_pipe": {
     "criteria": {
       "has_kitchen_hood_pipe": "2025-02-07 00:18:51 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/complete_hide_and_seek_game": {
+    "criteria": {
+      "friendsandfoes:complete_hide_and_seek_game": "2025-02-07 01:06:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-02-07 00:46:12 +0000"
     },
     "done": true
   },
@@ -10419,6 +10451,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-02-07 00:46:12 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/obsidian_tile_slab_stonecutter": {
     "criteria": {
       "has_obsidian": "2025-02-07 00:10:26 +0000"
@@ -10443,6 +10481,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-02-07 01:07:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-02-07 00:10:26 +0000"
@@ -10455,9 +10499,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-02-07 00:46:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2025-02-07 00:21:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-02-07 00:46:12 +0000"
     },
     "done": true
   },
@@ -10512,6 +10568,12 @@
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-02-07 00:10:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-02-07 00:46:12 +0000"
     },
     "done": true
   },

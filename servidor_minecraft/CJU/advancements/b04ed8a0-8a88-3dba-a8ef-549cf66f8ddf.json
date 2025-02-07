@@ -2281,6 +2281,7 @@
       "minecraft:guardian": "2025-01-31 22:58:22 +0000",
       "minecraft:phantom": "2025-01-16 22:53:17 +0000",
       "minecraft:enderman": "2025-01-16 21:46:47 +0000",
+      "minecraft:witch": "2025-02-06 23:58:00 +0000",
       "minecraft:spider": "2025-01-15 00:24:33 +0000",
       "minecraft:zombie": "2025-01-14 23:40:40 +0000",
       "minecraft:creeper": "2025-01-14 23:31:24 +0000"
@@ -10298,6 +10299,30 @@
   "farmersdelight:recipes/food/egg_sandwich": {
     "criteria": {
       "has_fried_egg": "2025-02-06 21:01:20 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dripstone_pillar_trim": {
+    "criteria": {
+      "has_dripstone_pillar_trim": "2025-02-06 23:55:46 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/dripstone_corner_trim": {
+    "criteria": {
+      "has_dripstone_corner_trim": "2025-02-06 23:55:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-02-06 23:57:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-02-06 23:57:06 +0000"
     },
     "done": true
   },

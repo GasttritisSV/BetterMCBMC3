@@ -160,6 +160,7 @@
       "minecraft:dripstone_caves": "2025-02-05 21:42:22 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-14 23:32:12 +0000",
       "natures_spirit:boreal_taiga": "2025-01-31 23:05:37 +0000",
+      "minecraft:deep_dark": "2025-02-07 00:18:18 +0000",
       "minecraft:meadow": "2025-01-16 21:22:59 +0000",
       "minecraft:windswept_gravelly_hills": "2025-01-31 23:10:13 +0000",
       "minecraft:savanna": "2025-01-16 00:08:44 +0000",
@@ -3895,7 +3896,9 @@
   "morevillagers:all_workstations_get": {
     "criteria": {
       "blastfurnace": "2025-01-16 21:06:04 +0000",
-      "stonecutter": "2025-01-15 00:29:00 +0000"
+      "stonecutter": "2025-01-15 00:29:00 +0000",
+      "cauldron": "2025-02-07 00:21:27 +0000",
+      "brewingstand": "2025-02-07 00:21:28 +0000"
     },
     "done": false
   },
@@ -10308,6 +10311,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/kitchen_hood": {
+    "criteria": {
+      "has_kitchen_hood": "2025-02-07 00:18:51 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/dripstone_pillar_trim": {
     "criteria": {
       "has_dripstone_pillar_trim": "2025-02-06 23:55:46 +0000"
@@ -10365,6 +10374,12 @@
   "betternether:recipes/building_blocks/obsidian_rod_tiles_stonecutting": {
     "criteria": {
       "has_obsidian": "2025-02-07 00:10:26 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/kitchen_hood_pipe": {
+    "criteria": {
+      "has_kitchen_hood_pipe": "2025-02-07 00:18:51 +0000"
     },
     "done": true
   },
@@ -10434,9 +10449,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-02-07 00:21:04 +0000"
+    },
+    "done": true
+  },
   "charm:player_pressure_plates/recipes/player_pressure_plate": {
     "criteria": {
       "has_smooth_basalt": "2025-02-07 00:03:58 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/root": {
+    "criteria": {
+      "deep_dark": "2025-02-07 00:18:18 +0000"
     },
     "done": true
   },
@@ -10452,6 +10479,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/diamond_gloves_repairing": {
+    "criteria": {
+      "has_diamond_gloves": "2025-02-07 00:17:29 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/obsidian_bricks_stonecutter": {
     "criteria": {
       "has_obsidian": "2025-02-07 00:10:26 +0000"
@@ -10461,6 +10494,12 @@
   "betternether:recipes/building_blocks/obsidian_tile": {
     "criteria": {
       "has_obsidian": "2025-02-07 00:10:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-02-07 00:21:04 +0000"
     },
     "done": true
   },

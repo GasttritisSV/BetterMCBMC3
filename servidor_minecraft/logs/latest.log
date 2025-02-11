@@ -1809,3 +1809,39 @@ com.google.gson.JsonParseException: Not a JSON object: "deeperdarker:bloom_plank
 [23:12:10] [Server thread/INFO]: Named entity ChillagerEntity['Courteney Renz the Pillager'/7023, l='ServerLevel[CJU]', x=-187.22, y=98.00, z=653.52] died: Courteney Renz the Pillager was shot by Gasttritis
 [23:12:11] [Server thread/INFO]: Named entity ChillagerEntity['Eleonora Van den Berg the Pillager'/7022, l='ServerLevel[CJU]', x=-182.11, y=96.00, z=651.54] died: Eleonora Van den Berg the Pillager was shot by Gasttritis
 [23:12:13] [Server thread/INFO]: Named entity ChillagerEntity['Keitel Larrick the Patrol Leader'/7020, l='ServerLevel[CJU]', x=-185.12, y=97.00, z=650.84] died: Keitel Larrick the Patrol Leader was shot by Gasttritis
+[23:37:20] [Server thread/INFO]: No return portal found
+[23:37:26] [Worker-Main-2/INFO]: BBox:class_3341{minX=69, minY=22, minZ=149, maxX=267, maxY=96, maxZ=347}
+[23:37:27] [Server thread/INFO]: Gasttritis has made the advancement [Time for a Sweat]
+[23:37:27] [Server thread/INFO]: Gasttritis has made the advancement [We Need to Go Deeper]
+[23:37:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11731ms or 234 ticks behind
+[23:37:36] [Server thread/INFO]: No return portal found
+[23:37:36] [Server thread/INFO]: gordobe has made the advancement [Time for a Sweat]
+[23:37:36] [Server thread/INFO]: gordobe has made the advancement [We Need to Go Deeper]
+[23:37:42] [Worker-Main-2/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/14868, l='ServerLevel[CJU]', x=-115.00, y=81.00, z=165.00] as it would cause deadlock
+[23:37:42] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/14871, l='ServerLevel[CJU]', x=-115.00, y=81.00, z=165.00] as it would cause deadlock
+[23:37:46] [Worker-Main-3/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/14901, l='ServerLevel[CJU]', x=59.00, y=97.00, z=193.00] as it would cause deadlock
+[23:37:46] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/14904, l='ServerLevel[CJU]', x=59.00, y=97.00, z=193.00] as it would cause deadlock
+[23:37:51] [Worker-Main-3/WARN]: Ignoring unknown attribute 'porting_lib:step_height_addition'
+[23:37:51] [Worker-Main-3/WARN]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[23:37:51] [Worker-Main-3/WARN]: Ignoring unknown attribute 'porting_lib:step_height_addition'
+[23:37:51] [Worker-Main-3/WARN]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[23:37:51] [Worker-Main-3/WARN]: Ignoring unknown attribute 'porting_lib:step_height_addition'
+[23:37:51] [Worker-Main-3/WARN]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[23:37:51] [Worker-Main-3/WARN]: Ignoring unknown attribute 'porting_lib:step_height_addition'
+[23:37:51] [Worker-Main-3/WARN]: Ignoring unknown attribute 'porting_lib:entity_gravity'
+[23:37:53] [Worker-Main-3/WARN]: Skipping Entity with id betternether:chair
+[23:37:53] [Worker-Main-3/WARN]: Skipping Entity with id betternether:chair
+[23:37:53] [Worker-Main-3/WARN]: Skipping Entity with id betternether:chair
+[23:37:53] [Worker-Main-3/WARN]: Skipping Entity with id betternether:chair
+[23:37:53] [Worker-Main-3/WARN]: Skipping Entity with id betternether:chair
+[23:37:53] [Worker-Main-3/WARN]: Skipping Entity with id betternether:chair
+[23:37:57] [Worker-Main-3/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/15021, l='ServerLevel[CJU]', x=-140.00, y=31.00, z=-97.00] as it would cause deadlock
+[23:37:57] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/15024, l='ServerLevel[CJU]', x=-140.00, y=31.00, z=-97.00] as it would cause deadlock
+[23:37:58] [Worker-Main-1/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/15027, l='ServerLevel[CJU]', x=-204.00, y=31.00, z=-5.00] as it would cause deadlock
+[23:37:58] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/15030, l='ServerLevel[CJU]', x=-204.00, y=31.00, z=-5.00] as it would cause deadlock
+[23:38:00] [Worker-Main-2/WARN]: Skipping Entity with id betternether:chair
+[23:38:00] [Worker-Main-2/WARN]: Skipping Entity with id betternether:chair
+[23:38:00] [Worker-Main-2/WARN]: Skipping Entity with id betternether:chair
+[23:38:00] [Worker-Main-2/WARN]: Skipping Entity with id betternether:chair
+[23:38:00] [Worker-Main-2/WARN]: Skipping Entity with id betternether:chair
+[23:38:00] [Worker-Main-2/WARN]: Skipping Entity with id betternether:chair

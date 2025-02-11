@@ -1805,3 +1805,7 @@ com.google.gson.JsonParseException: Not a JSON object: "deeperdarker:bloom_plank
 [22:48:23] [Server thread/INFO]: Receiving client config
 [22:49:10] [Server thread/INFO]: gordobe was doomed to fall by Gasttritis
 [22:52:09] [Server thread/INFO]: gordobe claimed a grave belonging to gordobe at -193, 61, 576, minecraft:overworld
+[23:12:09] [Server thread/INFO]: Named entity ChillagerEntity['Georges Counterman the Pillager'/7021, l='ServerLevel[CJU]', x=-185.48, y=96.00, z=648.68] died: Georges Counterman the Pillager was shot by Gasttritis
+[23:12:10] [Server thread/INFO]: Named entity ChillagerEntity['Courteney Renz the Pillager'/7023, l='ServerLevel[CJU]', x=-187.22, y=98.00, z=653.52] died: Courteney Renz the Pillager was shot by Gasttritis
+[23:12:11] [Server thread/INFO]: Named entity ChillagerEntity['Eleonora Van den Berg the Pillager'/7022, l='ServerLevel[CJU]', x=-182.11, y=96.00, z=651.54] died: Eleonora Van den Berg the Pillager was shot by Gasttritis
+[23:12:13] [Server thread/INFO]: Named entity ChillagerEntity['Keitel Larrick the Patrol Leader'/7020, l='ServerLevel[CJU]', x=-185.12, y=97.00, z=650.84] died: Keitel Larrick the Patrol Leader was shot by Gasttritis

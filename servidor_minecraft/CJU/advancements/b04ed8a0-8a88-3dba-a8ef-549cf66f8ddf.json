@@ -2280,6 +2280,7 @@
       "minecraft:pillager": "2025-01-15 00:45:33 +0000",
       "minecraft:skeleton": "2025-01-14 23:56:46 +0000",
       "minecraft:phantom": "2025-01-16 22:53:17 +0000",
+      "minecraft:zombified_piglin": "2025-02-12 01:07:05 +0000",
       "minecraft:witch": "2025-02-06 23:58:00 +0000",
       "minecraft:wither_skeleton": "2025-02-12 00:59:15 +0000",
       "minecraft:ghast": "2025-02-11 23:59:32 +0000",
@@ -11389,45 +11390,27 @@
     },
     "done": true
   },
-  "repurposed_structures:villages": {
+  "aether:recipes/combat/golden_helmet_repairing": {
     "criteria": {
-      "in_village_crimson": "2025-02-12 00:54:40 +0000"
-    },
-    "done": false
-  },
-  "betternether:recipes/tools/flaming_ruby_shovel": {
-    "criteria": {
-      "has_item.betternether.flaming_ruby_upgrade_smithing_template": "2025-02-12 00:59:34 +0000"
+      "has_golden_helmet": "2025-02-12 00:48:40 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+  "aether:recipes/combat/golden_boots_repairing": {
     "criteria": {
-      "has_ancient_debris": "2025-02-12 00:53:25 +0000"
+      "has_golden_boots": "2025-02-12 00:48:40 +0000"
     },
     "done": true
   },
-  "betternether:recipes/tools/nether_ruby_hoe": {
+  "aether:recipes/combat/golden_leggings_repairing": {
     "criteria": {
-      "has_nether_ruby": "2025-02-12 00:59:31 +0000"
+      "has_golden_leggings": "2025-02-12 00:48:40 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/netherite_ingot": {
+  "aether:recipes/combat/golden_chestplate_repairing": {
     "criteria": {
-      "has_netherite_scrap": "2025-02-12 01:00:15 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/combat/nether_ruby_boots": {
-    "criteria": {
-      "has_nether_ruby": "2025-02-12 00:59:31 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/tools/flaming_ruby_pickaxe": {
-    "criteria": {
-      "has_item.betternether.flaming_ruby_upgrade_smithing_template": "2025-02-12 00:59:34 +0000"
+      "has_golden_chestplate": "2025-02-12 00:48:43 +0000"
     },
     "done": true
   },
@@ -11437,27 +11420,33 @@
     },
     "done": true
   },
-  "betternether:recipes/tools/flaming_ruby_hoe": {
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
     "criteria": {
-      "has_item.betternether.flaming_ruby_upgrade_smithing_template": "2025-02-12 00:59:34 +0000"
+      "has_ancient_debris": "2025-02-12 00:53:25 +0000"
     },
     "done": true
   },
-  "aether:recipes/combat/golden_helmet_repairing": {
+  "minecraft:nether/obtain_ancient_debris": {
     "criteria": {
-      "has_golden_helmet": "2025-02-12 00:48:40 +0000"
+      "ancient_debris": "2025-02-12 00:53:25 +0000"
     },
     "done": true
   },
-  "betternether:recipes/combat/flaming_ruby_chestplate": {
+  "minecraft:recipes/misc/netherite_scrap": {
     "criteria": {
-      "has_item.betternether.flaming_ruby_upgrade_smithing_template": "2025-02-12 00:59:34 +0000"
+      "has_ancient_debris": "2025-02-12 00:53:25 +0000"
     },
     "done": true
   },
-  "betternether:ruby_ore": {
+  "repurposed_structures:villages": {
     "criteria": {
-      "ruby_ore": "2025-02-12 00:59:31 +0000"
+      "in_village_crimson": "2025-02-12 00:54:40 +0000"
+    },
+    "done": false
+  },
+  "aether:recipes/combat/golden_sword_repairing": {
+    "criteria": {
+      "has_golden_sword": "2025-02-12 00:56:48 +0000"
     },
     "done": true
   },
@@ -11467,15 +11456,21 @@
     },
     "done": true
   },
-  "betternether:recipes/tools/nether_ruby_shovel": {
+  "minecraft:recipes/building_blocks/nether_wart_block": {
     "criteria": {
-      "has_nether_ruby": "2025-02-12 00:59:31 +0000"
+      "has_nether_wart": "2025-02-12 00:57:41 +0000"
     },
     "done": true
   },
-  "betternether:recipes/decorations/cincinnasite_lantern_small": {
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
     "criteria": {
-      "has_cincinnasite_lantern": "2025-02-12 00:59:28 +0000"
+      "has_nether_wart": "2025-02-12 00:57:41 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/food/herbal_medicine": {
+    "criteria": {
+      "has_nether_wart": "2025-02-12 00:57:41 +0000"
     },
     "done": true
   },
@@ -11485,9 +11480,33 @@
     },
     "done": true
   },
-  "aether:recipes/combat/golden_chestplate_repairing": {
+  "betternether:recipes/decorations/cincinnasite_lantern_small": {
     "criteria": {
-      "has_golden_chestplate": "2025-02-12 00:48:43 +0000"
+      "has_cincinnasite_lantern": "2025-02-12 00:59:28 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/nether_ruby_hoe": {
+    "criteria": {
+      "has_nether_ruby": "2025-02-12 00:59:31 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/combat/nether_ruby_boots": {
+    "criteria": {
+      "has_nether_ruby": "2025-02-12 00:59:31 +0000"
+    },
+    "done": true
+  },
+  "betternether:ruby_ore": {
+    "criteria": {
+      "ruby_ore": "2025-02-12 00:59:31 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/nether_ruby_shovel": {
+    "criteria": {
+      "has_nether_ruby": "2025-02-12 00:59:31 +0000"
     },
     "done": true
   },
@@ -11503,45 +11522,9 @@
     },
     "done": true
   },
-  "aether:recipes/combat/golden_boots_repairing": {
-    "criteria": {
-      "has_golden_boots": "2025-02-12 00:48:40 +0000"
-    },
-    "done": true
-  },
-  "betternether:cincinnasite_tools": {
-    "criteria": {
-      "cincinnasite_hoe": "2025-02-12 01:00:07 +0000"
-    },
-    "done": true
-  },
-  "betternether:flaming_ruby": {
-    "criteria": {
-      "flaming_ruby": "2025-02-12 00:59:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_ancient_debris": {
-    "criteria": {
-      "ancient_debris": "2025-02-12 00:53:25 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/tools/flaming_ruby_axe": {
-    "criteria": {
-      "has_item.betternether.flaming_ruby_upgrade_smithing_template": "2025-02-12 00:59:34 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/combat/nether_ruby_leggings": {
     "criteria": {
       "has_nether_ruby": "2025-02-12 00:59:31 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/golden_leggings_repairing": {
-    "criteria": {
-      "has_golden_leggings": "2025-02-12 00:48:40 +0000"
     },
     "done": true
   },
@@ -11551,69 +11534,9 @@
     },
     "done": true
   },
-  "bosses_of_mass_destruction:recipes/brimstone_nectar": {
-    "criteria": {
-      "has_netherite_scrap": "2025-02-12 01:00:15 +0000"
-    },
-    "done": true
-  },
-  "netherchested:recipes/decorations/nether_chest": {
-    "criteria": {
-      "has_netherite_scrap": "2025-02-12 01:00:15 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/tools/nether_ruby_pickaxe": {
     "criteria": {
       "has_nether_ruby": "2025-02-12 00:59:31 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/combat/flaming_ruby_boots": {
-    "criteria": {
-      "has_item.betternether.flaming_ruby_upgrade_smithing_template": "2025-02-12 00:59:34 +0000"
-    },
-    "done": true
-  },
-  "betternether:flaming_tools": {
-    "criteria": {
-      "flaming_ruby_sword": "2025-02-12 00:59:32 +0000"
-    },
-    "done": false
-  },
-  "betternether:recipes/combat/flaming_ruby_sword": {
-    "criteria": {
-      "has_item.betternether.flaming_ruby_upgrade_smithing_template": "2025-02-12 00:59:34 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/golden_sword_repairing": {
-    "criteria": {
-      "has_golden_sword": "2025-02-12 00:56:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/nether_wart_block": {
-    "criteria": {
-      "has_nether_wart": "2025-02-12 00:57:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_scrap": {
-    "criteria": {
-      "has_ancient_debris": "2025-02-12 00:53:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_nether_bricks": {
-    "criteria": {
-      "has_nether_wart": "2025-02-12 00:57:41 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/combat/flaming_ruby_leggings": {
-    "criteria": {
-      "has_item.betternether.flaming_ruby_upgrade_smithing_template": "2025-02-12 00:59:34 +0000"
     },
     "done": true
   },
@@ -11629,15 +11552,592 @@
     },
     "done": true
   },
-  "betternether:recipes/food/herbal_medicine": {
+  "betternether:flaming_tools": {
     "criteria": {
-      "has_nether_wart": "2025-02-12 00:57:41 +0000"
+      "flaming_ruby_sword": "2025-02-12 00:59:32 +0000"
+    },
+    "done": false
+  },
+  "betternether:recipes/tools/flaming_ruby_shovel": {
+    "criteria": {
+      "has_item.betternether.flaming_ruby_upgrade_smithing_template": "2025-02-12 00:59:34 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/flaming_ruby_pickaxe": {
+    "criteria": {
+      "has_item.betternether.flaming_ruby_upgrade_smithing_template": "2025-02-12 00:59:34 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/flaming_ruby_hoe": {
+    "criteria": {
+      "has_item.betternether.flaming_ruby_upgrade_smithing_template": "2025-02-12 00:59:34 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/combat/flaming_ruby_chestplate": {
+    "criteria": {
+      "has_item.betternether.flaming_ruby_upgrade_smithing_template": "2025-02-12 00:59:34 +0000"
+    },
+    "done": true
+  },
+  "betternether:flaming_ruby": {
+    "criteria": {
+      "flaming_ruby": "2025-02-12 00:59:34 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/flaming_ruby_axe": {
+    "criteria": {
+      "has_item.betternether.flaming_ruby_upgrade_smithing_template": "2025-02-12 00:59:34 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/combat/flaming_ruby_boots": {
+    "criteria": {
+      "has_item.betternether.flaming_ruby_upgrade_smithing_template": "2025-02-12 00:59:34 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/combat/flaming_ruby_sword": {
+    "criteria": {
+      "has_item.betternether.flaming_ruby_upgrade_smithing_template": "2025-02-12 00:59:34 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/combat/flaming_ruby_leggings": {
+    "criteria": {
+      "has_item.betternether.flaming_ruby_upgrade_smithing_template": "2025-02-12 00:59:34 +0000"
     },
     "done": true
   },
   "betternether:recipes/combat/flaming_ruby_helmet": {
     "criteria": {
       "has_item.betternether.flaming_ruby_upgrade_smithing_template": "2025-02-12 00:59:34 +0000"
+    },
+    "done": true
+  },
+  "betternether:cincinnasite_tools": {
+    "criteria": {
+      "cincinnasite_hoe": "2025-02-12 01:00:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-02-12 01:00:15 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/brimstone_nectar": {
+    "criteria": {
+      "has_netherite_scrap": "2025-02-12 01:00:15 +0000"
+    },
+    "done": true
+  },
+  "netherchested:recipes/decorations/nether_chest": {
+    "criteria": {
+      "has_netherite_scrap": "2025-02-12 01:00:15 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/quartz_glass_framed_pane_black": {
+    "criteria": {
+      "has_quartz_glass_framed_pane": "2025-02-12 01:05:08 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/quartz_glass_framed_pane_magenta": {
+    "criteria": {
+      "has_quartz_glass_framed_pane": "2025-02-12 01:05:08 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/quartz_glass_framed_pane_green": {
+    "criteria": {
+      "has_quartz_glass_framed_pane": "2025-02-12 01:05:08 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/quartz_glass_framed_pane_gray": {
+    "criteria": {
+      "has_quartz_glass_framed_pane": "2025-02-12 01:05:08 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/quartz_glass_framed_pane_purple": {
+    "criteria": {
+      "has_quartz_glass_framed_pane": "2025-02-12 01:05:08 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/quartz_glass_framed_pane_red": {
+    "criteria": {
+      "has_quartz_glass_framed_pane": "2025-02-12 01:05:08 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/quartz_glass_framed_pane_light_gray": {
+    "criteria": {
+      "has_quartz_glass_framed_pane": "2025-02-12 01:05:08 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/quartz_glass_framed_pane_cyan": {
+    "criteria": {
+      "has_quartz_glass_framed_pane": "2025-02-12 01:05:08 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/quartz_glass_framed_pane_white": {
+    "criteria": {
+      "has_quartz_glass_framed_pane": "2025-02-12 01:05:08 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/quartz_glass_framed_pane_brown": {
+    "criteria": {
+      "has_quartz_glass_framed_pane": "2025-02-12 01:05:08 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/quartz_glass_framed_pane_light_blue": {
+    "criteria": {
+      "has_quartz_glass_framed_pane": "2025-02-12 01:05:08 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/quartz_glass_framed_pane_orange": {
+    "criteria": {
+      "has_quartz_glass_framed_pane": "2025-02-12 01:05:08 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/quartz_glass_framed_pane_lime": {
+    "criteria": {
+      "has_quartz_glass_framed_pane": "2025-02-12 01:05:08 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/quartz_glass_framed_pane_yellow": {
+    "criteria": {
+      "has_quartz_glass_framed_pane": "2025-02-12 01:05:08 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/quartz_glass_framed_pane_blue": {
+    "criteria": {
+      "has_quartz_glass_framed_pane": "2025-02-12 01:05:08 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_reed_roof_slab": {
+    "criteria": {
+      "has_nether_reed_roof": "2025-02-12 01:08:29 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_reed_roof_stairs": {
+    "criteria": {
+      "has_nether_reed_roof": "2025-02-12 01:08:29 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/bone_reed_door": {
+    "criteria": {
+      "has_nether_reed_planks": "2025-02-12 01:09:03 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/nether_reed_button": {
+    "criteria": {
+      "has_nether_reed_planks": "2025-02-12 01:09:03 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_reed_barrel": {
+    "criteria": {
+      "has_nether_reed_planks": "2025-02-12 01:09:03 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/nether_reed_door": {
+    "criteria": {
+      "has_nether_reed_planks": "2025-02-12 01:09:03 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_reed_crafting_table": {
+    "criteria": {
+      "has_nether_reed_planks": "2025-02-12 01:09:03 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_reed_slab": {
+    "criteria": {
+      "has_nether_reed_planks": "2025-02-12 01:09:03 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/nether_reed_trapdoor": {
+    "criteria": {
+      "has_nether_reed_planks": "2025-02-12 01:09:03 +0000"
+    },
+    "done": true
+  },
+  "betternether:nether_wood": {
+    "criteria": {
+      "got_nether_reed": "2025-02-12 01:09:03 +0000",
+      "got_wart": "2025-02-12 01:23:08 +0000"
+    },
+    "done": false
+  },
+  "betternether:recipes/decorations/nether_reed_chest": {
+    "criteria": {
+      "has_nether_reed_planks": "2025-02-12 01:09:03 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/nether_reed_plate": {
+    "criteria": {
+      "has_nether_reed_planks": "2025-02-12 01:09:03 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/chest_of_drawers": {
+    "criteria": {
+      "has_nether_reed_planks": "2025-02-12 01:09:03 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/nether_reed_wall": {
+    "criteria": {
+      "has_nether_reed_planks": "2025-02-12 01:09:03 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_reed_stairs": {
+    "criteria": {
+      "has_nether_reed_planks": "2025-02-12 01:09:03 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/nether_reed_boat": {
+    "criteria": {
+      "has_nether_reed_planks": "2025-02-12 01:09:03 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_reed_roof": {
+    "criteria": {
+      "has_nether_reed_planks": "2025-02-12 01:09:03 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_reed_composter": {
+    "criteria": {
+      "has_nether_reed_slab": "2025-02-12 01:14:49 +0000"
+    },
+    "done": true
+  },
+  "betternether:cincinnasite_gear": {
+    "criteria": {
+      "cincinnasite_leggings": "2025-02-12 01:16:34 +0000"
+    },
+    "done": false
+  },
+  "betternether:ruby_gear": {
+    "criteria": {
+      "nether_ruby_chestplate": "2025-02-12 01:17:38 +0000"
+    },
+    "done": false
+  },
+  "betternether:cincinnasite_ore": {
+    "criteria": {
+      "cincinnasite_ore": "2025-02-12 01:22:06 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_bars": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-12 01:22:06 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_hoe": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-12 01:22:06 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/cincinnasite_frame": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-12 01:22:06 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_chains": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-12 01:22:06 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/combat/cincinnasite_boots": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-12 01:22:06 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_lantern": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-12 01:22:06 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_shears": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-12 01:22:06 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_pot": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-12 01:22:06 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/cincinnasite_button": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-12 01:22:06 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/combat/cincinnasite_chestplate": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-12 01:22:06 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/combat/cincinnasite_leggings": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-12 01:22:06 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/cincinnasite_forged_from_ingot": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-12 01:22:06 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_shovel": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-12 01:22:06 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_fire_bowl_soul": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-12 01:22:06 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_pickaxe": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-12 01:22:06 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/combat/cincinnasite_helmet": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-12 01:22:06 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/quartz_glass_framed": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-12 01:22:06 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/combat/cincinnasite_sword": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-12 01:22:06 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_axe": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-12 01:22:06 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/brewing/nether_brewing_stand": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-12 01:22:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-02-12 01:22:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-02-12 01:22:12 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/quartz_glass_smelting": {
+    "criteria": {
+      "has_quartz": "2025-02-12 01:22:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-02-12 01:22:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-02-12 01:22:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-02-12 01:22:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-02-12 01:22:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-02-12 01:22:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-02-12 01:22:13 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/wart_log": {
+    "criteria": {
+      "has_wart_bark": "2025-02-12 01:23:08 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/wart_slab": {
+    "criteria": {
+      "has_wart_planks": "2025-02-12 01:23:15 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/wart_planks": {
+    "criteria": {
+      "has_the_recipe": "2025-02-12 01:23:15 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/wart_wall": {
+    "criteria": {
+      "has_wart_planks": "2025-02-12 01:23:15 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/wart_stairs": {
+    "criteria": {
+      "has_wart_planks": "2025-02-12 01:23:15 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/wart_barrel": {
+    "criteria": {
+      "has_wart_planks": "2025-02-12 01:23:15 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/wart_plate": {
+    "criteria": {
+      "has_wart_planks": "2025-02-12 01:23:15 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/wart_trapdoor": {
+    "criteria": {
+      "has_wart_planks": "2025-02-12 01:23:15 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/wart_roof": {
+    "criteria": {
+      "has_wart_planks": "2025-02-12 01:23:15 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/wart_chest": {
+    "criteria": {
+      "has_wart_planks": "2025-02-12 01:23:15 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/wart_door": {
+    "criteria": {
+      "has_wart_planks": "2025-02-12 01:23:15 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/wart_crafting_table": {
+    "criteria": {
+      "has_wart_planks": "2025-02-12 01:23:15 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/wart_button": {
+    "criteria": {
+      "has_wart_planks": "2025-02-12 01:23:15 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/wart_boat": {
+    "criteria": {
+      "has_wart_planks": "2025-02-12 01:23:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-02-12 01:23:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2025-02-12 01:23:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-02-12 01:25:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-02-12 01:25:45 +0000"
     },
     "done": true
   },

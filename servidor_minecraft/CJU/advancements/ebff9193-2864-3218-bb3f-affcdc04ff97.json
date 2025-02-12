@@ -9478,6 +9478,30 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_blackstone_brick_stairs_from_blackstone_or_mossy_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_blackstone_or_mossy_blackstone_bricks": "2025-02-12 01:29:04 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_shingle_stairs_from_blackstone_or_blackstone_shingles_stonecutting": {
+    "criteria": {
+      "has_blackstone_or_blackstone_shingles": "2025-02-12 01:29:04 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/crimson_boat": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-12 01:29:09 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_side_table": {
+    "criteria": {
+      "has_crimson_side_table": "2025-02-12 01:29:09 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/misc/aether_gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_gloves": "2025-02-12 00:09:04 +0000"
@@ -9535,6 +9559,12 @@
     },
     "done": true
   },
+  "betternether:cincinnasite_ore": {
+    "criteria": {
+      "cincinnasite_ore": "2025-02-12 01:21:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:basalt_deltas": "2025-02-11 23:37:56 +0000"
@@ -9553,9 +9583,21 @@
     },
     "done": true
   },
+  "charm:vanilla_wood_variants/recipes/crimson_chest": {
+    "criteria": {
+      "has_planks": "2025-02-12 01:29:09 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_netherrack_brick_stairs_from_netherrack_or_mossy_netherrack_bricks_stonecutting": {
     "criteria": {
       "has_netherrack_or_mossy_netherrack_bricks": "2025-02-11 23:45:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2025-02-12 01:29:04 +0000"
     },
     "done": true
   },
@@ -9571,6 +9613,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-12 01:29:09 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/basalt_stalactite_basalt": {
     "criteria": {
       "has_basalt_stalactite": "2025-02-11 23:46:48 +0000"
@@ -9583,9 +9631,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-02-12 01:29:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall": {
     "criteria": {
       "has_deepslate_tiles": "2025-02-12 00:09:08 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_bricks_stairs_stonecutter": {
+    "criteria": {
+      "has_blue_obsidian": "2025-02-12 01:21:42 +0000"
     },
     "done": true
   },
@@ -9634,6 +9694,12 @@
   "betternether:recipes/decorations/quartz_glass_framed_pane_purple": {
     "criteria": {
       "has_quartz_glass_framed_pane": "2025-02-12 01:01:39 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_bars": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-12 01:21:49 +0000"
     },
     "done": true
   },
@@ -9691,9 +9757,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2025-02-12 01:29:04 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_corner_trim": {
+    "criteria": {
+      "has_crimson_corner_trim": "2025-02-12 01:29:09 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/crimson_chair": {
+    "criteria": {
+      "has_planks": "2025-02-12 01:29:09 +0000"
+    },
+    "done": true
+  },
   "charm:kilns/recipes/nether_brick": {
     "criteria": {
       "has_netherrack": "2025-02-11 23:45:00 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_cupboard": {
+    "criteria": {
+      "has_crimson_cupboard": "2025-02-12 01:29:09 +0000"
     },
     "done": true
   },
@@ -9715,6 +9805,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_blackstone_wall_from_blackstone_or_mossy_cobbled_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone_or_mossy_cobbled_blackstone": "2025-02-12 01:29:04 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/transportation/nether_mushroom_boat": {
     "criteria": {
       "has_nether_mushroom_planks": "2025-02-12 01:02:27 +0000"
@@ -9727,15 +9823,57 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/nether_ruby_stairs_stonecutting": {
+    "criteria": {
+      "has_nether_ruby_block": "2025-02-12 01:24:33 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/polished_netherrack_stairs_from_netherrack_or_polished_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack_or_polished_netherrack": "2025-02-11 23:45:00 +0000"
     },
     "done": true
   },
+  "betternether:recipes/tools/cincinnasite_hoe": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-12 01:21:49 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_pillar_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-02-12 01:29:04 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/basalt_shingle_slab_from_basalt_or_basalt_shingles_stonecutting": {
     "criteria": {
       "has_basalt_or_basalt_shingles": "2025-02-11 23:50:13 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_plate_slab_from_blackstone_or_blackstone_plates_stonecutting": {
+    "criteria": {
+      "has_blackstone_or_blackstone_plates": "2025-02-12 01:29:04 +0000"
+    },
+    "done": true
+  },
+  "charm:vanilla_wood_variants/recipes/chiseled_crimson_bookshelf": {
+    "criteria": {
+      "has_planks": "2025-02-12 01:29:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot_from_netherite_block": {
+    "criteria": {
+      "has_netherite_block": "2025-02-12 01:18:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-02-12 01:29:04 +0000"
     },
     "done": true
   },
@@ -9748,6 +9886,12 @@
   "stoneworks:recipes/building_blocks/mossy_basalt_brick_wall_from_basalt_or_mossy_basalt_bricks_stonecutting": {
     "criteria": {
       "has_basalt_or_mossy_basalt_bricks": "2025-02-11 23:50:13 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_blackstone_wall_from_blackstone_or_cobbled_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone_or_cobbled_blackstone": "2025-02-12 01:29:04 +0000"
     },
     "done": true
   },
@@ -9766,6 +9910,12 @@
   "betternether:recipes/decorations/quartz_glass_framed_pane_light_gray": {
     "criteria": {
       "has_quartz_glass_framed_pane": "2025-02-12 01:01:39 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_tile_stonecutter": {
+    "criteria": {
+      "has_blue_obsidian": "2025-02-12 01:21:42 +0000"
     },
     "done": true
   },
@@ -9793,6 +9943,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/blackstone_pavers_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-02-12 01:29:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2025-02-11 23:45:00 +0000"
@@ -9808,6 +9964,12 @@
   "betternether:recipes/decorations/quartz_glass_framed_pane_white": {
     "criteria": {
       "has_quartz_glass_framed_pane": "2025-02-12 01:01:39 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_dining_bench": {
+    "criteria": {
+      "has_crimson_dining_bench": "2025-02-12 01:29:09 +0000"
     },
     "done": true
   },
@@ -9829,6 +9991,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-02-12 01:24:35 +0000"
+    },
+    "done": true
+  },
   "charm:vanilla_wood_variants/recipes/dark_oak_chest": {
     "criteria": {
       "has_planks": "2025-02-11 23:53:54 +0000"
@@ -9844,6 +10012,12 @@
   "charm:kilns/recipes/cracked_deepslate_tiles": {
     "criteria": {
       "has_deepslate_tiles": "2025-02-12 00:09:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2025-02-12 01:29:09 +0000"
     },
     "done": true
   },
@@ -9889,9 +10063,33 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/cincinnasite_frame": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-12 01:21:49 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_tile_slab_from_blackstone_or_blackstone_tiles_stonecutting": {
+    "criteria": {
+      "has_blackstone_or_blackstone_tiles": "2025-02-12 01:29:04 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_shingle_wall_from_blackstone_or_blackstone_shingles_stonecutting": {
+    "criteria": {
+      "has_blackstone_or_blackstone_shingles": "2025-02-12 01:29:04 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/basalt_tiles_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-02-11 23:50:13 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_bricks_slab_stonecutter": {
+    "criteria": {
+      "has_blue_obsidian": "2025-02-12 01:21:42 +0000"
     },
     "done": true
   },
@@ -9901,9 +10099,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cobbled_blackstone_stairs_from_blackstone_or_cobbled_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone_or_cobbled_blackstone": "2025-02-12 01:29:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-02-11 23:37:36 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/food/stalagnate_bowl_wart": {
+    "criteria": {
+      "has_nether_wart": "2025-02-12 01:16:40 +0000"
     },
     "done": true
   },
@@ -9931,6 +10141,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/blackstone_shingles_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-02-12 01:29:04 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/redstone/nether_mushroom_plate": {
     "criteria": {
       "has_nether_mushroom_planks": "2025-02-12 01:02:27 +0000"
@@ -9949,9 +10165,27 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/crimson_table": {
+    "criteria": {
+      "has_crimson_table": "2025-02-12 01:29:09 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_basalt_slab_from_basalt_or_mossy_cobbled_basalt_stonecutting": {
     "criteria": {
       "has_basalt_or_mossy_cobbled_basalt": "2025-02-11 23:50:13 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_reed_barrel": {
+    "criteria": {
+      "has_nether_reed_slab": "2025-02-12 01:20:22 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_lantern_small": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-12 01:21:49 +0000"
     },
     "done": true
   },
@@ -9961,15 +10195,57 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/crimson_desk": {
+    "criteria": {
+      "has_crimson_desk": "2025-02-12 01:29:09 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/misc/nether_mushroom_wall": {
     "criteria": {
       "has_nether_mushroom_planks": "2025-02-12 01:02:27 +0000"
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/blue_obsidian_tile_small_stonecutter": {
+    "criteria": {
+      "has_blue_obsidian": "2025-02-12 01:21:42 +0000"
+    },
+    "done": true
+  },
+  "betternether:flaming_armor": {
+    "criteria": {
+      "flaming_ruby_leggings": "2025-02-12 01:17:41 +0000"
+    },
+    "done": false
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_bricks_stonecutter": {
+    "criteria": {
+      "has_blue_obsidian": "2025-02-12 01:21:42 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/crimson_crafting_table": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-12 01:29:09 +0000"
+    },
+    "done": true
+  },
   "mynethersdelight:recipes/misc/crafting/burnt_roll": {
     "criteria": {
       "has_magma_cream": "2025-02-11 23:38:45 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_chains": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-12 01:21:49 +0000"
+    },
+    "done": true
+  },
+  "variantcraftingtables:recipes/misc/crimson_crafting_table": {
+    "criteria": {
+      "has_planks": "2025-02-12 01:29:09 +0000"
     },
     "done": true
   },
@@ -9982,6 +10258,12 @@
   "handcrafted:recipes/misc/dark_oak_drawer": {
     "criteria": {
       "has_dark_oak_drawer": "2025-02-11 23:53:54 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-02-12 01:29:04 +0000"
     },
     "done": true
   },
@@ -10006,6 +10288,12 @@
   "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
     "criteria": {
       "has_deepslate_tiles": "2025-02-12 00:09:08 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_paver_slab_from_blackstone_or_blackstone_pavers_stonecutting": {
+    "criteria": {
+      "has_blackstone_or_blackstone_pavers": "2025-02-12 01:29:04 +0000"
     },
     "done": true
   },
@@ -10045,6 +10333,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/blackstone_tiles_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-02-12 01:29:04 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/quartz_glass_framed_pane_orange": {
     "criteria": {
       "has_quartz_glass_framed_pane": "2025-02-12 01:01:39 +0000"
@@ -10057,9 +10351,33 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/blackstone_plates_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-02-12 01:29:04 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-02-12 01:29:04 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/netherrack_wall": {
     "criteria": {
       "has_netherrack": "2025-02-11 23:45:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-02-12 01:24:35 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/nether_ruby_from_block": {
+    "criteria": {
+      "has_nether_ruby_block": "2025-02-12 01:24:33 +0000"
     },
     "done": true
   },
@@ -10081,15 +10399,33 @@
     },
     "done": true
   },
+  "betternether:recipes/combat/cincinnasite_boots": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-12 01:21:49 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_wall_from_netherrack_or_mossy_cobbled_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack_or_mossy_cobbled_netherrack": "2025-02-11 23:45:00 +0000"
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/blackstone_tile_stairs_from_blackstone_or_blackstone_tiles_stonecutting": {
+    "criteria": {
+      "has_blackstone_or_blackstone_tiles": "2025-02-12 01:29:04 +0000"
+    },
+    "done": true
+  },
   "mynethersdelight:recipes/cooking/cooking/strider_stew": {
     "criteria": {
       "has_any_ingredient": "2025-02-12 00:57:05 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_blackstone_brick_wall_from_blackstone_or_mossy_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_blackstone_or_mossy_blackstone_bricks": "2025-02-12 01:29:04 +0000"
     },
     "done": true
   },
@@ -10111,6 +10447,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-02-12 01:29:04 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_netherrack_stairs_from_netherrack_or_cobbled_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack_or_cobbled_netherrack": "2025-02-11 23:45:00 +0000"
@@ -10129,15 +10471,51 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/cincinnasite_lantern": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-12 01:21:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-02-12 01:29:04 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_ruby_block_nether_ruby_slab": {
+    "criteria": {
+      "has_nether_ruby_block": "2025-02-12 01:24:33 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/crimson_shelf": {
+    "criteria": {
+      "has_planks": "2025-02-12 01:29:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_slab": {
     "criteria": {
       "has_deepslate_tiles": "2025-02-12 00:09:08 +0000"
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_blackstone_stairs_from_blackstone_or_mossy_cobbled_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone_or_mossy_cobbled_blackstone": "2025-02-12 01:29:04 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/quartz_glass_framed_pane_pink": {
     "criteria": {
       "has_quartz_glass_framed_pane": "2025-02-12 01:01:39 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/crimson_chest": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-12 01:29:09 +0000"
     },
     "done": true
   },
@@ -10153,9 +10531,33 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/blue_obsidian_tile_slab_stonecutter": {
+    "criteria": {
+      "has_blue_obsidian": "2025-02-12 01:21:42 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_shears": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-12 01:21:49 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-02-11 23:50:13 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_pot": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-12 01:21:49 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_nightstand": {
+    "criteria": {
+      "has_crimson_nightstand": "2025-02-12 01:29:09 +0000"
     },
     "done": true
   },
@@ -10165,9 +10567,33 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/blackstone_tile_wall_from_blackstone_or_blackstone_tiles_stonecutting": {
+    "criteria": {
+      "has_blackstone_or_blackstone_tiles": "2025-02-12 01:29:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-02-12 01:29:04 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-02-11 23:45:00 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_glass_smelting": {
+    "criteria": {
+      "has_blue_obsidian": "2025-02-12 01:21:42 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/cincinnasite_button": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-12 01:21:49 +0000"
     },
     "done": true
   },
@@ -10189,6 +10615,42 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/blackstone_plate_stairs_from_blackstone_or_blackstone_plates_stonecutting": {
+    "criteria": {
+      "has_blackstone_or_blackstone_plates": "2025-02-12 01:29:04 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/combat/cincinnasite_chestplate": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-12 01:21:49 +0000"
+    },
+    "done": true
+  },
+  "adventurez:recipes/chiseled_polished_blackstone_holder_recipe": {
+    "criteria": {
+      "got_blackstone": "2025-02-12 01:29:04 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_blackstone_slab_from_blackstone_or_mossy_cobbled_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone_or_mossy_cobbled_blackstone": "2025-02-12 01:29:04 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_blackstone_tiles_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-02-12 01:29:04 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_ruby_slab_stonecutting": {
+    "criteria": {
+      "has_nether_ruby_block": "2025-02-12 01:24:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_helmet": "2025-02-12 00:51:10 +0000"
@@ -10201,15 +10663,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-02-12 01:29:08 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/quartz_glass_framed_pane_lime": {
     "criteria": {
       "has_quartz_glass_framed_pane": "2025-02-12 01:01:39 +0000"
     },
     "done": true
   },
+  "handcrafted:recipes/misc/crimson_couch": {
+    "criteria": {
+      "has_crimson_couch": "2025-02-12 01:29:09 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_pillar_trim": {
+    "criteria": {
+      "has_crimson_pillar_trim": "2025-02-12 01:29:09 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/basalt_brick_stairs_stonecutting": {
     "criteria": {
       "has_basalt": "2025-02-11 23:50:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_sign": {
+    "criteria": {
+      "has_planks": "2025-02-12 01:29:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-02-12 01:29:04 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/combat/cincinnasite_leggings": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-12 01:21:49 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/cincinnasite_forged_from_ingot": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-12 01:21:49 +0000"
     },
     "done": true
   },
@@ -10225,15 +10729,39 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/nether_reed_composter": {
+    "criteria": {
+      "has_nether_reed_slab": "2025-02-12 01:20:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2025-02-12 00:02:23 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-02-12 01:29:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2025-02-12 00:02:23 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blackstone_pillar_trim": {
+    "criteria": {
+      "has_blackstone_pillar_trim": "2025-02-12 01:29:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_door": {
+    "criteria": {
+      "has_planks": "2025-02-12 01:29:09 +0000"
     },
     "done": true
   },
@@ -10245,6 +10773,7 @@
   },
   "betternether:nether_wood": {
     "criteria": {
+      "got_crimson": "2025-02-12 01:29:08 +0000",
       "got_nether_mushroom": "2025-02-12 01:02:27 +0000"
     },
     "done": false
@@ -10252,6 +10781,12 @@
   "stoneworks:recipes/building_blocks/mossy_basalt_brick_slab_from_basalt_or_mossy_basalt_bricks_stonecutting": {
     "criteria": {
       "has_basalt_or_mossy_basalt_bricks": "2025-02-11 23:50:13 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_shovel": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-12 01:21:49 +0000"
     },
     "done": true
   },
@@ -10267,9 +10802,21 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/blackstone_furnace": {
+    "criteria": {
+      "has_blackstone": "2025-02-12 01:29:04 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/basalt_basalt_slab": {
     "criteria": {
       "has_basalt": "2025-02-11 23:50:13 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_fire_bowl_soul": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-12 01:21:49 +0000"
     },
     "done": true
   },
@@ -10285,9 +10832,21 @@
     },
     "done": true
   },
+  "betternether:recipes/tools/cincinnasite_pickaxe": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-12 01:21:49 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/basalt_brick_stairs_from_basalt_or_basalt_bricks_stonecutting": {
     "criteria": {
       "has_basalt_or_basalt_bricks": "2025-02-11 23:50:13 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/crimson_barrel": {
+    "criteria": {
+      "has_crimson_planks": "2025-02-12 01:29:09 +0000"
     },
     "done": true
   },
@@ -10303,9 +10862,33 @@
     },
     "done": true
   },
+  "betternether:recipes/combat/cincinnasite_helmet": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-12 01:21:49 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/polished_netherrack_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-02-11 23:45:00 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_plate_wall_from_blackstone_or_blackstone_plates_stonecutting": {
+    "criteria": {
+      "has_blackstone_or_blackstone_plates": "2025-02-12 01:29:04 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-02-12 01:29:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-02-12 01:29:04 +0000"
     },
     "done": true
   },
@@ -10315,15 +10898,33 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/quartz_glass_framed": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-12 01:21:49 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/dark_oak_cupboard": {
     "criteria": {
       "has_dark_oak_cupboard": "2025-02-11 23:53:54 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2025-02-12 01:29:04 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/quartz_glass_framed_pane_yellow": {
     "criteria": {
       "has_quartz_glass_framed_pane": "2025-02-12 01:01:39 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_tile_stairs_stonecutter": {
+    "criteria": {
+      "has_blue_obsidian": "2025-02-12 01:21:42 +0000"
     },
     "done": true
   },
@@ -10339,15 +10940,39 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/crimson_fancy_bed": {
+    "criteria": {
+      "has_crimson_fancy_bed": "2025-02-12 01:29:09 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_counter": {
+    "criteria": {
+      "has_crimson_counter": "2025-02-12 01:29:09 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/nether_mushroom_crafting_table": {
     "criteria": {
       "has_nether_mushroom_planks": "2025-02-12 01:02:27 +0000"
     },
     "done": true
   },
+  "handcrafted:recipes/misc/crimson_drawer": {
+    "criteria": {
+      "has_crimson_drawer": "2025-02-12 01:29:09 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/dark_oak_shelf": {
     "criteria": {
       "has_planks": "2025-02-11 23:53:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2025-02-12 01:29:09 +0000"
     },
     "done": true
   },
@@ -10369,6 +10994,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/blue_obsidian_tile": {
+    "criteria": {
+      "has_blue_obsidian": "2025-02-12 01:21:42 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/chiseled_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-02-11 23:50:13 +0000"
@@ -10378,6 +11009,12 @@
   "stoneworks:recipes/building_blocks/cobbled_basalt_slab_from_basalt_or_cobbled_basalt_stonecutting": {
     "criteria": {
       "has_basalt_or_cobbled_basalt": "2025-02-11 23:50:13 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/combat/cincinnasite_sword": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-12 01:21:49 +0000"
     },
     "done": true
   },
@@ -10405,9 +11042,27 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/blackstone_paver_wall_from_blackstone_or_blackstone_pavers_stonecutting": {
+    "criteria": {
+      "has_blackstone_or_blackstone_pavers": "2025-02-12 01:29:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magma_block": {
     "criteria": {
       "has_magma_cream": "2025-02-11 23:38:45 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/cincinnasite_axe": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-12 01:21:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2025-02-12 01:29:09 +0000"
     },
     "done": true
   },
@@ -10429,11 +11084,29 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-12 01:29:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-02-12 01:29:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-02-11 23:53:54 +0000"
     },
     "done": true
+  },
+  "betternether:flaming_tools": {
+    "criteria": {
+      "flaming_ruby_sword": "2025-02-12 01:18:12 +0000"
+    },
+    "done": false
   },
   "stoneworks:recipes/building_blocks/mossy_basalt_bricks_from_basalt_stonecutting": {
     "criteria": {
@@ -10447,9 +11120,27 @@
     },
     "done": true
   },
+  "betternether:recipes/brewing/nether_brewing_stand": {
+    "criteria": {
+      "has_cincinnasite_ingot": "2025-02-12 01:21:49 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blackstone_corner_trim": {
+    "criteria": {
+      "has_blackstone_corner_trim": "2025-02-12 01:29:04 +0000"
+    },
+    "done": true
+  },
   "mynethersdelight:recipes/cooking/cooking/burn_roll": {
     "criteria": {
       "has_any_ingredient": "2025-02-11 23:38:45 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_shelf": {
+    "criteria": {
+      "has_crimson_shelf": "2025-02-12 01:29:09 +0000"
     },
     "done": true
   },
@@ -10477,6 +11168,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-02-12 01:16:40 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_ruby_block_nether_ruby_stairs": {
+    "criteria": {
+      "has_nether_ruby_block": "2025-02-12 01:24:33 +0000"
+    },
+    "done": true
+  },
   "betternether:ruby_tools": {
     "criteria": {
       "nether_ruby_sword": "2025-02-12 01:00:47 +0000"
@@ -10495,15 +11198,63 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/blackstone_bulb": {
+    "criteria": {
+      "has_blackstone": "2025-02-12 01:29:04 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_rod_tiles_stonecutter": {
+    "criteria": {
+      "has_blue_obsidian": "2025-02-12 01:21:42 +0000"
+    },
+    "done": true
+  },
   "adorabuild_structures:nether_structures": {
     "criteria": {
       "example": "2025-02-11 23:37:36 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-02-12 01:16:40 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_shingle_slab_from_blackstone_or_blackstone_shingles_stonecutting": {
+    "criteria": {
+      "has_blackstone_or_blackstone_shingles": "2025-02-12 01:29:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-12 01:29:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-02-12 01:29:04 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cracked_basalt_bricks_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-02-11 23:50:13 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_paver_stairs_from_blackstone_or_blackstone_pavers_stonecutting": {
+    "criteria": {
+      "has_blackstone_or_blackstone_pavers": "2025-02-12 01:29:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-02-12 01:29:04 +0000"
     },
     "done": true
   },
@@ -10525,9 +11276,39 @@
     },
     "done": true
   },
+  "betternether:ruby_gear": {
+    "criteria": {
+      "nether_ruby_chestplate": "2025-02-12 01:17:50 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/decorations/blackstone_spines": {
+    "criteria": {
+      "has_blackstone": "2025-02-12 01:29:04 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_chair": {
+    "criteria": {
+      "has_crimson_chair": "2025-02-12 01:29:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
     "criteria": {
       "has_deepslate_tiles": "2025-02-12 00:09:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-02-12 01:29:04 +0000"
+    },
+    "done": true
+  },
+  "charm:vanilla_wood_variants/recipes/crimson_barrel": {
+    "criteria": {
+      "has_planks": "2025-02-12 01:29:09 +0000"
     },
     "done": true
   },
@@ -10561,15 +11342,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2025-02-12 01:29:04 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/basalt_plates_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-02-11 23:50:13 +0000"
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_blackstone_brick_slab_from_blackstone_or_mossy_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_blackstone_or_mossy_blackstone_bricks": "2025-02-12 01:29:04 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/misc/lapis_pile_to_lapis": {
     "criteria": {
       "has_lapis_pile": "2025-02-11 23:45:00 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/crimson_table": {
+    "criteria": {
+      "has_planks": "2025-02-12 01:29:09 +0000"
     },
     "done": true
   },
@@ -10582,6 +11381,12 @@
   "stoneworks:recipes/building_blocks/basalt_tile_wall_from_basalt_or_basalt_tiles_stonecutting": {
     "criteria": {
       "has_basalt_or_basalt_tiles": "2025-02-11 23:50:13 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_bench": {
+    "criteria": {
+      "has_crimson_bench": "2025-02-12 01:29:09 +0000"
     },
     "done": true
   },
@@ -10609,6 +11414,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-12 01:29:09 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/food/herbal_medicine": {
+    "criteria": {
+      "has_nether_wart": "2025-02-12 01:16:40 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/netherrack_bricks_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-02-11 23:45:00 +0000"
@@ -10624,6 +11441,12 @@
   "stoneworks:recipes/building_blocks/cobbled_netherrack_slab_from_netherrack_or_cobbled_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack_or_cobbled_netherrack": "2025-02-11 23:45:00 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_blackstone_slab_from_blackstone_or_cobbled_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone_or_cobbled_blackstone": "2025-02-12 01:29:04 +0000"
     },
     "done": true
   },
@@ -10666,6 +11489,12 @@
   "handcrafted:recipes/misc/dark_oak_pillar_trim": {
     "criteria": {
       "has_dark_oak_pillar_trim": "2025-02-11 23:53:54 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/blackstone_spines_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-02-12 01:29:04 +0000"
     },
     "done": true
   },

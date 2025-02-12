@@ -9538,6 +9538,12 @@
     },
     "done": true
   },
+  "betternether:recipes/redstone/bone_reed_door": {
+    "criteria": {
+      "has_nether_reed_planks": "2025-02-12 01:39:25 +0000"
+    },
+    "done": true
+  },
   "betternether:all_the_biomes": {
     "criteria": {
       "betternether:magma_land": "2025-02-11 23:37:37 +0000",
@@ -9571,6 +9577,12 @@
     },
     "done": false
   },
+  "betternether:recipes/tools/flaming_ruby_shovel": {
+    "criteria": {
+      "has_item.betternether.flaming_ruby_upgrade_smithing_template": "2025-02-12 01:32:11 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/dark_oak_side_table": {
     "criteria": {
       "has_dark_oak_side_table": "2025-02-11 23:53:54 +0000"
@@ -9601,6 +9613,12 @@
     },
     "done": true
   },
+  "betternether:recipes/tools/nether_ruby_hoe": {
+    "criteria": {
+      "has_nether_ruby": "2025-02-12 01:32:10 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/basalt_tile_slab_from_basalt_or_basalt_tiles_stonecutting": {
     "criteria": {
       "has_basalt_or_basalt_tiles": "2025-02-11 23:50:13 +0000"
@@ -9610,6 +9628,12 @@
   "stoneworks:recipes/building_blocks/cobbled_basalt_wall_from_basalt_or_cobbled_basalt_stonecutting": {
     "criteria": {
       "has_basalt_or_cobbled_basalt": "2025-02-11 23:50:13 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/stalagnate_boat": {
+    "criteria": {
+      "has_stalagnate_planks": "2025-02-12 01:47:11 +0000"
     },
     "done": true
   },
@@ -9631,9 +9655,21 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/stalagnate_slab": {
+    "criteria": {
+      "has_stalagnate_planks": "2025-02-12 01:47:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-12 01:29:04 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/cincinnasite_roof_tile_stonecutting": {
+    "criteria": {
+      "has_cincinnasite_forged": "2025-02-12 01:31:43 +0000"
     },
     "done": true
   },
@@ -9658,6 +9694,12 @@
   "handcrafted:recipes/misc/dark_oak_table": {
     "criteria": {
       "has_dark_oak_table": "2025-02-11 23:53:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-02-12 01:30:34 +0000"
     },
     "done": true
   },
@@ -9697,6 +9739,12 @@
     },
     "done": true
   },
+  "betternether:recipes/combat/nether_ruby_boots": {
+    "criteria": {
+      "has_nether_ruby": "2025-02-12 01:32:10 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/cincinnasite_bars": {
     "criteria": {
       "has_cincinnasite_ingot": "2025-02-12 01:21:49 +0000"
@@ -9733,9 +9781,21 @@
     },
     "done": true
   },
+  "betternether:recipes/tools/flaming_ruby_pickaxe": {
+    "criteria": {
+      "has_item.betternether.flaming_ruby_upgrade_smithing_template": "2025-02-12 01:32:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2025-02-12 00:02:23 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_wall": {
+    "criteria": {
+      "has_cincinnasite_forged": "2025-02-12 01:31:43 +0000"
     },
     "done": true
   },
@@ -9871,6 +9931,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/cincinnasite_forged_roof_tile_cincinnasite": {
+    "criteria": {
+      "has_cincinnasite_forged": "2025-02-12 01:31:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-12 01:29:04 +0000"
@@ -9904,6 +9970,12 @@
   "betternether:recipes/building_blocks/netherrack_netherrack_slab": {
     "criteria": {
       "has_netherrack": "2025-02-11 23:45:00 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/stalagnate_button": {
+    "criteria": {
+      "has_stalagnate_planks": "2025-02-12 01:47:11 +0000"
     },
     "done": true
   },
@@ -9949,6 +10021,12 @@
     },
     "done": true
   },
+  "betternether:recipes/tools/flaming_ruby_hoe": {
+    "criteria": {
+      "has_item.betternether.flaming_ruby_upgrade_smithing_template": "2025-02-12 01:32:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2025-02-11 23:45:00 +0000"
@@ -9976,6 +10054,12 @@
   "aether:recipes/combat/golden_helmet_repairing": {
     "criteria": {
       "has_golden_helmet": "2025-02-12 00:51:10 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/combat/flaming_ruby_chestplate": {
+    "criteria": {
+      "has_item.betternether.flaming_ruby_upgrade_smithing_template": "2025-02-12 01:32:11 +0000"
     },
     "done": true
   },
@@ -10021,6 +10105,12 @@
     },
     "done": true
   },
+  "betternether:ruby_ore": {
+    "criteria": {
+      "ruby_ore": "2025-02-12 01:32:10 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/polished_netherrack_slab_from_netherrack_or_polished_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack_or_polished_netherrack": "2025-02-11 23:45:00 +0000"
@@ -10063,9 +10153,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-02-12 01:30:35 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/cincinnasite_frame": {
     "criteria": {
       "has_cincinnasite_ingot": "2025-02-12 01:21:49 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/cincinnasite_forged_cincinnasite_stairs": {
+    "criteria": {
+      "has_cincinnasite_forged": "2025-02-12 01:31:43 +0000"
     },
     "done": true
   },
@@ -10093,6 +10195,12 @@
     },
     "done": true
   },
+  "betternether:recipes/redstone/cincinnasite_brick_plate": {
+    "criteria": {
+      "has_cincinnasite_forged": "2025-02-12 01:31:43 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_netherrack_brick_wall_from_netherrack_or_mossy_netherrack_bricks_stonecutting": {
     "criteria": {
       "has_netherrack_or_mossy_netherrack_bricks": "2025-02-11 23:45:00 +0000"
@@ -10114,6 +10222,12 @@
   "betternether:recipes/food/stalagnate_bowl_wart": {
     "criteria": {
       "has_nether_wart": "2025-02-12 01:16:40 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_forge": {
+    "criteria": {
+      "has_cincinnasite_forged": "2025-02-12 01:31:43 +0000"
     },
     "done": true
   },
@@ -10144,6 +10258,18 @@
   "stoneworks:recipes/building_blocks/blackstone_shingles_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-12 01:29:04 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/nether_ruby_shovel": {
+    "criteria": {
+      "has_nether_ruby": "2025-02-12 01:32:10 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/nether_reed_button": {
+    "criteria": {
+      "has_nether_reed_planks": "2025-02-12 01:39:25 +0000"
     },
     "done": true
   },
@@ -10192,6 +10318,12 @@
   "handcrafted:recipes/misc/dark_oak_bench": {
     "criteria": {
       "has_dark_oak_bench": "2025-02-11 23:53:54 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/nether_reed_door": {
+    "criteria": {
+      "has_nether_reed_planks": "2025-02-12 01:39:25 +0000"
     },
     "done": true
   },
@@ -10267,9 +10399,21 @@
     },
     "done": true
   },
+  "betternether:recipes/combat/nether_ruby_chestplate": {
+    "criteria": {
+      "has_nether_ruby": "2025-02-12 01:32:10 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/basalt_paver_slab_from_basalt_or_basalt_pavers_stonecutting": {
     "criteria": {
       "has_basalt_or_basalt_pavers": "2025-02-11 23:50:13 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/combat/nether_ruby_helmet": {
+    "criteria": {
+      "has_nether_ruby": "2025-02-12 01:32:10 +0000"
     },
     "done": true
   },
@@ -10297,6 +10441,12 @@
     },
     "done": true
   },
+  "betternether:recipes/misc/cincinnasite_ingot": {
+    "criteria": {
+      "has_cincinnasite_forged": "2025-02-12 01:31:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2025-02-12 00:02:23 +0000"
@@ -10306,6 +10456,12 @@
   "stoneworks:recipes/building_blocks/netherrack_brick_stairs_from_netherrack_or_netherrack_bricks_stonecutting": {
     "criteria": {
       "has_netherrack_or_netherrack_bricks": "2025-02-11 23:45:00 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/stalagnate_stairs": {
+    "criteria": {
+      "has_stalagnate_planks": "2025-02-12 01:47:11 +0000"
     },
     "done": true
   },
@@ -10345,6 +10501,12 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/stalagnate_crafting_table": {
+    "criteria": {
+      "has_stalagnate_planks": "2025-02-12 01:47:11 +0000"
+    },
+    "done": true
+  },
   "charm:kilns/recipes/smooth_basalt": {
     "criteria": {
       "has_basalt": "2025-02-11 23:50:13 +0000"
@@ -10372,6 +10534,12 @@
   "minecraft:recipes/decorations/respawn_anchor": {
     "criteria": {
       "has_obsidian": "2025-02-12 01:24:35 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/cincinnasite_stairs_stonecutting": {
+    "criteria": {
+      "has_cincinnasite_forged": "2025-02-12 01:31:43 +0000"
     },
     "done": true
   },
@@ -10405,6 +10573,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/cincinnasite_wall_stonecutting": {
+    "criteria": {
+      "has_cincinnasite_forged": "2025-02-12 01:31:43 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_wall_from_netherrack_or_mossy_cobbled_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack_or_mossy_cobbled_netherrack": "2025-02-11 23:45:00 +0000"
@@ -10420,6 +10594,12 @@
   "mynethersdelight:recipes/cooking/cooking/strider_stew": {
     "criteria": {
       "has_any_ingredient": "2025-02-12 00:57:05 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/cincinnasite_tile_small_stonecutting": {
+    "criteria": {
+      "has_cincinnasite_forged": "2025-02-12 01:31:43 +0000"
     },
     "done": true
   },
@@ -10453,6 +10633,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/cincinnasite_forged_cincinnasite_slab": {
+    "criteria": {
+      "has_cincinnasite_forged": "2025-02-12 01:31:43 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_netherrack_stairs_from_netherrack_or_cobbled_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack_or_cobbled_netherrack": "2025-02-11 23:45:00 +0000"
@@ -10474,6 +10660,12 @@
   "betternether:recipes/decorations/cincinnasite_lantern": {
     "criteria": {
       "has_cincinnasite_ingot": "2025-02-12 01:21:49 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/stalagnate_plate": {
+    "criteria": {
+      "has_stalagnate_planks": "2025-02-12 01:47:11 +0000"
     },
     "done": true
   },
@@ -10519,9 +10711,21 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/cincinnasite_carved": {
+    "criteria": {
+      "has_cincinnasite_forged": "2025-02-12 01:31:43 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/basalt_plate_wall_from_basalt_or_basalt_plates_stonecutting": {
     "criteria": {
       "has_basalt_or_basalt_plates": "2025-02-11 23:50:13 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/nether_reed_crafting_table": {
+    "criteria": {
+      "has_nether_reed_planks": "2025-02-12 01:39:25 +0000"
     },
     "done": true
   },
@@ -10543,6 +10747,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/nether_reed_slab": {
+    "criteria": {
+      "has_nether_reed_planks": "2025-02-12 01:39:25 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-02-11 23:50:13 +0000"
@@ -10552,6 +10762,12 @@
   "betternether:recipes/decorations/cincinnasite_pot": {
     "criteria": {
       "has_cincinnasite_ingot": "2025-02-12 01:21:49 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/stalagnate_door": {
+    "criteria": {
+      "has_stalagnate_planks": "2025-02-12 01:47:11 +0000"
     },
     "done": true
   },
@@ -10591,6 +10807,12 @@
     },
     "done": true
   },
+  "betternether:recipes/redstone/nether_reed_trapdoor": {
+    "criteria": {
+      "has_nether_reed_planks": "2025-02-12 01:39:25 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/redstone/cincinnasite_button": {
     "criteria": {
       "has_cincinnasite_ingot": "2025-02-12 01:21:49 +0000"
@@ -10615,6 +10837,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/cincinnasite_carved_stonecutting": {
+    "criteria": {
+      "has_cincinnasite_forged": "2025-02-12 01:31:43 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/blackstone_plate_stairs_from_blackstone_or_blackstone_plates_stonecutting": {
     "criteria": {
       "has_blackstone_or_blackstone_plates": "2025-02-12 01:29:04 +0000"
@@ -10636,6 +10864,12 @@
   "stoneworks:recipes/building_blocks/mossy_cobbled_blackstone_slab_from_blackstone_or_mossy_cobbled_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone_or_mossy_cobbled_blackstone": "2025-02-12 01:29:04 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_pillar": {
+    "criteria": {
+      "has_cincinnasite_forged": "2025-02-12 01:31:43 +0000"
     },
     "done": true
   },
@@ -10687,6 +10921,12 @@
     },
     "done": true
   },
+  "betternether:flaming_ruby": {
+    "criteria": {
+      "flaming_ruby": "2025-02-12 01:32:11 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/basalt_brick_stairs_stonecutting": {
     "criteria": {
       "has_basalt": "2025-02-11 23:50:13 +0000"
@@ -10729,6 +10969,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/cincinnasite_tile_large_stonecutting": {
+    "criteria": {
+      "has_cincinnasite_forged": "2025-02-12 01:31:43 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/nether_reed_composter": {
     "criteria": {
       "has_nether_reed_slab": "2025-02-12 01:20:22 +0000"
@@ -10765,6 +11011,18 @@
     },
     "done": true
   },
+  "betternether:recipes/tools/flaming_ruby_axe": {
+    "criteria": {
+      "has_item.betternether.flaming_ruby_upgrade_smithing_template": "2025-02-12 01:32:11 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/combat/nether_ruby_leggings": {
+    "criteria": {
+      "has_nether_ruby": "2025-02-12 01:32:10 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/dark_oak_nightstand": {
     "criteria": {
       "has_dark_oak_nightstand": "2025-02-11 23:53:54 +0000"
@@ -10773,7 +11031,9 @@
   },
   "betternether:nether_wood": {
     "criteria": {
+      "got_nether_reed": "2025-02-12 01:39:25 +0000",
       "got_crimson": "2025-02-12 01:29:08 +0000",
+      "got_stalagnate": "2025-02-12 01:47:11 +0000",
       "got_nether_mushroom": "2025-02-12 01:02:27 +0000"
     },
     "done": false
@@ -10826,6 +11086,12 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/cincinnasite_pedestal": {
+    "criteria": {
+      "has_cincinnasite_forged": "2025-02-12 01:31:43 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/redstone/nether_mushroom_button": {
     "criteria": {
       "has_nether_mushroom_planks": "2025-02-12 01:02:27 +0000"
@@ -10835,6 +11101,12 @@
   "betternether:recipes/tools/cincinnasite_pickaxe": {
     "criteria": {
       "has_cincinnasite_ingot": "2025-02-12 01:21:49 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/stalagnate_wall": {
+    "criteria": {
+      "has_stalagnate_planks": "2025-02-12 01:47:11 +0000"
     },
     "done": true
   },
@@ -10880,6 +11152,18 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/nether_reed_chest": {
+    "criteria": {
+      "has_nether_reed_planks": "2025-02-12 01:39:25 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/cincinnasite_tile_large": {
+    "criteria": {
+      "has_cincinnasite_slab": "2025-02-12 01:39:23 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-12 01:29:04 +0000"
@@ -10892,9 +11176,33 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/cincinnasite_bricks": {
+    "criteria": {
+      "has_cincinnasite_forged": "2025-02-12 01:31:43 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/nether_reed_plate": {
+    "criteria": {
+      "has_nether_reed_planks": "2025-02-12 01:39:25 +0000"
+    },
+    "done": true
+  },
   "betternether:enter_nether": {
     "criteria": {
       "entered_nether": "2025-02-11 23:37:36 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/stalagnate_trapdoor": {
+    "criteria": {
+      "has_stalagnate_planks": "2025-02-12 01:47:11 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/chest_of_drawers": {
+    "criteria": {
+      "has_cincinnasite_forged": "2025-02-12 01:31:43 +0000"
     },
     "done": true
   },
@@ -10976,9 +11284,21 @@
     },
     "done": true
   },
+  "betternether:recipes/tools/nether_ruby_axe": {
+    "criteria": {
+      "has_nether_ruby": "2025-02-12 01:32:10 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/nether_mushroom_chest": {
     "criteria": {
       "has_nether_mushroom_planks": "2025-02-12 01:02:27 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/brimstone_nectar": {
+    "criteria": {
+      "has_netherite_scrap": "2025-02-12 01:30:34 +0000"
     },
     "done": true
   },
@@ -10994,9 +11314,27 @@
     },
     "done": true
   },
+  "netherchested:recipes/decorations/nether_chest": {
+    "criteria": {
+      "has_netherite_scrap": "2025-02-12 01:30:34 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/tools/nether_ruby_pickaxe": {
+    "criteria": {
+      "has_nether_ruby": "2025-02-12 01:32:10 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/blue_obsidian_tile": {
     "criteria": {
       "has_blue_obsidian": "2025-02-12 01:21:42 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/combat/flaming_ruby_boots": {
+    "criteria": {
+      "has_item.betternether.flaming_ruby_upgrade_smithing_template": "2025-02-12 01:32:11 +0000"
     },
     "done": true
   },
@@ -11024,6 +11362,24 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/cincinnasite_pillar_stonecutting": {
+    "criteria": {
+      "has_cincinnasite_forged": "2025-02-12 01:31:43 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/stalagnate_roof": {
+    "criteria": {
+      "has_stalagnate_planks": "2025-02-12 01:47:11 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/nether_reed_wall": {
+    "criteria": {
+      "has_nether_reed_planks": "2025-02-12 01:39:25 +0000"
+    },
+    "done": true
+  },
   "betternether:city": {
     "criteria": {
       "ncity": "2025-02-12 00:54:54 +0000"
@@ -11036,6 +11392,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/nether_reed_stairs": {
+    "criteria": {
+      "has_nether_reed_planks": "2025-02-12 01:39:25 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/bricks_fire_bowl": {
     "criteria": {
       "has_netherrack": "2025-02-11 23:45:00 +0000"
@@ -11045,6 +11407,12 @@
   "stoneworks:recipes/building_blocks/blackstone_paver_wall_from_blackstone_or_blackstone_pavers_stonecutting": {
     "criteria": {
       "has_blackstone_or_blackstone_pavers": "2025-02-12 01:29:04 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/cincinnasite_forged_cincinnasite_plate": {
+    "criteria": {
+      "has_cincinnasite_forged": "2025-02-12 01:31:43 +0000"
     },
     "done": true
   },
@@ -11120,6 +11488,12 @@
     },
     "done": true
   },
+  "betternether:recipes/transportation/nether_reed_boat": {
+    "criteria": {
+      "has_nether_reed_planks": "2025-02-12 01:39:25 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/brewing/nether_brewing_stand": {
     "criteria": {
       "has_cincinnasite_ingot": "2025-02-12 01:21:49 +0000"
@@ -11129,6 +11503,12 @@
   "handcrafted:recipes/misc/blackstone_corner_trim": {
     "criteria": {
       "has_blackstone_corner_trim": "2025-02-12 01:29:04 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/combat/flaming_ruby_sword": {
+    "criteria": {
+      "has_item.betternether.flaming_ruby_upgrade_smithing_template": "2025-02-12 01:32:11 +0000"
     },
     "done": true
   },
@@ -11186,6 +11566,12 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/stalagnate_chest": {
+    "criteria": {
+      "has_stalagnate_planks": "2025-02-12 01:47:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/tnt_minecart": {
     "criteria": {
       "has_minecart": "2025-02-11 23:57:29 +0000"
@@ -11210,6 +11596,12 @@
     },
     "done": true
   },
+  "betternether:recipes/redstone/bone_cin_door": {
+    "criteria": {
+      "has_cincinnasite_forged": "2025-02-12 01:31:43 +0000"
+    },
+    "done": true
+  },
   "adorabuild_structures:nether_structures": {
     "criteria": {
       "example": "2025-02-11 23:37:36 +0000"
@@ -11219,6 +11611,12 @@
   "minecraft:recipes/building_blocks/red_nether_bricks": {
     "criteria": {
       "has_nether_wart": "2025-02-12 01:16:40 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_anvil": {
+    "criteria": {
+      "has_cincinnasite_forged": "2025-02-12 01:31:43 +0000"
     },
     "done": true
   },
@@ -11237,6 +11635,12 @@
   "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-12 01:29:04 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_reed_roof": {
+    "criteria": {
+      "has_nether_reed_planks": "2025-02-12 01:39:25 +0000"
     },
     "done": true
   },
@@ -11281,6 +11685,12 @@
       "nether_ruby_chestplate": "2025-02-12 01:17:50 +0000"
     },
     "done": false
+  },
+  "betternether:recipes/combat/flaming_ruby_leggings": {
+    "criteria": {
+      "has_item.betternether.flaming_ruby_upgrade_smithing_template": "2025-02-12 01:32:11 +0000"
+    },
+    "done": true
   },
   "biomesoplenty:recipes/decorations/blackstone_spines": {
     "criteria": {
@@ -11348,6 +11758,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/nether_ruby_block": {
+    "criteria": {
+      "has_nether_ruby": "2025-02-12 01:32:10 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/basalt_plates_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-02-11 23:50:13 +0000"
@@ -11357,6 +11773,24 @@
   "stoneworks:recipes/building_blocks/mossy_blackstone_brick_slab_from_blackstone_or_mossy_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_blackstone_or_mossy_blackstone_bricks": "2025-02-12 01:29:04 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/stalagnate_barrel": {
+    "criteria": {
+      "has_stalagnate_planks": "2025-02-12 01:47:11 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/cincinnasite_slab_stonecutting": {
+    "criteria": {
+      "has_cincinnasite_forged": "2025-02-12 01:31:43 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/combat/nether_ruby_sword": {
+    "criteria": {
+      "has_nether_ruby": "2025-02-12 01:32:10 +0000"
     },
     "done": true
   },
@@ -11447,6 +11881,12 @@
   "stoneworks:recipes/building_blocks/cobbled_blackstone_slab_from_blackstone_or_cobbled_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone_or_cobbled_blackstone": "2025-02-12 01:29:04 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/combat/flaming_ruby_helmet": {
+    "criteria": {
+      "has_item.betternether.flaming_ruby_upgrade_smithing_template": "2025-02-12 01:32:11 +0000"
     },
     "done": true
   },

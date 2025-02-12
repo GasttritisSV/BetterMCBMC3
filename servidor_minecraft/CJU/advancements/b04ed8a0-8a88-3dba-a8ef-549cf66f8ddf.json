@@ -2896,6 +2896,7 @@
       "tundra": "2025-01-31 23:03:10 +0000",
       "gravel_beach": "2025-02-04 18:10:44 +0000",
       "orchard": "2025-01-22 07:36:27 +0000",
+      "undergrowth": "2025-02-12 01:44:25 +0000",
       "overgrown_greens": "2025-01-22 07:35:56 +0000",
       "seasonal_forest": "2025-01-22 07:43:41 +0000",
       "highland": "2025-01-31 23:10:12 +0000",
@@ -11849,6 +11850,7 @@
   },
   "betternether:ruby_gear": {
     "criteria": {
+      "nether_ruby_boots": "2025-02-12 01:32:13 +0000",
       "nether_ruby_chestplate": "2025-02-12 01:17:38 +0000"
     },
     "done": false
@@ -12138,6 +12140,426 @@
   "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
       "has_wither_skeleton_skull": "2025-02-12 01:25:45 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_blackstone_brick_stairs_from_blackstone_or_mossy_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_blackstone_or_mossy_blackstone_bricks": "2025-02-12 01:43:03 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_shingle_stairs_from_blackstone_or_blackstone_shingles_stonecutting": {
+    "criteria": {
+      "has_blackstone_or_blackstone_shingles": "2025-02-12 01:43:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2025-02-12 01:43:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-02-12 01:43:03 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_bricks_stairs_stonecutter": {
+    "criteria": {
+      "has_blue_obsidian": "2025-02-12 01:29:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2025-02-12 01:43:03 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_blackstone_wall_from_blackstone_or_mossy_cobbled_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone_or_mossy_cobbled_blackstone": "2025-02-12 01:43:03 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_ruby_stairs_stonecutting": {
+    "criteria": {
+      "has_nether_ruby_block": "2025-02-12 01:29:35 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_pillar_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-02-12 01:43:03 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_plate_slab_from_blackstone_or_blackstone_plates_stonecutting": {
+    "criteria": {
+      "has_blackstone_or_blackstone_plates": "2025-02-12 01:43:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-02-12 01:43:03 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_blackstone_wall_from_blackstone_or_cobbled_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone_or_cobbled_blackstone": "2025-02-12 01:43:03 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_tile_stonecutter": {
+    "criteria": {
+      "has_blue_obsidian": "2025-02-12 01:29:32 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_pavers_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-02-12 01:43:03 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_tile_slab_from_blackstone_or_blackstone_tiles_stonecutting": {
+    "criteria": {
+      "has_blackstone_or_blackstone_tiles": "2025-02-12 01:43:03 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_shingle_wall_from_blackstone_or_blackstone_shingles_stonecutting": {
+    "criteria": {
+      "has_blackstone_or_blackstone_shingles": "2025-02-12 01:43:03 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_bricks_slab_stonecutter": {
+    "criteria": {
+      "has_blue_obsidian": "2025-02-12 01:29:32 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_blackstone_stairs_from_blackstone_or_cobbled_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone_or_cobbled_blackstone": "2025-02-12 01:43:03 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_shingles_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-02-12 01:43:03 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_tile_small_stonecutter": {
+    "criteria": {
+      "has_blue_obsidian": "2025-02-12 01:29:32 +0000"
+    },
+    "done": true
+  },
+  "betternether:flaming_armor": {
+    "criteria": {
+      "flaming_ruby_leggings": "2025-02-12 01:32:14 +0000"
+    },
+    "done": false
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_bricks_stonecutter": {
+    "criteria": {
+      "has_blue_obsidian": "2025-02-12 01:29:32 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-02-12 01:43:03 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_paver_slab_from_blackstone_or_blackstone_pavers_stonecutting": {
+    "criteria": {
+      "has_blackstone_or_blackstone_pavers": "2025-02-12 01:43:03 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_tiles_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-02-12 01:43:03 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_plates_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-02-12 01:43:03 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-02-12 01:43:03 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:pyramids": {
+    "criteria": {
+      "in_pyramid_nether": "2025-02-12 01:44:58 +0000"
+    },
+    "done": false
+  },
+  "betternether:recipes/misc/nether_ruby_from_block": {
+    "criteria": {
+      "has_nether_ruby_block": "2025-02-12 01:29:35 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_tile_stairs_from_blackstone_or_blackstone_tiles_stonecutting": {
+    "criteria": {
+      "has_blackstone_or_blackstone_tiles": "2025-02-12 01:43:03 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_blackstone_brick_wall_from_blackstone_or_mossy_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_blackstone_or_mossy_blackstone_bricks": "2025-02-12 01:43:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-02-12 01:43:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-02-12 01:43:03 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_ruby_block_nether_ruby_slab": {
+    "criteria": {
+      "has_nether_ruby_block": "2025-02-12 01:29:35 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_blackstone_stairs_from_blackstone_or_mossy_cobbled_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone_or_mossy_cobbled_blackstone": "2025-02-12 01:43:03 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_tile_slab_stonecutter": {
+    "criteria": {
+      "has_blue_obsidian": "2025-02-12 01:29:32 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_tile_wall_from_blackstone_or_blackstone_tiles_stonecutting": {
+    "criteria": {
+      "has_blackstone_or_blackstone_tiles": "2025-02-12 01:43:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-02-12 01:43:03 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_glass_smelting": {
+    "criteria": {
+      "has_blue_obsidian": "2025-02-12 01:29:32 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_plate_stairs_from_blackstone_or_blackstone_plates_stonecutting": {
+    "criteria": {
+      "has_blackstone_or_blackstone_plates": "2025-02-12 01:43:03 +0000"
+    },
+    "done": true
+  },
+  "adventurez:recipes/chiseled_polished_blackstone_holder_recipe": {
+    "criteria": {
+      "got_blackstone": "2025-02-12 01:43:03 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_blackstone_slab_from_blackstone_or_mossy_cobbled_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone_or_mossy_cobbled_blackstone": "2025-02-12 01:43:03 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_blackstone_tiles_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-02-12 01:43:03 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_ruby_slab_stonecutting": {
+    "criteria": {
+      "has_nether_ruby_block": "2025-02-12 01:29:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-02-12 01:43:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-02-12 01:43:03 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blackstone_pillar_trim": {
+    "criteria": {
+      "has_blackstone_pillar_trim": "2025-02-12 01:43:03 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/blackstone_furnace": {
+    "criteria": {
+      "has_blackstone": "2025-02-12 01:43:03 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_plate_wall_from_blackstone_or_blackstone_plates_stonecutting": {
+    "criteria": {
+      "has_blackstone_or_blackstone_plates": "2025-02-12 01:43:03 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-02-12 01:43:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-02-12 01:43:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2025-02-12 01:43:03 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_tile_stairs_stonecutter": {
+    "criteria": {
+      "has_blue_obsidian": "2025-02-12 01:29:32 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_tile": {
+    "criteria": {
+      "has_blue_obsidian": "2025-02-12 01:29:32 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_paver_wall_from_blackstone_or_blackstone_pavers_stonecutting": {
+    "criteria": {
+      "has_blackstone_or_blackstone_pavers": "2025-02-12 01:43:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-02-12 01:43:03 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blackstone_corner_trim": {
+    "criteria": {
+      "has_blackstone_corner_trim": "2025-02-12 01:43:03 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_ruby_block_nether_ruby_stairs": {
+    "criteria": {
+      "has_nether_ruby_block": "2025-02-12 01:29:35 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/blackstone_bulb": {
+    "criteria": {
+      "has_blackstone": "2025-02-12 01:43:03 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_rod_tiles_stonecutter": {
+    "criteria": {
+      "has_blue_obsidian": "2025-02-12 01:29:32 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_shingle_slab_from_blackstone_or_blackstone_shingles_stonecutting": {
+    "criteria": {
+      "has_blackstone_or_blackstone_shingles": "2025-02-12 01:43:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-02-12 01:43:03 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/blackstone_paver_stairs_from_blackstone_or_blackstone_pavers_stonecutting": {
+    "criteria": {
+      "has_blackstone_or_blackstone_pavers": "2025-02-12 01:43:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-02-12 01:43:03 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/blackstone_spines": {
+    "criteria": {
+      "has_blackstone": "2025-02-12 01:43:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-02-12 01:43:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2025-02-12 01:43:03 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_blackstone_brick_slab_from_blackstone_or_mossy_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_blackstone_or_mossy_blackstone_bricks": "2025-02-12 01:43:03 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_blackstone_slab_from_blackstone_or_cobbled_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone_or_cobbled_blackstone": "2025-02-12 01:43:03 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/blackstone_spines_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-02-12 01:43:03 +0000"
     },
     "done": true
   },

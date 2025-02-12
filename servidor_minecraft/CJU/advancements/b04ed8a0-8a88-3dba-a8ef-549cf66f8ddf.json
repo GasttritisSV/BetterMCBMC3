@@ -12605,6 +12605,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/cold_parachute": {
+    "criteria": {
+      "has_cold_aercloud": "2025-02-12 02:20:39 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/iron_sword_repairing": {
     "criteria": {
       "has_iron_sword": "2025-02-12 02:10:03 +0000"
@@ -12641,6 +12647,12 @@
     },
     "done": true
   },
+  "aether:recipes/redstone/swet_sticky_piston": {
+    "criteria": {
+      "has_swet_balls": "2025-02-12 02:21:37 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/holystone_bricks_from_holystone_stonecutting": {
     "criteria": {
       "has_holystone": "2025-02-12 02:19:20 +0000"
@@ -12650,6 +12662,12 @@
   "aether:enter_aether": {
     "criteria": {
       "enter_aether": "2025-02-12 02:14:08 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/food/enchanted_berry_enchanting": {
+    "criteria": {
+      "has_blue_berry": "2025-02-12 02:20:59 +0000"
     },
     "done": true
   },
@@ -12683,6 +12701,18 @@
     },
     "done": true
   },
+  "aether:recipes/building_blocks/blue_aercloud_freezing": {
+    "criteria": {
+      "has_cold_aercloud": "2025-02-12 02:20:39 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/swet_lead": {
+    "criteria": {
+      "has_swet_balls": "2025-02-12 02:21:37 +0000"
+    },
+    "done": true
+  },
   "aether:the_aether": {
     "criteria": {
       "the_aether": "2025-02-12 02:14:08 +0000"
@@ -12704,6 +12734,12 @@
   "aether:recipes/building_blocks/holystone_stairs_from_holystone_stonecutting": {
     "criteria": {
       "has_holystone": "2025-02-12 02:19:20 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/swet_slime_block": {
+    "criteria": {
+      "has_swet_balls": "2025-02-12 02:21:37 +0000"
     },
     "done": true
   },
@@ -12770,6 +12806,12 @@
   "aether:recipes/building_blocks/holystone_slab_from_holystone_stonecutting": {
     "criteria": {
       "has_holystone": "2025-02-12 02:19:20 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/golden_aercloud_enchanting": {
+    "criteria": {
+      "has_cold_aercloud": "2025-02-12 02:20:39 +0000"
     },
     "done": true
   },

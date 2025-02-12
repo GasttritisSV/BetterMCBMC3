@@ -299,3 +299,20 @@ java.lang.IllegalArgumentException: Cannot get property BooleanProperty{name=ope
 [02:16:14] [Server thread/INFO]: gordobe has made the advancement [Baby Food]
 [02:18:10] [Server thread/INFO]: Gasttritis has made the advancement [The More You Know!]
 [02:19:51] [Server thread/INFO]: gordobe has made the advancement [The More You Know!]
+[02:23:50] [Server thread/INFO]: Gasttritis fell from a high place
+[02:24:34] [Server thread/INFO]: gordobe lost connection: Disconnected
+[02:24:34] [Server thread/INFO]: gordobe left the game
+[02:24:34] [Server thread/INFO]: Updating all forceload tickets for ebff9193-2864-3218-bb3f-affcdc04ff97
+[02:25:02] [Server thread/INFO]: gordobe[/100.104.203.61:60259] logged in with entity id 67920 at (-226.29298782939918, 116.0, 538.1413848636215)
+[02:25:02] [Server thread/INFO]: Sending server config values to client
+[02:25:02] [Server thread/INFO]: gordobe joined the game
+[02:25:02] [Server thread/INFO]: Updating all forceload tickets for ebff9193-2864-3218-bb3f-affcdc04ff97
+[02:25:03] [Server thread/INFO]: Channel update: gordobe -> default
+[02:25:03] [Server thread/INFO]: Priority overwritten for player gordobe. Claiming: GRAVE / Robbing: INVENTORY
+[02:25:03] [Server thread/INFO]: Receiving client config
+[02:25:09] [Server thread/INFO]: gordobe was blown up by Creeper
+[02:25:38] [Server thread/INFO]: gordobe claimed a grave belonging to gordobe at -227, 115, 537, minecraft:overworld
+[02:25:43] [Server thread/INFO]: Gasttritis claimed a grave belonging to Gasttritis at -220, 121, 574, minecraft:overworld
+[02:26:35] [Server thread/INFO]: Gasttritis lost connection: Disconnected
+[02:26:35] [Server thread/INFO]: Gasttritis left the game
+[02:26:35] [Server thread/INFO]: Updating all forceload tickets for b04ed8a0-8a88-3dba-a8ef-549cf66f8ddf

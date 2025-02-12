@@ -9955,6 +9955,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-02-12 02:19:00 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_basalt_brick_wall_from_basalt_or_mossy_basalt_bricks_stonecutting": {
     "criteria": {
       "has_basalt_or_mossy_basalt_bricks": "2025-02-11 23:50:13 +0000"
@@ -10579,6 +10585,12 @@
     },
     "done": true
   },
+  "aether:enter_aether": {
+    "criteria": {
+      "enter_aether": "2025-02-12 02:14:08 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/combat/cincinnasite_boots": {
     "criteria": {
       "has_cincinnasite_ingot": "2025-02-12 01:21:49 +0000"
@@ -11128,6 +11140,12 @@
     },
     "done": true
   },
+  "aether:the_aether": {
+    "criteria": {
+      "the_aether": "2025-02-12 02:14:08 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/tools/cincinnasite_pickaxe": {
     "criteria": {
       "has_cincinnasite_ingot": "2025-02-12 01:21:49 +0000"
@@ -11335,6 +11353,12 @@
   "mynethersdelight:recipes/misc/crafting/magma_cake": {
     "criteria": {
       "has_magma_cream": "2025-02-11 23:38:45 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/poison_dart_shooter": {
+    "criteria": {
+      "has_aechor_petal": "2025-02-12 02:16:14 +0000"
     },
     "done": true
   },
@@ -11596,6 +11620,12 @@
     },
     "done": true
   },
+  "aether:obtain_petal": {
+    "criteria": {
+      "aechor_petal": "2025-02-12 02:16:14 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/nether_ruby_block_nether_ruby_stairs": {
     "criteria": {
       "has_nether_ruby_block": "2025-02-12 01:24:33 +0000"
@@ -11617,6 +11647,12 @@
   "minecraft:recipes/transportation/tnt_minecart": {
     "criteria": {
       "has_minecart": "2025-02-11 23:57:29 +0000"
+    },
+    "done": true
+  },
+  "charm:smooth_glowstone/recipes/smooth_glowstone": {
+    "criteria": {
+      "has_glowstone": "2025-02-12 02:19:00 +0000"
     },
     "done": true
   },
@@ -11881,6 +11917,12 @@
   "stoneworks:recipes/building_blocks/mossy_netherrack_brick_slab_from_netherrack_or_mossy_netherrack_bricks_stonecutting": {
     "criteria": {
       "has_netherrack_or_mossy_netherrack_bricks": "2025-02-11 23:45:00 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/enchanted_gravitite_enchanting": {
+    "criteria": {
+      "has_gravitite_ore": "2025-02-12 02:18:22 +0000"
     },
     "done": true
   },

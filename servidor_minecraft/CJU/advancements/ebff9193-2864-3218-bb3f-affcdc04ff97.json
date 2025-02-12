@@ -9913,6 +9913,12 @@
     },
     "done": true
   },
+  "betternether:recipes/misc/stalagnate_bowl_apple": {
+    "criteria": {
+      "has_black_apple": "2025-02-12 01:58:25 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/blackstone_plate_slab_from_blackstone_or_blackstone_plates_stonecutting": {
     "criteria": {
       "has_blackstone_or_blackstone_plates": "2025-02-12 01:29:04 +0000"
@@ -10018,6 +10024,12 @@
   "stoneworks:recipes/building_blocks/blackstone_pavers_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-12 01:29:04 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/black_apple_seed": {
+    "criteria": {
+      "has_black_apple": "2025-02-12 01:58:25 +0000"
     },
     "done": true
   },
@@ -10615,6 +10627,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-02-12 01:58:25 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_basalt_brick_stairs_from_basalt_or_mossy_basalt_bricks_stonecutting": {
     "criteria": {
       "has_basalt_or_mossy_basalt_bricks": "2025-02-11 23:50:13 +0000"
@@ -10855,6 +10873,12 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/brick_pot": {
+    "criteria": {
+      "has_soul_sand": "2025-02-12 01:58:25 +0000"
+    },
+    "done": true
+  },
   "adventurez:recipes/chiseled_polished_blackstone_holder_recipe": {
     "criteria": {
       "got_blackstone": "2025-02-12 01:29:04 +0000"
@@ -10978,6 +11002,12 @@
   "betternether:recipes/decorations/nether_reed_composter": {
     "criteria": {
       "has_nether_reed_slab": "2025-02-12 01:20:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-02-12 01:58:25 +0000"
     },
     "done": true
   },
@@ -11356,6 +11386,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-02-12 01:59:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_planks": "2025-02-11 23:53:54 +0000"
@@ -11467,6 +11503,12 @@
   "minecraft:recipes/redstone/dark_oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-02-11 23:53:54 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/bricks_fire_bowl_soul": {
+    "criteria": {
+      "has_soul_sand": "2025-02-12 01:58:25 +0000"
     },
     "done": true
   },
@@ -11860,6 +11902,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-02-12 01:59:12 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/netherrack_bricks_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-02-11 23:45:00 +0000"
@@ -11875,6 +11923,12 @@
   "stoneworks:recipes/building_blocks/cobbled_netherrack_slab_from_netherrack_or_cobbled_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack_or_cobbled_netherrack": "2025-02-11 23:45:00 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/soul_sand_soul_sandstone": {
+    "criteria": {
+      "has_soul_sand": "2025-02-12 01:58:25 +0000"
     },
     "done": true
   },

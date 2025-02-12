@@ -245,3 +245,51 @@
 [01:48:49] [Server thread/INFO]: Named entity class_4836['⍑ᔑ||↸ᒷリ ʖ╎⊣ꖎ𝙹↸𝙹リ'/59569, l='ServerLevel[CJU]', x=15.94, y=65.25, z=110.17] died: ⍑ᔑ||↸ᒷリ ʖ╎⊣ꖎ𝙹↸𝙹リ went up in flames
 [01:48:57] [Server thread/INFO]: Named entity class_4836['ᓭ╎⊣ᒲ╎ᓭ ᒲᔑ∷リᔑ∷ᔑリ'/59883, l='ServerLevel[CJU]', x=299.50, y=27.22, z=331.50] died: ᓭ╎⊣ᒲ╎ᓭ ᒲᔑ∷リᔑ∷ᔑリ tried to swim in lava
 [01:49:34] [Server thread/INFO]: Named entity class_4836['∷ᒷ⨅ᔑ∷ℸ ̣ ℸ ̣ ∷𝙹ꖎᒲᔑᔑリ'/59989, l='ServerLevel[CJU]', x=74.41, y=69.25, z=112.57] died: ∷ᒷ⨅ᔑ∷ℸ ̣ ℸ ̣ ∷𝙹ꖎᒲᔑᔑリ went up in flames
+[01:50:52] [Server thread/INFO]: gordobe tried to swim in lava to escape Wither Skeleton
+[01:51:38] [Server thread/INFO]: [Gasttritis: Teleported gordobe to Gasttritis]
+[01:51:46] [Server thread/INFO]: Named entity class_4836['⋮╎リ||⚍ ᒲᔑ∷リᔑ∷ᔑリ'/61889, l='ServerLevel[CJU]', x=269.50, y=52.00, z=356.50] died: ⋮╎リ||⚍ ᒲᔑ∷リᔑ∷ᔑリ fell from a high place
+[01:52:29] [Server thread/INFO]: gordobe claimed a grave belonging to gordobe at 235, 46, 262, minecraft:the_nether
+[01:52:29] [Server thread/INFO]: Gasttritis lost connection: Disconnected
+[01:52:29] [Server thread/INFO]: Gasttritis left the game
+[01:52:29] [Server thread/INFO]: Updating all forceload tickets for b04ed8a0-8a88-3dba-a8ef-549cf66f8ddf
+[01:52:31] [Server thread/ERROR]: Failed to handle packet net.minecraft.class_2885@18c46f1c, suppressing error
+java.lang.IllegalArgumentException: Cannot get property BooleanProperty{name=open, clazz=class java.lang.Boolean, values=[true, false]} as it does not exist in Block{minecraft:air}
+	at knot//MC/net.minecraft.state.State.get(State.java:97) ~[server-intermediary.jar:?]
+	at knot/com.natamus.doubledoors_common_fabric.util.Util.processDoor(Util.java:54) ~[doubledoors-1.21.1-5.9.jar:?]
+	at knot/com.natamus.doubledoors_common_fabric.events.DoorEvent.onDoorClick(DoorEvent.java:136) ~[doubledoors-1.21.1-5.9.jar:?]
+	at knot//MC/net.minecraft.block.DoorBlock.handler$cfe000$doubledoors$use(DoorBlock.java:1021) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.block.DoorBlock.onUse(DoorBlock.java:206) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.block.AbstractBlock$AbstractBlockState.onUse(AbstractBlock.java:1173) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.server.network.ServerPlayerInteractionManager.interactBlock(ServerPlayerInteractionManager.java:355) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.server.network.ServerPlayNetworkHandler.onPlayerInteractBlock(ServerPlayNetworkHandler.java:1158) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.network.packet.c2s.play.PlayerInteractBlockC2SPacket.apply(PlayerInteractBlockC2SPacket.java:42) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.network.packet.c2s.play.PlayerInteractBlockC2SPacket.apply(PlayerInteractBlockC2SPacket.java:10) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.network.NetworkThreadUtils.method_11072(NetworkThreadUtils.java:27) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.server.ServerTask.run(ServerTask.java:18) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ThreadExecutor.executeTask(ThreadExecutor.java:162) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ReentrantThreadExecutor.executeTask(ReentrantThreadExecutor.java:23) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:864) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.executeTask(MinecraftServer.java:173) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ThreadExecutor.runTask(ThreadExecutor.java:136) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runOneTask(MinecraftServer.java:846) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runTask(MinecraftServer.java:840) ~[server-intermediary.jar:?]
+	at knot//MC/net.minecraft.util.thread.ThreadExecutor.runTasks(ThreadExecutor.java:121) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runTasksTillTickEnd(MinecraftServer.java:814) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:702) ~[server-intermediary.jar:?]
+	at knot/net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:281) ~[server-intermediary.jar:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[01:52:46] [Server thread/INFO]: Named entity class_4836['ᔑ∷ᔑリꖌᔑ ᓭ𝙹⚍ꖎ'/62006, l='ServerLevel[CJU]', x=233.50, y=25.40, z=202.50] died: ᔑ∷ᔑリꖌᔑ ᓭ𝙹⚍ꖎ tried to swim in lava
+[01:53:15] [Server thread/INFO]: Named entity class_4836['ᔑ⚍∷リ╎ᔑ ᓭᒷ⨅⊣ᒷ∷'/62055, l='ServerLevel[CJU]', x=159.50, y=25.06, z=197.50] died: ᔑ⚍∷リ╎ᔑ ᓭᒷ⨅⊣ᒷ∷ tried to swim in lava
+[01:54:35] [Server thread/INFO]: Named entity class_4836['ꖌ╎∷ᔑリ ↸∷ᔑ∷𝙹ꖎ'/62191, l='ServerLevel[CJU]', x=187.50, y=39.88, z=308.44] died: ꖌ╎∷ᔑリ ↸∷ᔑ∷𝙹ꖎ was slain by Wither Skeleton
+[01:54:53] [Server thread/INFO]: Named entity class_4836['𝙹∷╎𝙹ꖎ ᓭᒷ⨅⊣ᒷ∷'/62283, l='ServerLevel[CJU]', x=211.84, y=41.18, z=278.90] died: 𝙹∷╎𝙹ꖎ ᓭᒷ⨅⊣ᒷ∷ was slain by Wither Skeleton
+[01:54:59] [Server thread/INFO]: Gasttritis[/100.106.242.117:64702] logged in with entity id 62290 at (231.98750001192093, 40.0, 265.94999998807907)
+[01:54:59] [Server thread/INFO]: Sending server config values to client
+[01:54:59] [Server thread/INFO]: Gasttritis joined the game
+[01:54:59] [Server thread/INFO]: Updating all forceload tickets for b04ed8a0-8a88-3dba-a8ef-549cf66f8ddf
+[01:55:00] [Server thread/INFO]: Channel update: Gasttritis -> default
+[01:55:00] [Server thread/INFO]: Priority overwritten for player Gasttritis. Claiming: GRAVE / Robbing: INVENTORY
+[01:55:00] [Server thread/INFO]: Receiving client config
+[01:57:45] [Server thread/INFO]: Named entity class_4836['ᒷリ||ᔑ ℸ ̣ ⍑ᔑ⊣ᒲ𝙹↸𝙹ℸ ̣ ⍑'/62753, l='ServerLevel[CJU]', x=171.50, y=28.26, z=234.50] died: ᒷリ||ᔑ ℸ ̣ ⍑ᔑ⊣ᒲ𝙹↸𝙹ℸ ̣ ⍑ tried to swim in lava
+[01:58:55] [Server thread/INFO]: Named entity class_4836['⍑ᒷᓭℸ ̣ ╎ᔑ  ̇/ᔑ∷ꖌ𝙹 ̇/ᒷ⊣'/62952, l='ServerLevel[CJU]', x=74.46, y=71.17, z=102.87] died: ⍑ᒷᓭℸ ̣ ╎ᔑ  ̇/ᔑ∷ꖌ𝙹 ̇/ᒷ⊣ burned to death
+[01:59:35] [Server thread/INFO]: Named entity class_4836['⋮𝙹ᔑᓭ⍑ ᓭ⍑ᒷᒷリ'/63306, l='ServerLevel[CJU]', x=114.50, y=91.00, z=185.50] died: ⋮𝙹ᔑᓭ⍑ ᓭ⍑ᒷᒷリ fell from a high place
+[01:59:35] [Server thread/INFO]: Named entity class_4836['⚍∷∷ᒷ ↸ᔑ∴リ'/63307, l='ServerLevel[CJU]', x=111.50, y=90.00, z=186.50] died: ⚍∷∷ᒷ ↸ᔑ∴リ fell from a high place

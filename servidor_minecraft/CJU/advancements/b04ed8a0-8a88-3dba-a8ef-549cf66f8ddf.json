@@ -12143,6 +12143,102 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/blue_obsidian_bricks_stairs_stonecutter": {
+    "criteria": {
+      "has_blue_obsidian": "2025-02-12 01:29:32 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_tile_stonecutter": {
+    "criteria": {
+      "has_blue_obsidian": "2025-02-12 01:29:32 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_bricks_slab_stonecutter": {
+    "criteria": {
+      "has_blue_obsidian": "2025-02-12 01:29:32 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_tile_small_stonecutter": {
+    "criteria": {
+      "has_blue_obsidian": "2025-02-12 01:29:32 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_bricks_stonecutter": {
+    "criteria": {
+      "has_blue_obsidian": "2025-02-12 01:29:32 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_tile_slab_stonecutter": {
+    "criteria": {
+      "has_blue_obsidian": "2025-02-12 01:29:32 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_glass_smelting": {
+    "criteria": {
+      "has_blue_obsidian": "2025-02-12 01:29:32 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_tile_stairs_stonecutter": {
+    "criteria": {
+      "has_blue_obsidian": "2025-02-12 01:29:32 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_tile": {
+    "criteria": {
+      "has_blue_obsidian": "2025-02-12 01:29:32 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/blue_obsidian_rod_tiles_stonecutter": {
+    "criteria": {
+      "has_blue_obsidian": "2025-02-12 01:29:32 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_ruby_stairs_stonecutting": {
+    "criteria": {
+      "has_nether_ruby_block": "2025-02-12 01:29:35 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/nether_ruby_from_block": {
+    "criteria": {
+      "has_nether_ruby_block": "2025-02-12 01:29:35 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_ruby_block_nether_ruby_slab": {
+    "criteria": {
+      "has_nether_ruby_block": "2025-02-12 01:29:35 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_ruby_slab_stonecutting": {
+    "criteria": {
+      "has_nether_ruby_block": "2025-02-12 01:29:35 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_ruby_block_nether_ruby_stairs": {
+    "criteria": {
+      "has_nether_ruby_block": "2025-02-12 01:29:35 +0000"
+    },
+    "done": true
+  },
+  "betternether:flaming_armor": {
+    "criteria": {
+      "flaming_ruby_leggings": "2025-02-12 01:32:14 +0000"
+    },
+    "done": false
+  },
   "stoneworks:recipes/building_blocks/mossy_blackstone_brick_stairs_from_blackstone_or_mossy_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_blackstone_or_mossy_blackstone_bricks": "2025-02-12 01:43:03 +0000"
@@ -12167,12 +12263,6 @@
     },
     "done": true
   },
-  "betternether:recipes/building_blocks/blue_obsidian_bricks_stairs_stonecutter": {
-    "criteria": {
-      "has_blue_obsidian": "2025-02-12 01:29:32 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/blackstone_stairs": {
     "criteria": {
       "has_blackstone": "2025-02-12 01:43:03 +0000"
@@ -12182,12 +12272,6 @@
   "stoneworks:recipes/building_blocks/mossy_cobbled_blackstone_wall_from_blackstone_or_mossy_cobbled_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone_or_mossy_cobbled_blackstone": "2025-02-12 01:43:03 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/nether_ruby_stairs_stonecutting": {
-    "criteria": {
-      "has_nether_ruby_block": "2025-02-12 01:29:35 +0000"
     },
     "done": true
   },
@@ -12215,12 +12299,6 @@
     },
     "done": true
   },
-  "betternether:recipes/building_blocks/blue_obsidian_tile_stonecutter": {
-    "criteria": {
-      "has_blue_obsidian": "2025-02-12 01:29:32 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/blackstone_pavers_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-12 01:43:03 +0000"
@@ -12239,12 +12317,6 @@
     },
     "done": true
   },
-  "betternether:recipes/building_blocks/blue_obsidian_bricks_slab_stonecutter": {
-    "criteria": {
-      "has_blue_obsidian": "2025-02-12 01:29:32 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/cobbled_blackstone_stairs_from_blackstone_or_cobbled_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone_or_cobbled_blackstone": "2025-02-12 01:43:03 +0000"
@@ -12254,24 +12326,6 @@
   "stoneworks:recipes/building_blocks/blackstone_shingles_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-12 01:43:03 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/blue_obsidian_tile_small_stonecutter": {
-    "criteria": {
-      "has_blue_obsidian": "2025-02-12 01:29:32 +0000"
-    },
-    "done": true
-  },
-  "betternether:flaming_armor": {
-    "criteria": {
-      "flaming_ruby_leggings": "2025-02-12 01:32:14 +0000"
-    },
-    "done": false
-  },
-  "betternether:recipes/building_blocks/blue_obsidian_bricks_stonecutter": {
-    "criteria": {
-      "has_blue_obsidian": "2025-02-12 01:29:32 +0000"
     },
     "done": true
   },
@@ -12305,18 +12359,6 @@
     },
     "done": true
   },
-  "repurposed_structures:pyramids": {
-    "criteria": {
-      "in_pyramid_nether": "2025-02-12 01:44:58 +0000"
-    },
-    "done": false
-  },
-  "betternether:recipes/misc/nether_ruby_from_block": {
-    "criteria": {
-      "has_nether_ruby_block": "2025-02-12 01:29:35 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/blackstone_tile_stairs_from_blackstone_or_blackstone_tiles_stonecutting": {
     "criteria": {
       "has_blackstone_or_blackstone_tiles": "2025-02-12 01:43:03 +0000"
@@ -12341,21 +12383,9 @@
     },
     "done": true
   },
-  "betternether:recipes/building_blocks/nether_ruby_block_nether_ruby_slab": {
-    "criteria": {
-      "has_nether_ruby_block": "2025-02-12 01:29:35 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_blackstone_stairs_from_blackstone_or_mossy_cobbled_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone_or_mossy_cobbled_blackstone": "2025-02-12 01:43:03 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/blue_obsidian_tile_slab_stonecutter": {
-    "criteria": {
-      "has_blue_obsidian": "2025-02-12 01:29:32 +0000"
     },
     "done": true
   },
@@ -12368,12 +12398,6 @@
   "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-12 01:43:03 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/blue_obsidian_glass_smelting": {
-    "criteria": {
-      "has_blue_obsidian": "2025-02-12 01:29:32 +0000"
     },
     "done": true
   },
@@ -12398,12 +12422,6 @@
   "stoneworks:recipes/building_blocks/cracked_blackstone_tiles_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-12 01:43:03 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/nether_ruby_slab_stonecutting": {
-    "criteria": {
-      "has_nether_ruby_block": "2025-02-12 01:29:35 +0000"
     },
     "done": true
   },
@@ -12455,18 +12473,6 @@
     },
     "done": true
   },
-  "betternether:recipes/building_blocks/blue_obsidian_tile_stairs_stonecutter": {
-    "criteria": {
-      "has_blue_obsidian": "2025-02-12 01:29:32 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/blue_obsidian_tile": {
-    "criteria": {
-      "has_blue_obsidian": "2025-02-12 01:29:32 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/blackstone_paver_wall_from_blackstone_or_blackstone_pavers_stonecutting": {
     "criteria": {
       "has_blackstone_or_blackstone_pavers": "2025-02-12 01:43:03 +0000"
@@ -12485,21 +12491,9 @@
     },
     "done": true
   },
-  "betternether:recipes/building_blocks/nether_ruby_block_nether_ruby_stairs": {
-    "criteria": {
-      "has_nether_ruby_block": "2025-02-12 01:29:35 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/decorations/blackstone_bulb": {
     "criteria": {
       "has_blackstone": "2025-02-12 01:43:03 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/building_blocks/blue_obsidian_rod_tiles_stonecutter": {
-    "criteria": {
-      "has_blue_obsidian": "2025-02-12 01:29:32 +0000"
     },
     "done": true
   },
@@ -12560,6 +12554,48 @@
   "biomesoplenty:recipes/decorations/blackstone_spines_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-02-12 01:43:03 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:pyramids": {
+    "criteria": {
+      "in_pyramid_nether": "2025-02-12 01:44:58 +0000"
+    },
+    "done": false
+  },
+  "betternether:recipes/misc/stalagnate_bowl_apple": {
+    "criteria": {
+      "has_black_apple": "2025-02-12 01:58:59 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/black_apple_seed": {
+    "criteria": {
+      "has_black_apple": "2025-02-12 01:58:59 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/bn_brown_mushroom": {
+    "criteria": {
+      "has_wall_mushroom_brown": "2025-02-12 01:58:03 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/brick_pot": {
+    "criteria": {
+      "has_soul_sand": "2025-02-12 01:57:57 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/bricks_fire_bowl_soul": {
+    "criteria": {
+      "has_soul_sand": "2025-02-12 01:57:57 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/soul_sand_soul_sandstone": {
+    "criteria": {
+      "has_soul_sand": "2025-02-12 01:57:57 +0000"
     },
     "done": true
   },

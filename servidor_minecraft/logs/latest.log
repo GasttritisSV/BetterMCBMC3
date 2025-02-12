@@ -103,3 +103,11 @@
 [00:36:59] [Server thread/INFO]: Receiving client config
 [00:38:27] [Worker-Main-1/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/35523, l='ServerLevel[CJU]', x=344.00, y=31.00, z=-19.00] as it would cause deadlock
 [00:38:27] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/35526, l='ServerLevel[CJU]', x=344.00, y=31.00, z=-19.00] as it would cause deadlock
+[00:39:25] [Server thread/INFO]: Named entity class_4836['𝙹⎓╎∷ᔑ ᓭ!¡ᔑ∷ꖌ'/35367, l='ServerLevel[CJU]', x=160.51, y=53.25, z=75.43] died: 𝙹⎓╎∷ᔑ ᓭ!¡ᔑ∷ꖌ went up in flames
+[00:40:22] [Server thread/INFO]: Named entity class_4836['𝙹∷ᔑʖᒷꖎᔑ ↸∷ᔑ⨅⊣ᔑꖎꖎᒷℸ ̣ ⍑'/36193, l='ServerLevel[CJU]', x=274.50, y=24.43, z=231.50] died: 𝙹∷ᔑʖᒷꖎᔑ ↸∷ᔑ⨅⊣ᔑꖎꖎᒷℸ ̣ ⍑ tried to swim in lava
+[00:40:27] [Server thread/INFO]: Named entity class_4836['𝙹∷╎ᔑリリᒷ ʖ∷╎ᒲ'/36087, l='ServerLevel[CJU]', x=135.07, y=75.25, z=79.80] died: 𝙹∷╎ᔑリリᒷ ʖ∷╎ᒲ went up in flames
+[00:40:38] [Server thread/INFO]: Named entity class_4836['𝙹∷╎リ↸ᔑ ↸∷ᔑ⨅⊣ᔑꖎꖎᒷℸ ̣ ⍑'/36088, l='ServerLevel[CJU]', x=140.70, y=76.00, z=79.72] died: 𝙹∷╎リ↸ᔑ ↸∷ᔑ⨅⊣ᔑꖎꖎᒷℸ ̣ ⍑ plummeted from the heavens
+[00:40:45] [Server thread/INFO]: Named entity class_4836['ᔑ⚍∷リ╎ᔑ ↸ᔑ∴リ'/36330, l='ServerLevel[CJU]', x=243.50, y=28.66, z=214.50] died: ᔑ⚍∷リ╎ᔑ ↸ᔑ∴リ tried to swim in lava
+[00:42:44] [Server thread/INFO]: Named entity class_4836['ꖎ╎!¡ᔑ⨅ ↸ᔑ∴リ'/36854, l='ServerLevel[CJU]', x=285.79, y=105.00, z=223.03] died: ꖎ╎!¡ᔑ⨅ ↸ᔑ∴リ tried to swim in lava
+[00:43:13] [Server thread/INFO]: Named entity class_4836['𝙹∷╎ᔑリᒷ ℸ ̣ ∷ᔑꖌ𝙹ᒲᔑリ'/37022, l='ServerLevel[CJU]', x=234.50, y=27.22, z=209.50] died: 𝙹∷╎ᔑリᒷ ℸ ̣ ∷ᔑꖌ𝙹ᒲᔑリ tried to swim in lava
+[00:44:17] [Server thread/INFO]: Named entity class_4836['⎓╎ᔑᒲᒲᔑ ℸ ̣ 𝙹⊣∷⚍ꖎꖎ𝙹ᓵ⍑'/37274, l='ServerLevel[CJU]', x=99.50, y=26.00, z=190.50] died: ⎓╎ᔑᒲᒲᔑ ℸ ̣ 𝙹⊣∷⚍ꖎꖎ𝙹ᓵ⍑ tried to swim in lava

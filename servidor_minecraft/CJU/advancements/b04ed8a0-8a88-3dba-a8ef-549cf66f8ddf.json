@@ -11316,6 +11316,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/workbench/glassblower": {
+    "criteria": {
+      "has_glassblower": "2025-02-12 00:25:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/hopper_minecart": {
     "criteria": {
       "has_minecart": "2025-02-12 00:18:29 +0000"
@@ -11328,9 +11334,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/workbench/loom_table": {
+    "criteria": {
+      "has_loom_table": "2025-02-12 00:25:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/chest_minecart": {
     "criteria": {
       "has_minecart": "2025-02-12 00:18:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/workbench/alchemy_bench": {
+    "criteria": {
+      "has_alchemy_bench": "2025-02-12 00:25:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/workbench/botanist_workbench": {
+    "criteria": {
+      "has_botanist_workbench": "2025-02-12 00:25:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/workbench/carpenters_table": {
+    "criteria": {
+      "has_carpenters_table": "2025-02-12 00:25:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/workbench/tinkering_table": {
+    "criteria": {
+      "has_tinkering_table": "2025-02-12 00:25:49 +0000"
     },
     "done": true
   },
@@ -11343,6 +11379,12 @@
   "minecraft:recipes/transportation/furnace_minecart": {
     "criteria": {
       "has_minecart": "2025-02-12 00:18:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-02-12 00:25:49 +0000"
     },
     "done": true
   },

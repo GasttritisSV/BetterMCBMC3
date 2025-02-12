@@ -89,3 +89,17 @@
 [00:27:12] [Server thread/INFO]: Named entity class_4836['!¡ᒷꖎᒷ ᒷ∷⊣ᒷ↸╎ℸ ̣ ⍑'/31837, l='ServerLevel[CJU]', x=94.19, y=50.25, z=-2.81] died: !¡ᒷꖎᒷ ᒷ∷⊣ᒷ↸╎ℸ ̣ ⍑ went up in flames
 [00:27:14] [Server thread/INFO]: Named entity class_4836['╎リ╎⊣𝙹 𝙹ᓭℸ ̣ ∷╎↸'/31708, l='ServerLevel[CJU]', x=83.53, y=58.25, z=38.15] died: ╎リ╎⊣𝙹 𝙹ᓭℸ ̣ ∷╎↸ went up in flames
 [00:27:53] [Server thread/INFO]: Named entity class_4836['リ⚍∷╎ᔑ  ̇/ᔑ⊣∷ᔑℸ ̣ ⍑'/31707, l='ServerLevel[CJU]', x=83.34, y=58.25, z=38.07] died: リ⚍∷╎ᔑ  ̇/ᔑ⊣∷ᔑℸ ̣ ⍑ went up in flames
+[00:29:00] [Server thread/INFO]: <gordobe> ZZZZZZZZZZZ
+[00:29:03] [Server thread/INFO]: <gordobe> ZZZZZZZZZZ
+[00:32:39] [Server thread/INFO]: Gasttritis lost connection: Disconnected
+[00:32:39] [Server thread/INFO]: Gasttritis left the game
+[00:32:39] [Server thread/INFO]: Updating all forceload tickets for b04ed8a0-8a88-3dba-a8ef-549cf66f8ddf
+[00:36:58] [Server thread/INFO]: Gasttritis[/100.106.242.117:64026] logged in with entity id 34323 at (-166.03193065996075, 97.0, 571.4216923408788)
+[00:36:58] [Server thread/INFO]: Sending server config values to client
+[00:36:58] [Server thread/INFO]: Gasttritis joined the game
+[00:36:58] [Server thread/INFO]: Updating all forceload tickets for b04ed8a0-8a88-3dba-a8ef-549cf66f8ddf
+[00:36:59] [Server thread/INFO]: Channel update: Gasttritis -> default
+[00:36:59] [Server thread/INFO]: Priority overwritten for player Gasttritis. Claiming: GRAVE / Robbing: INVENTORY
+[00:36:59] [Server thread/INFO]: Receiving client config
+[00:38:27] [Worker-Main-1/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/35523, l='ServerLevel[CJU]', x=344.00, y=31.00, z=-19.00] as it would cause deadlock
+[00:38:27] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/35526, l='ServerLevel[CJU]', x=344.00, y=31.00, z=-19.00] as it would cause deadlock

@@ -42,3 +42,33 @@
 [00:05:53] [Server thread/INFO]: gordobe has completed the challenge [Return to Sender]
 [00:06:36] [Server thread/INFO]: Named entity class_4836['ᒷ⊣ᔑリ ᓭᓵ𝙹∷ᓵ⍑'/24891, l='ServerLevel[CJU]', x=56.78, y=63.25, z=2.88] died: ᒷ⊣ᔑリ ᓭᓵ𝙹∷ᓵ⍑ went up in flames
 [00:07:56] [Server thread/INFO]: Named entity class_4836['ᓭ𝙹⚍⍊ᔑリꖌ⍑ᔑᒲ ↸ᒷ⋮ᔑ'/25221, l='ServerLevel[CJU]', x=-9.21, y=52.25, z=-20.61] died: ᓭ𝙹⚍⍊ᔑリꖌ⍑ᔑᒲ ↸ᒷ⋮ᔑ went up in flames
+[00:08:51] [Server thread/INFO]: Named entity class_4836['ᒷᒲʖᒷ∷ ╎ꖎꖎ⚍ᒲ╎リᒷ'/25421, l='ServerLevel[CJU]', x=28.48, y=65.25, z=103.95] died: ᒷᒲʖᒷ∷ ╎ꖎꖎ⚍ᒲ╎リᒷ went up in flames
+[00:09:06] [Server thread/INFO]: Named entity class_4836['⍑∷ᔑ⊣ ᓭ!¡╎∷╎ℸ ̣ '/22266, l='ServerLevel[CJU]', x=170.30, y=57.25, z=27.51] died: ⍑∷ᔑ⊣ ᓭ!¡╎∷╎ℸ ̣  went up in flames
+[00:09:13] [Server thread/INFO]: Named entity class_4836['⚍∷╎ᒷꖎ  ̇/𝙹∷⊣∷ᔑꖎ𝙹↸'/23324, l='ServerLevel[CJU]', x=186.70, y=57.25, z=26.49] died: ⚍∷╎ᒷꖎ  ̇/𝙹∷⊣∷ᔑꖎ𝙹↸ went up in flames
+[00:10:12] [Server thread/INFO]: Named entity class_4836['⨅ᔑ∷ᔑℸ ̣ ⍑⚍ᓭℸ ̣ ∷ᔑ ↸ᔑ∴リ'/25828, l='ServerLevel[CJU]', x=60.87, y=60.25, z=43.05] died: ⨅ᔑ∷ᔑℸ ̣ ⍑⚍ᓭℸ ̣ ∷ᔑ ↸ᔑ∴リ went up in flames
+[00:10:20] [Server thread/INFO]: Gasttritis lost connection: Disconnected
+[00:10:20] [Server thread/INFO]: Gasttritis left the game
+[00:10:20] [Server thread/INFO]: Updating all forceload tickets for b04ed8a0-8a88-3dba-a8ef-549cf66f8ddf
+[00:10:34] [Server thread/INFO]: Named entity class_4836['𝙹ꖎᔑᒷ↸𝙹 𝙹ꖎ∷𝙹ℸ ̣ ⍑'/25825, l='ServerLevel[CJU]', x=65.95, y=60.25, z=34.19] died: 𝙹ꖎᔑᒷ↸𝙹 𝙹ꖎ∷𝙹ℸ ̣ ⍑ went up in flames
+[00:10:43] [Server thread/INFO]: Named entity class_4836['⍑𝙹∷⚍ᓭ ᓭ!¡╎∷╎ℸ ̣ '/25864, l='ServerLevel[CJU]', x=61.77, y=97.00, z=155.70] died: ⍑𝙹∷⚍ᓭ ᓭ!¡╎∷╎ℸ ̣  tried to swim in lava
+[00:11:13] [Server thread/INFO]: Gasttritis[/100.106.242.117:63842] logged in with entity id 26419 at (45.312257109862166, 84.0, 100.94844033405303)
+[00:11:13] [Server thread/INFO]: Sending server config values to client
+[00:11:13] [Server thread/INFO]: Gasttritis joined the game
+[00:11:13] [Server thread/INFO]: Updating all forceload tickets for b04ed8a0-8a88-3dba-a8ef-549cf66f8ddf
+[00:11:14] [Server thread/INFO]: Channel update: Gasttritis -> default
+[00:11:14] [Server thread/INFO]: Priority overwritten for player Gasttritis. Claiming: GRAVE / Robbing: INVENTORY
+[00:11:14] [Server thread/INFO]: Receiving client config
+[00:12:09] [Server thread/INFO]: Named entity class_4836['ᓭ╎⊣ᒲ╎ᓭ ᓭ!¡ᔑ∷ꖌ'/26434, l='ServerLevel[CJU]', x=-12.47, y=28.35, z=15.39] died: ᓭ╎⊣ᒲ╎ᓭ ᓭ!¡ᔑ∷ꖌ tried to swim in lava
+[00:12:44] [Server thread/INFO]: Named entity class_4836['⎓||∷ᒷ  ̇/ᔑ∷ꖌ𝙹 ̇/ᒷ⊣'/26678, l='ServerLevel[CJU]', x=211.28, y=35.88, z=230.70] died: ⎓||∷ᒷ  ̇/ᔑ∷ꖌ𝙹 ̇/ᒷ⊣ fell from a high place
+[00:13:03] [Server thread/INFO]: Named entity class_4836['∷ᒷ⨅ᔑ∷ℸ ̣ 𝙹⊣∷𝙹ℸ ̣ ⍑'/26674, l='ServerLevel[CJU]', x=232.41, y=24.89, z=206.30] died: ∷ᒷ⨅ᔑ∷ℸ ̣ 𝙹⊣∷𝙹ℸ ̣ ⍑ tried to swim in lava
+[00:13:10] [Server thread/INFO]: Named entity class_4836['ᔑ╎↸ᔑリ ʖ∷╎ᒲ'/27072, l='ServerLevel[CJU]', x=54.95, y=67.80, z=148.35] died: ᔑ╎↸ᔑリ ʖ∷╎ᒲ tried to swim in lava
+[00:15:34] [Server thread/INFO]: Named entity class_4836['⍊𝙹ᓭ⊣╎ ⊣𝙹⊣'ℸ ̣ ⍑ᔑℸ ̣ ⍑'/27576, l='ServerLevel[CJU]', x=140.57, y=83.25, z=93.84] died: ⍊𝙹ᓭ⊣╎ ⊣𝙹⊣'ℸ ̣ ⍑ᔑℸ ̣ ⍑ went up in flames
+[00:15:51] [Server thread/INFO]: Named entity class_4836['ʖᒷᔑᓵ𝙹リ ↸ᒷ⋮ᔑ'/27786, l='ServerLevel[CJU]', x=35.99, y=65.25, z=94.03] died: ʖᒷᔑᓵ𝙹リ ↸ᒷ⋮ᔑ went up in flames
+[00:16:25] [Server thread/INFO]: Named entity class_4836['ᔑꖎℸ ̣ ||リᓭ⍑ᔑᓭ⍑ ᒷℸ ̣ ᒷ∷リ⚍ᓭ'/28415, l='ServerLevel[CJU]', x=37.77, y=59.25, z=29.16] died: ᔑꖎℸ ̣ ||リᓭ⍑ᔑᓭ⍑ ᒷℸ ̣ ᒷ∷リ⚍ᓭ went up in flames
+[00:16:54] [Server thread/INFO]: Named entity class_4836['ᓭ𝙹⚍⍊ᔑリリᔑ 𝙹ᓭℸ ̣ ∷╎↸'/28533, l='ServerLevel[CJU]', x=-10.48, y=29.90, z=14.25] died: ᓭ𝙹⚍⍊ᔑリリᔑ 𝙹ᓭℸ ̣ ∷╎↸ tried to swim in lava
+[00:17:07] [Server thread/INFO]: Named entity class_4836['∷𝙹∴ℸ ̣ ᔑ⊣ ʖ∷╎ꖎꖎ╎ᔑリᓵ||'/28532, l='ServerLevel[CJU]', x=-8.23, y=37.25, z=24.68] died: ∷𝙹∴ℸ ̣ ᔑ⊣ ʖ∷╎ꖎꖎ╎ᔑリᓵ|| went up in flames
+[00:17:35] [Server thread/INFO]: Named entity class_4836['╎ᒲᔑ !¡╎⊣ ╎ꖎ⍊⚍リリ╎ᓭ'/28803, l='ServerLevel[CJU]', x=24.19, y=65.25, z=107.58] died: ╎ᒲᔑ !¡╎⊣ ╎ꖎ⍊⚍リリ╎ᓭ went up in flames
+[00:17:50] [Server thread/INFO]: Named entity class_5419['ℸ ̣ ╎ℸ ̣ ⚍ᓭ ꖌ⚍⨅⨅╎∷𝙹リ'/28842, l='ServerLevel[CJU]', x=243.50, y=21.49, z=214.91] died: ℸ ̣ ╎ℸ ̣ ⚍ᓭ ꖌ⚍⨅⨅╎∷𝙹リ tried to swim in lava
+[00:17:50] [Server thread/INFO]: Named entity class_4836['ᓵ∷ᒷᓭᓭ╎↸ᔑ ᔑꖎ⊣𝙹↸ᔑリ'/28414, l='ServerLevel[CJU]', x=37.84, y=59.25, z=29.18] died: ᓵ∷ᒷᓭᓭ╎↸ᔑ ᔑꖎ⊣𝙹↸ᔑリ went up in flames
+[00:17:53] [Server thread/INFO]: Named entity class_4836['⍑ᒷᓭℸ ̣ ╎ᔑ 𝙹ꖎ∷𝙹ℸ ̣ ⍑'/28804, l='ServerLevel[CJU]', x=28.49, y=65.25, z=103.81] died: ⍑ᒷᓭℸ ̣ ╎ᔑ 𝙹ꖎ∷𝙹ℸ ̣ ⍑ went up in flames
+[00:18:22] [Server thread/INFO]: Named entity class_4836['!¡ᔑᓵ𝙹 𝙹⊣∷𝙹ℸ ̣ ⍑'/29081, l='ServerLevel[CJU]', x=29.00, y=68.25, z=119.05] died: !¡ᔑᓵ𝙹 𝙹⊣∷𝙹ℸ ̣ ⍑ went up in flames
